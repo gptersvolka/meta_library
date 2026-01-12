@@ -1,0 +1,38 @@
+# 환경 변수 (민감 정보)
+.env
+*.json
+!package.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+ENV/
+
+# 데이터 폴더 (용량 큼)
+data/raw/
+data/images/
+data/ocr/
+
+# 로그
+logs/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Playwright
+playwright-report/
+test-results/
