@@ -70,17 +70,26 @@ async def wait_for_ads_load(page: Page, timeout: int = 15000):
         logger.warning("광고 로드 타임아웃 - 페이지에 광고가 없을 수 있습니다")
 
 
-async def scroll_and_load_ads(page: Page, target_count: int, max_scrolls: int = 50):
+async def scroll_and_load_ads(page: Page, target_count: int, max_scrolls: int = 50, image_only: bool = False):
     """스크롤하여 더 많은 광고 로드"""
     previous_count = 0
     scroll_count = 0
     no_change_count = 0
 
     while scroll_count < max_scrolls:
-        # 현재 광고 개수 확인 - data-testid 선택자 사용
-        ad_cards = await page.query_selector_all('[data-testid="ad-library-dynamic-content-container"]')
-        if not ad_cards:
-            ad_cards = await page.query_selector_all('[data-testid="ad-content-body-video-container"]')
+        # 현재 광고 개수 확인
+        if image_only:
+            # 이미지 + 캐러셀 광고만 (비디오 제외)
+            image_ads = await page.query_selector_all('[data-testid="ad-library-dynamic-content-container"]')
+            carousel_ads = await page.query_selector_all('[data-testid="ad-library-ad-carousel-container"]')
+            ad_cards = list(image_ads) + list(carousel_ads)
+        else:
+            # 이미지 + 캐러셀 + 비디오 모두
+            image_ads = await page.query_selector_all('[data-testid="ad-library-dynamic-content-container"]')
+            carousel_ads = await page.query_selector_all('[data-testid="ad-library-ad-carousel-container"]')
+            video_ads = await page.query_selector_all('[data-testid="ad-content-body-video-container"]')
+            ad_cards = list(image_ads) + list(carousel_ads) + list(video_ads)
+
         if not ad_cards:
             ad_cards = await page.query_selector_all('div[role="article"]')
 
@@ -112,16 +121,22 @@ async def scroll_and_load_ads(page: Page, target_count: int, max_scrolls: int = 
     return current_count
 
 
-async def extract_ad_data(page: Page, limit: int) -> list[dict]:
+async def extract_ad_data(page: Page, limit: int, image_only: bool = False) -> list[dict]:
     """페이지에서 광고 데이터 추출"""
     ads = []
 
     # data-testid를 사용하여 광고 컨테이너 찾기
-    ad_containers = await page.query_selector_all('[data-testid="ad-library-dynamic-content-container"]')
-
-    if not ad_containers:
-        # 대체 선택자: 비디오 컨테이너
-        ad_containers = await page.query_selector_all('[data-testid="ad-content-body-video-container"]')
+    if image_only:
+        # 이미지 + 캐러셀 광고만 (비디오 제외)
+        image_containers = await page.query_selector_all('[data-testid="ad-library-dynamic-content-container"]')
+        carousel_containers = await page.query_selector_all('[data-testid="ad-library-ad-carousel-container"]')
+        ad_containers = list(image_containers) + list(carousel_containers)
+    else:
+        # 이미지 + 캐러셀 + 비디오 모두
+        image_containers = await page.query_selector_all('[data-testid="ad-library-dynamic-content-container"]')
+        carousel_containers = await page.query_selector_all('[data-testid="ad-library-ad-carousel-container"]')
+        video_containers = await page.query_selector_all('[data-testid="ad-content-body-video-container"]')
+        ad_containers = list(image_containers) + list(carousel_containers) + list(video_containers)
 
     if not ad_containers:
         # 대체 선택자: role=article
@@ -222,7 +237,8 @@ async def collect_ads_playwright(
     country: str = "KR",
     limit: int = 50,
     headless: bool = True,
-    active_only: bool = True
+    active_only: bool = True,
+    image_only: bool = False
 ) -> list[dict]:
     """
     Playwright로 Meta 광고 라이브러리에서 광고 수집
@@ -233,11 +249,13 @@ async def collect_ads_playwright(
         limit: 최대 수집 개수
         headless: 헤드리스 모드 여부
         active_only: 활성 광고만 수집
+        image_only: 이미지 광고만 수집 (비디오 제외)
 
     Returns:
         수집된 광고 리스트
     """
-    logger.info(f"광고 수집 시작 - 키워드: {query}, 국가: {country}, 최대: {limit}개")
+    ad_type_str = "이미지" if image_only else "전체"
+    logger.info(f"광고 수집 시작 - 키워드: {query}, 국가: {country}, 최대: {limit}개, 타입: {ad_type_str}")
 
     active_status = "active" if active_only else "all"
     url = build_search_url(query, country, active_status=active_status)
@@ -270,11 +288,11 @@ async def collect_ads_playwright(
             await wait_for_ads_load(page)
 
             # 스크롤하여 광고 로드
-            loaded_count = await scroll_and_load_ads(page, limit)
+            loaded_count = await scroll_and_load_ads(page, limit, image_only=image_only)
             logger.info(f"총 {loaded_count}개 광고 로드됨")
 
             # 광고 데이터 추출
-            ads = await extract_ad_data(page, limit)
+            ads = await extract_ad_data(page, limit, image_only=image_only)
             logger.info(f"총 {len(ads)}개 광고 데이터 추출 완료")
 
         except Exception as e:
@@ -317,7 +335,8 @@ def save_raw_data(ads: list[dict], query: str) -> Path:
 @click.option("--limit", "-l", default=50, help="최대 수집 개수")
 @click.option("--headless/--no-headless", default=True, help="헤드리스 모드")
 @click.option("--active-only/--all", default=True, help="활성 광고만 수집")
-def main(query: str, country: str, limit: int, headless: bool, active_only: bool):
+@click.option("--image-only", "-i", is_flag=True, help="이미지 광고만 수집 (비디오 제외)")
+def main(query: str, country: str, limit: int, headless: bool, active_only: bool, image_only: bool):
     """Meta Ads Library에서 광고를 수집합니다 (Playwright 스크래핑)."""
     if not query:
         logger.error("검색 키워드가 필요합니다. --query 옵션을 사용하세요.")
@@ -328,7 +347,8 @@ def main(query: str, country: str, limit: int, headless: bool, active_only: bool
         country=country,
         limit=limit,
         headless=headless,
-        active_only=active_only
+        active_only=active_only,
+        image_only=image_only
     ))
 
     if ads:

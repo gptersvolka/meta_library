@@ -36,3 +36,6 @@ Thumbs.db
 # Playwright
 playwright-report/
 test-results/
+
+# Claude Code 임시 파일
+tmpclaude-*

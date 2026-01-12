@@ -124,6 +124,102 @@ def write_ads_raw(spreadsheet: gspread.Spreadsheet, raw_file: Path, upload_resul
         logger.info(f"ads_raw에 {len(rows)}개 행 추가")
 
 
+def write_ads_by_keyword(spreadsheet: gspread.Spreadsheet, raw_file: Path):
+    """
+    키워드별 탭에 광고 데이터 기록 (Playwright 스크래핑 데이터용)
+
+    Args:
+        spreadsheet: 스프레드시트 객체
+        raw_file: 원본 JSON 파일 경로
+    """
+    headers = [
+        "수집일시",
+        "광고주",
+        "광고문구",
+        "이미지URL",
+        "비디오URL",
+        "광고링크"
+    ]
+
+    with open(raw_file, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    query = data.get("query", "unknown")
+    collected_at = data.get("collected_at", datetime.now().isoformat())[:10]  # 날짜만
+    ads = data.get("ads", [])
+
+    # 키워드명으로 탭 생성
+    worksheet = ensure_worksheet(spreadsheet, query, headers)
+
+    rows = []
+    for ad in ads:
+        # 광고 문구 처리 (리스트면 합치기)
+        ad_text = ad.get("ad_text", "")
+        if isinstance(ad_text, list):
+            ad_text = "\n".join(ad_text)
+
+        # URL 리스트 처리 - IMAGE 수식으로 이미지 표시
+        image_urls = ad.get("image_urls", [])
+        image_url = image_urls[0] if image_urls else ""
+        image_cell = f'=IMAGE("{image_url}")' if image_url else ""
+
+        video_urls = ad.get("video_urls", [])
+        video_url = video_urls[0] if video_urls else ""
+
+        row = [
+            collected_at,
+            ad.get("page_name", ""),
+            ad_text,
+            image_cell,  # =IMAGE() 수식
+            video_url,
+            ad.get("ad_snapshot_url", "")
+        ]
+        rows.append(row)
+
+    if rows:
+        worksheet.append_rows(rows, value_input_option="USER_ENTERED")  # 수식 실행되도록
+        logger.info(f"'{query}' 탭에 {len(rows)}개 행 추가")
+
+        # 이미지 셀 크기 조정 (250x250)
+        try:
+            sheet_id = worksheet.id
+            start_row = worksheet.row_count - len(rows)  # 새로 추가된 행 시작
+
+            spreadsheet.batch_update({
+                "requests": [
+                    # 이미지 컬럼(D열, 인덱스 3) 너비 250
+                    {
+                        "updateDimensionProperties": {
+                            "range": {
+                                "sheetId": sheet_id,
+                                "dimension": "COLUMNS",
+                                "startIndex": 3,
+                                "endIndex": 4
+                            },
+                            "properties": {"pixelSize": 250},
+                            "fields": "pixelSize"
+                        }
+                    },
+                    # 데이터 행 높이 250 (헤더 제외)
+                    {
+                        "updateDimensionProperties": {
+                            "range": {
+                                "sheetId": sheet_id,
+                                "dimension": "ROWS",
+                                "startIndex": 1,  # 2행부터
+                                "endIndex": worksheet.row_count
+                            },
+                            "properties": {"pixelSize": 250},
+                            "fields": "pixelSize"
+                        }
+                    }
+                ]
+            })
+            logger.info("이미지 셀 크기 조정 완료 (250x250)")
+        except Exception as e:
+            logger.warning(f"셀 크기 조정 실패: {e}")
+
+
 def write_ocr_text(spreadsheet: gspread.Spreadsheet, ocr_results: list[dict]):
     """
     ocr_text 탭에 OCR 결과 기록
@@ -211,7 +307,8 @@ def write_ideas(spreadsheet: gspread.Spreadsheet, ideas: list[dict]):
 @click.command()
 @click.option("--raw-file", "-f", type=click.Path(exists=True), help="원본 JSON 파일 경로")
 @click.option("--latest", "-l", is_flag=True, help="가장 최근 원본 파일 사용")
-def main(raw_file: Optional[str], latest: bool):
+@click.option("--by-keyword", "-k", is_flag=True, help="키워드별 탭에 기록 (Playwright 스크래핑용)")
+def main(raw_file: Optional[str], latest: bool, by_keyword: bool):
     """광고 데이터를 Google Sheets에 기록합니다."""
     ensure_dirs()
 
@@ -231,7 +328,10 @@ def main(raw_file: Optional[str], latest: bool):
     client = get_sheets_client()
     spreadsheet = client.open_by_key(get_sheet_id())
 
-    write_ads_raw(spreadsheet, raw_file)
+    if by_keyword:
+        write_ads_by_keyword(spreadsheet, raw_file)
+    else:
+        write_ads_raw(spreadsheet, raw_file)
     logger.info("Sheets 기록 완료")
 
 
