@@ -3,15 +3,33 @@ Google Sheets 기록 모듈
 수집된 광고 데이터와 OCR 결과를 스프레드시트에 기록
 """
 
+import hashlib
 import json
 from datetime import datetime
+from io import BytesIO
 from pathlib import Path
 from typing import Optional
 
 import click
 import gspread
+import requests
 from google.oauth2 import service_account
 from loguru import logger
+from PIL import Image
+
+# pytesseract는 선택적 import (설치 안 된 경우 대비)
+try:
+    import pytesseract
+    # Windows Tesseract 경로 설정
+    import platform
+    if platform.system() == "Windows":
+        tesseract_path = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+        if Path(tesseract_path).exists():
+            pytesseract.pytesseract.tesseract_cmd = tesseract_path
+    TESSERACT_AVAILABLE = True
+except ImportError:
+    TESSERACT_AVAILABLE = False
+    logger.warning("pytesseract가 설치되지 않았습니다. OCR 기능이 비활성화됩니다.")
 
 from src.config import (
     get_google_credentials_path,
@@ -36,18 +54,22 @@ def get_sheets_client() -> gspread.Client:
 
 
 def ensure_worksheet(spreadsheet: gspread.Spreadsheet, title: str, headers: list[str]) -> gspread.Worksheet:
-    """워크시트가 없으면 생성하고, 헤더가 없으면 추가"""
+    """워크시트가 없으면 생성하고, 헤더가 없거나 다르면 업데이트"""
     try:
         worksheet = spreadsheet.worksheet(title)
     except gspread.WorksheetNotFound:
         worksheet = spreadsheet.add_worksheet(title=title, rows=1000, cols=len(headers))
         logger.info(f"워크시트 생성: {title}")
 
-    # 헤더 확인 및 추가
+    # 헤더 확인 및 추가/업데이트
     existing_headers = worksheet.row_values(1) if worksheet.row_count > 0 else []
     if not existing_headers:
         worksheet.append_row(headers)
         logger.debug(f"헤더 추가: {headers}")
+    elif existing_headers != headers:
+        # 헤더가 다르면 업데이트
+        worksheet.update([headers], 'A1')
+        logger.debug(f"헤더 업데이트: {headers}")
 
     return worksheet
 
@@ -124,21 +146,94 @@ def write_ads_raw(spreadsheet: gspread.Spreadsheet, raw_file: Path, upload_resul
         logger.info(f"ads_raw에 {len(rows)}개 행 추가")
 
 
-def write_ads_by_keyword(spreadsheet: gspread.Spreadsheet, raw_file: Path):
+def download_image(image_url: str, timeout: int = 15) -> Optional[bytes]:
+    """이미지 URL에서 바이트 다운로드"""
+    if not image_url:
+        return None
+    try:
+        response = requests.get(image_url, timeout=timeout)
+        response.raise_for_status()
+        return response.content
+    except Exception as e:
+        logger.debug(f"이미지 다운로드 실패: {e}")
+        return None
+
+
+def calculate_image_hash(image_bytes: bytes) -> Optional[str]:
+    """이미지 바이트에서 MD5 해시 계산"""
+    if not image_bytes:
+        return None
+    return hashlib.md5(image_bytes).hexdigest()
+
+
+def extract_text_from_image(image_bytes: bytes) -> str:
+    """
+    이미지에서 텍스트 추출 (OCR)
+
+    Args:
+        image_bytes: 이미지 바이트 데이터
+
+    Returns:
+        추출된 텍스트 (줄바꿈 → 공백으로 변환)
+    """
+    if not TESSERACT_AVAILABLE or not image_bytes:
+        return ""
+
+    try:
+        img = Image.open(BytesIO(image_bytes))
+        # 한글 + 영어 인식
+        text = pytesseract.image_to_string(img, lang='kor+eng')
+        # 줄바꿈을 공백으로, 여러 공백을 하나로
+        text = ' '.join(text.split())
+        return text.strip()
+    except Exception as e:
+        logger.debug(f"OCR 실패: {e}")
+        return ""
+
+
+def get_existing_image_hashes(worksheet: gspread.Worksheet, hash_col_index: int = 7) -> set:
+    """
+    기존 시트에서 이미지 해시를 가져와 중복 체크용 set 생성
+
+    Args:
+        worksheet: 워크시트 객체
+        hash_col_index: 이미지해시 컬럼 인덱스 (0-based, 기본값 6 = G열)
+
+    Returns:
+        set: 이미지 해시 문자열의 set
+    """
+    existing = set()
+    try:
+        all_values = worksheet.get_all_values()
+        if len(all_values) > 1:  # 헤더 제외
+            for row in all_values[1:]:
+                if len(row) > hash_col_index and row[hash_col_index]:
+                    image_hash = row[hash_col_index].strip()
+                    if image_hash:
+                        existing.add(image_hash)
+    except Exception as e:
+        logger.warning(f"기존 이미지 해시 로드 실패: {e}")
+    return existing
+
+
+def write_ads_by_keyword(spreadsheet: gspread.Spreadsheet, raw_file: Path, skip_duplicates: bool = True):
     """
     키워드별 탭에 광고 데이터 기록 (Playwright 스크래핑 데이터용)
 
     Args:
         spreadsheet: 스프레드시트 객체
         raw_file: 원본 JSON 파일 경로
+        skip_duplicates: True면 중복 광고 제외 - 이미지 MD5 해시 기준 (기본값: True)
     """
     headers = [
         "수집일시",
         "광고주",
         "광고문구",
-        "이미지URL",
+        "이미지",
+        "이미지텍스트",  # OCR 추출 텍스트
         "비디오URL",
-        "광고링크"
+        "광고링크",
+        "이미지해시"  # 중복 체크용 (숨겨도 됨)
     ]
 
     with open(raw_file, "r", encoding="utf-8") as f:
@@ -151,43 +246,104 @@ def write_ads_by_keyword(spreadsheet: gspread.Spreadsheet, raw_file: Path):
     # 키워드명으로 탭 생성
     worksheet = ensure_worksheet(spreadsheet, query, headers)
 
+    # 중복 체크용 기존 이미지 해시 로드 (H열 = 인덱스 7)
+    existing_hashes = set()
+    if skip_duplicates:
+        existing_hashes = get_existing_image_hashes(worksheet, hash_col_index=7)
+        if existing_hashes:
+            logger.info(f"기존 이미지 해시 {len(existing_hashes)}개 로드 (중복 체크용)")
+
     rows = []
-    for ad in ads:
+    skipped = 0
+    no_image = 0
+
+    logger.info(f"총 {len(ads)}개 광고 처리 시작 (이미지 해시 + OCR 처리 중...)")
+
+    for i, ad in enumerate(ads):
         # 광고 문구 처리 (리스트면 합치기)
         ad_text = ad.get("ad_text", "")
         if isinstance(ad_text, list):
             ad_text = "\n".join(ad_text)
 
-        # URL 리스트 처리 - IMAGE 수식으로 이미지 표시
+        # 광고주명
+        page_name = ad.get("page_name", "")
+
+        # URL 리스트 처리
         image_urls = ad.get("image_urls", [])
         image_url = image_urls[0] if image_urls else ""
-        image_cell = f'=IMAGE("{image_url}")' if image_url else ""
+
+        # 이미지가 없으면 건너뛰기 (이미지 VIEW 레퍼런스 목적)
+        if not image_url:
+            no_image += 1
+            continue
+
+        # 이미지 다운로드 (한 번만 다운로드하여 해시 + OCR 둘 다 처리)
+        image_bytes = download_image(image_url)
+
+        # 이미지 해시 계산
+        if image_bytes:
+            image_hash = calculate_image_hash(image_bytes)
+            # OCR로 이미지 텍스트 추출
+            image_text = extract_text_from_image(image_bytes)
+        else:
+            # 다운로드 실패 시 URL 기반 해시로 대체
+            image_hash = hashlib.md5(image_url.encode()).hexdigest()
+            image_text = ""
+            logger.debug(f"[{i+1}] 이미지 다운로드 실패, URL 해시 사용: {page_name}")
+
+        # 중복 체크: 이미지 해시 기준
+        if skip_duplicates and image_hash in existing_hashes:
+            skipped += 1
+            continue
+
+        # 중복 방지를 위해 현재 배치에도 추가
+        existing_hashes.add(image_hash)
+
+        # IMAGE 수식으로 이미지 표시
+        image_cell = f'=IMAGE("{image_url}")'
 
         video_urls = ad.get("video_urls", [])
         video_url = video_urls[0] if video_urls else ""
 
         row = [
             collected_at,
-            ad.get("page_name", ""),
+            page_name,
             ad_text,
             image_cell,  # =IMAGE() 수식
+            image_text,  # OCR 추출 텍스트
             video_url,
-            ad.get("ad_snapshot_url", "")
+            ad.get("ad_snapshot_url", ""),
+            image_hash  # 중복 체크용 해시
         ]
         rows.append(row)
 
+    if skipped > 0 or no_image > 0:
+        logger.info(f"건너뜀: 중복 이미지 {skipped}개, 이미지 없음 {no_image}개")
+
     if rows:
         worksheet.append_rows(rows, value_input_option="USER_ENTERED")  # 수식 실행되도록
-        logger.info(f"'{query}' 탭에 {len(rows)}개 행 추가")
+        logger.info(f"'{query}' 탭에 {len(rows)}개 행 추가 (신규)")
 
         # 이미지 셀 크기 조정 (250x250)
         try:
             sheet_id = worksheet.id
-            start_row = worksheet.row_count - len(rows)  # 새로 추가된 행 시작
 
             spreadsheet.batch_update({
                 "requests": [
-                    # 이미지 컬럼(D열, 인덱스 3) 너비 250
+                    # C열(광고문구, 인덱스 2) 너비 550
+                    {
+                        "updateDimensionProperties": {
+                            "range": {
+                                "sheetId": sheet_id,
+                                "dimension": "COLUMNS",
+                                "startIndex": 2,
+                                "endIndex": 3
+                            },
+                            "properties": {"pixelSize": 550},
+                            "fields": "pixelSize"
+                        }
+                    },
+                    # D열(이미지, 인덱스 3) 너비 250
                     {
                         "updateDimensionProperties": {
                             "range": {
@@ -197,6 +353,19 @@ def write_ads_by_keyword(spreadsheet: gspread.Spreadsheet, raw_file: Path):
                                 "endIndex": 4
                             },
                             "properties": {"pixelSize": 250},
+                            "fields": "pixelSize"
+                        }
+                    },
+                    # E열(이미지텍스트, 인덱스 4) 너비 550
+                    {
+                        "updateDimensionProperties": {
+                            "range": {
+                                "sheetId": sheet_id,
+                                "dimension": "COLUMNS",
+                                "startIndex": 4,
+                                "endIndex": 5
+                            },
+                            "properties": {"pixelSize": 550},
                             "fields": "pixelSize"
                         }
                     },
@@ -212,12 +381,27 @@ def write_ads_by_keyword(spreadsheet: gspread.Spreadsheet, raw_file: Path):
                             "properties": {"pixelSize": 250},
                             "fields": "pixelSize"
                         }
+                    },
+                    # F~H열 숨김 (비디오URL, 광고링크, 이미지해시 - 인덱스 5, 6, 7)
+                    {
+                        "updateDimensionProperties": {
+                            "range": {
+                                "sheetId": sheet_id,
+                                "dimension": "COLUMNS",
+                                "startIndex": 5,
+                                "endIndex": 8
+                            },
+                            "properties": {"hiddenByUser": True},
+                            "fields": "hiddenByUser"
+                        }
                     }
                 ]
             })
-            logger.info("이미지 셀 크기 조정 완료 (250x250)")
+            logger.info("이미지 셀 크기 조정 완료 (250x250), F~H열 숨김")
         except Exception as e:
             logger.warning(f"셀 크기 조정 실패: {e}")
+    else:
+        logger.info(f"'{query}' 탭: 추가할 신규 광고 없음")
 
 
 def write_ocr_text(spreadsheet: gspread.Spreadsheet, ocr_results: list[dict]):
@@ -304,11 +488,24 @@ def write_ideas(spreadsheet: gspread.Spreadsheet, ideas: list[dict]):
         logger.info(f"ideas에 {len(rows)}개 행 추가")
 
 
+def clear_worksheet(spreadsheet: gspread.Spreadsheet, title: str):
+    """워크시트 내용 삭제 (헤더 유지)"""
+    try:
+        worksheet = spreadsheet.worksheet(title)
+        # 2행부터 모든 데이터 삭제
+        if worksheet.row_count > 1:
+            worksheet.delete_rows(2, worksheet.row_count)
+            logger.info(f"'{title}' 탭 기존 데이터 삭제 완료")
+    except gspread.WorksheetNotFound:
+        logger.debug(f"'{title}' 탭이 없습니다. 새로 생성됩니다.")
+
+
 @click.command()
 @click.option("--raw-file", "-f", type=click.Path(exists=True), help="원본 JSON 파일 경로")
 @click.option("--latest", "-l", is_flag=True, help="가장 최근 원본 파일 사용")
 @click.option("--by-keyword", "-k", is_flag=True, help="키워드별 탭에 기록 (Playwright 스크래핑용)")
-def main(raw_file: Optional[str], latest: bool, by_keyword: bool):
+@click.option("--clear", "-c", is_flag=True, help="기존 탭 데이터 삭제 후 새로 기록")
+def main(raw_file: Optional[str], latest: bool, by_keyword: bool, clear: bool):
     """광고 데이터를 Google Sheets에 기록합니다."""
     ensure_dirs()
 
@@ -327,6 +524,13 @@ def main(raw_file: Optional[str], latest: bool, by_keyword: bool):
 
     client = get_sheets_client()
     spreadsheet = client.open_by_key(get_sheet_id())
+
+    # --clear 옵션 시 기존 데이터 삭제
+    if clear and by_keyword:
+        with open(raw_file, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        query = data.get("query", "unknown")
+        clear_worksheet(spreadsheet, query)
 
     if by_keyword:
         write_ads_by_keyword(spreadsheet, raw_file)

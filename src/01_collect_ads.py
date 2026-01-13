@@ -181,13 +181,30 @@ async def parse_ad_container(container, index: int) -> Optional[dict]:
             if ad_texts:
                 ad_data["ad_text"] = ad_texts[0] if len(ad_texts) == 1 else ad_texts[:3]
 
-        # 이미지 URL 추출 - 모든 이미지 소스
+        # 이미지 URL 추출 - 썸네일 제외 (width/height 150px 이상만)
         images = await container.query_selector_all('img')
         image_urls = []
         for img in images:
             src = await img.get_attribute("src")
             if src and ("scontent" in src or "fbcdn" in src):
-                image_urls.append(src)
+                # 이미지 크기 확인 (썸네일 필터링)
+                try:
+                    width = await img.get_attribute("width")
+                    height = await img.get_attribute("height")
+                    # 속성이 없으면 bounding box로 확인
+                    if not width or not height:
+                        box = await img.bounding_box()
+                        if box:
+                            width = box.get("width", 0)
+                            height = box.get("height", 0)
+                    # 150px 이상인 이미지만 수집 (썸네일 제외)
+                    w = int(width) if width else 0
+                    h = int(height) if height else 0
+                    if w >= 150 or h >= 150:
+                        image_urls.append(src)
+                except:
+                    # 크기 확인 실패 시 일단 포함
+                    image_urls.append(src)
 
         if image_urls:
             ad_data["image_urls"] = list(set(image_urls))  # 중복 제거
