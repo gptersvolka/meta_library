@@ -39,3 +39,6 @@ test-results/
 
 # Claude Code 임시 파일
 tmpclaude-*
+
+# Streamlit
+.streamlit/secrets.toml

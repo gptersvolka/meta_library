@@ -24,3 +24,6 @@ click>=8.1.0
 
 # 로깅
 loguru>=0.7.0
+
+# 웹 UI
+streamlit>=1.29.0
