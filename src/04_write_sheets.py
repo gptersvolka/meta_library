@@ -216,13 +216,19 @@ def get_existing_image_hashes(worksheet: gspread.Worksheet, hash_col_index: int 
     return existing
 
 
-def write_ads_by_keyword(spreadsheet: gspread.Spreadsheet, raw_file: Path, skip_duplicates: bool = True):
+def write_ads_by_keyword(
+    spreadsheet: gspread.Spreadsheet,
+    raw_file: Path,
+    upload_results: list[dict] = None,
+    skip_duplicates: bool = True
+):
     """
     키워드별 탭에 광고 데이터 기록 (Playwright 스크래핑 데이터용)
 
     Args:
         spreadsheet: 스프레드시트 객체
         raw_file: 원본 JSON 파일 경로
+        upload_results: Drive 업로드 결과 (있으면 Drive URL 사용, 없으면 원본 URL)
         skip_duplicates: True면 중복 광고 제외 - 이미지 MD5 해시 기준 (기본값: True)
     """
     headers = [
@@ -252,6 +258,14 @@ def write_ads_by_keyword(spreadsheet: gspread.Spreadsheet, raw_file: Path, skip_
         existing_hashes = get_existing_image_hashes(worksheet, hash_col_index=7)
         if existing_hashes:
             logger.info(f"기존 이미지 해시 {len(existing_hashes)}개 로드 (중복 체크용)")
+
+    # upload_results를 image_hash로 매핑 (Drive URL 사용 시)
+    drive_url_map = {}
+    if upload_results:
+        for result in upload_results:
+            if result.get("status") == "success" and result.get("image_hash"):
+                drive_url_map[result["image_hash"]] = result.get("image_formula_url", "")
+        logger.info(f"Drive URL {len(drive_url_map)}개 매핑됨")
 
     rows = []
     skipped = 0
@@ -299,8 +313,11 @@ def write_ads_by_keyword(spreadsheet: gspread.Spreadsheet, raw_file: Path, skip_
         # 중복 방지를 위해 현재 배치에도 추가
         existing_hashes.add(image_hash)
 
-        # IMAGE 수식으로 이미지 표시
-        image_cell = f'=IMAGE("{image_url}")'
+        # IMAGE 수식 - Drive URL 우선, 없으면 원본 URL
+        if image_hash in drive_url_map and drive_url_map[image_hash]:
+            image_cell = f'=IMAGE("{drive_url_map[image_hash]}")'
+        else:
+            image_cell = f'=IMAGE("{image_url}")'
 
         video_urls = ad.get("video_urls", [])
         video_url = video_urls[0] if video_urls else ""

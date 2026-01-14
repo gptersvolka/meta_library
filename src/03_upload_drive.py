@@ -1,8 +1,10 @@
 """
 Google Drive 업로드 모듈
 수집된 이미지를 Drive에 업로드하고 공유 링크 생성
+폴더 구조: 루트폴더 > 키워드 > 날짜(YYMMDD) > 이미지
 """
 
+from datetime import datetime
 from pathlib import Path
 from typing import Optional
 
@@ -31,9 +33,51 @@ def get_drive_service():
     return build("drive", "v3", credentials=credentials)
 
 
-def upload_file(service, file_path: Path, folder_id: str) -> Optional[dict]:
+def get_or_create_folder(service, folder_name: str, parent_id: str, use_shared_drive: bool = True) -> str:
     """
-    파일을 Google Drive에 업로드
+    폴더가 있으면 ID 반환, 없으면 생성 후 ID 반환
+
+    Args:
+        service: Drive API 서비스 객체
+        folder_name: 폴더 이름
+        parent_id: 부모 폴더 ID
+        use_shared_drive: 공유 드라이브 사용 여부
+
+    Returns:
+        폴더 ID
+    """
+    # 기존 폴더 검색
+    query = f"name='{folder_name}' and '{parent_id}' in parents and mimeType='application/vnd.google-apps.folder' and trashed=false"
+    results = service.files().list(
+        q=query,
+        fields="files(id, name)",
+        supportsAllDrives=use_shared_drive,
+        includeItemsFromAllDrives=use_shared_drive
+    ).execute()
+    files = results.get("files", [])
+
+    if files:
+        logger.debug(f"기존 폴더 사용: {folder_name}")
+        return files[0]["id"]
+
+    # 폴더 생성
+    folder_metadata = {
+        "name": folder_name,
+        "mimeType": "application/vnd.google-apps.folder",
+        "parents": [parent_id]
+    }
+    folder = service.files().create(
+        body=folder_metadata,
+        fields="id",
+        supportsAllDrives=use_shared_drive
+    ).execute()
+    logger.info(f"새 폴더 생성: {folder_name}")
+    return folder["id"]
+
+
+def upload_file(service, file_path: Path, folder_id: str, use_shared_drive: bool = True) -> Optional[dict]:
+    """
+    파일을 Google Drive에 업로드 (공유 드라이브 지원)
 
     Returns:
         업로드된 파일 정보 {id, name, webViewLink, webContentLink}
@@ -60,14 +104,20 @@ def upload_file(service, file_path: Path, folder_id: str) -> Optional[dict]:
         file = service.files().create(
             body=file_metadata,
             media_body=media,
-            fields="id, name, webViewLink, webContentLink"
+            fields="id, name, webViewLink, webContentLink",
+            supportsAllDrives=use_shared_drive
         ).execute()
 
-        # 파일을 링크가 있는 모든 사용자가 볼 수 있도록 권한 설정
-        service.permissions().create(
-            fileId=file["id"],
-            body={"type": "anyone", "role": "reader"}
-        ).execute()
+        # 공유 드라이브에서는 권한 설정 불필요 (이미 드라이브 설정 따름)
+        # 일반 Drive일 경우에만 권한 설정
+        if not use_shared_drive:
+            try:
+                service.permissions().create(
+                    fileId=file["id"],
+                    body={"type": "anyone", "role": "reader"}
+                ).execute()
+            except:
+                pass  # 권한 설정 실패해도 업로드는 성공
 
         logger.debug(f"업로드 완료: {file_path.name} -> {file.get('webViewLink')}")
         return file
@@ -77,15 +127,29 @@ def upload_file(service, file_path: Path, folder_id: str) -> Optional[dict]:
         return None
 
 
-def upload_all_images(folder_id: Optional[str] = None) -> list[dict]:
+def upload_all_images(
+    folder_id: Optional[str] = None,
+    fetch_results: list[dict] = None,
+    query: str = None,
+    date_str: str = None
+) -> list[dict]:
     """
     IMAGES_DIR의 모든 이미지를 Drive에 업로드
 
+    Args:
+        folder_id: Drive 루트 폴더 ID
+        fetch_results: fetch_creatives 결과 (image_hash 매핑용)
+        query: 검색 키워드 (폴더 구조용)
+        date_str: 날짜 문자열 YYMMDD (폴더 구조용)
+
     Returns:
-        업로드 결과 리스트 [{local_path, drive_id, drive_url, status}, ...]
+        업로드 결과 리스트 [{local_path, drive_id, drive_url, image_hash, status}, ...]
+
+    폴더 구조:
+        루트폴더 > 키워드 > 날짜(YYMMDD) > 이미지
     """
     ensure_dirs()
-    folder_id = folder_id or get_drive_folder_id()
+    root_folder_id = folder_id or get_drive_folder_id()
 
     service = get_drive_service()
     results = []
@@ -97,6 +161,28 @@ def upload_all_images(folder_id: Optional[str] = None) -> list[dict]:
         logger.warning("업로드할 이미지가 없습니다.")
         return results
 
+    # 폴더 구조 생성: 루트 > 키워드 > 날짜
+    target_folder_id = root_folder_id
+
+    if query:
+        # 키워드 폴더 생성/조회
+        keyword_folder_id = get_or_create_folder(service, query, root_folder_id)
+        target_folder_id = keyword_folder_id
+
+        if date_str:
+            # 날짜 폴더 생성/조회 (YYMMDD 형식)
+            date_folder_id = get_or_create_folder(service, date_str, keyword_folder_id)
+            target_folder_id = date_folder_id
+
+    logger.info(f"업로드 폴더: {'루트' if not query else query}{' > ' + date_str if date_str else ''}")
+
+    # fetch_results를 filename으로 매핑 (image_hash 조회용)
+    hash_map = {}
+    if fetch_results:
+        for fr in fetch_results:
+            if fr.get("filename") and fr.get("image_hash"):
+                hash_map[fr["filename"]] = fr["image_hash"]
+
     logger.info(f"{len(image_files)}개 이미지 업로드 시작")
 
     for i, file_path in enumerate(image_files):
@@ -106,7 +192,11 @@ def upload_all_images(folder_id: Optional[str] = None) -> list[dict]:
             "status": "pending"
         }
 
-        file_info = upload_file(service, file_path, folder_id)
+        # image_hash 추가 (fetch_results에서 매핑)
+        if file_path.name in hash_map:
+            result["image_hash"] = hash_map[file_path.name]
+
+        file_info = upload_file(service, file_path, target_folder_id)
 
         if file_info:
             result["drive_id"] = file_info["id"]
