@@ -108,16 +108,15 @@ def upload_file(service, file_path: Path, folder_id: str, use_shared_drive: bool
             supportsAllDrives=use_shared_drive
         ).execute()
 
-        # 공유 드라이브에서는 권한 설정 불필요 (이미 드라이브 설정 따름)
-        # 일반 Drive일 경우에만 권한 설정
-        if not use_shared_drive:
-            try:
-                service.permissions().create(
-                    fileId=file["id"],
-                    body={"type": "anyone", "role": "reader"}
-                ).execute()
-            except:
-                pass  # 권한 설정 실패해도 업로드는 성공
+        # 파일을 링크가 있는 모든 사용자가 볼 수 있도록 권한 설정
+        try:
+            service.permissions().create(
+                fileId=file["id"],
+                body={"type": "anyone", "role": "reader"},
+                supportsAllDrives=use_shared_drive
+            ).execute()
+        except Exception as e:
+            logger.warning(f"권한 설정 실패 (업로드는 성공): {e}")
 
         logger.debug(f"업로드 완료: {file_path.name} -> {file.get('webViewLink')}")
         return file
