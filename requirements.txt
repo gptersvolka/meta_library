@@ -27,3 +27,6 @@ loguru>=0.7.0
 
 # 웹 UI
 streamlit>=1.29.0
+
+# 스케줄러
+schedule>=1.2.0

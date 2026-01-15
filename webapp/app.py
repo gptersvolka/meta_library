@@ -13,7 +13,7 @@ import sys
 import os
 
 # 프로젝트 루트 경로
-PROJECT_ROOT = Path(__file__).parent.parent
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DATA_RAW_DIR = PROJECT_ROOT / "data" / "raw"
 
 # 페이지 설정
@@ -24,15 +24,22 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# CSS 스타일 - 사이드바 컬러, 메인 화이트
+# CSS 스타일 - 흑백 모노톤 + 글래스모피즘 + 직각 디자인 + 얇은 폰트
 st.markdown("""
 <style>
-    /* 전체 배경 - 화이트 */
-    .stApp {
-        background: #f8f9fa;
+    /* ===== Google Fonts - 얇은 폰트 ===== */
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&display=swap');
+
+    * {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif !important;
     }
 
-    /* 메인 컨테이너 */
+    /* ===== 전체 배경 - 화이트 ===== */
+    .stApp {
+        background: #fafafa;
+    }
+
+    /* ===== 메인 컨테이너 ===== */
     .main .block-container {
         padding-top: 2rem;
         padding-bottom: 2rem;
@@ -40,16 +47,33 @@ st.markdown("""
         background: #ffffff;
     }
 
-    /* 사이드바 - 그라데이션 컬러 */
+    /* ===== 메인 영역 텍스트 색상 (흰 배경용) ===== */
+    .main .stMarkdown,
+    .main .stMarkdown p,
+    .main .stMarkdown span,
+    .main label,
+    .main .stTextInput label,
+    .main .stSelectbox label,
+    .main .stDateInput label,
+    .main .stRadio label,
+    .main h1, .main h2, .main h3, .main h4, .main h5, .main h6 {
+        color: #1a1a1a !important;
+        font-weight: 300 !important;
+    }
+
+    /* ===== 사이드바 - 글래스모피즘 (흑백) ===== */
     [data-testid="stSidebar"] {
-        background: linear-gradient(180deg, #667eea 0%, #764ba2 100%) !important;
+        background: rgba(255, 255, 255, 0.7) !important;
+        backdrop-filter: blur(20px) !important;
+        -webkit-backdrop-filter: blur(20px) !important;
+        border-right: 1px solid rgba(0, 0, 0, 0.1) !important;
     }
 
     [data-testid="stSidebar"] > div:first-child {
         background: transparent !important;
     }
 
-    /* 사이드바 텍스트 - 화이트 */
+    /* ===== 사이드바 텍스트 - 블랙 ===== */
     [data-testid="stSidebar"] .stMarkdown,
     [data-testid="stSidebar"] label,
     [data-testid="stSidebar"] .stRadio label,
@@ -58,159 +82,508 @@ st.markdown("""
     [data-testid="stSidebar"] h3,
     [data-testid="stSidebar"] p,
     [data-testid="stSidebar"] span {
-        color: white !important;
+        color: #1a1a1a !important;
+        font-weight: 300 !important;
     }
 
     [data-testid="stSidebar"] .stCaption {
-        color: rgba(255,255,255,0.7) !important;
+        color: rgba(0, 0, 0, 0.5) !important;
+        font-weight: 200 !important;
     }
 
-    /* 사이드바 라디오 버튼 */
+    /* ===== 사이드바 라디오 버튼 ===== */
     [data-testid="stSidebar"] .stRadio > div {
-        background: rgba(255, 255, 255, 0.1);
-        border-radius: 10px;
+        background: rgba(0, 0, 0, 0.03);
+        border-radius: 0;
         padding: 10px;
+        border: 1px solid rgba(0, 0, 0, 0.08);
     }
 
     [data-testid="stSidebar"] hr {
-        border-color: rgba(255, 255, 255, 0.2) !important;
+        border-color: rgba(0, 0, 0, 0.1) !important;
     }
 
-    /* 이미지 카드 - 화이트 톤 */
+    /* ===== 이미지 카드 - 심플 스타일 ===== */
     .ad-card {
         background: #ffffff;
-        border-radius: 16px;
+        border-radius: 8px;
         padding: 12px;
-        margin-bottom: 16px;
-        box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
-        border: 1px solid #eee;
-        transition: transform 0.2s ease, box-shadow 0.2s ease;
-        cursor: pointer;
-    }
-
-    .ad-card:hover {
-        transform: translateY(-4px);
-        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
+        padding-bottom: 0;
+        margin-bottom: 0;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+        border: 1px solid rgba(0, 0, 0, 0.06);
+        border-bottom: none;
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
     }
 
     .ad-card img {
-        border-radius: 12px;
+        border-radius: 4px;
         width: 100%;
         aspect-ratio: 1;
         object-fit: cover;
+        display: block;
     }
 
-    .card-title {
-        color: #1a1a2e;
-        font-size: 14px;
-        font-weight: 600;
-        margin-top: 12px;
+    /* 카드 정보 영역 */
+    .card-info {
+        padding: 12px 2px 10px 2px;
+    }
+
+    .card-info .card-title {
+        color: #1a1a1a;
+        font-size: 13px;
+        font-weight: 500;
+        margin: 0;
         white-space: nowrap;
         overflow: hidden;
         text-overflow: ellipsis;
     }
 
-    .card-date {
-        color: #888;
+    .card-info .card-date {
+        color: #999;
         font-size: 12px;
-        margin-top: 4px;
+        font-weight: 400;
+        margin-top: 2px;
+        margin-bottom: 0;
     }
 
-    /* 헤더 */
+    /* 카드 구분선 */
+    .card-divider {
+        height: 1px;
+        background: #e5e5e5;
+        margin: 0 -12px;
+    }
+
+    /* ===== Date Input 스타일 (직각 + 글래스) ===== */
+    .stDateInput {
+        position: relative;
+    }
+
+    .stDateInput label {
+        color: #1a1a1a !important;
+        font-weight: 300 !important;
+        font-size: 13px !important;
+        margin-bottom: 8px !important;
+        letter-spacing: 0.02em !important;
+    }
+
+    .stDateInput > div > div {
+        background: rgba(255, 255, 255, 0.9) !important;
+        backdrop-filter: blur(10px) !important;
+        border: 1px solid rgba(0, 0, 0, 0.1) !important;
+        border-radius: 0 !important;
+        padding: 4px 12px !important;
+        transition: all 0.2s ease !important;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03) !important;
+    }
+
+    .stDateInput > div > div:hover {
+        border-color: rgba(0, 0, 0, 0.3) !important;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08) !important;
+    }
+
+    .stDateInput > div > div:focus-within {
+        border-color: #1a1a1a !important;
+        box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1) !important;
+    }
+
+    .stDateInput input {
+        color: #1a1a1a !important;
+        font-size: 13px !important;
+        font-weight: 300 !important;
+        letter-spacing: 0.02em !important;
+    }
+
+    .stDateInput svg {
+        color: #1a1a1a !important;
+    }
+
+    /* ===== SelectBox 스타일 (직각 + 글래스) ===== */
+    .stSelectbox label {
+        color: #1a1a1a !important;
+        font-weight: 300 !important;
+        font-size: 13px !important;
+        margin-bottom: 8px !important;
+        letter-spacing: 0.02em !important;
+    }
+
+    .stSelectbox > div > div {
+        background: rgba(255, 255, 255, 0.9) !important;
+        backdrop-filter: blur(10px) !important;
+        border: 1px solid rgba(0, 0, 0, 0.1) !important;
+        border-radius: 0 !important;
+        transition: all 0.2s ease !important;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03) !important;
+    }
+
+    .stSelectbox > div > div:hover {
+        border-color: rgba(0, 0, 0, 0.3) !important;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08) !important;
+    }
+
+    .stSelectbox > div > div > div {
+        color: #1a1a1a !important;
+        font-weight: 300 !important;
+    }
+
+    .stSelectbox svg {
+        color: #1a1a1a !important;
+    }
+
+    /* ===== SelectBox 드롭다운 메뉴 (흰색 + 직각) ===== */
+    [data-baseweb="popover"] {
+        background: rgba(255, 255, 255, 0.98) !important;
+        backdrop-filter: blur(20px) !important;
+        border: 1px solid rgba(0, 0, 0, 0.1) !important;
+        border-radius: 0 !important;
+        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.12) !important;
+    }
+
+    [data-baseweb="popover"] li {
+        color: #1a1a1a !important;
+        font-weight: 300 !important;
+    }
+
+    [data-baseweb="popover"] li:hover {
+        background: rgba(0, 0, 0, 0.05) !important;
+    }
+
+    /* ===== 헤더 (흑백 + 직각 + 글래스) ===== */
     .header-section {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        border-radius: 16px;
-        padding: 24px 32px;
-        margin-bottom: 24px;
+        background: rgba(26, 26, 26, 0.95);
+        backdrop-filter: blur(20px);
+        -webkit-backdrop-filter: blur(20px);
+        border-radius: 0;
+        padding: 28px 36px;
+        margin-bottom: 28px;
         color: white;
+        border: 1px solid rgba(255, 255, 255, 0.1);
     }
 
     .header-section h1 {
         color: white !important;
         margin: 0;
-        font-size: 28px;
+        font-size: 24px;
+        font-weight: 300 !important;
+        letter-spacing: 0.05em;
     }
 
     .header-section p {
-        color: rgba(255,255,255,0.8);
+        color: rgba(255, 255, 255, 0.6);
         margin: 8px 0 0 0;
+        font-weight: 200;
+        letter-spacing: 0.03em;
     }
 
-    /* 통계 카드 */
+    /* ===== 통계 카드 (글래스 + 직각) ===== */
     .stat-card {
-        background: #f8f9fa;
-        border-radius: 12px;
-        padding: 16px 20px;
+        background: rgba(255, 255, 255, 0.8);
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
+        border-radius: 0;
+        padding: 20px 24px;
         text-align: center;
+        border: 1px solid rgba(0, 0, 0, 0.08);
     }
 
     .stat-number {
-        font-size: 28px;
-        font-weight: 700;
-        color: #667eea;
+        font-size: 32px;
+        font-weight: 300;
+        color: #1a1a1a;
+        letter-spacing: 0.02em;
     }
 
     .stat-label {
-        font-size: 13px;
-        color: #666;
+        font-size: 12px;
+        font-weight: 300;
+        color: #888;
         margin-top: 4px;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
     }
 
-    /* 모달/다이얼로그 스타일 */
-    .modal-content {
-        background: white;
-        border-radius: 16px;
-        padding: 24px;
-        max-height: 80vh;
-        overflow-y: auto;
+    /* ===== 모달/다이얼로그 스타일 (흰색 + 직각) ===== */
+    [data-testid="stModal"] {
+        background: rgba(255, 255, 255, 0.6) !important;
+        backdrop-filter: blur(8px) !important;
     }
 
-    .modal-image {
-        width: 100%;
-        border-radius: 12px;
-        margin-bottom: 16px;
+    [data-testid="stModal"] > div {
+        background: #ffffff !important;
+        border-radius: 0 !important;
+        padding: 0 !important;
+        max-width: 800px !important;
+        box-shadow: 0 25px 80px rgba(0, 0, 0, 0.12) !important;
+        border: 1px solid rgba(0, 0, 0, 0.1) !important;
     }
 
-    .modal-title {
-        font-size: 20px;
-        font-weight: 600;
-        color: #1a1a2e;
-        margin-bottom: 16px;
+    [data-testid="stModal"] > div > div {
+        background: #ffffff !important;
     }
 
+    [data-testid="stModal"] h1,
+    [data-testid="stModal"] h2,
+    [data-testid="stModal"] h3,
+    [data-testid="stModal"] p,
+    [data-testid="stModal"] span,
+    [data-testid="stModal"] label {
+        color: #1a1a1a !important;
+        font-weight: 300 !important;
+    }
+
+    /* ===== 모달 내부 닫기 버튼 (흰색 + 직각) ===== */
+    [data-testid="stModal"] button[kind="secondary"] {
+        background: rgba(255, 255, 255, 0.9) !important;
+        color: #1a1a1a !important;
+        border: 1px solid rgba(0, 0, 0, 0.1) !important;
+        border-radius: 0 !important;
+        font-weight: 300 !important;
+    }
+
+    /* ===== 모달 헤더 (흰색 + 직각) ===== */
+    .modal-header {
+        background: #ffffff;
+        padding: 24px 28px;
+        border-radius: 0;
+        margin-bottom: 24px;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+    }
+
+    .modal-header h3 {
+        color: #1a1a1a !important;
+        margin: 0;
+        font-size: 15px;
+        font-weight: 400 !important;
+        letter-spacing: 0.03em;
+    }
+
+    .modal-header p {
+        color: #666 !important;
+        margin: 4px 0 0 0;
+        font-size: 11px;
+        font-weight: 300 !important;
+    }
+
+    /* ===== 모달 섹션 (흰색 + 직각) ===== */
     .modal-section {
-        background: #f8f9fa;
-        border-radius: 12px;
+        background: #ffffff;
+        border-radius: 0;
         padding: 16px;
         margin-bottom: 12px;
+        border: 1px solid rgba(0, 0, 0, 0.08);
     }
 
     .modal-section-title {
-        font-size: 14px;
-        font-weight: 600;
-        color: #667eea;
+        font-size: 10px;
+        font-weight: 400;
+        color: #1a1a1a;
         margin-bottom: 8px;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
     }
 
-    /* Streamlit 기본 요소 */
-    .stSelectbox > div > div,
-    .stDateInput > div > div {
-        background: white !important;
-        border: 1px solid #ddd !important;
-        border-radius: 10px !important;
+    .modal-section-content {
+        color: #1a1a1a;
+        font-size: 11px;
+        font-weight: 300;
+        line-height: 1.7;
     }
 
-    /* 버튼 */
-    .stButton > button {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
-        color: white !important;
-        border: none !important;
-        border-radius: 10px !important;
-        padding: 8px 20px !important;
+    /* ===== 갤러리 카드 버튼 (테스트용 빨간색) ===== */
+    /* 테스트: CSS 적용 여부 확인 */
+    [data-testid="column"] button,
+    [data-testid="column"] [data-testid="baseButton-secondary"],
+    .stMainBlockContainer button {
+        background: #ff0000 !important;
+        background-color: #ff0000 !important;
+        color: #ffffff !important;
+        border: 3px solid #ff0000 !important;
     }
 
-    .stButton > button:hover {
-        opacity: 0.9 !important;
+    [data-testid="column"] button p,
+    .stMainBlockContainer button p {
+        color: #ffffff !important;
+    }
+
+    /* ===== 사이드바 Refresh 버튼 (별도 스타일) ===== */
+    [data-testid="stSidebar"] button,
+    [data-testid="stSidebar"] .stButton button {
+        background: transparent !important;
+        background-color: transparent !important;
+        color: #888 !important;
+        border: 1px solid rgba(0, 0, 0, 0.1) !important;
+        border-radius: 8px !important;
+        padding: 10px 16px !important;
+        font-weight: 300 !important;
+        font-size: 12px !important;
+        letter-spacing: 0.03em !important;
+        transition: all 0.2s ease !important;
+        box-shadow: none !important;
+        width: 100% !important;
+    }
+
+    [data-testid="stSidebar"] .stButton > button:hover {
+        background: rgba(0, 0, 0, 0.03) !important;
+        color: #555 !important;
+        border-color: rgba(0, 0, 0, 0.2) !important;
+    }
+
+    [data-testid="stSidebar"] .stButton > button::before,
+    [data-testid="stSidebar"] .stButton > button::after {
+        display: none !important;
+    }
+
+    /* ===== 캡션 텍스트 색상 ===== */
+    .main .stCaption,
+    .main [data-testid="stCaptionContainer"] {
+        color: #888 !important;
+        font-weight: 300 !important;
+    }
+
+    /* ===== Info/Success/Warning 박스 텍스트 ===== */
+    .stAlert {
+        background: rgba(255, 255, 255, 0.9) !important;
+        backdrop-filter: blur(10px) !important;
+        border-radius: 0 !important;
+        border: 1px solid rgba(0, 0, 0, 0.1) !important;
+    }
+
+    .stAlert p {
+        color: #1a1a1a !important;
+        font-weight: 300 !important;
+    }
+
+    /* ===== divider 스타일 ===== */
+    .main hr {
+        border-color: rgba(0, 0, 0, 0.08) !important;
+    }
+
+    /* ===== 달력 팝업 스타일 (직각 + 흰색) ===== */
+    [data-baseweb="calendar"] {
+        background: rgba(255, 255, 255, 0.98) !important;
+        border-radius: 0 !important;
+    }
+
+    [data-baseweb="calendar"] button {
+        border-radius: 0 !important;
+    }
+
+    /* ===== 스크롤바 스타일 ===== */
+    ::-webkit-scrollbar {
+        width: 6px;
+        height: 6px;
+    }
+
+    ::-webkit-scrollbar-track {
+        background: transparent;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background: rgba(0, 0, 0, 0.2);
+        border-radius: 0;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+        background: rgba(0, 0, 0, 0.3);
+    }
+
+    /* ===== 멀티셀렉트 태그 스타일 ===== */
+    .stMultiSelect {
+        margin-top: 8px;
+    }
+
+    .stMultiSelect label {
+        color: #1a1a1a !important;
+        font-weight: 300 !important;
+        font-size: 13px !important;
+        letter-spacing: 0.02em !important;
+    }
+
+    .stMultiSelect > div > div {
+        background: rgba(255, 255, 255, 0.9) !important;
+        backdrop-filter: blur(10px) !important;
+        border: 1px solid rgba(0, 0, 0, 0.1) !important;
+        border-radius: 0 !important;
+        min-height: 42px !important;
+        padding: 4px 8px !important;
+    }
+
+    .stMultiSelect > div > div:hover {
+        border-color: rgba(0, 0, 0, 0.3) !important;
+    }
+
+    .stMultiSelect > div > div:focus-within {
+        border-color: #1a1a1a !important;
+        box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1) !important;
+    }
+
+    /* 선택된 태그 스타일 (흰색 배경 + 검은 글씨) */
+    .stMultiSelect [data-baseweb="tag"] {
+        background: #ffffff !important;
+        border-radius: 0 !important;
+        border: 1px solid rgba(0, 0, 0, 0.15) !important;
+        padding: 4px 10px !important;
+        margin: 2px !important;
+        font-weight: 300 !important;
+        font-size: 11px !important;
+        letter-spacing: 0.03em !important;
+    }
+
+    .stMultiSelect [data-baseweb="tag"] span {
+        color: #1a1a1a !important;
+    }
+
+    .stMultiSelect [data-baseweb="tag"] svg {
+        color: rgba(0, 0, 0, 0.4) !important;
+    }
+
+    .stMultiSelect [data-baseweb="tag"]:hover svg {
+        color: #1a1a1a !important;
+    }
+
+    /* 드롭다운 메뉴 (흰색 배경) */
+    .stMultiSelect [data-baseweb="popover"],
+    .stMultiSelect [data-baseweb="menu"] {
+        background: #ffffff !important;
+        border-radius: 0 !important;
+        border: 1px solid rgba(0, 0, 0, 0.1) !important;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1) !important;
+    }
+
+    .stMultiSelect [data-baseweb="popover"] li,
+    .stMultiSelect [data-baseweb="menu"] li {
+        color: #1a1a1a !important;
+        font-weight: 300 !important;
+        font-size: 11px !important;
+        background: #ffffff !important;
+    }
+
+    .stMultiSelect [data-baseweb="popover"] li:hover,
+    .stMultiSelect [data-baseweb="menu"] li:hover {
+        background: rgba(0, 0, 0, 0.03) !important;
+    }
+
+    /* placeholder 텍스트 */
+    .stMultiSelect input::placeholder {
+        color: #888 !important;
+        font-weight: 300 !important;
+        font-size: 11px !important;
+    }
+
+    .stMultiSelect input {
+        font-size: 11px !important;
+        color: #1a1a1a !important;
+    }
+
+    /* ===== 필터 라벨 통일 (날짜, 광고주 동일 크기) ===== */
+    .filter-label {
+        font-size: 11px;
+        font-weight: 400;
+        color: #1a1a1a;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+        margin-bottom: 8px;
     }
 </style>
 """, unsafe_allow_html=True)
@@ -316,8 +689,9 @@ def is_valid_ad_image(image_url: str, min_size: int = 200) -> bool:
     return True
 
 
-def render_ad_modal(ad: dict):
-    """광고 상세 모달 렌더링"""
+@st.dialog("Ad Detail", width="large")
+def show_ad_detail(ad: dict):
+    """광고 상세 모달 (팝업) 렌더링"""
     image_urls = ad.get("image_urls", [])
     image_url = image_urls[0] if image_urls else ""
     page_name = ad.get("page_name", "Unknown")
@@ -328,37 +702,58 @@ def render_ad_modal(ad: dict):
     # OCR 텍스트 (시트에서 가져온 경우)
     ocr_text = ad.get("ocr_text", ad.get("이미지텍스트", ""))
 
+    # 모달 헤더
+    st.markdown(f"""
+    <div class="modal-header">
+        <h3>{page_name}</h3>
+        <p>{ad.get('_collected_at', '')[:10]}</p>
+    </div>
+    """, unsafe_allow_html=True)
+
     col1, col2 = st.columns([1, 1])
 
     with col1:
         if image_url:
-            st.image(image_url, use_container_width=True)
+            st.image(image_url, width="stretch")
 
     with col2:
-        st.markdown(f"### {page_name}")
-        st.caption(f"📅 {ad.get('_collected_at', '')[:10]}")
-
-        st.markdown("---")
-
         # 광고 문구
-        st.markdown("**📝 광고 문구**")
+        st.markdown("""
+        <div class="modal-section">
+            <div class="modal-section-title">Ad Copy</div>
+        </div>
+        """, unsafe_allow_html=True)
         if ad_text:
-            st.info(ad_text)
+            st.markdown(f"""
+            <div class="modal-section-content" style="background: #ffffff; padding: 12px; border-radius: 0; margin-top: -12px; border: 1px solid rgba(0,0,0,0.08);">
+                {ad_text}
+            </div>
+            """, unsafe_allow_html=True)
         else:
-            st.caption("광고 문구 없음")
+            st.caption("No ad copy")
+
+        st.markdown("<br>", unsafe_allow_html=True)
 
         # OCR 텍스트
-        st.markdown("**🔍 이미지 텍스트 (OCR)**")
+        st.markdown("""
+        <div class="modal-section">
+            <div class="modal-section-title">Image Text (OCR)</div>
+        </div>
+        """, unsafe_allow_html=True)
         if ocr_text:
-            st.success(ocr_text)
+            st.markdown(f"""
+            <div class="modal-section-content" style="background: #ffffff; padding: 12px; border-radius: 0; margin-top: -12px; border: 1px solid rgba(0,0,0,0.08);">
+                {ocr_text}
+            </div>
+            """, unsafe_allow_html=True)
         else:
-            st.caption("OCR 텍스트 없음")
+            st.caption("No OCR text")
 
 
 def render_gallery(ads: list, columns: int = 6):
     """타일형 갤러리 렌더링"""
     if not ads:
-        st.info("📭 해당 조건에 맞는 광고가 없습니다.")
+        st.info("No ads matching the criteria.")
         return
 
     # 유효한 광고 이미지만 필터링 (프로필 이미지 제외)
@@ -377,7 +772,7 @@ def render_gallery(ads: list, columns: int = 6):
                 valid_ads.append(ad)
 
     if not valid_ads:
-        st.info("📭 해당 조건에 맞는 광고가 없습니다.")
+        st.info("No ads matching the criteria.")
         return
 
     cols = st.columns(columns)
@@ -391,118 +786,119 @@ def render_gallery(ads: list, columns: int = 6):
             collected_at = ad.get("_collected_at", "")[:10]
 
             if image_url:
-                # 카드 렌더링
+                # 카드 렌더링 (이미지 + 정보 + 구분선)
                 st.markdown(f"""
                 <div class="ad-card">
                     <img src="{image_url}" alt="{page_name}" loading="lazy"
                          onerror="this.src='https://via.placeholder.com/300?text=No+Image'">
-                    <div class="card-title">{page_name}</div>
-                    <div class="card-date">광고 집행 일 {collected_at}</div>
+                    <div class="card-info">
+                        <div class="card-title">{page_name}</div>
+                        <div class="card-date">{collected_at}</div>
+                    </div>
+                    <div class="card-divider"></div>
                 </div>
                 """, unsafe_allow_html=True)
 
-                # 상세 보기 버튼
-                if st.button("상세 보기", key=f"detail_{idx}", use_container_width=True):
-                    st.session_state.selected_ad = ad
-                    st.session_state.show_modal = True
+                # 하단 전체 너비 버튼
+                if st.button("description", key=f"detail_{idx}"):
+                    show_ad_detail(ad)
 
 
 def main():
-    # 세션 상태 초기화
-    if "show_modal" not in st.session_state:
-        st.session_state.show_modal = False
-    if "selected_ad" not in st.session_state:
-        st.session_state.selected_ad = None
-
     # ========== 사이드바 ==========
     with st.sidebar:
-        st.markdown("# 🎨 광고 레퍼런스")
-        st.caption("Meta 광고 라이브러리 수집")
+        st.markdown("# Ad Reference")
+        st.caption("Meta Ad Library Collection")
 
         st.divider()
 
         keywords = get_keywords()
 
         if not keywords:
-            st.warning("수집된 데이터가 없습니다.")
-            st.info("먼저 파이프라인을 실행하세요:\n`python -m src.07_run_weekly --query '키워드'`")
+            st.warning("No data collected.")
+            st.info("Run the pipeline first:\n`python -m src.07_run_weekly --query 'keyword'`")
             st.stop()
 
-        st.markdown("### 📁 키워드")
+        st.markdown("### Keywords")
         selected_keyword = st.radio(
-            "트래킹 키워드 선택",
+            "Select keyword",
             keywords,
             label_visibility="collapsed"
         )
 
         st.divider()
 
-        # 새로고침 버튼
-        if st.button("🔄 데이터 새로고침", use_container_width=True):
+        # 새로고침 버튼 (아이콘 포함)
+        if st.button("↻  Refresh", use_container_width=True):
             st.cache_data.clear()
             st.rerun()
 
-        st.divider()
         st.caption("© 2026 Ad Reference Gallery")
-
-    # ========== 모달 (상세 보기) ==========
-    if st.session_state.show_modal and st.session_state.selected_ad:
-        with st.container():
-            col1, col2, col3 = st.columns([1, 6, 1])
-            with col2:
-                st.markdown("---")
-                st.markdown("### 📋 광고 상세 정보")
-
-                render_ad_modal(st.session_state.selected_ad)
-
-                if st.button("✕ 닫기", use_container_width=True):
-                    st.session_state.show_modal = False
-                    st.session_state.selected_ad = None
-                    st.rerun()
-
-                st.markdown("---")
 
     # ========== 메인 영역 ==========
 
     # 헤더
     st.markdown(f"""
     <div class="header-section">
-        <h1>📌 {selected_keyword}</h1>
-        <p>Meta 광고 라이브러리에서 수집한 광고 소재</p>
+        <h1>{selected_keyword}</h1>
+        <p>Ad creatives from Meta Ad Library</p>
     </div>
     """, unsafe_allow_html=True)
 
-    # 필터 영역
-    col1, col2, col3, col4 = st.columns([2, 2, 1, 1])
-
-    with col1:
-        date_range = st.date_input(
-            "📅 날짜 범위",
-            value=(datetime.now() - timedelta(days=30), datetime.now()),
-            format="YYYY-MM-DD"
-        )
-
-    with col3:
-        columns = st.selectbox("컬럼 수", [4, 5, 6, 7, 8], index=2)
-
-    # 데이터 로드
+    # 데이터 로드 (필터 전)
     ads_data = get_ads_by_keyword(selected_keyword)
 
-    # 날짜 필터 적용
+    # 날짜 필터 라벨
+    st.markdown('<div class="filter-label">Date Range</div>', unsafe_allow_html=True)
+    date_range = st.date_input(
+        "Date Range",
+        value=(datetime.now() - timedelta(days=30), datetime.now()),
+        format="YYYY-MM-DD",
+        label_visibility="collapsed"
+    )
+
+    # 날짜 필터 먼저 적용하여 해당 기간의 광고만 추출
+    date_filtered_ads = ads_data
     if ads_data and len(date_range) == 2:
         start_date, end_date = date_range
-        filtered_ads = []
+        date_filtered_ads = []
 
         for ad in ads_data:
             ad_date = parse_date(ad.get("_collected_at", ""))
             if ad_date:
                 ad_date_only = ad_date.date()
                 if start_date <= ad_date_only <= end_date:
-                    filtered_ads.append(ad)
+                    date_filtered_ads.append(ad)
             else:
-                filtered_ads.append(ad)
+                date_filtered_ads.append(ad)
 
-        ads_data = filtered_ads
+    # 날짜 필터링된 데이터에서 광고주 목록 추출 (ㄱㄴㄷ 순 정렬)
+    available_advertisers = sorted(set(ad.get("page_name", "") for ad in date_filtered_ads if ad.get("page_name")))
+
+    # 광고주 라벨
+    st.markdown('<div class="filter-label">Advertiser</div>', unsafe_allow_html=True)
+
+    # 멀티셀렉트로 여러 광고주 선택 가능
+    selected_advertisers = st.multiselect(
+        "Select advertisers",
+        options=available_advertisers,
+        default=[],
+        placeholder="Click to select (all if none)",
+        label_visibility="collapsed"
+    )
+
+    # 고정 컬럼 수
+    columns = 6
+
+    # 최종 필터링된 데이터
+    ads_data = date_filtered_ads
+
+    # 광고주 필터 적용 (선택된 광고주가 있을 때만)
+    if selected_advertisers:
+        ads_data = [ad for ad in ads_data if ad.get("page_name") in selected_advertisers]
+
+    # 최신 순 정렬
+    ads_data = sorted(ads_data, key=lambda x: parse_date(x.get("_collected_at", "")) or datetime.min, reverse=True)
 
     # 통계
     st.markdown("<br>", unsafe_allow_html=True)
@@ -512,7 +908,7 @@ def main():
         st.markdown(f"""
         <div class="stat-card">
             <div class="stat-number">{len(ads_data)}</div>
-            <div class="stat-label">총 광고 수</div>
+            <div class="stat-label">Total Ads</div>
         </div>
         """, unsafe_allow_html=True)
 
@@ -521,7 +917,7 @@ def main():
         st.markdown(f"""
         <div class="stat-card">
             <div class="stat-number">{unique_advertisers}</div>
-            <div class="stat-label">광고주 수</div>
+            <div class="stat-label">Advertisers</div>
         </div>
         """, unsafe_allow_html=True)
 
