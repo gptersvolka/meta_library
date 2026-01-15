@@ -1,7 +1,6 @@
 "use client";
 
 import { useState } from "react";
-import Image from "next/image";
 
 interface AdCardProps {
   imageUrl: string;
@@ -21,7 +20,7 @@ export function AdCard({
   const [imageError, setImageError] = useState(false);
 
   return (
-    <div className="bg-white rounded-lg shadow-sm border border-gray-100 overflow-hidden">
+    <div className="glass-card rounded-xl overflow-hidden">
       {/* 이미지 */}
       <div className="relative aspect-square">
         {!imageError ? (
@@ -32,32 +31,32 @@ export function AdCard({
             onError={() => setImageError(true)}
           />
         ) : (
-          <div className="w-full h-full bg-gray-100 flex items-center justify-center text-gray-400">
+          <div className="w-full h-full bg-gray-100/50 flex items-center justify-center text-gray-400">
             No Image
           </div>
         )}
       </div>
 
       {/* 정보 영역 */}
-      <div className="p-3">
-        <h3 className="text-sm font-medium text-gray-900 truncate">
-          {pageName}
-        </h3>
-        <p className="text-xs text-gray-500 mt-1">
-          {collectedAt?.slice(0, 10)}
-        </p>
+      <div className="px-3 py-2.5">
+        <div className="flex items-center justify-between gap-2 min-h-[28px]">
+          <div className="flex-1 min-w-0">
+            <h3 className="text-xs font-medium text-foreground truncate">
+              {pageName}
+            </h3>
+            <p className="text-[10px] text-muted-foreground mt-0.5">
+              {collectedAt?.slice(0, 10)}
+            </p>
+          </div>
+          {/* Glass pill 버튼 - 세로 가운데 정렬 */}
+          <button
+            onClick={onDescriptionClick}
+            className="glass-pill-button"
+          >
+            description
+          </button>
+        </div>
       </div>
-
-      {/* 구분선 */}
-      <div className="h-px bg-gray-100" />
-
-      {/* Description 버튼 */}
-      <button
-        onClick={onDescriptionClick}
-        className="w-full py-3 text-sm text-blue-500 hover:text-blue-600 hover:bg-gray-50 transition-colors"
-      >
-        description
-      </button>
     </div>
   );
 }

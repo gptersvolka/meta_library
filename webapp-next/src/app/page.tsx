@@ -3,7 +3,9 @@
 import { useEffect, useState, useMemo } from "react";
 import { AdCard } from "@/components/ui/ad-card";
 import { AdDetailModal } from "@/components/ad-detail-modal";
-import { RefreshCw, Calendar, ChevronDown, X } from "lucide-react";
+import { GlassButton } from "@/components/ui/glass-button";
+import { KeywordInput } from "@/components/ui/keyword-input";
+import { RefreshCw, Calendar, ChevronDown, X, Sparkles } from "lucide-react";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { Calendar as CalendarComponent } from "@/components/ui/calendar";
 import { format } from "date-fns";
@@ -111,24 +113,37 @@ export default function Home() {
   };
 
   return (
-    <div className="flex min-h-screen bg-gray-50">
+    <div className="flex min-h-screen bg-gradient-to-br from-gray-50 via-gray-100 to-gray-50">
+      {/* 배경 도트 패턴 */}
+      <div className="fixed inset-0 pointer-events-none z-0">
+        <svg xmlns="http://www.w3.org/2000/svg" height="100%" width="100%">
+          <defs>
+            <pattern patternUnits="userSpaceOnUse" height="30" width="30" id="dottedGrid">
+              <circle fill="oklch(from var(--foreground) l c h / 8%)" r="1" cy="2" cx="2"></circle>
+            </pattern>
+          </defs>
+          <rect fill="url(#dottedGrid)" height="100%" width="100%"></rect>
+        </svg>
+      </div>
+
       {/* 사이드바 */}
-      <aside className="w-64 bg-white border-r border-gray-200 p-6 flex flex-col">
-        <h1 className="text-xl font-semibold text-gray-900">Ad Reference</h1>
-        <p className="text-xs text-gray-500 mt-1">Meta Ad Library Collection</p>
+      <aside className="w-64 glass-sidebar p-6 flex flex-col relative z-10">
+        <div className="flex items-center gap-2">
+          <Sparkles className="w-5 h-5 text-foreground/70" />
+          <h1 className="text-xl font-semibold text-foreground">Ad Reference</h1>
+        </div>
+        <p className="text-xs text-muted-foreground mt-1">Meta Ad Library Collection</p>
 
-        <hr className="my-6" />
+        <div className="h-px bg-border/50 my-6" />
 
-        <h2 className="text-sm font-medium text-gray-700 mb-3">Keywords</h2>
-        <div className="space-y-1 flex-1">
+        <h2 className="text-sm font-medium text-foreground/70 mb-3">Keywords</h2>
+        <div className="space-y-2 flex-1 overflow-y-auto">
           {data.keywords.map((keyword) => (
             <button
               key={keyword}
               onClick={() => setSelectedKeyword(keyword)}
-              className={`w-full text-left px-3 py-2 rounded-lg text-sm transition-colors ${
-                selectedKeyword === keyword
-                  ? "bg-gray-900 text-white"
-                  : "text-gray-600 hover:bg-gray-100"
+              className={`glass-keyword w-full text-left px-3 py-2 rounded-lg text-sm ${
+                selectedKeyword === keyword ? "active" : ""
               }`}
             >
               {keyword}
@@ -136,41 +151,90 @@ export default function Home() {
           ))}
         </div>
 
-        <hr className="my-6" />
+        {/* 키워드 추가 입력란 */}
+        <div className="mt-4">
+          <KeywordInput
+            placeholder="키워드 추가"
+            onSubmit={async (keyword) => {
+              try {
+                // 1. 키워드 저장
+                const saveRes = await fetch("/api/keywords", {
+                  method: "POST",
+                  headers: { "Content-Type": "application/json" },
+                  body: JSON.stringify({ keyword }),
+                });
+                const saveResult = await saveRes.json();
 
-        <button
+                if (!saveRes.ok) {
+                  alert(saveResult.error || "키워드 추가 실패");
+                  return;
+                }
+
+                // 2. 즉시 수집 실행
+                alert(`"${keyword}" 키워드 추가됨!\n광고 수집을 시작합니다. (1~2분 소요)`);
+
+                const collectRes = await fetch("/api/collect", {
+                  method: "POST",
+                  headers: { "Content-Type": "application/json" },
+                  body: JSON.stringify({ keyword, limit: 50 }),
+                });
+                const collectResult = await collectRes.json();
+
+                if (collectRes.ok) {
+                  alert(`"${keyword}" 광고 수집 완료!`);
+                  // 데이터 새로고침
+                  await fetchAds();
+                  setSelectedKeyword(keyword);
+                } else {
+                  alert(`수집 실패: ${collectResult.error || "알 수 없는 오류"}`);
+                  // 키워드는 추가되었으므로 새로고침
+                  await fetchAds();
+                }
+              } catch (e) {
+                console.error("Failed to add keyword:", e);
+                alert("키워드 추가 중 오류 발생");
+              }
+            }}
+          />
+        </div>
+
+        <div className="h-px bg-border/50 my-4" />
+
+        <GlassButton
+          size="sm"
           onClick={fetchAds}
-          className="flex items-center justify-center gap-2 w-full py-2 text-sm text-gray-500 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors"
+          className="w-full"
+          contentClassName="flex items-center justify-center gap-2"
         >
           <RefreshCw className="w-4 h-4" />
-          Refresh
-        </button>
+          <span>Refresh</span>
+        </GlassButton>
 
-        <p className="text-xs text-gray-400 mt-4 text-center">
+        <p className="text-xs text-muted-foreground mt-4 text-center">
           © 2026 Ad Reference Gallery
         </p>
       </aside>
 
       {/* 메인 콘텐츠 */}
-      <main className="flex-1 p-8">
+      <main className="flex-1 p-8 relative z-10">
         {/* 헤더 */}
-        <div className="bg-gray-900 text-white rounded-lg p-6 mb-6">
+        <div className="glass-header text-primary-foreground rounded-xl p-6 mb-6">
           <h1 className="text-2xl font-light">{selectedKeyword || "Select a keyword"}</h1>
-          <p className="text-gray-400 text-sm mt-1">Ad creatives from Meta Ad Library</p>
+          <p className="text-primary-foreground/60 text-sm mt-1">Ad creatives from Meta Ad Library</p>
         </div>
 
         {/* 필터 영역 */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
           {/* 날짜 필터 */}
           <div>
-            <label className="text-xs font-medium text-gray-500 uppercase tracking-wide mb-2 block">
+            <label className="text-xs font-medium text-muted-foreground uppercase tracking-wide mb-2 block">
               Date Range
             </label>
             <Popover>
               <PopoverTrigger asChild>
-                <button className="w-full flex items-center justify-between px-4 py-2 bg-white border border-gray-200 rounded-lg text-sm text-gray-700 hover:border-gray-300 transition-colors">
+                <button className="glass-card w-full flex items-center justify-between px-4 py-2.5 rounded-lg text-sm text-foreground">
                   <div className="flex items-center gap-2">
-                    <Calendar className="w-4 h-4 text-gray-400" />
+                    <Calendar className="w-4 h-4 text-muted-foreground" />
                     <span>
                       {dateRange?.from ? (
                         dateRange.to ? (
@@ -185,7 +249,7 @@ export default function Home() {
                       )}
                     </span>
                   </div>
-                  <ChevronDown className="w-4 h-4 text-gray-400" />
+                  <ChevronDown className="w-4 h-4 text-muted-foreground" />
                 </button>
               </PopoverTrigger>
               <PopoverContent className="w-auto p-0" align="start">
@@ -201,18 +265,18 @@ export default function Home() {
 
           {/* 광고주 필터 */}
           <div>
-            <label className="text-xs font-medium text-gray-500 uppercase tracking-wide mb-2 block">
+            <label className="text-xs font-medium text-muted-foreground uppercase tracking-wide mb-2 block">
               Advertiser
             </label>
             <Popover open={advertiserDropdownOpen} onOpenChange={setAdvertiserDropdownOpen}>
               <PopoverTrigger asChild>
-                <button className="w-full flex items-center justify-between px-4 py-2 bg-white border border-gray-200 rounded-lg text-sm text-gray-700 hover:border-gray-300 transition-colors">
+                <button className="glass-card w-full flex items-center justify-between px-4 py-2.5 rounded-lg text-sm text-foreground">
                   <span className="truncate">
                     {selectedAdvertisers.length === 0
                       ? "Click to select (all if none)"
                       : `${selectedAdvertisers.length} selected`}
                   </span>
-                  <ChevronDown className="w-4 h-4 text-gray-400 flex-shrink-0" />
+                  <ChevronDown className="w-4 h-4 text-muted-foreground flex-shrink-0" />
                 </button>
               </PopoverTrigger>
               <PopoverContent className="w-72 p-2" align="start">
@@ -220,22 +284,22 @@ export default function Home() {
                   {availableAdvertisers.map((advertiser) => (
                     <label
                       key={advertiser}
-                      className="flex items-center gap-2 px-2 py-1.5 rounded hover:bg-gray-50 cursor-pointer"
+                      className="flex items-center gap-2 px-2 py-1.5 rounded hover:bg-accent cursor-pointer"
                     >
                       <input
                         type="checkbox"
                         checked={selectedAdvertisers.includes(advertiser)}
                         onChange={() => toggleAdvertiser(advertiser)}
-                        className="rounded border-gray-300"
+                        className="rounded border-border"
                       />
-                      <span className="text-sm text-gray-700 truncate">{advertiser}</span>
+                      <span className="text-sm text-foreground truncate">{advertiser}</span>
                     </label>
                   ))}
                 </div>
                 {selectedAdvertisers.length > 0 && (
                   <button
                     onClick={() => setSelectedAdvertisers([])}
-                    className="w-full mt-2 py-1.5 text-xs text-gray-500 hover:text-gray-700 border-t"
+                    className="w-full mt-2 py-1.5 text-xs text-muted-foreground hover:text-foreground border-t border-border"
                   >
                     Clear all
                   </button>
@@ -251,12 +315,12 @@ export default function Home() {
             {selectedAdvertisers.map((advertiser) => (
               <span
                 key={advertiser}
-                className="inline-flex items-center gap-1 px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded"
+                className="glass-card inline-flex items-center gap-1 px-3 py-1.5 text-foreground text-xs rounded-full"
               >
                 {advertiser}
                 <button
                   onClick={() => toggleAdvertiser(advertiser)}
-                  className="hover:text-gray-900"
+                  className="hover:text-foreground/70 transition-colors"
                 >
                   <X className="w-3 h-3" />
                 </button>
@@ -267,27 +331,27 @@ export default function Home() {
 
         {/* 통계 */}
         <div className="grid grid-cols-2 gap-4 mb-6">
-          <div className="bg-white rounded-lg p-4 text-center border border-gray-100">
-            <div className="text-3xl font-light text-gray-900">{filteredAds.length}</div>
-            <div className="text-xs text-gray-500 uppercase tracking-wide mt-1">Total Ads</div>
+          <div className="glass-card rounded-xl p-4 text-center">
+            <div className="text-3xl font-light text-foreground">{filteredAds.length}</div>
+            <div className="text-xs text-muted-foreground uppercase tracking-wide mt-1">Total Ads</div>
           </div>
-          <div className="bg-white rounded-lg p-4 text-center border border-gray-100">
-            <div className="text-3xl font-light text-gray-900">{uniqueAdvertisers}</div>
-            <div className="text-xs text-gray-500 uppercase tracking-wide mt-1">Advertisers</div>
+          <div className="glass-card rounded-xl p-4 text-center">
+            <div className="text-3xl font-light text-foreground">{uniqueAdvertisers}</div>
+            <div className="text-xs text-muted-foreground uppercase tracking-wide mt-1">Advertisers</div>
           </div>
         </div>
 
-        <hr className="mb-6" />
+        <div className="h-px bg-border/30 mb-6" />
 
         {/* 갤러리 */}
         {loading ? (
-          <div className="text-center text-gray-500 py-12">Loading...</div>
+          <div className="text-center text-muted-foreground py-12">Loading...</div>
         ) : filteredAds.length === 0 ? (
-          <div className="text-center text-gray-500 py-12">
+          <div className="text-center text-muted-foreground py-12">
             No ads found. Run the pipeline first.
           </div>
         ) : (
-          <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-7 gap-4">
             {filteredAds.map((ad, idx) => (
               <AdCard
                 key={`${ad._source_file}-${idx}`}

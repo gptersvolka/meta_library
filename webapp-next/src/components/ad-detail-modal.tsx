@@ -28,15 +28,15 @@ export function AdDetailModal({ ad, open, onOpenChange }: AdDetailModalProps) {
 
   return (
     <Dialog open={open} onOpenChange={onOpenChange}>
-      <DialogContent className="max-w-3xl">
+      <DialogContent className="max-w-5xl w-[90vw] max-h-[90vh] overflow-y-auto">
         <DialogHeader>
-          <DialogTitle>{ad.page_name}</DialogTitle>
-          <p className="text-sm text-gray-500">{ad._collected_at?.slice(0, 10)}</p>
+          <DialogTitle className="text-xl">{ad.page_name}</DialogTitle>
+          <p className="text-sm text-muted-foreground">{ad._collected_at?.slice(0, 10)}</p>
         </DialogHeader>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-6">
           {/* 이미지 */}
-          <div className="aspect-square rounded-lg overflow-hidden bg-gray-100">
+          <div className="aspect-square rounded-xl overflow-hidden bg-gray-100 max-h-[500px]">
             {imageUrl && (
               <img
                 src={imageUrl}
@@ -47,12 +47,12 @@ export function AdDetailModal({ ad, open, onOpenChange }: AdDetailModalProps) {
           </div>
 
           {/* 텍스트 정보 */}
-          <div className="space-y-4">
+          <div className="space-y-6">
             <div>
-              <h4 className="text-xs font-medium text-gray-500 uppercase tracking-wide mb-2">
+              <h4 className="text-xs font-medium text-muted-foreground uppercase tracking-wide mb-3">
                 Ad Copy
               </h4>
-              <div className="bg-gray-50 rounded-lg p-4 text-sm text-gray-700">
+              <div className="glass-card rounded-xl p-5 text-sm text-foreground leading-relaxed whitespace-pre-wrap min-h-[200px]">
                 {adText || "No ad copy available"}
               </div>
             </div>
