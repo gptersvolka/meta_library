@@ -30,7 +30,7 @@ export function AdDetailModal({ ad, open, onOpenChange }: AdDetailModalProps) {
 
   return (
     <Dialog open={open} onOpenChange={onOpenChange}>
-      <DialogContent className="max-w-[1400px] w-[98vw] max-h-[92vh] overflow-y-auto p-10">
+      <DialogContent className="w-[1000px] max-w-[95vw] max-h-[92vh] overflow-y-auto p-10">
         <DialogHeader className="pb-4">
           <DialogTitle className="text-xl">{ad.page_name}</DialogTitle>
           <p className="text-sm text-muted-foreground">{ad._collected_at?.slice(0, 10)}</p>
@@ -48,13 +48,13 @@ export function AdDetailModal({ ad, open, onOpenChange }: AdDetailModalProps) {
         </DialogHeader>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10 mt-6">
-          {/* 이미지 */}
-          <div className="aspect-square rounded-xl overflow-hidden bg-gray-100 max-h-[550px]">
+          {/* 이미지 - 원본 비율 유지 */}
+          <div className="flex items-center justify-center rounded-xl overflow-hidden bg-gray-100 max-h-[600px]">
             {imageUrl && (
               <img
                 src={imageUrl}
                 alt={ad.page_name || "Ad"}
-                className="w-full h-full object-cover"
+                className="max-w-full max-h-[600px] object-contain"
               />
             )}
           </div>

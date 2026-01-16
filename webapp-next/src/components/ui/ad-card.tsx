@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { Star } from "lucide-react";
 
 interface AdCardProps {
   imageUrl: string;
@@ -8,6 +9,8 @@ interface AdCardProps {
   collectedAt: string;
   adText?: string;
   onDescriptionClick?: () => void;
+  isHighlighted?: boolean;
+  onHighlightToggle?: () => void;
 }
 
 export function AdCard({
@@ -16,13 +19,15 @@ export function AdCard({
   collectedAt,
   adText,
   onDescriptionClick,
+  isHighlighted = false,
+  onHighlightToggle,
 }: AdCardProps) {
   const [imageError, setImageError] = useState(false);
 
   return (
     <div className="glass-card rounded-xl overflow-hidden">
       {/* 이미지 */}
-      <div className="relative aspect-square">
+      <div className="relative aspect-square group">
         {!imageError ? (
           <img
             src={imageUrl}
@@ -34,6 +39,28 @@ export function AdCard({
           <div className="w-full h-full bg-gray-100/50 flex items-center justify-center text-gray-400">
             No Image
           </div>
+        )}
+        {/* 별표 버튼 - 우상단 */}
+        {onHighlightToggle && (
+          <button
+            onClick={(e) => {
+              e.stopPropagation();
+              onHighlightToggle();
+            }}
+            className={`absolute top-2 right-2 p-1.5 rounded-full transition-all duration-200 ${
+              isHighlighted
+                ? "bg-yellow-400/80 backdrop-blur-sm shadow-lg shadow-yellow-400/30"
+                : "bg-white/30 backdrop-blur-sm opacity-0 group-hover:opacity-100"
+            }`}
+          >
+            <Star
+              className={`w-4 h-4 transition-all duration-200 ${
+                isHighlighted
+                  ? "fill-white text-white drop-shadow-sm"
+                  : "text-white/80 hover:text-white"
+              }`}
+            />
+          </button>
         )}
       </div>
 

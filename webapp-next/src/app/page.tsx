@@ -1,12 +1,12 @@
 "use client";
 
-import { useEffect, useState, useMemo } from "react";
+import { useEffect, useState, useMemo, useCallback } from "react";
 import { AdCard } from "@/components/ui/ad-card";
 import { AdDetailModal } from "@/components/ad-detail-modal";
 import { GlassButton } from "@/components/ui/glass-button";
 import { KeywordInput } from "@/components/ui/keyword-input";
 import { PaginationAnt } from "@/components/ui/pagination-ant";
-import { RefreshCw, ChevronDown, X, Sparkles } from "lucide-react";
+import { RefreshCw, ChevronDown, X, Sparkles, Trash2, Star, User, Hash } from "lucide-react";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { CalendarNew } from "@/components/ui/calendar-new";
 import { startOfDay, endOfDay } from "date-fns";
@@ -19,11 +19,23 @@ interface Ad {
   _collected_at?: string;
   _source_file?: string;
   landing_url?: string;
+  _keyword?: string; // 하이라이트용 키워드 추가
 }
 
 interface AdsData {
   keywords: string[];
   ads: Record<string, Ad[]>;
+}
+
+interface HighlightAd {
+  id: string;
+  image_url: string;
+  page_name: string;
+  ad_text?: string[];
+  keyword: string;
+  collected_at: string;
+  highlighted_at: string;
+  landing_url?: string;
 }
 
 export default function Home() {
@@ -33,10 +45,20 @@ export default function Home() {
   const [modalOpen, setModalOpen] = useState(false);
   const [loading, setLoading] = useState(true);
 
-  // 날짜 필터
-  const [dateRange, setDateRange] = useState<{ from: Date | null; to: Date | null }>({
-    from: new Date(Date.now() - 30 * 24 * 60 * 60 * 1000),
-    to: new Date(),
+  // 하이라이트 관련 상태
+  const [highlights, setHighlights] = useState<HighlightAd[]>([]);
+  const [highlightedIds, setHighlightedIds] = useState<Set<string>>(new Set());
+  const [viewMode, setViewMode] = useState<"keywords" | "highlights">("keywords");
+  const [selectedHighlightKeywords, setSelectedHighlightKeywords] = useState<string[]>([]);
+
+  // 날짜 필터 (기본값: 이번 달 1일 ~ 오늘)
+  const [dateRange, setDateRange] = useState<{ from: Date | null; to: Date | null }>(() => {
+    const now = new Date();
+    const firstDayOfMonth = new Date(now.getFullYear(), now.getMonth(), 1);
+    return {
+      from: firstDayOfMonth,
+      to: now,
+    };
   });
 
   // 광고주 필터
@@ -63,9 +85,93 @@ export default function Home() {
     }
   };
 
+  // 하이라이트 목록 가져오기
+  const fetchHighlights = useCallback(async () => {
+    try {
+      const res = await fetch("/api/highlights");
+      const json = await res.json();
+      setHighlights(json.highlights || []);
+      // ID Set 업데이트
+      const ids = new Set<string>((json.highlights || []).map((h: HighlightAd) => h.id));
+      setHighlightedIds(ids);
+    } catch (e) {
+      console.error("Failed to fetch highlights:", e);
+    }
+  }, []);
+
+  // 하이라이트 토글
+  const toggleHighlight = async (ad: Ad, keyword: string) => {
+    const imageUrl = ad.image_urls?.[0];
+    if (!imageUrl) return;
+
+    // 이미지 URL에서 ID 생성 (API와 동일한 로직)
+    let id: string;
+    try {
+      const url = new URL(imageUrl);
+      const filename = url.pathname.split("/").pop() || "";
+      id = filename.replace(/\.[^.]+$/, "");
+    } catch {
+      id = btoa(imageUrl).slice(0, 20);
+    }
+
+    const isCurrentlyHighlighted = highlightedIds.has(id);
+
+    try {
+      if (isCurrentlyHighlighted) {
+        // 제거
+        await fetch("/api/highlights", {
+          method: "DELETE",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ id }),
+        });
+        setHighlightedIds((prev) => {
+          const next = new Set(prev);
+          next.delete(id);
+          return next;
+        });
+        setHighlights((prev) => prev.filter((h) => h.id !== id));
+      } else {
+        // 추가
+        const res = await fetch("/api/highlights", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            image_url: imageUrl,
+            page_name: ad.page_name,
+            ad_text: ad.ad_text,
+            keyword,
+            collected_at: ad._collected_at,
+            landing_url: ad.landing_url,
+          }),
+        });
+        const result = await res.json();
+        if (result.success && result.highlight) {
+          setHighlightedIds((prev) => new Set(prev).add(id));
+          setHighlights((prev) => [result.highlight, ...prev]);
+        }
+      }
+    } catch (e) {
+      console.error("Failed to toggle highlight:", e);
+    }
+  };
+
+  // 광고의 하이라이트 ID 계산
+  const getAdHighlightId = (ad: Ad): string => {
+    const imageUrl = ad.image_urls?.[0];
+    if (!imageUrl) return "";
+    try {
+      const url = new URL(imageUrl);
+      const filename = url.pathname.split("/").pop() || "";
+      return filename.replace(/\.[^.]+$/, "");
+    } catch {
+      return btoa(imageUrl).slice(0, 20);
+    }
+  };
+
   useEffect(() => {
     fetchAds();
-  }, []);
+    fetchHighlights();
+  }, [fetchHighlights]);
 
   const currentAds = data.ads[selectedKeyword] || [];
 
@@ -129,6 +235,58 @@ export default function Home() {
 
   const uniqueAdvertisers = new Set(filteredAds.map((ad) => ad.page_name)).size;
 
+  // 하이라이트 뷰를 위한 필터링
+  const highlightKeywords = useMemo(() => {
+    const keywords = new Set(highlights.map((h) => h.keyword).filter(Boolean));
+    return Array.from(keywords).sort();
+  }, [highlights]);
+
+  const filteredHighlights = useMemo(() => {
+    let filtered = highlights;
+
+    // 날짜 필터
+    if (dateRange?.from || dateRange?.to) {
+      filtered = filtered.filter((h) => {
+        if (!h.collected_at) return true;
+        const adDate = new Date(h.collected_at);
+        const fromDate = dateRange.from ? startOfDay(dateRange.from) : null;
+        const toDate = dateRange.to ? endOfDay(dateRange.to) : null;
+
+        if (fromDate && toDate) {
+          return adDate >= fromDate && adDate <= toDate;
+        } else if (fromDate) {
+          return adDate >= fromDate;
+        } else if (toDate) {
+          return adDate <= toDate;
+        }
+        return true;
+      });
+    }
+
+    // 광고주 필터
+    if (selectedAdvertisers.length > 0) {
+      filtered = filtered.filter((h) => selectedAdvertisers.includes(h.page_name));
+    }
+
+    // 키워드 필터
+    if (selectedHighlightKeywords.length > 0) {
+      filtered = filtered.filter((h) => selectedHighlightKeywords.includes(h.keyword));
+    }
+
+    // 최신순 정렬 (하이라이트된 시간 기준)
+    return [...filtered].sort((a, b) => {
+      const dateA = new Date(a.highlighted_at).getTime();
+      const dateB = new Date(b.highlighted_at).getTime();
+      return dateB - dateA;
+    });
+  }, [highlights, dateRange, selectedAdvertisers, selectedHighlightKeywords]);
+
+  // 하이라이트 뷰의 광고주 목록
+  const highlightAdvertisers = useMemo(() => {
+    const advertisers = new Set(highlights.map((h) => h.page_name).filter(Boolean));
+    return Array.from(advertisers).sort();
+  }, [highlights]);
+
   // 현재 페이지에 해당하는 광고만 추출
   const paginatedAds = useMemo(() => {
     const startIndex = (currentPage - 1) * pageSize;
@@ -136,10 +294,22 @@ export default function Home() {
     return filteredAds.slice(startIndex, endIndex);
   }, [filteredAds, currentPage, pageSize]);
 
+  // 하이라이트 페이지네이션
+  const paginatedHighlights = useMemo(() => {
+    const startIndex = (currentPage - 1) * pageSize;
+    const endIndex = startIndex + pageSize;
+    return filteredHighlights.slice(startIndex, endIndex);
+  }, [filteredHighlights, currentPage, pageSize]);
+
+  // 키워드 변경 시 광고주 필터 초기화
+  useEffect(() => {
+    setSelectedAdvertisers([]);
+  }, [selectedKeyword]);
+
   // 필터 변경 시 페이지 리셋
   useEffect(() => {
     setCurrentPage(1);
-  }, [selectedKeyword, dateRange, selectedAdvertisers]);
+  }, [selectedKeyword, dateRange, selectedAdvertisers, viewMode, selectedHighlightKeywords]);
 
   const handlePageChange = (page: number) => {
     setCurrentPage(page);
@@ -153,6 +323,36 @@ export default function Home() {
         ? prev.filter((a) => a !== advertiser)
         : [...prev, advertiser]
     );
+  };
+
+  const deleteKeyword = async (keyword: string) => {
+    if (!confirm(`"${keyword}" 키워드를 삭제하시겠습니까?\n\n(수집된 광고 데이터는 유지됩니다)`)) {
+      return;
+    }
+
+    try {
+      const res = await fetch("/api/keywords", {
+        method: "DELETE",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ keyword }),
+      });
+
+      if (res.ok) {
+        // 삭제된 키워드가 현재 선택된 것이면 다른 키워드로 전환
+        if (selectedKeyword === keyword) {
+          const remainingKeywords = data.keywords.filter((k) => k !== keyword);
+          setSelectedKeyword(remainingKeywords[0] || "");
+        }
+        // 데이터 새로고침
+        await fetchAds();
+      } else {
+        const result = await res.json();
+        alert(result.error || "키워드 삭제 실패");
+      }
+    } catch (e) {
+      console.error("Failed to delete keyword:", e);
+      alert("키워드 삭제 중 오류 발생");
+    }
   };
 
   return (
@@ -179,18 +379,53 @@ export default function Home() {
 
         <div className="h-px bg-border/50 my-6" />
 
+        {/* Highlights 섹션 */}
+        <h2 className="text-sm font-medium text-foreground/70 mb-3">Highlights</h2>
+        <button
+          onClick={() => {
+            setViewMode("highlights");
+            setSelectedHighlightKeywords([]);
+          }}
+          className={`glass-keyword w-full text-left px-3 py-2 rounded-lg text-sm flex items-center gap-2 ${
+            viewMode === "highlights" ? "active" : ""
+          }`}
+        >
+          <Star className={`w-4 h-4 ${viewMode === "highlights" ? "fill-yellow-400 text-yellow-400" : ""}`} />
+          <span>Highlights</span>
+          <span className="ml-auto text-xs text-muted-foreground">{highlights.length}</span>
+        </button>
+
+        <div className="h-px bg-border/50 my-6" />
+
         <h2 className="text-sm font-medium text-foreground/70 mb-3">Keywords</h2>
         <div className="space-y-2 flex-1 overflow-y-auto">
           {data.keywords.map((keyword) => (
-            <button
+            <div
               key={keyword}
-              onClick={() => setSelectedKeyword(keyword)}
-              className={`glass-keyword w-full text-left px-3 py-2 rounded-lg text-sm ${
-                selectedKeyword === keyword ? "active" : ""
-              }`}
+              className="group relative"
             >
-              {keyword}
-            </button>
+              <button
+                onClick={() => {
+                  setViewMode("keywords");
+                  setSelectedKeyword(keyword);
+                }}
+                className={`glass-keyword w-full text-left px-3 py-2 pr-8 rounded-lg text-sm ${
+                  viewMode === "keywords" && selectedKeyword === keyword ? "active" : ""
+                }`}
+              >
+                {keyword}
+              </button>
+              <button
+                onClick={(e) => {
+                  e.stopPropagation();
+                  deleteKeyword(keyword);
+                }}
+                className="absolute right-2 top-1/2 -translate-y-1/2 opacity-0 group-hover:opacity-100 transition-opacity duration-200 p-1 rounded hover:bg-red-100 text-muted-foreground hover:text-red-500"
+                title="키워드 삭제"
+              >
+                <Trash2 className="w-3.5 h-3.5" />
+              </button>
+            </div>
           ))}
         </div>
 
@@ -265,8 +500,15 @@ export default function Home() {
       <main className="flex-1 p-8 relative z-10 ml-64">
         {/* 헤더 */}
         <div className="glass-header text-primary-foreground rounded-xl p-6 mb-6">
-          <h1 className="text-2xl font-light">{selectedKeyword || "Select a keyword"}</h1>
-          <p className="text-primary-foreground/60 text-sm mt-1">Ad creatives from Meta Ad Library</p>
+          <h1 className="text-2xl font-light flex items-center gap-3">
+            {viewMode === "highlights" && <Star className="w-6 h-6 fill-yellow-400 text-yellow-400" />}
+            {viewMode === "highlights" ? "Highlights" : (selectedKeyword || "Select a keyword")}
+          </h1>
+          <p className="text-primary-foreground/60 text-sm mt-1">
+            {viewMode === "highlights"
+              ? "Your saved ad creatives"
+              : "Ad creatives from Meta Ad Library"}
+          </p>
         </div>
 
         {/* 필터 영역 - 왼쪽 정렬, 너비 축소 */}
@@ -283,14 +525,15 @@ export default function Home() {
           </div>
 
           {/* 광고주 필터 */}
-          <div className="w-auto min-w-[180px]">
+          <div className="w-auto">
             <label className="text-xs font-medium text-muted-foreground uppercase tracking-wide mb-2 block">
               Advertiser
             </label>
             <Popover open={advertiserDropdownOpen} onOpenChange={setAdvertiserDropdownOpen}>
               <PopoverTrigger asChild>
-                <button className="glass-card flex items-center justify-between gap-2 px-4 py-2.5 rounded-lg text-sm text-foreground">
-                  <span className="truncate">
+                <button className="glass-card flex items-center justify-between gap-2 px-3 py-2 rounded-lg text-sm text-foreground min-w-[220px]">
+                  <User className="w-4 h-4 text-muted-foreground flex-shrink-0" />
+                  <span className="truncate flex-1 text-left">
                     {selectedAdvertisers.length === 0
                       ? "All advertisers"
                       : `${selectedAdvertisers.length} selected`}
@@ -300,7 +543,7 @@ export default function Home() {
               </PopoverTrigger>
               <PopoverContent className="w-72 p-2" align="start">
                 <div className="max-h-60 overflow-y-auto space-y-1">
-                  {availableAdvertisers.map((advertiser) => (
+                  {(viewMode === "highlights" ? highlightAdvertisers : availableAdvertisers).map((advertiser) => (
                     <label
                       key={advertiser}
                       className="flex items-center gap-2 px-2 py-1.5 rounded hover:bg-accent cursor-pointer"
@@ -326,20 +569,92 @@ export default function Home() {
               </PopoverContent>
             </Popover>
           </div>
+
+          {/* 키워드 필터 - 하이라이트 뷰에서만 표시 */}
+          {viewMode === "highlights" && highlightKeywords.length > 0 && (
+            <div className="w-auto">
+              <label className="text-xs font-medium text-muted-foreground uppercase tracking-wide mb-2 block">
+                Keyword
+              </label>
+              <Popover>
+                <PopoverTrigger asChild>
+                  <button className="glass-card flex items-center justify-between gap-2 px-3 py-2 rounded-lg text-sm text-foreground min-w-[220px]">
+                    <Hash className="w-4 h-4 text-muted-foreground flex-shrink-0" />
+                    <span className="truncate flex-1 text-left">
+                      {selectedHighlightKeywords.length === 0
+                        ? "All keywords"
+                        : `${selectedHighlightKeywords.length} selected`}
+                    </span>
+                    <ChevronDown className="w-4 h-4 text-muted-foreground flex-shrink-0" />
+                  </button>
+                </PopoverTrigger>
+                <PopoverContent className="w-72 p-2" align="start">
+                  <div className="max-h-60 overflow-y-auto space-y-1">
+                    {highlightKeywords.map((kw) => (
+                      <label
+                        key={kw}
+                        className="flex items-center gap-2 px-2 py-1.5 rounded hover:bg-accent cursor-pointer"
+                      >
+                        <input
+                          type="checkbox"
+                          checked={selectedHighlightKeywords.includes(kw)}
+                          onChange={() => {
+                            setSelectedHighlightKeywords((prev) =>
+                              prev.includes(kw)
+                                ? prev.filter((k) => k !== kw)
+                                : [...prev, kw]
+                            );
+                          }}
+                          className="rounded border-border"
+                        />
+                        <span className="text-sm text-foreground truncate">{kw}</span>
+                      </label>
+                    ))}
+                  </div>
+                  {selectedHighlightKeywords.length > 0 && (
+                    <button
+                      onClick={() => setSelectedHighlightKeywords([])}
+                      className="w-full mt-2 py-1.5 text-xs text-muted-foreground hover:text-foreground border-t border-border"
+                    >
+                      Clear all
+                    </button>
+                  )}
+                </PopoverContent>
+              </Popover>
+            </div>
+          )}
         </div>
 
-        {/* 선택된 광고주 태그 */}
-        {selectedAdvertisers.length > 0 && (
+        {/* 선택된 필터 태그 */}
+        {(selectedAdvertisers.length > 0 || selectedHighlightKeywords.length > 0) && (
           <div className="flex flex-wrap gap-2 mb-4">
+            {/* Advertiser 태그 - 파란색 계열 */}
             {selectedAdvertisers.map((advertiser) => (
               <span
-                key={advertiser}
-                className="glass-card inline-flex items-center gap-1 px-3 py-1.5 text-foreground text-xs rounded-full"
+                key={`adv-${advertiser}`}
+                className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs rounded-full bg-blue-50 text-blue-700 border border-blue-200"
               >
+                <User className="w-3 h-3" />
                 {advertiser}
                 <button
                   onClick={() => toggleAdvertiser(advertiser)}
-                  className="hover:text-foreground/70 transition-colors"
+                  className="hover:text-blue-900 transition-colors ml-0.5"
+                >
+                  <X className="w-3 h-3" />
+                </button>
+              </span>
+            ))}
+            {/* Keyword 태그 - 노란색/주황색 계열 */}
+            {selectedHighlightKeywords.map((kw) => (
+              <span
+                key={`kw-${kw}`}
+                className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs rounded-full bg-amber-50 text-amber-700 border border-amber-200"
+              >
+                <Hash className="w-3 h-3" />
+                {kw}
+                <button
+                  onClick={() => setSelectedHighlightKeywords((prev) => prev.filter((k) => k !== kw))}
+                  className="hover:text-amber-900 transition-colors ml-0.5"
                 >
                   <X className="w-3 h-3" />
                 </button>
@@ -351,11 +666,19 @@ export default function Home() {
         {/* 통계 - 왼쪽 정렬, 너비 축소 */}
         <div className="flex gap-4 mb-6">
           <div className="glass-card rounded-xl px-6 py-3 text-center">
-            <div className="text-2xl font-light text-foreground">{filteredAds.length}</div>
-            <div className="text-xs text-muted-foreground uppercase tracking-wide">Total Ads</div>
+            <div className="text-2xl font-light text-foreground">
+              {viewMode === "highlights" ? filteredHighlights.length : filteredAds.length}
+            </div>
+            <div className="text-xs text-muted-foreground uppercase tracking-wide">
+              {viewMode === "highlights" ? "Highlighted" : "Total Ads"}
+            </div>
           </div>
           <div className="glass-card rounded-xl px-6 py-3 text-center">
-            <div className="text-2xl font-light text-foreground">{uniqueAdvertisers}</div>
+            <div className="text-2xl font-light text-foreground">
+              {viewMode === "highlights"
+                ? new Set(filteredHighlights.map((h) => h.page_name)).size
+                : uniqueAdvertisers}
+            </div>
             <div className="text-xs text-muted-foreground uppercase tracking-wide">Advertisers</div>
           </div>
         </div>
@@ -365,6 +688,71 @@ export default function Home() {
         {/* 갤러리 */}
         {loading ? (
           <div className="text-center text-muted-foreground py-12">Loading...</div>
+        ) : viewMode === "highlights" ? (
+          // 하이라이트 뷰
+          filteredHighlights.length === 0 ? (
+            <div className="text-center text-muted-foreground py-12">
+              <Star className="w-12 h-12 mx-auto mb-4 text-muted-foreground/30" />
+              <p>No highlights yet.</p>
+              <p className="text-sm mt-1">Click the star icon on ads to save them here.</p>
+            </div>
+          ) : (
+            <>
+              <PaginationAnt
+                current={currentPage}
+                total={filteredHighlights.length}
+                pageSize={pageSize}
+                onChange={handlePageChange}
+                className="mb-6 flex justify-end"
+              />
+
+              <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-7 gap-4">
+                {paginatedHighlights.map((highlight) => (
+                  <AdCard
+                    key={highlight.id}
+                    imageUrl={highlight.image_url}
+                    pageName={highlight.page_name}
+                    collectedAt={highlight.collected_at}
+                    adText={Array.isArray(highlight.ad_text) ? highlight.ad_text.join("\n") : ""}
+                    isHighlighted={true}
+                    onHighlightToggle={() => {
+                      // 하이라이트에서 제거
+                      fetch("/api/highlights", {
+                        method: "DELETE",
+                        headers: { "Content-Type": "application/json" },
+                        body: JSON.stringify({ id: highlight.id }),
+                      }).then(() => {
+                        setHighlightedIds((prev) => {
+                          const next = new Set(prev);
+                          next.delete(highlight.id);
+                          return next;
+                        });
+                        setHighlights((prev) => prev.filter((h) => h.id !== highlight.id));
+                      });
+                    }}
+                    onDescriptionClick={() => {
+                      setSelectedAd({
+                        page_name: highlight.page_name,
+                        ad_text: highlight.ad_text,
+                        image_urls: [highlight.image_url],
+                        _collected_at: highlight.collected_at,
+                        landing_url: highlight.landing_url,
+                      });
+                      setModalOpen(true);
+                    }}
+                  />
+                ))}
+              </div>
+
+              <PaginationAnt
+                current={currentPage}
+                total={filteredHighlights.length}
+                pageSize={pageSize}
+                onChange={handlePageChange}
+                className="mt-6 flex justify-end"
+              />
+            </>
+          )
         ) : filteredAds.length === 0 ? (
           <div className="text-center text-muted-foreground py-12">
             No ads found. Run the pipeline first.
@@ -388,6 +776,8 @@ export default function Home() {
                   pageName={ad.page_name || "Unknown"}
                   collectedAt={ad._collected_at || ""}
                   adText={Array.isArray(ad.ad_text) ? ad.ad_text.join("\n") : ad.ad_text}
+                  isHighlighted={highlightedIds.has(getAdHighlightId(ad))}
+                  onHighlightToggle={() => toggleHighlight(ad, selectedKeyword)}
                   onDescriptionClick={() => {
                     setSelectedAd(ad);
                     setModalOpen(true);

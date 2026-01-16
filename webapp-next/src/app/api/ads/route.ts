@@ -7,6 +7,7 @@ interface Ad {
   ad_text?: string[];
   image_urls?: string[];
   video_urls?: string[];
+  landing_url?: string;
   _collected_at?: string;
   _source_file?: string;
 }
@@ -55,16 +56,28 @@ export async function GET() {
       }
     }
 
-    // 중복 제거 (image_urls 기준)
+    // 중복 제거 (이미지 URL 기준 - 쿼리스트링 제외하고 파일 경로만 비교)
     for (const keyword in allAds) {
-      const seenUrls = new Set<string>();
+      const seenImagePaths = new Set<string>();
       allAds[keyword] = allAds[keyword].filter((ad) => {
         const imageUrl = ad.image_urls?.[0];
-        if (imageUrl && !seenUrls.has(imageUrl)) {
-          seenUrls.add(imageUrl);
+        if (!imageUrl) return false;
+
+        // URL에서 쿼리스트링 제외하고 경로만 추출
+        // 예: https://scontent.../615432525_871913725548992_n.jpg?stp=... → 615432525_871913725548992_n.jpg
+        let imagePath = imageUrl;
+        try {
+          const url = new URL(imageUrl);
+          imagePath = url.pathname; // /v/t39.35426-6/615432525_...n.jpg
+        } catch {
+          // URL 파싱 실패 시 원본 사용
+        }
+
+        if (!seenImagePaths.has(imagePath)) {
+          seenImagePaths.add(imagePath);
           return true;
         }
-        return !imageUrl ? false : false;
+        return false;
       });
     }
 
