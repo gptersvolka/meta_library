@@ -6,12 +6,14 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog";
+import { ExternalLink } from "lucide-react";
 
 interface Ad {
   page_name?: string;
   ad_text?: string[];
   image_urls?: string[];
   _collected_at?: string;
+  landing_url?: string;
 }
 
 interface AdDetailModalProps {
@@ -28,10 +30,21 @@ export function AdDetailModal({ ad, open, onOpenChange }: AdDetailModalProps) {
 
   return (
     <Dialog open={open} onOpenChange={onOpenChange}>
-      <DialogContent className="max-w-7xl w-[95vw] max-h-[92vh] overflow-y-auto p-10">
+      <DialogContent className="max-w-[1400px] w-[98vw] max-h-[92vh] overflow-y-auto p-10">
         <DialogHeader className="pb-4">
           <DialogTitle className="text-xl">{ad.page_name}</DialogTitle>
           <p className="text-sm text-muted-foreground">{ad._collected_at?.slice(0, 10)}</p>
+          {ad.landing_url && (
+            <a
+              href={ad.landing_url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 text-sm text-blue-600 hover:text-blue-800 hover:underline mt-1 transition-colors"
+            >
+              <ExternalLink className="w-4 h-4" />
+              <span className="truncate max-w-[400px]">{ad.landing_url}</span>
+            </a>
+          )}
         </DialogHeader>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10 mt-6">

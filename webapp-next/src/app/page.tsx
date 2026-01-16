@@ -5,6 +5,7 @@ import { AdCard } from "@/components/ui/ad-card";
 import { AdDetailModal } from "@/components/ad-detail-modal";
 import { GlassButton } from "@/components/ui/glass-button";
 import { KeywordInput } from "@/components/ui/keyword-input";
+import { PaginationAnt } from "@/components/ui/pagination-ant";
 import { RefreshCw, ChevronDown, X, Sparkles } from "lucide-react";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { CalendarNew } from "@/components/ui/calendar-new";
@@ -17,6 +18,7 @@ interface Ad {
   video_urls?: string[];
   _collected_at?: string;
   _source_file?: string;
+  landing_url?: string;
 }
 
 interface AdsData {
@@ -40,6 +42,10 @@ export default function Home() {
   // 광고주 필터
   const [selectedAdvertisers, setSelectedAdvertisers] = useState<string[]>([]);
   const [advertiserDropdownOpen, setAdvertiserDropdownOpen] = useState(false);
+
+  // 페이지네이션 (7열 x 10줄 = 70개)
+  const [currentPage, setCurrentPage] = useState(1);
+  const pageSize = 70;
 
   const fetchAds = async () => {
     setLoading(true);
@@ -123,6 +129,24 @@ export default function Home() {
 
   const uniqueAdvertisers = new Set(filteredAds.map((ad) => ad.page_name)).size;
 
+  // 현재 페이지에 해당하는 광고만 추출
+  const paginatedAds = useMemo(() => {
+    const startIndex = (currentPage - 1) * pageSize;
+    const endIndex = startIndex + pageSize;
+    return filteredAds.slice(startIndex, endIndex);
+  }, [filteredAds, currentPage, pageSize]);
+
+  // 필터 변경 시 페이지 리셋
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [selectedKeyword, dateRange, selectedAdvertisers]);
+
+  const handlePageChange = (page: number) => {
+    setCurrentPage(page);
+    // 페이지 변경 시 상단으로 스크롤
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
   const toggleAdvertiser = (advertiser: string) => {
     setSelectedAdvertisers((prev) =>
       prev.includes(advertiser)
@@ -145,8 +169,8 @@ export default function Home() {
         </svg>
       </div>
 
-      {/* 사이드바 */}
-      <aside className="w-64 glass-sidebar p-6 flex flex-col relative z-10">
+      {/* 사이드바 - 화면에 고정 */}
+      <aside className="w-64 glass-sidebar p-6 flex flex-col fixed top-0 left-0 h-screen z-20">
         <div className="flex items-center gap-2">
           <Sparkles className="w-5 h-5 text-foreground/70" />
           <h1 className="text-xl font-semibold text-foreground">Ad Reference</h1>
@@ -176,7 +200,7 @@ export default function Home() {
             placeholder="키워드 추가"
             onSubmit={async (keyword) => {
               try {
-                // 1. 키워드 저장
+                // 1. 키워드 저장 (이미 존재해도 OK)
                 const saveRes = await fetch("/api/keywords", {
                   method: "POST",
                   headers: { "Content-Type": "application/json" },
@@ -184,13 +208,16 @@ export default function Home() {
                 });
                 const saveResult = await saveRes.json();
 
-                if (!saveRes.ok) {
+                if (!saveRes.ok && !saveResult.success) {
                   alert(saveResult.error || "키워드 추가 실패");
                   return;
                 }
 
                 // 2. 즉시 수집 실행
-                alert(`"${keyword}" 키워드 추가됨!\n광고 수집을 시작합니다. (1~2분 소요)`);
+                const message = saveResult.alreadyExists
+                  ? `"${keyword}" 키워드가 이미 존재합니다.\n광고 수집을 시작합니다. (1~2분 소요)`
+                  : `"${keyword}" 키워드 추가됨!\n광고 수집을 시작합니다. (1~2분 소요)`;
+                alert(message);
 
                 const collectRes = await fetch("/api/collect", {
                   method: "POST",
@@ -234,8 +261,8 @@ export default function Home() {
         </p>
       </aside>
 
-      {/* 메인 콘텐츠 */}
-      <main className="flex-1 p-8 relative z-10">
+      {/* 메인 콘텐츠 - 사이드바 너비만큼 왼쪽 여백 */}
+      <main className="flex-1 p-8 relative z-10 ml-64">
         {/* 헤더 */}
         <div className="glass-header text-primary-foreground rounded-xl p-6 mb-6">
           <h1 className="text-2xl font-light">{selectedKeyword || "Select a keyword"}</h1>
@@ -343,21 +370,41 @@ export default function Home() {
             No ads found. Run the pipeline first.
           </div>
         ) : (
-          <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-7 gap-4">
-            {filteredAds.map((ad, idx) => (
-              <AdCard
-                key={`${ad._source_file}-${idx}`}
-                imageUrl={ad.image_urls?.[0] || ""}
-                pageName={ad.page_name || "Unknown"}
-                collectedAt={ad._collected_at || ""}
-                adText={Array.isArray(ad.ad_text) ? ad.ad_text.join("\n") : ad.ad_text}
-                onDescriptionClick={() => {
-                  setSelectedAd(ad);
-                  setModalOpen(true);
-                }}
-              />
-            ))}
-          </div>
+          <>
+            {/* 상단 페이지네이션 */}
+            <PaginationAnt
+              current={currentPage}
+              total={filteredAds.length}
+              pageSize={pageSize}
+              onChange={handlePageChange}
+              className="mb-6 flex justify-end"
+            />
+
+            <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-7 gap-4">
+              {paginatedAds.map((ad, idx) => (
+                <AdCard
+                  key={`${ad._source_file}-${idx}`}
+                  imageUrl={ad.image_urls?.[0] || ""}
+                  pageName={ad.page_name || "Unknown"}
+                  collectedAt={ad._collected_at || ""}
+                  adText={Array.isArray(ad.ad_text) ? ad.ad_text.join("\n") : ad.ad_text}
+                  onDescriptionClick={() => {
+                    setSelectedAd(ad);
+                    setModalOpen(true);
+                  }}
+                />
+              ))}
+            </div>
+
+            {/* 하단 페이지네이션 */}
+            <PaginationAnt
+              current={currentPage}
+              total={filteredAds.length}
+              pageSize={pageSize}
+              onChange={handlePageChange}
+              className="mt-6 flex justify-end"
+            />
+          </>
         )}
       </main>
 

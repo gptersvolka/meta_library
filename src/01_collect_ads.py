@@ -228,6 +228,7 @@ async def parse_ad_container(container, index: int) -> Optional[dict]:
 
         # 링크 추출
         links = await container.query_selector_all('a')
+        landing_urls = []
         for link in links:
             href = await link.get_attribute("href")
             if href:
@@ -237,7 +238,22 @@ async def parse_ad_container(container, index: int) -> Optional[dict]:
                     id_match = re.search(r'id=(\d+)', href)
                     if id_match:
                         ad_data["ad_id"] = id_match.group(1)
-                    break
+                # 랜딩페이지 URL 추출 (l.facebook.com 리다이렉트 또는 외부 링크)
+                elif "l.facebook.com/l.php" in href:
+                    # 리다이렉트 URL에서 실제 URL 추출
+                    from urllib.parse import unquote, parse_qs, urlparse
+                    parsed = urlparse(href)
+                    params = parse_qs(parsed.query)
+                    if 'u' in params:
+                        landing_urls.append(unquote(params['u'][0]))
+                elif not href.startswith('/') and not 'facebook.com' in href and not 'fbcdn' in href:
+                    # 외부 URL인 경우
+                    if href.startswith('http'):
+                        landing_urls.append(href)
+
+        # 랜딩페이지 URL 저장 (첫 번째 유효한 URL)
+        if landing_urls:
+            ad_data["landing_url"] = landing_urls[0]
 
         # 데이터가 있으면 반환
         if any(key in ad_data for key in ["page_name", "ad_text", "image_urls", "video_urls"]):

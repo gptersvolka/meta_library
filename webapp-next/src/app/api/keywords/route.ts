@@ -93,13 +93,16 @@ export async function POST(request: Request) {
 
     const data = readKeywords();
 
-    // 중복 체크
+    // 중복 체크 - 이미 존재하면 성공으로 반환 (수집은 별도로 진행 가능)
     const exists = data.keywords.some(kw => kw.query === trimmedKeyword);
     if (exists) {
-      return NextResponse.json(
-        { error: "Keyword already exists", keywords: data.keywords.map(kw => kw.query) },
-        { status: 409 }
-      );
+      return NextResponse.json({
+        success: true,
+        keyword: trimmedKeyword,
+        keywords: data.keywords.map(kw => kw.query),
+        alreadyExists: true,
+        message: "Keyword already exists, you can run collection"
+      });
     }
 
     // 키워드 추가 (스케줄러 형식)
