@@ -5,11 +5,10 @@ import { AdCard } from "@/components/ui/ad-card";
 import { AdDetailModal } from "@/components/ad-detail-modal";
 import { GlassButton } from "@/components/ui/glass-button";
 import { KeywordInput } from "@/components/ui/keyword-input";
-import { RefreshCw, Calendar, ChevronDown, X, Sparkles } from "lucide-react";
+import { RefreshCw, ChevronDown, X, Sparkles } from "lucide-react";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
-import { Calendar as CalendarComponent } from "@/components/ui/calendar";
-import { format } from "date-fns";
-import { DateRange } from "react-day-picker";
+import { CalendarNew } from "@/components/ui/calendar-new";
+import { startOfDay, endOfDay } from "date-fns";
 
 interface Ad {
   page_name?: string;
@@ -33,7 +32,7 @@ export default function Home() {
   const [loading, setLoading] = useState(true);
 
   // 날짜 필터
-  const [dateRange, setDateRange] = useState<DateRange | undefined>({
+  const [dateRange, setDateRange] = useState<{ from: Date | null; to: Date | null }>({
     from: new Date(Date.now() - 30 * 24 * 60 * 60 * 1000),
     to: new Date(),
   });
@@ -81,12 +80,24 @@ export default function Home() {
 
   // 날짜 필터 적용
   const dateFilteredAds = useMemo(() => {
-    if (!dateRange?.from || !dateRange?.to) return validAds;
+    if (!dateRange?.from && !dateRange?.to) return validAds;
 
     return validAds.filter((ad) => {
       if (!ad._collected_at) return true;
       const adDate = new Date(ad._collected_at);
-      return adDate >= dateRange.from! && adDate <= dateRange.to!;
+
+      // 시작일과 종료일을 하루의 시작/끝으로 설정하여 같은 날짜도 포함되도록
+      const fromDate = dateRange.from ? startOfDay(dateRange.from) : null;
+      const toDate = dateRange.to ? endOfDay(dateRange.to) : null;
+
+      if (fromDate && toDate) {
+        return adDate >= fromDate && adDate <= toDate;
+      } else if (fromDate) {
+        return adDate >= fromDate;
+      } else if (toDate) {
+        return adDate <= toDate;
+      }
+      return true;
     });
   }, [validAds, dateRange]);
 
@@ -96,10 +107,18 @@ export default function Home() {
     return Array.from(advertisers).sort() as string[];
   }, [dateFilteredAds]);
 
-  // 최종 필터링된 광고
+  // 최종 필터링된 광고 (최신순 정렬)
   const filteredAds = useMemo(() => {
-    if (selectedAdvertisers.length === 0) return dateFilteredAds;
-    return dateFilteredAds.filter((ad) => selectedAdvertisers.includes(ad.page_name || ""));
+    let ads = dateFilteredAds;
+    if (selectedAdvertisers.length > 0) {
+      ads = ads.filter((ad) => selectedAdvertisers.includes(ad.page_name || ""));
+    }
+    // 날짜 역순 정렬 (최신순)
+    return [...ads].sort((a, b) => {
+      const dateA = a._collected_at ? new Date(a._collected_at).getTime() : 0;
+      const dateB = b._collected_at ? new Date(b._collected_at).getTime() : 0;
+      return dateB - dateA;
+    });
   }, [dateFilteredAds, selectedAdvertisers]);
 
   const uniqueAdvertisers = new Set(filteredAds.map((ad) => ad.page_name)).size;
@@ -223,57 +242,30 @@ export default function Home() {
           <p className="text-primary-foreground/60 text-sm mt-1">Ad creatives from Meta Ad Library</p>
         </div>
 
-        {/* 필터 영역 */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+        {/* 필터 영역 - 왼쪽 정렬, 너비 축소 */}
+        <div className="flex flex-wrap items-end gap-4 mb-6">
           {/* 날짜 필터 */}
-          <div>
+          <div className="w-auto">
             <label className="text-xs font-medium text-muted-foreground uppercase tracking-wide mb-2 block">
               Date Range
             </label>
-            <Popover>
-              <PopoverTrigger asChild>
-                <button className="glass-card w-full flex items-center justify-between px-4 py-2.5 rounded-lg text-sm text-foreground">
-                  <div className="flex items-center gap-2">
-                    <Calendar className="w-4 h-4 text-muted-foreground" />
-                    <span>
-                      {dateRange?.from ? (
-                        dateRange.to ? (
-                          <>
-                            {format(dateRange.from, "yyyy-MM-dd")} ~ {format(dateRange.to, "yyyy-MM-dd")}
-                          </>
-                        ) : (
-                          format(dateRange.from, "yyyy-MM-dd")
-                        )
-                      ) : (
-                        "Select date range"
-                      )}
-                    </span>
-                  </div>
-                  <ChevronDown className="w-4 h-4 text-muted-foreground" />
-                </button>
-              </PopoverTrigger>
-              <PopoverContent className="w-auto p-0" align="start">
-                <CalendarComponent
-                  mode="range"
-                  selected={dateRange}
-                  onSelect={setDateRange}
-                  numberOfMonths={2}
-                />
-              </PopoverContent>
-            </Popover>
+            <CalendarNew
+              value={dateRange}
+              onChange={setDateRange}
+            />
           </div>
 
           {/* 광고주 필터 */}
-          <div>
+          <div className="w-auto min-w-[180px]">
             <label className="text-xs font-medium text-muted-foreground uppercase tracking-wide mb-2 block">
               Advertiser
             </label>
             <Popover open={advertiserDropdownOpen} onOpenChange={setAdvertiserDropdownOpen}>
               <PopoverTrigger asChild>
-                <button className="glass-card w-full flex items-center justify-between px-4 py-2.5 rounded-lg text-sm text-foreground">
+                <button className="glass-card flex items-center justify-between gap-2 px-4 py-2.5 rounded-lg text-sm text-foreground">
                   <span className="truncate">
                     {selectedAdvertisers.length === 0
-                      ? "Click to select (all if none)"
+                      ? "All advertisers"
                       : `${selectedAdvertisers.length} selected`}
                   </span>
                   <ChevronDown className="w-4 h-4 text-muted-foreground flex-shrink-0" />
@@ -329,15 +321,15 @@ export default function Home() {
           </div>
         )}
 
-        {/* 통계 */}
-        <div className="grid grid-cols-2 gap-4 mb-6">
-          <div className="glass-card rounded-xl p-4 text-center">
-            <div className="text-3xl font-light text-foreground">{filteredAds.length}</div>
-            <div className="text-xs text-muted-foreground uppercase tracking-wide mt-1">Total Ads</div>
+        {/* 통계 - 왼쪽 정렬, 너비 축소 */}
+        <div className="flex gap-4 mb-6">
+          <div className="glass-card rounded-xl px-6 py-3 text-center">
+            <div className="text-2xl font-light text-foreground">{filteredAds.length}</div>
+            <div className="text-xs text-muted-foreground uppercase tracking-wide">Total Ads</div>
           </div>
-          <div className="glass-card rounded-xl p-4 text-center">
-            <div className="text-3xl font-light text-foreground">{uniqueAdvertisers}</div>
-            <div className="text-xs text-muted-foreground uppercase tracking-wide mt-1">Advertisers</div>
+          <div className="glass-card rounded-xl px-6 py-3 text-center">
+            <div className="text-2xl font-light text-foreground">{uniqueAdvertisers}</div>
+            <div className="text-xs text-muted-foreground uppercase tracking-wide">Advertisers</div>
           </div>
         </div>
 

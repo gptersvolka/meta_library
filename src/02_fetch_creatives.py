@@ -15,7 +15,10 @@ import requests
 from loguru import logger
 from PIL import Image
 
-from src.config import RAW_DIR, IMAGES_DIR, ensure_dirs
+from src.config import RAW_DIR, IMAGES_DIR, PROJECT_ROOT, ensure_dirs
+
+# 전역 해시 로그 파일 (중복 방지용)
+HASH_LOG_FILE = PROJECT_ROOT / "data" / "image_hashes.json"
 
 
 def download_image(url: str, save_path: Path, timeout: int = 30) -> bool:
@@ -51,6 +54,33 @@ def calculate_image_hash(image_bytes: bytes) -> str:
     return hashlib.md5(image_bytes).hexdigest()
 
 
+def load_hash_log() -> set:
+    """전역 해시 로그 로드 (이전 수집된 모든 이미지 해시)"""
+    if not HASH_LOG_FILE.exists():
+        return set()
+    try:
+        with open(HASH_LOG_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            return set(data.get("hashes", []))
+    except Exception as e:
+        logger.warning(f"해시 로그 로드 실패: {e}")
+        return set()
+
+
+def save_hash_log(hashes: set):
+    """전역 해시 로그 저장"""
+    try:
+        with open(HASH_LOG_FILE, "w", encoding="utf-8") as f:
+            json.dump({
+                "updated_at": datetime.now().isoformat(),
+                "count": len(hashes),
+                "hashes": list(hashes)
+            }, f, ensure_ascii=False, indent=2)
+        logger.debug(f"해시 로그 저장 완료: {len(hashes)}개")
+    except Exception as e:
+        logger.error(f"해시 로그 저장 실패: {e}")
+
+
 def fetch_creatives_from_raw(raw_file: Path, skip_duplicates: bool = True) -> list[dict]:
     """
     Playwright 스크래핑 JSON에서 이미지를 다운로드
@@ -70,10 +100,14 @@ def fetch_creatives_from_raw(raw_file: Path, skip_duplicates: bool = True) -> li
     query = data.get("query", "unknown")
     ads = data.get("ads", [])
     results = []
-    seen_hashes = set()
+
+    # 전역 해시 로그 로드 (이전 수집 포함)
+    global_hashes = load_hash_log() if skip_duplicates else set()
+    seen_hashes = set(global_hashes)  # 복사본으로 작업
     skipped = 0
 
     logger.info(f"총 {len(ads)}개 광고에서 이미지 다운로드 시작")
+    logger.info(f"기존 해시 로그: {len(global_hashes)}개 이미지 중복 체크")
 
     for i, ad in enumerate(ads):
         page_name = ad.get("page_name", "unknown")
@@ -152,7 +186,12 @@ def fetch_creatives_from_raw(raw_file: Path, skip_duplicates: bool = True) -> li
             })
 
     if skipped > 0:
-        logger.info(f"중복 이미지 {skipped}개 건너뜀")
+        logger.info(f"중복 이미지 {skipped}개 건너뜀 (전역 해시 기준)")
+
+    # 전역 해시 로그 저장 (새로 추가된 해시 포함)
+    if skip_duplicates and len(seen_hashes) > len(global_hashes):
+        save_hash_log(seen_hashes)
+        logger.info(f"해시 로그 업데이트: {len(global_hashes)} → {len(seen_hashes)}개")
 
     success_count = sum(1 for r in results if r["status"] in ["success", "exists"])
     logger.info(f"이미지 다운로드 완료: {success_count}/{len(results)}개 성공")

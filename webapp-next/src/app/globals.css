@@ -44,6 +44,37 @@
   --radius-2xl: calc(var(--radius) + 8px);
   --radius-3xl: calc(var(--radius) + 12px);
   --radius-4xl: calc(var(--radius) + 16px);
+
+  /* Calendar component colors */
+  --color-background-100: var(--background-100);
+  --color-background-200: var(--background-200);
+  --color-geist-foreground: var(--geist-foreground);
+  --color-gray-100: var(--gray-100);
+  --color-gray-200: var(--gray-200);
+  --color-gray-700: var(--gray-700);
+  --color-gray-900: var(--gray-900);
+  --color-gray-1000: var(--gray-1000);
+  --color-gray-alpha-400: var(--gray-alpha-400);
+  --color-gray-alpha-500: var(--gray-alpha-500);
+  --color-accents-5: var(--accents-5);
+  --color-blue-700: var(--blue-700);
+  --color-blue-900: var(--blue-900);
+  --color-red-900: var(--red-900);
+  --color-red-900-alpha-160: var(--red-900-alpha-160);
+  --color-error: var(--red-900);
+
+  /* Calendar component shadows */
+  --shadow-focus-input: var(--shadow-focus-input);
+  --shadow-error-input: var(--shadow-error-input);
+  --shadow-error-input-hover: var(--shadow-error-input-hover);
+  --shadow-border: var(--shadow-border);
+  --shadow-border-small: var(--shadow-border-small);
+  --shadow-border-medium: var(--shadow-border-medium);
+  --shadow-border-large: var(--shadow-border-large);
+  --shadow-tooltip: var(--shadow-tooltip);
+  --shadow-menu: var(--shadow-menu);
+  --shadow-modal: var(--shadow-modal);
+  --shadow-fullscreen: var(--shadow-fullscreen);
 }
 
 :root {
@@ -79,6 +110,34 @@
   --sidebar-accent-foreground: oklch(0.205 0 0);
   --sidebar-border: oklch(0.922 0 0);
   --sidebar-ring: oklch(0.708 0 0);
+
+  /* Calendar component variables */
+  --background-100: #ffffff;
+  --background-200: #fafafa;
+  --geist-foreground: #171717;
+  --gray-100: #f5f5f5;
+  --gray-200: #ebebeb;
+  --gray-700: #666666;
+  --gray-900: #171717;
+  --gray-1000: #000000;
+  --gray-alpha-400: rgba(0, 0, 0, 0.08);
+  --gray-alpha-500: rgba(0, 0, 0, 0.12);
+  --accents-5: #666666;
+  --blue-700: #0070f3;
+  --blue-900: #0050b3;
+  --red-900: #e5484d;
+  --red-900-alpha-160: rgba(229, 72, 77, 0.16);
+  --shadow-focus-input: 0 0 0 3px rgba(0, 112, 243, 0.25);
+  --shadow-error-input: 0 0 0 1px #e5484d;
+  --shadow-error-input-hover: 0 0 0 1px #e5484d, 0 0 0 3px rgba(229, 72, 77, 0.16);
+  --shadow-border: 0 0 0 1px rgba(0, 0, 0, 0.08);
+  --shadow-border-small: 0 0 0 1px rgba(0, 0, 0, 0.05);
+  --shadow-border-medium: 0 0 0 1px rgba(0, 0, 0, 0.08), 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  --shadow-border-large: 0 0 0 1px rgba(0, 0, 0, 0.08), 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  --shadow-tooltip: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  --shadow-menu: 0 10px 38px -10px rgba(0, 0, 0, 0.35), 0 10px 20px -15px rgba(0, 0, 0, 0.2);
+  --shadow-modal: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  --shadow-fullscreen: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
 }
 
 .dark {
@@ -113,6 +172,34 @@
   --sidebar-accent-foreground: oklch(0.985 0 0);
   --sidebar-border: oklch(1 0 0 / 10%);
   --sidebar-ring: oklch(0.556 0 0);
+
+  /* Calendar component variables (dark) */
+  --background-100: #0a0a0a;
+  --background-200: #1a1a1a;
+  --geist-foreground: #ededed;
+  --gray-100: #1a1a1a;
+  --gray-200: #2a2a2a;
+  --gray-700: #a1a1a1;
+  --gray-900: #ededed;
+  --gray-1000: #ffffff;
+  --gray-alpha-400: rgba(255, 255, 255, 0.08);
+  --gray-alpha-500: rgba(255, 255, 255, 0.12);
+  --accents-5: #a1a1a1;
+  --blue-700: #3b82f6;
+  --blue-900: #60a5fa;
+  --red-900: #f87171;
+  --red-900-alpha-160: rgba(248, 113, 113, 0.16);
+  --shadow-focus-input: 0 0 0 3px rgba(59, 130, 246, 0.25);
+  --shadow-error-input: 0 0 0 1px #f87171;
+  --shadow-error-input-hover: 0 0 0 1px #f87171, 0 0 0 3px rgba(248, 113, 113, 0.16);
+  --shadow-border: 0 0 0 1px rgba(255, 255, 255, 0.08);
+  --shadow-border-small: 0 0 0 1px rgba(255, 255, 255, 0.05);
+  --shadow-border-medium: 0 0 0 1px rgba(255, 255, 255, 0.08), 0 4px 6px -1px rgba(0, 0, 0, 0.3);
+  --shadow-border-large: 0 0 0 1px rgba(255, 255, 255, 0.08), 0 10px 15px -3px rgba(0, 0, 0, 0.3);
+  --shadow-tooltip: 0 4px 6px -1px rgba(0, 0, 0, 0.3);
+  --shadow-menu: 0 10px 38px -10px rgba(0, 0, 0, 0.5), 0 10px 20px -15px rgba(0, 0, 0, 0.4);
+  --shadow-modal: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+  --shadow-fullscreen: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
 }
 
 @layer base {

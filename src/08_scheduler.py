@@ -73,14 +73,25 @@ def list_keywords():
     return data.get("keywords", [])
 
 
+def count_today_images() -> int:
+    """오늘 수집된 이미지 개수 카운트"""
+    from src.config import IMAGES_DIR
+    today_str = datetime.now().strftime("%Y%m%d")
+    count = 0
+    for img_file in IMAGES_DIR.glob(f"{today_str}_*.png"):
+        count += 1
+    return count
+
+
 def run_scheduled_collection():
-    """스케줄된 수집 실행 - 등록된 모든 키워드 수집"""
+    """스케줄된 수집 실행 - 등록된 모든 키워드 수집 (일일 제한 적용)"""
     logger.info("=" * 60)
     logger.info(f"스케줄 수집 시작: {datetime.now().isoformat()}")
     logger.info("=" * 60)
 
     data = load_keywords()
     keywords = data.get("keywords", [])
+    daily_limit = data.get("daily_limit", 20)  # 일일 최대 수집량
 
     if not keywords:
         logger.warning("등록된 키워드가 없습니다.")
@@ -88,13 +99,31 @@ def run_scheduled_collection():
 
     enabled_keywords = [kw for kw in keywords if kw.get("enabled", True)]
     logger.info(f"수집 대상 키워드: {len(enabled_keywords)}개")
+    logger.info(f"일일 최대 수집량: {daily_limit}개")
+
+    # 오늘 이미 수집된 이미지 확인
+    already_collected = count_today_images()
+    logger.info(f"오늘 이미 수집된 이미지: {already_collected}개")
+
+    if already_collected >= daily_limit:
+        logger.info(f"일일 제한({daily_limit}개)에 도달. 수집 건너뜀.")
+        return
+
+    total_collected = already_collected
 
     for idx, kw in enumerate(enabled_keywords, 1):
+        # 일일 제한 체크
+        if total_collected >= daily_limit:
+            logger.info(f"일일 제한({daily_limit}개) 도달. 나머지 키워드 건너뜀.")
+            break
+
         query = kw["query"]
         country = kw.get("country", "KR")
-        limit = kw.get("limit", 50)
+        # 남은 수집 가능 개수만큼만 요청
+        remaining = daily_limit - total_collected
+        limit = min(kw.get("limit", 20), remaining)
 
-        logger.info(f"\n[{idx}/{len(enabled_keywords)}] 키워드 수집: {query}")
+        logger.info(f"\n[{idx}/{len(enabled_keywords)}] 키워드 수집: {query} (최대 {limit}개)")
 
         try:
             run_full_pipeline(
@@ -102,17 +131,21 @@ def run_scheduled_collection():
                 country=country,
                 limit=limit,
                 headless=True,
-                image_only=False,
+                image_only=True,  # 동영상 제외, 이미지/캐러셀 첫장만 수집
                 skip_download=False,
                 skip_upload=False,
                 skip_sheets=False
             )
+            # 수집 후 카운트 갱신
+            total_collected = count_today_images()
+            logger.info(f"현재까지 오늘 총 {total_collected}개 이미지 수집")
         except Exception as e:
             logger.error(f"키워드 '{query}' 수집 실패: {e}")
             continue
 
     logger.info("\n" + "=" * 60)
     logger.info(f"스케줄 수집 완료: {datetime.now().isoformat()}")
+    logger.info(f"오늘 총 수집: {total_collected}개 이미지")
     logger.info("=" * 60)
 
 

@@ -70,3 +70,41 @@ python -m src.07_run_weekly --query "ai course" --limit 50
 
 - 응답, 주석, 커밋 메시지, 문서화: 한국어
 - 변수명, 함수명: 영어 (코드 표준)
+
+---
+
+# GPTers AI Toolkit 연동
+
+## 스킬 자동 활성화 (필수)
+
+새로운 유형의 작업 시작 시 **반드시** 관련 스킬을 검색하세요:
+
+1. 작업 키워드로 검색
+2. 결과가 있으면 get_plugin_content로 내용 확인
+3. 스킬 지침에 따라 작업 수행
+
+```
+gpters-ai-toolkit search_plugins("키워드")
+gpters-ai-toolkit get_plugin_content("스킬ID")
+```
+
+**이 규칙은 SKIP 불가.**
+
+### 검색 키워드 예시
+
+| 작업 유형 | 검색어 |
+|----------|--------|
+| 개발 로그, 사례글 작성 | devlog, writing |
+| 코드 리팩토링 | refactor |
+| PDF 변환 | pdf |
+| Airtable 연동 | airtable |
+| Hook 설정 | hooks |
+| 배포/도메인 | deploy, domain |
+| DB 접근 | database, postgresql |
+
+## 플러그인 배포
+
+만든 스킬을 팀과 공유하려면:
+
+```
+gpters-ai-toolkit deploy_skill(type="skill", name="스킬명", content="...")
