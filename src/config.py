@@ -32,57 +32,6 @@ COUNTRY = get_env("COUNTRY", default="KR")
 QUERY = get_env("QUERY", default="")
 
 
-# 필수 설정 (함수로 제공 - 실행 시점에 검증)
-def get_meta_access_token() -> str:
-    """Meta API 토큰 반환"""
-    return get_env("META_ACCESS_TOKEN", required=True)
-
-
-def get_google_credentials_path() -> str:
-    """Google 서비스 계정 JSON 경로 반환"""
-    return get_env("GOOGLE_APPLICATION_CREDENTIALS", required=True)
-
-
-def get_sheet_id() -> str:
-    """Google 스프레드시트 ID 반환"""
-    return get_env("SHEET_ID", required=True)
-
-
-def get_drive_folder_id() -> str:
-    """Google Drive 폴더 ID 반환"""
-    return get_env("DRIVE_FOLDER_ID", required=True)
-
-
-# 하위 호환성을 위한 변수 (실행 시점에 lazy load)
-class _LazyConfig:
-    """필수 환경 변수를 실행 시점에 로드하는 래퍼"""
-
-    @property
-    def META_ACCESS_TOKEN(self):
-        return get_meta_access_token()
-
-    @property
-    def GOOGLE_CREDENTIALS_PATH(self):
-        return get_google_credentials_path()
-
-    @property
-    def SHEET_ID(self):
-        return get_sheet_id()
-
-    @property
-    def DRIVE_FOLDER_ID(self):
-        return get_drive_folder_id()
-
-
-_lazy = _LazyConfig()
-
-# 모듈 레벨에서 접근 가능하도록 (실행 시점에 로드됨)
-META_ACCESS_TOKEN = property(lambda self: get_meta_access_token())
-GOOGLE_CREDENTIALS_PATH = property(lambda self: get_google_credentials_path())
-SHEET_ID = property(lambda self: get_sheet_id())
-DRIVE_FOLDER_ID = property(lambda self: get_drive_folder_id())
-
-
 def ensure_dirs():
     """필요한 디렉토리들이 존재하는지 확인하고 생성"""
     for dir_path in [RAW_DIR, IMAGES_DIR, OCR_DIR, LOGS_DIR]:

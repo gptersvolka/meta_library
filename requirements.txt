@@ -1,20 +1,8 @@
-# Meta Ads Library API 호출
+# 이미지 다운로드
 requests>=2.31.0
 
-# 브라우저 캡처 (Fallback)
+# 브라우저 스크래핑
 playwright>=1.40.0
-
-# 이미지 처리
-Pillow>=10.0.0
-
-# OCR
-pytesseract>=0.3.10
-
-# Google API 연동
-google-api-python-client>=2.100.0
-google-auth-httplib2>=0.1.1
-google-auth-oauthlib>=1.1.0
-gspread>=5.12.0
 
 # 환경 변수 로드
 python-dotenv>=1.0.0
@@ -24,9 +12,6 @@ click>=8.1.0
 
 # 로깅
 loguru>=0.7.0
-
-# 웹 UI
-streamlit>=1.29.0
 
 # 스케줄러
 schedule>=1.2.0
