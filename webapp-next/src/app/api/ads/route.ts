@@ -18,13 +18,48 @@ interface JsonData {
   ads: Ad[];
 }
 
+interface KeywordItem {
+  query: string;
+  country: string;
+  limit: number;
+  enabled: boolean;
+}
+
+interface KeywordsData {
+  keywords: KeywordItem[];
+  schedule: { time: string };
+}
+
+// keywords.json에서 등록된 키워드 목록 읽기
+function getRegisteredKeywords(): string[] {
+  const keywordsFile = path.join(process.cwd(), "..", "data", "keywords.json");
+  try {
+    if (fs.existsSync(keywordsFile)) {
+      const content = fs.readFileSync(keywordsFile, "utf-8");
+      const data: KeywordsData = JSON.parse(content);
+      return data.keywords.map(kw => kw.query);
+    }
+  } catch (e) {
+    console.error("Error reading keywords.json:", e);
+  }
+  return [];
+}
+
 export async function GET() {
   try {
     // data/raw 폴더 경로 (프로젝트 루트 기준)
     const dataDir = path.join(process.cwd(), "..", "data", "raw");
 
+    // keywords.json에서 등록된 키워드 가져오기
+    const registeredKeywords = getRegisteredKeywords();
+
     if (!fs.existsSync(dataDir)) {
-      return NextResponse.json({ keywords: [], ads: {} }, { status: 200 });
+      // 폴더가 없어도 등록된 키워드는 표시 (빈 광고 목록과 함께)
+      const emptyAds: Record<string, Ad[]> = {};
+      for (const kw of registeredKeywords) {
+        emptyAds[kw] = [];
+      }
+      return NextResponse.json({ keywords: registeredKeywords, ads: emptyAds }, { status: 200 });
     }
 
     const files = fs.readdirSync(dataDir).filter((f) => f.endsWith(".json"));
@@ -81,8 +116,22 @@ export async function GET() {
       });
     }
 
+    // keywords.json에 등록되었지만 아직 수집되지 않은 키워드도 포함
+    for (const kw of registeredKeywords) {
+      if (!allAds[kw]) {
+        allAds[kw] = [];
+      }
+    }
+
+    // 키워드 목록: keywords.json 순서 우선, 그 다음 수집된 키워드
+    const collectedKeywords = Object.keys(allAds);
+    const orderedKeywords = [
+      ...registeredKeywords,
+      ...collectedKeywords.filter(kw => !registeredKeywords.includes(kw))
+    ];
+
     return NextResponse.json({
-      keywords: Object.keys(allAds),
+      keywords: orderedKeywords,
       ads: allAds,
     });
   } catch (error) {

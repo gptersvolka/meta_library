@@ -61,8 +61,8 @@ export default function Home() {
     };
   });
 
-  // 광고주 필터
-  const [selectedAdvertisers, setSelectedAdvertisers] = useState<string[]>([]);
+  // 광고주 필터 (null = 전체 선택, [] = 아무것도 선택 안됨)
+  const [selectedAdvertisers, setSelectedAdvertisers] = useState<string[] | null>(null);
   const [advertiserDropdownOpen, setAdvertiserDropdownOpen] = useState(false);
 
   // 페이지네이션 (7열 x 10줄 = 70개)
@@ -220,9 +220,16 @@ export default function Home() {
   }, [dateFilteredAds]);
 
   // 최종 필터링된 광고 (최신순 정렬)
+  // selectedAdvertisers: null = 전체 선택, [] = 아무것도 선택 안됨, [...] = 선택된 항목만
   const filteredAds = useMemo(() => {
     let ads = dateFilteredAds;
-    if (selectedAdvertisers.length > 0) {
+    if (selectedAdvertisers === null) {
+      // null = 전체 선택 (필터 없음)
+    } else if (selectedAdvertisers.length === 0) {
+      // 빈 배열 = 아무것도 선택 안됨 → 결과 없음
+      ads = [];
+    } else {
+      // 선택된 항목만 필터링
       ads = ads.filter((ad) => selectedAdvertisers.includes(ad.page_name || ""));
     }
     // 날짜 역순 정렬 (최신순)
@@ -263,8 +270,13 @@ export default function Home() {
       });
     }
 
-    // 광고주 필터
-    if (selectedAdvertisers.length > 0) {
+    // 광고주 필터 (null = 전체, [] = 없음, [...] = 선택된 것만)
+    if (selectedAdvertisers === null) {
+      // 전체 선택 - 필터 없음
+    } else if (selectedAdvertisers.length === 0) {
+      // 아무것도 선택 안됨 - 결과 없음
+      filtered = [];
+    } else {
       filtered = filtered.filter((h) => selectedAdvertisers.includes(h.page_name));
     }
 
@@ -301,9 +313,9 @@ export default function Home() {
     return filteredHighlights.slice(startIndex, endIndex);
   }, [filteredHighlights, currentPage, pageSize]);
 
-  // 키워드 변경 시 광고주 필터 초기화
+  // 키워드 변경 시 광고주 필터 초기화 (null = 전체 선택)
   useEffect(() => {
-    setSelectedAdvertisers([]);
+    setSelectedAdvertisers(null);
   }, [selectedKeyword]);
 
   // 필터 변경 시 페이지 리셋
@@ -317,13 +329,7 @@ export default function Home() {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
-  const toggleAdvertiser = (advertiser: string) => {
-    setSelectedAdvertisers((prev) =>
-      prev.includes(advertiser)
-        ? prev.filter((a) => a !== advertiser)
-        : [...prev, advertiser]
-    );
-  };
+  // toggleAdvertiser는 더 이상 사용되지 않음 - 직접 로직 사용
 
   const deleteKeyword = async (keyword: string) => {
     if (!confirm(`"${keyword}" 키워드를 삭제하시겠습니까?\n\n(수집된 광고 데이터는 유지됩니다)`)) {
@@ -534,38 +540,80 @@ export default function Home() {
                 <button className="glass-card flex items-center justify-between gap-2 px-3 py-2 rounded-lg text-sm text-foreground min-w-[220px]">
                   <User className="w-4 h-4 text-muted-foreground flex-shrink-0" />
                   <span className="truncate flex-1 text-left">
-                    {selectedAdvertisers.length === 0
+                    {selectedAdvertisers === null
                       ? "All advertisers"
-                      : `${selectedAdvertisers.length} selected`}
+                      : selectedAdvertisers.length === 0
+                        ? "None selected"
+                        : `${selectedAdvertisers.length} selected`}
                   </span>
                   <ChevronDown className="w-4 h-4 text-muted-foreground flex-shrink-0" />
                 </button>
               </PopoverTrigger>
               <PopoverContent className="w-72 p-2" align="start">
-                <div className="max-h-60 overflow-y-auto space-y-1">
-                  {(viewMode === "highlights" ? highlightAdvertisers : availableAdvertisers).map((advertiser) => (
-                    <label
-                      key={advertiser}
-                      className="flex items-center gap-2 px-2 py-1.5 rounded hover:bg-accent cursor-pointer"
-                    >
-                      <input
-                        type="checkbox"
-                        checked={selectedAdvertisers.includes(advertiser)}
-                        onChange={() => toggleAdvertiser(advertiser)}
-                        className="rounded border-border"
-                      />
-                      <span className="text-sm text-foreground truncate">{advertiser}</span>
-                    </label>
-                  ))}
-                </div>
-                {selectedAdvertisers.length > 0 && (
-                  <button
-                    onClick={() => setSelectedAdvertisers([])}
-                    className="w-full mt-2 py-1.5 text-xs text-muted-foreground hover:text-foreground border-t border-border"
-                  >
-                    Clear all
-                  </button>
-                )}
+                {(() => {
+                  const currentAdvertisers = viewMode === "highlights" ? highlightAdvertisers : availableAdvertisers;
+                  // null = 전체 선택, [] = 아무것도 선택 안됨
+                  const isAllSelected = selectedAdvertisers === null;
+                  const isNoneSelected = selectedAdvertisers !== null && selectedAdvertisers.length === 0;
+
+                  return (
+                    <>
+                      <div className="max-h-60 overflow-y-auto space-y-1">
+                        {currentAdvertisers.map((advertiser) => {
+                          // null = 전체 선택 (모두 체크), 아니면 포함된 것만 체크
+                          const isChecked = selectedAdvertisers === null || selectedAdvertisers.includes(advertiser);
+                          return (
+                            <label
+                              key={advertiser}
+                              className="flex items-center gap-2 px-2 py-1.5 rounded hover:bg-accent cursor-pointer"
+                            >
+                              <input
+                                type="checkbox"
+                                checked={isChecked}
+                                onChange={() => {
+                                  if (selectedAdvertisers === null) {
+                                    // 전체 선택 상태에서 하나 해제 → 해당 항목 제외한 나머지 선택
+                                    setSelectedAdvertisers(currentAdvertisers.filter(a => a !== advertiser));
+                                  } else if (selectedAdvertisers.includes(advertiser)) {
+                                    // 선택된 항목 해제
+                                    const newSelection = selectedAdvertisers.filter(a => a !== advertiser);
+                                    setSelectedAdvertisers(newSelection);
+                                  } else {
+                                    // 선택 안된 항목 추가
+                                    const newSelection = [...selectedAdvertisers, advertiser];
+                                    // 모든 항목이 선택되면 null로 (전체 선택 상태)
+                                    if (newSelection.length === currentAdvertisers.length) {
+                                      setSelectedAdvertisers(null);
+                                    } else {
+                                      setSelectedAdvertisers(newSelection);
+                                    }
+                                  }
+                                }}
+                                className="rounded border-border"
+                              />
+                              <span className="text-sm text-foreground truncate">{advertiser}</span>
+                            </label>
+                          );
+                        })}
+                      </div>
+                      {isAllSelected ? (
+                        <button
+                          onClick={() => setSelectedAdvertisers([])}
+                          className="w-full mt-2 py-1.5 text-xs text-muted-foreground hover:text-foreground border-t border-border"
+                        >
+                          Clear all
+                        </button>
+                      ) : (
+                        <button
+                          onClick={() => setSelectedAdvertisers(null)}
+                          className="w-full mt-2 py-1.5 text-xs text-muted-foreground hover:text-foreground border-t border-border"
+                        >
+                          Select all
+                        </button>
+                      )}
+                    </>
+                  );
+                })()}
               </PopoverContent>
             </Popover>
           </div>
@@ -626,10 +674,10 @@ export default function Home() {
         </div>
 
         {/* 선택된 필터 태그 */}
-        {(selectedAdvertisers.length > 0 || selectedHighlightKeywords.length > 0) && (
+        {((selectedAdvertisers !== null && selectedAdvertisers.length > 0) || selectedHighlightKeywords.length > 0) && (
           <div className="flex flex-wrap gap-2 mb-4">
             {/* Advertiser 태그 - 파란색 계열 */}
-            {selectedAdvertisers.map((advertiser) => (
+            {selectedAdvertisers !== null && selectedAdvertisers.map((advertiser) => (
               <span
                 key={`adv-${advertiser}`}
                 className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs rounded-full bg-blue-50 text-blue-700 border border-blue-200"
@@ -637,7 +685,10 @@ export default function Home() {
                 <User className="w-3 h-3" />
                 {advertiser}
                 <button
-                  onClick={() => toggleAdvertiser(advertiser)}
+                  onClick={() => {
+                    const newSelection = selectedAdvertisers.filter(a => a !== advertiser);
+                    setSelectedAdvertisers(newSelection);
+                  }}
                   className="hover:text-blue-900 transition-colors ml-0.5"
                 >
                   <X className="w-3 h-3" />
