@@ -2,8 +2,21 @@ import { NextResponse } from "next/server";
 import fs from "fs";
 import path from "path";
 
+// 데이터 경로 (Vercel vs 로컬 자동 감지)
+function getDataDir(): string {
+  const vercelDataDir = path.join(process.cwd(), "data");
+  const localDataDir = path.join(process.cwd(), "..", "data");
+
+  if (fs.existsSync(vercelDataDir)) {
+    return vercelDataDir;
+  }
+  return localDataDir;
+}
+
 // 하이라이트 저장 파일 경로
-const HIGHLIGHTS_FILE = path.join(process.cwd(), "..", "data", "highlights.json");
+function getHighlightsFile(): string {
+  return path.join(getDataDir(), "highlights.json");
+}
 
 // 하이라이트 광고 정보
 interface HighlightAd {
@@ -22,7 +35,7 @@ interface HighlightsData {
 }
 
 function ensureDataDir() {
-  const dataDir = path.dirname(HIGHLIGHTS_FILE);
+  const dataDir = getDataDir();
   if (!fs.existsSync(dataDir)) {
     fs.mkdirSync(dataDir, { recursive: true });
   }
@@ -30,11 +43,12 @@ function ensureDataDir() {
 
 function readHighlights(): HighlightsData {
   ensureDataDir();
-  if (!fs.existsSync(HIGHLIGHTS_FILE)) {
+  const highlightsFile = getHighlightsFile();
+  if (!fs.existsSync(highlightsFile)) {
     return { highlights: [] };
   }
   try {
-    const content = fs.readFileSync(HIGHLIGHTS_FILE, "utf-8");
+    const content = fs.readFileSync(highlightsFile, "utf-8");
     return JSON.parse(content);
   } catch {
     return { highlights: [] };
@@ -43,7 +57,8 @@ function readHighlights(): HighlightsData {
 
 function writeHighlights(data: HighlightsData) {
   ensureDataDir();
-  fs.writeFileSync(HIGHLIGHTS_FILE, JSON.stringify(data, null, 2), "utf-8");
+  const highlightsFile = getHighlightsFile();
+  fs.writeFileSync(highlightsFile, JSON.stringify(data, null, 2), "utf-8");
 }
 
 // 이미지 URL에서 고유 ID 생성 (pathname 기반)

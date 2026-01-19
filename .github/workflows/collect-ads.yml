@@ -1,0 +1,89 @@
+name: Collect Meta Ads
+
+on:
+  # 월요일, 금요일 오전 9시 (KST) = UTC 0시
+  schedule:
+    - cron: '0 0 * * 1,5'
+  # 수동 실행 가능
+  workflow_dispatch:
+    inputs:
+      query:
+        description: '검색 키워드 (비워두면 keywords.json 사용)'
+        required: false
+        type: string
+
+env:
+  PYTHON_VERSION: '3.11'
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Install Playwright browsers
+        run: playwright install chromium
+
+      - name: Ensure data directories exist
+        run: mkdir -p data/raw
+
+      - name: Run collection pipeline
+        env:
+          R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+          R2_PUBLIC_URL: ${{ secrets.R2_PUBLIC_URL }}
+        run: |
+          # keywords.json에서 키워드 읽기
+          if [ -f "data/keywords.json" ]; then
+            echo "Reading keywords from data/keywords.json"
+            KEYWORDS=$(python -c "import json; data=json.load(open('data/keywords.json')); print(' '.join([k['query'] for k in data.get('keywords', []) if k.get('enabled', True)]))")
+          else
+            echo "No keywords.json found, using default"
+            KEYWORDS="ai course"
+          fi
+
+          # 수동 실행 시 입력된 키워드 사용
+          if [ -n "${{ github.event.inputs.query }}" ]; then
+            KEYWORDS="${{ github.event.inputs.query }}"
+          fi
+
+          echo "Collecting ads for keywords: $KEYWORDS"
+
+          # 각 키워드에 대해 수집 실행
+          for keyword in $KEYWORDS; do
+            echo "=== Collecting: $keyword ==="
+            python -m src.07_run_weekly --query "$keyword" --limit 50 --headless --image-only || true
+            sleep 5
+          done
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # 변경사항이 있는지 확인
+          if [ -n "$(git status --porcelain data/)" ]; then
+            git add data/
+            git commit -m "chore: 광고 수집 자동화 $(date +'%Y-%m-%d %H:%M') KST"
+            git push
+            echo "Changes committed and pushed"
+          else
+            echo "No changes to commit"
+          fi

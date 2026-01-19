@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '🔍 새 작업? search_plugins로 관련 스킬 확인하세요'"
+          }
+        ]
+      }
+    ]
+  }
+}

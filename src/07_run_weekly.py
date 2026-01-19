@@ -1,10 +1,11 @@
 """
 주간 파이프라인 실행 모듈
-광고 수집-이미지 다운로드 파이프라인을 orchestration (Playwright 스크래핑 방식)
+광고 수집-이미지 R2 업로드 파이프라인을 orchestration (Playwright 스크래핑 방식)
 """
 
 import asyncio
 import importlib
+import os
 from datetime import datetime
 
 import click
@@ -13,7 +14,8 @@ from loguru import logger
 from src.config import (
     QUERY,
     COUNTRY,
-    ensure_dirs
+    ensure_dirs,
+    get_env
 )
 
 
@@ -23,14 +25,14 @@ def run_full_pipeline(
     limit: int,
     headless: bool = True,
     image_only: bool = False,
-    skip_download: bool = False
+    skip_r2: bool = False
 ):
     """
     파이프라인 실행 (Playwright 스크래핑 방식)
 
     Steps:
     1. Playwright로 Meta Ads Library에서 광고 수집
-    2. 이미지 다운로드 (로컬 저장)
+    2. 이미지를 Cloudflare R2에 업로드
     """
     logger.info("=" * 50)
     logger.info(f"파이프라인 시작: {datetime.now().isoformat()}")
@@ -60,23 +62,34 @@ def run_full_pipeline(
     raw_file = save_raw_data(ads, query)
     logger.info(f"[Step 1/2] 완료 - {len(ads)}개 광고 수집, 저장: {raw_file}")
 
-    # Step 2: 이미지 다운로드
-    if not skip_download:
-        logger.info("\n[Step 2/2] 이미지 다운로드 시작")
-        fetch_module = importlib.import_module("src.02_fetch_creatives")
-        fetch_creatives_from_raw = fetch_module.fetch_creatives_from_raw
+    # Step 2: R2에 이미지 업로드
+    if not skip_r2:
+        # R2 환경 변수 확인
+        r2_configured = all([
+            os.getenv("R2_ACCOUNT_ID"),
+            os.getenv("R2_ACCESS_KEY_ID"),
+            os.getenv("R2_SECRET_ACCESS_KEY"),
+            os.getenv("R2_PUBLIC_URL")
+        ])
 
-        fetch_results = fetch_creatives_from_raw(raw_file)
-        success_count = sum(1 for r in fetch_results if r["status"] in ["success", "exists"])
-        logger.info(f"[Step 2/2] 완료 - {success_count}/{len(fetch_results)}개 이미지 다운로드")
+        if r2_configured:
+            logger.info("\n[Step 2/2] R2 이미지 업로드 시작")
+            upload_module = importlib.import_module("src.03_upload_r2")
+            process_raw_file_to_r2 = upload_module.process_raw_file_to_r2
+
+            result = process_raw_file_to_r2(raw_file)
+            logger.info(f"[Step 2/2] 완료 - {result['uploaded']}개 업로드, {result['skipped']}개 건너뜀")
+        else:
+            logger.warning("\n[Step 2/2] R2 환경 변수 미설정 - 이미지 업로드 건너뜀")
+            logger.warning("R2를 사용하려면 .env에 R2_ACCOUNT_ID, R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY, R2_PUBLIC_URL을 설정하세요.")
     else:
-        logger.info("\n[Step 2/2] 이미지 다운로드 건너뜀")
+        logger.info("\n[Step 2/2] R2 업로드 건너뜀")
 
     logger.info("\n" + "=" * 50)
     logger.info(f"파이프라인 완료: {datetime.now().isoformat()}")
     logger.info("=" * 50)
 
-    return True
+    return raw_file
 
 
 @click.command()
@@ -85,14 +98,14 @@ def run_full_pipeline(
 @click.option("--limit", "-l", default=50, help="최대 수집 개수")
 @click.option("--headless/--no-headless", default=True, help="헤드리스 모드 (기본: True)")
 @click.option("--image-only", "-i", is_flag=True, help="이미지 광고만 수집 (비디오 제외)")
-@click.option("--skip-download", is_flag=True, help="이미지 다운로드 건너뛰기")
+@click.option("--skip-r2", is_flag=True, help="R2 이미지 업로드 건너뛰기")
 def main(
     query: str,
     country: str,
     limit: int,
     headless: bool,
     image_only: bool,
-    skip_download: bool
+    skip_r2: bool
 ):
     """광고 수집 파이프라인을 실행합니다 (Playwright 스크래핑 방식)."""
     if not query:
@@ -105,7 +118,7 @@ def main(
         limit=limit,
         headless=headless,
         image_only=image_only,
-        skip_download=skip_download
+        skip_r2=skip_r2
     )
 
 

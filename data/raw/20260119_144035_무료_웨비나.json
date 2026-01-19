@@ -1,0 +1,676 @@
+{
+  "collected_at": "2026-01-19T14:40:35.684455",
+  "query": "무료 웨비나",
+  "count": 50,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-01-19T14:40:32.314787",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "왜 커리어는 앞으로 나아가는 느낌이 없을까요?",
+        "이직, MBA, 창업… 선택지는 많아졌는데",
+        "지금 필요한 건 정보가 아니라 방향일지도 모릅니다."
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615067063_1406444300868479_7628504745498422707_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o7aF6bkqvHkQ7kNvwFURakD&_nc_oc=AdllhUkA3aukBoca0bJQobgyCb4DfebFzq9AowckISbvdJbmaj7LcB_b-8abiQbqPEM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_Afo7Oo_1OMcjTvhYpod8Y1FP4dTJD-ziVUwNE1RxhMQAFQ&oe=6973A0C9"
+      ],
+      "landing_url": "https://www.ringleplus.com/ko/portal/event/detail/mba-next-career?utm_source=cpm&utm_medium=fbinsta&utm_campaign={{campaign.name}}&utm_content={{ad.name}}&utm_adgroup={{adset.name}}"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-01-19T14:40:32.387025",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "왜 커리어는 앞으로 나아가는 느낌이 없을까요?",
+        "이직, MBA, 창업… 선택지는 많아졌는데",
+        "지금 필요한 건 정보가 아니라 방향일지도 모릅니다."
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615188458_934153235610251_5193946341132266300_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=krg4fwOGMo8Q7kNvwF1taET&_nc_oc=Adm16AY-svzCE_B7rblHG6Uc2f-vkDoNYZtRgMlz6Ud5nrCP_BzcHri3Ke8V61d8OQA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_AfrrDOm2EEedrNB4_dmLENfFKgdmBXrYg-2cEvIA7wYO_w&oe=69739CDE"
+      ],
+      "landing_url": "https://www.ringleplus.com/ko/portal/event/detail/mba-next-career?utm_source=cpm&utm_medium=fbinsta&utm_campaign={{campaign.name}}&utm_content={{ad.name}}&utm_adgroup={{adset.name}}"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-01-19T14:40:32.442569",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "왜 커리어는 앞으로 나아가는 느낌이 없을까요?",
+        "이직, MBA, 창업… 선택지는 많아졌는데",
+        "지금 필요한 건 정보가 아니라 방향일지도 모릅니다."
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/616388003_4255837914629491_4099237941196518256_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8bXxjx8YD0QQ7kNvwG0AUvw&_nc_oc=AdmwuM0MOTtm40xgXaSfwnOz0fMpHOBfIPRo7RyOWVb0JfBjS48EDkMTV2FPvt1A2UA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_Afq1648KH6OJhCsFKUFVe_-MYp6F9e1XTmpe-V5I8Ojc4w&oe=69738BFA"
+      ],
+      "landing_url": "https://www.ringleplus.com/ko/portal/event/detail/mba-next-career?utm_source=cpm&utm_medium=fbinsta&utm_campaign={{campaign.name}}&utm_content={{ad.name}}&utm_adgroup={{adset.name}}"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-01-19T14:40:32.503521",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "왜 커리어는 앞으로 나아가는 느낌이 없을까요?",
+        "이직, MBA, 창업… 선택지는 많아졌는데",
+        "지금 필요한 건 정보가 아니라 방향일지도 모릅니다."
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615424251_1211724283760792_7114009943206027975_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A52VFssWM88Q7kNvwEO2y2L&_nc_oc=AdmqqqC624rA1Xpt49tOMFws-D2i9rkCyvIiwpJgIxRyJQnmTVw8C-7jmlaSCBtABT8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_AfpEUfjaF3fzHDKmM0Ymh9ocV4bm4gmyFADHZ2ErBvmbUQ&oe=6973AF5E"
+      ],
+      "landing_url": "https://www.ringleplus.com/ko/portal/event/detail/mba-next-career?utm_source=cpm&utm_medium=fbinsta&utm_campaign={{campaign.name}}&utm_content={{ad.name}}&utm_adgroup={{adset.name}}"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-01-19T14:40:32.589924",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "왜 커리어는 앞으로 나아가는 느낌이 없을까요?",
+        "이직, MBA, 창업… 선택지는 많아졌는데",
+        "지금 필요한 건 정보가 아니라 방향일지도 모릅니다."
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615316760_1417075609813941_1700570211538344683_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xFtdLwyui58Q7kNvwGrXqT_&_nc_oc=Adm27wviwQFp2QJg5LlQBzuhINoopFLE3SKD6ervfRMBrJr7Q-AKpLNVvsC58KwVwTQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_AfpRdsG2xFTfKV--ZZuBX85COyZt0Mvc5b7-2RbfeRy56A&oe=69737B00"
+      ],
+      "landing_url": "https://www.ringleplus.com/ko/portal/event/detail/mba-next-career?utm_source=cpm&utm_medium=fbinsta&utm_campaign={{campaign.name}}&utm_content={{ad.name}}&utm_adgroup={{adset.name}}"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-01-19T14:40:32.645855",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "왜 커리어는 앞으로 나아가는 느낌이 없을까요?",
+        "이직, MBA, 창업… 선택지는 많아졌는데",
+        "지금 필요한 건 정보가 아니라 방향일지도 모릅니다."
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/617507814_1234503128551848_8556827300474666424_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cRHwD4A_A0IQ7kNvwF8opoc&_nc_oc=Adl0mFK5Rx7Kco5c3oMkvc-p4TZwdFvmXVnNaOO6KmdjhO3PfiI6vN3o8BN1uzRwNH4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_AfopKKOCzf_lhVDC73U7SMnqPZ4NfzHTUhbfBY1cCr6eJQ&oe=69738151"
+      ],
+      "landing_url": "https://www.ringleplus.com/ko/portal/event/detail/mba-next-career?utm_source=cpm&utm_medium=fbinsta&utm_campaign={{campaign.name}}&utm_content={{ad.name}}&utm_adgroup={{adset.name}}"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-01-19T14:40:32.707677",
+      "page_name": "ibexmedicalsystems",
+      "ad_text": [
+        "일정 : 2026년 01월 29일 (목)",
+        "시간 : 13시 30분 ~ 17시 30분",
+        "고압산소치료 기전과 보험급여 별 임상사례"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615564304_1286817526824886_6512836885724609919_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FgoXBpy66ZcQ7kNvwHtOMK4&_nc_oc=AdkH599w6_3bGuKSshO6XwG36-Uln6bdO78LfytDhLTckDo-x0Uvd8Ii-IalDL0jqnw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_AfpoYj9yY5Z_U1iR33kfpAvXT2lrH5_ZKbmFuijbTRUa-w&oe=6973AEFB"
+      ],
+      "landing_url": "https://form.naver.com/response/ycOAgHwbPTkhsmAPnQNUTw?fbclid=fbclid"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-01-19T14:40:32.755262",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "AI 시대, 회사 성장을 막는 진짜 이유는?",
+        "A급 인재가 모이고, 남고, 성과를 내는 리더십의 조건",
+        "1월 19일 저녁 8:30, 이승훈 대표의 웨비나에서 답을 찾아보세요!"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615437935_759798613823025_1938634637372730573_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C6JtJNtxidMQ7kNvwGbW7at&_nc_oc=AdmvvS6njPMP5-qqExCR408Nh_vSK3vjzFd_ZB8EWcadm2U3W35-HbFLIvnrdhYrbd4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_Afpa4BSdW7xUhj2M-mxSm8-ZSmoD3SazjoR2LbymIwuX9A&oe=697385AC"
+      ],
+      "landing_url": "https://ringle.recatch.cc/workflows/lnzedpxlqf?utm_source=meta&utm_medium=b2b_ads&utm_campaign=webinar260119&utm_content=changed"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-01-19T14:40:32.804120",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "AI 시대, 회사 성장을 막는 진짜 이유는?",
+        "A급 인재가 모이고, 남고, 성과를 내는 리더십의 조건",
+        "1월 19일 저녁 8:30, 이승훈 대표의 웨비나에서 답을 찾아보세요!"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615337673_4664602997099921_4950184268909690047_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GNNrva-XJckQ7kNvwGCGNPQ&_nc_oc=AdmJR3qjOwQNkgnuVidcbVEeTTLELl6rP-ul5xoq1qngckF2RL8N73niyKSpSSRsZSo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_AfpbRILFgNgM5AOa_gPupwrvXuTuOSIH6cdUnP1uFhUfXQ&oe=697381A1"
+      ],
+      "landing_url": "https://ringle.recatch.cc/workflows/lnzedpxlqf?utm_source=meta&utm_medium=b2b_ads&utm_campaign=webinar260119&utm_content=speed"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-01-19T14:40:32.865601",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "AI 시대, 회사 성장을 막는 진짜 이유는?",
+        "A급 인재가 모이고, 남고, 성과를 내는 리더십의 조건",
+        "1월 19일 저녁 8:30, 이승훈 대표의 웨비나에서 답을 찾아보세요!"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615099681_2217183498806232_3516040620262631041_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=78Vgf9h1Le8Q7kNvwFJ4itG&_nc_oc=Adk1xfc3Akz4ueBxUQgzwJU2_aWJ0GB_TtZ89h6ZhPLERp0ooLvO1PsThRpFYzR88_4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_Afq3cSvEWPXvZXNKXeaCujq4gYpXDAEbTLZWNeXrL1bsYw&oe=69738D9E"
+      ],
+      "landing_url": "https://ringle.recatch.cc/workflows/lnzedpxlqf?utm_source=meta&utm_medium=b2b_ads&utm_campaign=webinar260119&utm_content=global"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-01-19T14:40:32.926308",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "AI 시대, 회사 성장을 막는 진짜 이유는?",
+        "A급 인재가 모이고, 남고, 성과를 내는 리더십의 조건",
+        "1월 19일 저녁 8:30, 이승훈 대표의 웨비나에서 답을 찾아보세요!"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615839974_1444339797405712_396587087085111934_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OWbNQwgvLoAQ7kNvwFmQpvR&_nc_oc=AdlA2nT6VjXzQoXWhReYKvPQMLL7rMjMwUvP9p26sQDU82_6prQpVJI3dvXCy8w1X5w&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_AfqbX1og2ANGpTdF-VMoE2I4DUt8dkjGqMAhLydG1Y9pXg&oe=697381B1"
+      ],
+      "landing_url": "https://ringle.recatch.cc/workflows/lnzedpxlqf?utm_source=meta&utm_medium=b2b_ads&utm_campaign=webinar260119&utm_content=finally"
+    },
+    {
+      "index": 11,
+      "collected_at": "2026-01-19T14:40:32.988596",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "AI 시대, 회사 성장을 막는 진짜 이유는?",
+        "A급 인재가 모이고, 남고, 성과를 내는 리더십의 조건",
+        "1월 19일 저녁 8:30, 이승훈 대표의 웨비나에서 답을 찾아보세요!"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/614593831_883536954376360_6095402266797151455_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4uE78qRFDxIQ7kNvwEvFq-J&_nc_oc=AdlcjxI3t6NeaRlWJO9liCmHgF2bQTGTPSvtX5LMcRHFZzCQfEqTmEKgtLAkGqC9EWU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_AfpjE_JETIy4s9Ev3k2qnNJv4EbR_ijhq8JRoIDls892Cg&oe=697395B6"
+      ],
+      "landing_url": "https://ringle.recatch.cc/workflows/lnzedpxlqf?utm_source=meta&utm_medium=b2b_ads&utm_campaign=webinar260119&utm_content=tools"
+    },
+    {
+      "index": 12,
+      "collected_at": "2026-01-19T14:40:33.095538",
+      "page_name": "업노마드",
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615432525_871913725548992_8839854958124535580_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AB8GX6Xw5aAQ7kNvwHgQveA&_nc_oc=Adm_XwgGgPFxED5ZZiBzxp2mwK6vK7ix-n9WXnnX8K4ra2VfEH0M-QW7r5EzL1PJsWQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_AfrUk10qlegaX2XjncGz9oQRDJNGMNONy1dbikUS8OW1AQ&oe=6973ABF0"
+      ],
+      "landing_url": "https://www.upnomad.kr/23"
+    },
+    {
+      "index": 13,
+      "collected_at": "2026-01-19T14:40:33.154013",
+      "page_name": "업노마드",
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615927602_735782425837988_4957783066379783357_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ph7DoC0AtawQ7kNvwGbWsqX&_nc_oc=AdkwFaNR7VVOAmmbca5gxCTWaFBLehIctdLUCYUJw_7CyuSRBowWWgTOHvdpYOa404k&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_AfrzGLdwC5Ooy591SKOZZJC5Bs_93Joggjq-mnzNKslg5A&oe=697386D1"
+      ],
+      "landing_url": "https://www.upnomad.kr/23"
+    },
+    {
+      "index": 14,
+      "collected_at": "2026-01-19T14:40:33.214694",
+      "page_name": "업노마드",
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/616387843_1227446562819249_1854831519164199637_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=I1YdhGaxXEcQ7kNvwGtfJif&_nc_oc=AdkcMdLZ1T2aVYx8aLxMUp8MArNFdunzkPwsYIzcq7GafPbDLXC6sEPAJAwreCmLqys&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_Afo82nu5OQoNZaNqDh2vHQKx8QsaK25nssMcmxsmib1vxw&oe=697380AC"
+      ],
+      "landing_url": "https://www.upnomad.kr/23"
+    },
+    {
+      "index": 15,
+      "collected_at": "2026-01-19T14:40:33.275512",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "왜 지원자는 줄었는데, 합격은 더 어려워졌을까요?🧐",
+        "ED·ED0 확산, SAT 의무화, 에세이 평가 기준 변화까지",
+        "올해 입시는 ‘정보 차이’가 합격 차이가 됩니다."
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615242889_2156451204893561_1618998639070346193_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=s7SgoqBVjUwQ7kNvwGEK-mB&_nc_oc=AdmBWfguoVWlcLTtH1vA1WdhMoh77n1z8HtZCgabWx-gPGI1NFNYONsox5Jl1_BQYrA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=wscm1d3yQ35FtSnNhkM30Q&oh=00_AfrYRtM7LAceIqYsdvtQ5abgy5idHUVnmcUgbYzXGYYauw&oe=69738089"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-feb-11-2026-admissions-trends"
+    },
+    {
+      "index": 16,
+      "collected_at": "2026-01-19T14:40:33.340184",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "왜 지원자는 줄었는데, 합격은 더 어려워졌을까요?🧐",
+        "ED·ED0 확산, SAT 의무화, 에세이 평가 기준 변화까지",
+        "올해 입시는 ‘정보 차이’가 합격 차이가 됩니다."
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615412767_1477356160682192_7568389305424056255_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Gz02m1NaRW4Q7kNvwGgKz5Q&_nc_oc=AdmH81MWPZ4QJsN2p2_y66AeKdcZycZ5LtsF63zJ5QxPWJSPy0-DYizez40mjLu8gR0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=oXhlEdDMvLwF_7acQQea5g&oh=00_AfpV3z9-r4hB-YR61Tmcj49KEKOehN93x8dTfzPtLW0__g&oe=6973AD36"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-feb-11-2026-admissions-trends"
+    },
+    {
+      "index": 17,
+      "collected_at": "2026-01-19T14:40:33.397069",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "왜 지원자는 줄었는데, 합격은 더 어려워졌을까요?🧐",
+        "ED·ED0 확산, SAT 의무화, 에세이 평가 기준 변화까지",
+        "올해 입시는 ‘정보 차이’가 합격 차이가 됩니다."
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/614090829_869783525760595_2547367672733859596_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vVqQ7xe3NskQ7kNvwFtacUf&_nc_oc=Adk8C5yZbeDEwCAOyYgBwCKNuIIIjhUyQX6j7B-ULQU-eUG24U7NmK2FA_4zfnFencc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=oXhlEdDMvLwF_7acQQea5g&oh=00_Afqc5Dvil7nW57LiMMagt1W-Y0oglZzRYC83oT6Y7XxIWg&oe=697389B0"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-feb-11-2026-admissions-trends"
+    },
+    {
+      "index": 18,
+      "collected_at": "2026-01-19T14:40:33.455966",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "왜 지원자는 줄었는데, 합격은 더 어려워졌을까요?🧐",
+        "ED·ED0 확산, SAT 의무화, 에세이 평가 기준 변화까지",
+        "올해 입시는 ‘정보 차이’가 합격 차이가 됩니다."
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/614883523_850898797752930_9081287256150301852_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vYaw0xRBAhEQ7kNvwEDZ9X8&_nc_oc=AdlVobz9wgq4pZPjIJv74Rqu7nGO0ZMgYeppeGXf-tKTQp3fzObH5TF6TYSfzJqag8M&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=oXhlEdDMvLwF_7acQQea5g&oh=00_Afpwi1veD13LeDdmklq7WERuEX-8Y1jjQPB5FqDKh24-BA&oe=69738602"
+      ],
+      "landing_url": "http://fb.me/"
+    },
+    {
+      "index": 19,
+      "collected_at": "2026-01-19T14:40:33.531993",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "왜 지원자는 줄었는데, 합격은 더 어려워졌을까요?🧐",
+        "ED·ED0 확산, SAT 의무화, 에세이 평가 기준 변화까지",
+        "올해 입시는 ‘정보 차이’가 합격 차이가 됩니다."
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615148233_689776017423113_4286443072315648886_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n-Bkum6fLuUQ7kNvwExl_Rz&_nc_oc=Adn_Bmk9VnMfa2ncpQOGMMkHKrclGuGWPm1FgH70t1Q-wuqVYAzyEzcMjHXP0A7I1mI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=z7RYEcsT9wL_uyW8ZbcWBQ&oh=00_Afqk9pUHDwjZ4PkipPPy2x1xEAmntRJns-_LREDF4Q_2nw&oe=697392B3"
+      ],
+      "landing_url": "http://fb.me/"
+    },
+    {
+      "index": 20,
+      "collected_at": "2026-01-19T14:40:33.601170",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "왜 지원자는 줄었는데, 합격은 더 어려워졌을까요?🧐",
+        "ED·ED0 확산, SAT 의무화, 에세이 평가 기준 변화까지",
+        "올해 입시는 ‘정보 차이’가 합격 차이가 됩니다."
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615316234_1520858465692910_7607496103946812034_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tBTtwH-kj-IQ7kNvwEDsqJl&_nc_oc=AdmjBo_eigIZ9Ya8xXIczPZcZwueYSKM1RyeqE53FZfxsCEoMOBsfXWAr8zH9OlCalg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=z7RYEcsT9wL_uyW8ZbcWBQ&oh=00_Afp9QVAeH6xXcj-jV8LAaqUI3z6BnOnzzzv-3p5cL2m9yg&oe=697398B4"
+      ],
+      "landing_url": "http://fb.me/"
+    },
+    {
+      "index": 21,
+      "collected_at": "2026-01-19T14:40:33.657805",
+      "page_name": "스파르타클럽 - 미래를 돌파하는 힘",
+      "ad_text": [
+        "🎤 시니어 면접관의 이력서 노하우, 웨비나 OPEN!",
+        "2026년에는 사원증 들고 출근하고 싶다면? 🪪",
+        "단 하루, 클래스101 출신 현직 면접관이"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612075628_2067222270348485_5929344185013143890_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mEhH5IxneFkQ7kNvwHpS0NC&_nc_oc=AdmNWULhXUrMJVYXlrlFVk3b9LfSeS-AyVSFb9e-r_IYuX8lVIlxac3T-5fn1AhRTBY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=Puu31bxyR7vJwuaq0opqKg&oh=00_Afr7PG2AxqHR0z4w02ZKG3CpyIYa01mGbB87mUXzHiVS5Q&oe=6973AC5E"
+      ],
+      "landing_url": "https://nbcamp.spartaclub.kr/contents/all"
+    },
+    {
+      "index": 22,
+      "collected_at": "2026-01-19T14:40:33.702853",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "Oxford vs. Cambridge, 11학년 아이를 위한 현실적 선택은?",
+        "명성이 아닌 ‘입시 구조’로 비교합니다!",
+        "🎓 두 대학이 어떤 유형의 학생을 우선적으로 선별하는지!"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611160777_728342413335564_5178870229182385195_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5VvMCtjhSZwQ7kNvwEFDHRS&_nc_oc=Adm5A_JpKZCU5pG2BEJf6u-ePHIG-UQ-LjUF8WnXS39y1cXY9WZ_fFc7yu8BomwBQtE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=Puu31bxyR7vJwuaq0opqKg&oh=00_AfpXAPSHnvDZ9VzRgOOOttlQnk1ZHlVDUMn5TFlSy13X3g&oe=69738CEA"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-feb-4-oxford-vs-cambridge"
+    },
+    {
+      "index": 23,
+      "collected_at": "2026-01-19T14:40:33.755884",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "Oxford vs. Cambridge, 11학년 아이를 위한 현실적 선택은?",
+        "명성이 아닌 ‘입시 구조’로 비교합니다!",
+        "🎓 두 대학이 어떤 유형의 학생을 우선적으로 선별하는지!"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/608642226_872817345481994_9135166158398978091_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n13fSF-uyh8Q7kNvwGjx-NH&_nc_oc=AdnsSh3paCTKSfY9QxWUSKMAMRlv-JbzN52wP0a4wrnJQwwb9OqPIoCU8Lvmd4JG8Ls&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=Puu31bxyR7vJwuaq0opqKg&oh=00_AfquUoM6raODGIY6FGEiBYa0i837hX4OtcE5BP1Yl19YAA&oe=6973905D"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-feb-4-oxford-vs-cambridge"
+    },
+    {
+      "index": 24,
+      "collected_at": "2026-01-19T14:40:33.807839",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "Oxford vs. Cambridge, 11학년 아이를 위한 현실적 선택은?",
+        "명성이 아닌 ‘입시 구조’로 비교합니다!",
+        "🎓 두 대학이 어떤 유형의 학생을 우선적으로 선별하는지!"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612222377_877919958292517_5517429310647789725_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NPDwAVsZgscQ7kNvwFSuHKF&_nc_oc=AdnUQ49CBC9-PHqAALXnmkyWzI9fuzYVyG5hoY2MN5q5tXQ3qLPI7Y87j-2eLDyM-5o&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=Puu31bxyR7vJwuaq0opqKg&oh=00_Afrvk_4K7LFH7ouRed41fZvKBfYpbdSHxcuDMqHQi8wR7Q&oe=69738135"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-feb-4-oxford-vs-cambridge"
+    },
+    {
+      "index": 25,
+      "collected_at": "2026-01-19T14:40:33.862702",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "Oxford vs. Cambridge, 11학년 아이를 위한 현실적 선택은?",
+        "명성이 아닌 ‘입시 구조’로 비교합니다!",
+        "🎓 두 대학이 어떤 유형의 학생을 우선적으로 선별하는지!"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611355398_820828267609722_7370523043198591030_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AHVczPGaFLMQ7kNvwHd7XZP&_nc_oc=AdndmmClPBG1r-MLKmrYgJfYNEV2qiGdE1VZRb0huQ2L5Ss1jLZQcfI2Nb6YwXUF3ZM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=Puu31bxyR7vJwuaq0opqKg&oh=00_AfpjBHSU30-qfl-LTuoKUfsxiRagIrHBirWddl7yiTPuSg&oe=6973A5C1"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-feb-4-oxford-vs-cambridge"
+    },
+    {
+      "index": 26,
+      "collected_at": "2026-01-19T14:40:33.912381",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "Oxford vs. Cambridge, 11학년 아이를 위한 현실적 선택은?",
+        "명성이 아닌 ‘입시 구조’로 비교합니다!",
+        "🎓 두 대학이 어떤 유형의 학생을 우선적으로 선별하는지!"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/608972325_1203773871862146_7895345339424081593_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2UjandH2hhcQ7kNvwHco7Rl&_nc_oc=AdkhVPCXymMxfxfaFGA__77A03Jz4JyW3z527AeexnCVKawyW-l9Yq9lOcFgBvGnLK0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=EuL8-MtlbQPfJqPv1bG_sg&oh=00_AfocAi5Hwlmtng794mw5A9yJrSXUHv7czw4eTKcxh5PWSg&oe=6973876B"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-feb-4-oxford-vs-cambridge"
+    },
+    {
+      "index": 27,
+      "collected_at": "2026-01-19T14:40:33.959506",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "Oxford vs. Cambridge, 11학년 아이를 위한 현실적 선택은?",
+        "명성이 아닌 ‘입시 구조’로 비교합니다!",
+        "🎓 두 대학이 어떤 유형의 학생을 우선적으로 선별하는지!"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611736793_1893740511211330_1926033717911445930_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yf56BMnszwMQ7kNvwE63tBs&_nc_oc=AdlnwSFx2JHzb74r6jB8aMr4UBU9H_WLAVxL45VBNlAUAM5kpCld1WI5WbVNq0YAsbw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=EuL8-MtlbQPfJqPv1bG_sg&oh=00_AfquGtH8D_Itx5o0anV3KpkeywQ0-F8kzmG8QiuL6vDaUA&oe=697387F3"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-feb-4-oxford-vs-cambridge"
+    },
+    {
+      "index": 28,
+      "collected_at": "2026-01-19T14:40:34.022680",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "Oxford vs. Cambridge, 11학년 아이를 위한 현실적 선택은?",
+        "명성이 아닌 ‘입시 구조’로 비교합니다!",
+        "🎓 두 대학이 어떤 유형의 학생을 우선적으로 선별하는지!"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611645564_1567307224580145_2999637058957323548_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=T2WrfcwlGSkQ7kNvwEzMnQC&_nc_oc=Adl0XJ_HzZ8amPGyxvnaWnQa5yCLsvDXmtYxVbwVvvtLCxIThfCxmj33DIi-ELHKFQo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=EuL8-MtlbQPfJqPv1bG_sg&oh=00_AfrfGEOP_JNGD3dMbn9ujA_FzXF1-XONDLUUDpmfcNuRWA&oe=697394F8"
+      ],
+      "landing_url": "http://fb.me/"
+    },
+    {
+      "index": 29,
+      "collected_at": "2026-01-19T14:40:34.070244",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "Oxford vs. Cambridge, 11학년 아이를 위한 현실적 선택은?",
+        "명성이 아닌 ‘입시 구조’로 비교합니다!",
+        "🎓 두 대학이 어떤 유형의 학생을 우선적으로 선별하는지!"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612330934_1170146998621058_6012755465103728655_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nkLGloqnU_8Q7kNvwFe3tRE&_nc_oc=AdlvoQX7JKwSK_ApjmKc4b_te2Hdc2NtBkjWyi4SV_0r6HbT45D4RibHbQ8DhZs4fAA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=EuL8-MtlbQPfJqPv1bG_sg&oh=00_AfovYN6hybWZ7-v9Vp6xTfgELUyEMoZKgYFaBKUqMahSyg&oe=6973A408"
+      ],
+      "landing_url": "http://fb.me/"
+    },
+    {
+      "index": 30,
+      "collected_at": "2026-01-19T14:40:34.148491",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "Oxford vs. Cambridge, 11학년 아이를 위한 현실적 선택은?",
+        "명성이 아닌 ‘입시 구조’로 비교합니다!",
+        "🎓 두 대학이 어떤 유형의 학생을 우선적으로 선별하는지!"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/609061102_722167957302296_9193954962526938069_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kTrrI7zoIVEQ7kNvwFYlDXq&_nc_oc=AdnWWwxysi6AuvDFF6Hx5VuRbw9ipGYvr00fPjv2Eecxq878fEx5fjNuIjhDPRHFvIM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=EuL8-MtlbQPfJqPv1bG_sg&oh=00_Afp5Hlox7K8d_urur4rdbSdFb4X5khlvXa6-8DOscBtwBw&oe=6973A693"
+      ],
+      "landing_url": "http://fb.me/"
+    },
+    {
+      "index": 31,
+      "collected_at": "2026-01-19T14:40:34.214943",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "성적 B 하나, 정말 스탠포드 포기해야 할까요?",
+        "많은 학부모님들이 한 번의 성적 하락에서 잘못된 결론을 내립니다.",
+        "👉 이후의 대응 전략으로 평가된다는 사실!"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/600292150_2028265844618926_7463186909426117435_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=D6nw07Dgg4wQ7kNvwG2RT4u&_nc_oc=AdlJJH-VAX-ZMru5mX8tczTjWQWmmx9ec3cnPXfvA1MJK3rp-NCl93NHvGxTFRqDlVo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=8huZX53VGjquH9WivG4Abw&oh=00_AfrBwQkmdnVvTSE8cDtf0c3xf0nn7oMoT_9O4mijm0wuRw&oe=697399C7"
+      ],
+      "landing_url": "http://fb.me/"
+    },
+    {
+      "index": 32,
+      "collected_at": "2026-01-19T14:40:34.289432",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "성적 B 하나, 정말 스탠포드 포기해야 할까요?",
+        "많은 학부모님들이 한 번의 성적 하락에서 잘못된 결론을 내립니다.",
+        "👉 이후의 대응 전략으로 평가된다는 사실!"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/597390538_856246390476438_940930024933223858_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FH_1W_KEPDcQ7kNvwHzb61t&_nc_oc=AdlBseK2f4gCFjDMU5ZTj1JvhpAFoDXvBY3yC1fnSSmzu-Eb9Vy8JsKr2anCwSxrJko&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=8huZX53VGjquH9WivG4Abw&oh=00_AfqUbKCgiM_i6-fRY21UgFWOMjV3aW6qAw1douVfHlzjvQ&oe=69737FEE"
+      ],
+      "landing_url": "http://fb.me/"
+    },
+    {
+      "index": 33,
+      "collected_at": "2026-01-19T14:40:34.359800",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "성적 B 하나, 정말 스탠포드 포기해야 할까요?",
+        "많은 학부모님들이 한 번의 성적 하락에서 잘못된 결론을 내립니다.",
+        "👉 이후의 대응 전략으로 평가된다는 사실!"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/600273298_1178228684507431_5743144013605005506_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kPaMVIM-03YQ7kNvwFw18zb&_nc_oc=AdlYR_jTsaqzX_OEN91fES8aAn9ZYJUHev3bbb-wEV_soYueZx5Ap8VVKbjpRVxpk2E&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=TjJUHTS05A6YrNg3Utm2tg&oh=00_AfolpotfMygUOzjc20AIQHNnjZNjJQOR0c5h1nbJWRhQtg&oe=6973AAFF"
+      ],
+      "landing_url": "http://fb.me/"
+    },
+    {
+      "index": 34,
+      "collected_at": "2026-01-19T14:40:34.423770",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "✨ 국제학교 자녀분의 코앞으로 다가온 미국 명문대학 입시 준비…",
+        "미국 입시에서 Common App 작성은 곧 시간 싸움!⏰⏰",
+        "꿈의 명문대 입학사정관의 눈을 단번에 사로잡을👀"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/544995989_1311938777240584_7643198229873328322_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q1A-Y8vd2X4Q7kNvwErqckr&_nc_oc=AdlKWKTS4TXIY1yK6RRbqW-3pgmlE-JJxOWoQ9Mk9JnFHAVvJaq3awn6ZVNIJzVRuFQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=TjJUHTS05A6YrNg3Utm2tg&oh=00_Afof6PIEN0zBl3ZqetLs4N6R4CUZO9gogdaLiIFe9O7wDA&oe=6973811D"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/resources/webinars-workshops/"
+    },
+    {
+      "index": 35,
+      "collected_at": "2026-01-19T14:40:34.473513",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "✨ 국제학교 자녀분의 코앞으로 다가온 미국 명문대학 입시 준비…",
+        "미국 입시에서 Common App 작성은 곧 시간 싸움!⏰⏰",
+        "꿈의 명문대 입학사정관의 눈을 단번에 사로잡을👀"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/544498933_1686715765330737_9216432937402814786_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zPSb4Q9QTrgQ7kNvwFaa2Bz&_nc_oc=AdnadHI2_hnlNaubCyqOZc8g-G3Poa9R_1EtxTLvLAld5Ibg9c4L7YxiRweyPCXRTi4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=TjJUHTS05A6YrNg3Utm2tg&oh=00_AfoFMcN0yh754fTKDH1DKO7LJp21IvqdHO7Ppu03wrzoaA&oe=697396F8"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/resources/webinars-workshops/"
+    },
+    {
+      "index": 36,
+      "collected_at": "2026-01-19T14:40:34.550899",
+      "page_name": "마케팅 · 자기계발 · 온라인창업 · 스마트스토어ㅣ마케터 맹렬",
+      "ad_text": [
+        "마케팅 · 자기계발 · 온라인창업 · 스마트스토어ㅣ마케터 맹렬",
+        "당신은 '사업'을 하는 게 아니라 플랫폼 '봉사활동' 중입니다.",
+        "이제 자발적인 무전노동은 그만하고 수확할 때입니다. 💸"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615076013_916766927443294_2936450228346371614_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IWgrX1N324kQ7kNvwH7rpYJ&_nc_oc=AdmGdRBoOtj5vj1hcQzG3Ppc6deXix5C3ul3uA_buWBByQRTCrLDI8TgjrL2bNWp-gk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_AfrzXSsPxfEEtL_hT_RgVyos_iFqxwvokveUL97ErbCU9A&oe=69739CCC",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615512878_1554980145802339_1015643053990342065_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7akA7njG-n0Q7kNvwFZ9rrH&_nc_oc=AdnOvIA1TX2XsCslIlmRnhWS4OYsOv0Cntm5SssruX9UFCH8d4HpHviENrpR_Jyy7tE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_AfobYvrspKzmWAAH76ceCn8P6dDrJ3jTAqRrClPFWu69vA&oe=6973A329",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615344929_1165930619088752_4274310970554578011_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_1kKwn6pZY8Q7kNvwGIGt0j&_nc_oc=AdnTEsRXP-GAt-9MHJwoudgiitewMihRahZ0slBXCWkBe_GAnHciE-1d6_i3tsR_bG0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_AfpfI1Z7YPdv23RupjDk69R86d3yMiaEW2Akxg72YT5Ghg&oe=69737F2A",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615230168_2133153030761918_6190690932889464820_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n4yCCMl19koQ7kNvwFIjDue&_nc_oc=AdlCwPPFmRnPOwHNWgFJghXIpA-9cCKUfCc-l6fZ2Cd7Cb4MjGH_7ufD9xiUCyp4LM4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_AfrYpsi5S2ykbxTqqONuKiY3TuqDMkesSltBsepYTP5rpA&oe=6973B0D2",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615890274_842129448640169_5155044758719189393_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ipa903i7gQQQ7kNvwGrURyN&_nc_oc=AdkD9Y1QNkch8igW8ZedxUAWNyPPXMrsRjP97-dFv2z7WDBhHqEFwzjbq7MVX2nZpMM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_AfocMkyIeIKj84ge6lo60xwCaSRbJxkqhLEqRbpkzp17rw&oe=6973A75A",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615205633_881850580867102_815032945555089153_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2PvXcUUk6cEQ7kNvwEuh_do&_nc_oc=AdkCBPyoQmPWMUeZ6_zSu3r9gqRmhs-OjUXn6JY5WEpjRTF5cfPDGYb4INacHDhZP-w&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_AfprGfCeOCdFRYacCBuZDQeJRSmqPbp91-Lm9SBzK3SU5g&oe=69739FCC",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615246632_1878900946047662_3240798535946682675_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PwCdK5SXLNIQ7kNvwEohw8j&_nc_oc=AdmAWyt4Q-wKUXtpeJSqLmx4vjpWDVDDnYoR_rjAstUG2lD6nViWIDFECDgOpkyCfv8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_AfqMiFyW5ngtZMeKxkPg_zQVzvkJEUy-eMy8a_Fazn2oLg&oe=69738D31",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615085584_1430524468728791_4078691145839322389_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jRbFcHfscbkQ7kNvwHpAJKz&_nc_oc=AdmwVyDkFiKO7wQ7NxtTw9IkaWvUQv8pX54OGcavQdnNlM34X7cdvtJC_4LeX-VpR7o&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_Afo3gMCRskyuoq0-hPojGncJjxQQmxEI0D3zjSTYZhnafw&oe=6973ADA6",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615112682_1887464375195109_1462533121453054491_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=e5Bq3McExtEQ7kNvwGnA0jz&_nc_oc=AdlPpF8P4Y3KfE8mr695-_uvBhDqMWD_lPpZmLViS9O-CIOEwmGmQRl1N4S-K3CMihk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_AfpW00B5R2vGHXs-bWoT0RwuSH_fhqOLcJATe48LqL8b0g&oe=69737A3C",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/614360915_1644128363699771_2218264977277590240_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qQ8ZZ0pSW7sQ7kNvwGtPGZV&_nc_oc=Adlctr6TBcIcOAKpCrbB-W8mC-8dw3sA1L21ZROwEddl2w_ul2QCLTBo6_F5j_OBAvY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OI70Vf-awew67ypDhWDboA&oh=00_AfqxLWLBhpMm4STjFfSfgtsvOBkaESjZ-X5naJoQc0tbUQ&oe=69739F10"
+      ],
+      "landing_url": "https://leadgeny.kr/lpo.php?seq=4d7a41774d545532"
+    },
+    {
+      "index": 37,
+      "collected_at": "2026-01-19T14:40:34.775033",
+      "page_name": "S2W",
+      "ad_text": [
+        "온톨로지 가 무엇인가요? 또, 왜 중요할까요?",
+        "위 질문에 대한 답을 S2W 웨비나에서 확인해 보세요.",
+        "📌 온톨로지로 산업의 문제를 해결하는 방법"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/614146413_1440241187521068_7811686880060319413_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j0Kmk07KT_4Q7kNvwEEsf_S&_nc_oc=AdmM7g1U8nCwZLKDTRtx_X53RGIMcog4NzRXY_14O71hI3qG9a2n6B9zAMSOI8IB7BI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=z7RYEcsT9wL_uyW8ZbcWBQ&oh=00_AfofC6YuhZAH3mjkjEeHvck4RWBjtDdw1Yn7ZJ-N7hOJRw&oe=6973AB01",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611250300_1399388901887281_6303105879301205416_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PkCxbjgBgcsQ7kNvwEHxIdO&_nc_oc=AdmUYbjGBg2eYBNuWOAOaL6dDmErc_zORXCoIEwmob-ndLVj12OxdfsN5DnCLJAYIxw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=z7RYEcsT9wL_uyW8ZbcWBQ&oh=00_AfoBhtzsonU1E63SxCXC1HV4KuDd7KOj_qqzx4NqKFmypg&oe=6973A318",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612588768_920041403879598_5450528985261022550_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wrceeSC17dMQ7kNvwES5sBL&_nc_oc=Admgp5zitwVEOgJSi-T7gaTmXIn78QppvQJAoWJr1dQy0rJFZmTs47GNeffngHY9alI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=z7RYEcsT9wL_uyW8ZbcWBQ&oh=00_AfoXu6iPyJUPc6D-DHyel_CvKgTWpvCs60BBiIlBQoletw&oe=69737AB6"
+      ],
+      "landing_url": "https://s2w.inc/ko/event/webinar/88"
+    },
+    {
+      "index": 38,
+      "collected_at": "2026-01-19T14:40:34.863011",
+      "page_name": "S2W",
+      "ad_text": [
+        "#온톨로지 가 무엇인가요? 또, 왜 중요할까요?",
+        "위 질문에 대한 답을 S2W 웨비나에서 확인해 보세요.",
+        "📌 온톨로지로 산업의 문제를 해결하는 방법"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/613129376_1229209922434451_4163965750943641682_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=McmBU-5A2qgQ7kNvwHC33Qs&_nc_oc=AdlN4pUF05qg3cZB4dkLX2EjffWkfiq55OYZ9gWoSlU0eA4zINBUtcfPgny2KsMMxmc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=z7RYEcsT9wL_uyW8ZbcWBQ&oh=00_AfoFLlC2m7y9ZXYkzOJcF21931F30zaLtw_Cojx3cjAaJg&oe=6973A398",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612289735_1185256487151989_4359647136099908862_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tLv4r9xiqIEQ7kNvwHh1gWx&_nc_oc=Adk_KznEj7Ei-9g4zGAKu3ernfrY5ro5SjRe6aA-DxqWnPf9k8_dGOqMQydqQqoH7gg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=z7RYEcsT9wL_uyW8ZbcWBQ&oh=00_AfoqPT3NT6JmfFQxqD0d2D7qLMwAGpYPHCKeY55T5IDHhg&oe=69739395",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611142990_1167566225402903_7191718989413848979_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4tzFMGMgPgUQ7kNvwFonmaG&_nc_oc=Adm0gCaG4aAioGn7pXi7I68600VKmhVLkFUbB-6dXlaKmbrp2AdF-95LadOk_9e3Cj4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=z7RYEcsT9wL_uyW8ZbcWBQ&oh=00_Afqdwl3Vzw2GOBanaC7hSowi3dsr_xNeQJoTADRV6_S68A&oe=697382E5"
+      ],
+      "landing_url": "http://instagram.com/s2w.official"
+    },
+    {
+      "index": 39,
+      "collected_at": "2026-01-19T14:40:34.957309",
+      "page_name": "RightNow Media KR",
+      "ad_text": [
+        "📢 2026년 1월 <AI 코파일럿 시대, 리더의 디지털 전략> 이라는 주제로 이 시대에 교회에 꼭 필요한 디지털 전략 웨비나로 목회자님을 초청합니다.",
+        "➡️ 자칫 번아웃을 격기 쉬운 요즘의 목회 환경 속에서 디지털 도구로 사역의 균형을 잡고 성도의 성숙과 성장을 확장하기 위한 목회 전략을 소개합니다.",
+        "⏰ 특별히 1월 웨비나에는 고상섭 목사님의 '소그룹' 특별 주제 강연이 진행됩니다."
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/610825578_885005883903186_7240046550351770820_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0bAnlKhC7qUQ7kNvwF1bJlp&_nc_oc=Adm_v3LTDnTLin1cELNGR-TvJpz6ropXohrZDXurR4PK5dN_hTz4bCnvu3popfZbNks&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=Puu31bxyR7vJwuaq0opqKg&oh=00_AfpuzQl71xAid8t3FadNs32cDZEe_j8LkYixq78730BVQQ&oe=69738F53",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/610962028_1968012757083451_7395740074380290775_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DD3XsSC_V5sQ7kNvwHTDmMT&_nc_oc=AdnVO9aQAvlGXH21aiUTCCHDKbRfzZEaNkOdRGv7O_ZRU6MQTauV83cksygheJOt4jQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=Puu31bxyR7vJwuaq0opqKg&oh=00_Afo5kEg-tf0xZuqmaGU6G2qwvr4sx4cSKa1uEhaalk38uQ&oe=6973A4AE"
+      ],
+      "landing_url": "https://forms.gle/qx8iF7MdsbWAPjU19"
+    },
+    {
+      "index": 40,
+      "collected_at": "2026-01-19T14:40:35.028861",
+      "page_name": "RightNow Media KR",
+      "ad_text": [
+        "📢 2026년 1월 <AI 코파일럿 시대, 리더의 디지털 전략> 이라는 주제로 이 시대에 교회에 꼭 필요한 디지털 전략 웨비나로 목회자님을 초청합니다.",
+        "➡️자칫 번아웃을 격기 쉬운 요즘의 목회 환경 속에서 디지털 도구로 사역의 균형을 잡고 성도의 성숙과 성장을 확장하기 위한 목회 전략을 소개합니다.",
+        "⏰특별히 1월 웨비나에는 고상섭 목사님의 '소그룹' 특별 주제 강연이 진행됩니다."
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612153051_720881461099443_3907657879755377414_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vNTMg3Vn4F4Q7kNvwElaVYf&_nc_oc=AdkcaeNRaeHqhnuZFzfyh_ebX90iy8PVRjCpW1z-eavOof2litdX474HjxxG2k6x26s&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=Puu31bxyR7vJwuaq0opqKg&oh=00_AfrYESgmSoao5a1jwBYNsYkcTPgbjZZ8jKOJCk4tc0h6Rg&oe=697389B6",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611783738_1101255402021903_8189321177819697242_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ErP2gkxzRIsQ7kNvwFkZklB&_nc_oc=AdkwWzJXdDJ3bVnqt44GW7F4A1NHtW7sPfQV-1CVchHzQlqjtdF8nQr4GcMKsi8_MNQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=Puu31bxyR7vJwuaq0opqKg&oh=00_AfpWtE9O-Rv48kFzy8OiuHyB9HT657v4j5D5npt69Mq_Jg&oe=697388A3"
+      ],
+      "landing_url": "https://forms.gle/qx8iF7MdsbWAPjU19"
+    },
+    {
+      "index": 41,
+      "collected_at": "2026-01-19T14:40:35.112322",
+      "page_name": "화해 비즈니스 - Hwahae Business",
+      "ad_text": [
+        "화해 비즈니스 - Hwahae Business",
+        "🫢 아직도 2026 트렌드 조사, 직접 하고 계신가요?",
+        "눈코 뜰 새 없이 바쁜 1월, 이것저것 찾아헤맬 시간도 부족한 담당자님을 위해 화해가 2026 뷰티 트렌드를 단 90분 만에 떠먹여 드립니다. 🥄"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612430653_908155791692898_1190681109976625111_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5CXHk-tiXqQQ7kNvwEISVn1&_nc_oc=AdkuJhPIG4n4CTeO0t0umVjQqm_sjhRN-9yMxhqgvCqP8Edp1I5y09HAKacys-vJsME&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=8huZX53VGjquH9WivG4Abw&oh=00_Afr92OnkJ_DXrSW_fehcllZoXgbEVctaZXVmJVtnikztHA&oe=69737DB1",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611863646_1620593942686572_6691945663107497629_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2yCakAb7vcIQ7kNvwGHtqAk&_nc_oc=AdkNrEVrAh-ZeqZHrLETFoBB2DwR-w7PjISeFmw4hZHi7zzB0hEhaFm20ZsMpLyps4Y&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=8huZX53VGjquH9WivG4Abw&oh=00_Afo-jbfQGweAP9LqqHjWt0gduLDkUKJ2nL5M4HB9d8i7dw&oe=69737C08",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612152325_1199301828451935_1282501435518693697_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=83zH4U9_hfUQ7kNvwHNNf96&_nc_oc=AdnDZy2T31Ln93D4of93c_j_GXrpofEuVAGeCzyVwpxNk6ak1Y2LjRY7uLCCwVaA7YE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=8huZX53VGjquH9WivG4Abw&oh=00_Afo33BaN9ZK3z3ZhpwqvYsd-F0hg3GlhPk2YeYNkuavGRQ&oe=6973837D",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611764576_1406155927615952_4017698137036901389_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8UjK0UpSYo8Q7kNvwGdACX0&_nc_oc=AdkTS4wyshFed7tTUjaZwaqq99cwZvduJrxqsp5mwlnTy7ZsGlILPzZRuoa183tcc28&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=8huZX53VGjquH9WivG4Abw&oh=00_Afrm2E0Cayu3vgjt_jZl11irCIwk6916CyHb4Mg__qw8LQ&oe=697393D4",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611999390_2746188869069076_2436341468294837830_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=raKKbn2fOdsQ7kNvwGzqsLg&_nc_oc=Adm3m764j7U9l6fjPFNIjVrsdfWNuAKmeLegFQ5rWf8UtikYgeutBIsIM8Y6nkqFVos&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=8huZX53VGjquH9WivG4Abw&oh=00_AfquzWQC4vfvri0Q7gP1neCeRY4z5xiAyPNdUBIOYm2d5Q&oe=6973914C",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612277423_1453590433055609_5187092382425019199_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FIr83Pv2esQQ7kNvwEAOfcK&_nc_oc=Admd-b9ryqd9A6ma-kfErx5S25D8IAqpO5ZCSKqj_KTXhU6Ex5lbzoROT0hXvrbNi-8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=8huZX53VGjquH9WivG4Abw&oh=00_Afp9HMlvL2nqFTQzgw1WlI1CWIBavfi4m6VUo7P8EMdGOQ&oe=69737F66"
+      ],
+      "landing_url": "https://business.hwahae.co.kr/promotion/2026-trend-webinar-meta"
+    },
+    {
+      "index": 42,
+      "collected_at": "2026-01-19T14:40:35.269293",
+      "page_name": "화해 비즈니스 - Hwahae Business",
+      "ad_text": [
+        "화해 비즈니스 - Hwahae Business",
+        "🫢 아직도 2026 트렌드 조사, 직접 하고 계신가요?",
+        "눈코 뜰 새 없이 바쁜 1월, 이것저것 찾아헤맬 시간도 부족한 담당자님을 위해 화해가 2026 뷰티 트렌드를 단 90분 만에 떠먹여 드립니다. 🥄"
+      ],
+      "image_urls": [
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/608911659_1242907937891665_7543457363452685340_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6hN_Z5GNYw0Q7kNvwHYyqR0&_nc_oc=AdmnORZ6LeH8E_9Cw8T-9kUxDietydtKh-ORp5VWVAAuAWQsMnxqGr6aIvVZ9eg5XEE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=8huZX53VGjquH9WivG4Abw&oh=00_Afo63gOneYR1pEOQb7dKPxEYLPH7RKWp1o1A6N1YnGOZDA&oe=69739EBB",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/608195846_1233163188660072_4931624741394107662_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Fotv6uGs6NAQ7kNvwE7EJjU&_nc_oc=AdkoCT5BW8HlkiZnPPlbAgkO0F1jH7hY0OiaYuChMSfN6BMGC7nr_0pOJSlc9LWe5fo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=8huZX53VGjquH9WivG4Abw&oh=00_AfpD8hIhhhHL_406kD4fMFoSbeWfGckyPmpgXwCJMlj6ZA&oe=6973AD23",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/608124953_1502734768104342_7150805321475384444_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RsMt_2lmmJoQ7kNvwF1UMub&_nc_oc=AdnSY8N6egCEJEbIkZvkIBolr7yCOiFZxe5y9VXeyxqJaKsjq4BjFD3JDpMNmtaL6_Q&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=8huZX53VGjquH9WivG4Abw&oh=00_AfrFSQ8zH5AU81Fk-_QewBDDMxH2LPbYEa7fTA5m9SxyOQ&oe=69738422",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611268485_1395298698901615_7241732377252979043_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BekkovLcqAUQ7kNvwFXDMKA&_nc_oc=AdkwLscoQ3MoYQlu1fYjsPMPI2KcCkVeLX0EHJpbNEcHLuthxw2rUT0wD4H2x_IyMsE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=8huZX53VGjquH9WivG4Abw&oh=00_AfqaaRlD80E6a_7j6k-te6kaT4bjrjTHcL1xDwEkICSdvQ&oe=697388A1",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611531706_850432830948525_2982251356686725256_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3QYAHkzXKlcQ7kNvwGNCyNr&_nc_oc=AdnPZFrQlraqQrSl7RiL7o1Tg9r36DN4psYijy1f1r8bpOuiYussLOHT8credsoH4hA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=8huZX53VGjquH9WivG4Abw&oh=00_AfqGiic18wPFVkUoVOv6n1lNDYhDc9s01-z2QIIhYharbg&oe=697388EE",
+        "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/608519710_1905424053392111_8769330098183684147_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hO38X7tSGtUQ7kNvwF2d4xa&_nc_oc=Adn8epQoOaDRNLWaPivlt61B1YEXmFxxHXvPNHFYLzf3C4GB84TFObVSlKfZV1awhSc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=8huZX53VGjquH9WivG4Abw&oh=00_AfqBV_CKl39Xfw4UF_7HGs1LLeX2-8Li23Lxbqj1Bra5Eg&oe=6973AE39"
+      ],
+      "landing_url": "https://business.hwahae.co.kr/promotion/2026-trend-webinar-meta"
+    },
+    {
+      "index": 43,
+      "collected_at": "2026-01-19T14:40:35.402865",
+      "page_name": "0:00 / 0:11",
+      "video_urls": [
+        "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOW-rpe3NH2eb2pODhvQCl5GHZqJIKDS2Gm47kOR3yy_EeRsaQZCxOMOeB6ScfKq5Ci7fKOm9p61be0z4dNF0ne1OZAITWElSuADJ7m4w.mp4?_nc_cat=110&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=_nqFdMRYIrYQ7kNvwHldV9r&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTYwMTMzMDEzNDM4NzMwMSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTIzLCJkdXJhdGlvbl9zIjoxMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=OI70Vf-awew67ypDhWDboA&_nc_zt=28&oh=00_AfokaYn6RZXqLy4gZBOY17E_9sO8HWd8Ay5j2Wuh_siTRg&oe=69738850"
+      ]
+    },
+    {
+      "index": 44,
+      "collected_at": "2026-01-19T14:40:35.425537",
+      "page_name": "0:00 / 0:27",
+      "video_urls": [
+        "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m86/AQOJThVpajb12Et6iTxkUgrgF61glN75fnvv03PoRvuubZHNPWy1a-4DE1qAE-z-C3f9sX-5e8Jt4Cq5LDKbzG9mmgMPYPjsrQS93tA.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=xn0zxEZe31gQ7kNvwEvJPpL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLmRhc2hfYmFzZWxpbmVfM192MSIsInhwdl9hc3NldF9pZCI6MTExNzM1NjU1MzU2MDI1MCwiYXNzZXRfYWdlX2RheXMiOjIxNCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjI2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=1fab7ff647a8060e&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9ENjQ0RjZDMjFBNzYxRkNENThGOEVBQUU4QTg5MUFCNF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTldnVGg2VmhvLXpYTE1EQU1zNDloUS1hODU4YnFfRUFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm9IKzh9uO_AMVAigCQzMsF0A6btkWhysCGBJkYXNoX2Jhc2VsaW5lXzNfdjERAHUAZeadAQA&_nc_gid=S7JWMX7-3zj1dKVeTepTww&_nc_zt=28&oh=00_AfpBh_AiwPyLRk4sHzwZjF7Q5GtFKuLuwj26ACGEgVaMiQ&oe=696F9FA6"
+      ]
+    },
+    {
+      "index": 45,
+      "collected_at": "2026-01-19T14:40:35.445385",
+      "page_name": "0:00 / 0:41",
+      "video_urls": [
+        "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m86/AQO_4iv6kyWgzBQUMZyYWsWe-X_nezmBWT7LFMniyitO3YSPwdMi_Azh1cRgBFN5z4B-8JeccNkEFAkTO77MfvYn21CQl1zFZYKPA7k.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=pZEbSvz5yJYQ7kNvwHxe3Lo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLmRhc2hfYmFzZWxpbmVfM192MSIsInhwdl9hc3NldF9pZCI6NzE5ODAzMjg3NTY2OTY5LCJhc3NldF9hZ2VfZGF5cyI6MTczLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=5e4f6dd6b90d18b9&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83MzRBRjFGMzUzREVDQ0EzMzZCQUFBOEZGMjc2NTc4NF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYRmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83MTkwMTcwNDA5NDYyMzVfNTEwOTMxMjc4ODg3NjY1NzE0Mi5tcDQVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm8umbtIiqxwIVAigCQzMsF0BEkQYk3S8bGBJkYXNoX2Jhc2VsaW5lXzNfdjERAHUAZeadAQA&_nc_gid=S7JWMX7-3zj1dKVeTepTww&_nc_zt=28&oh=00_Afq8ajOwKvtX-XmEEmlTI2Y3XVDRSmRqn7ogMEWBfXBRuA&oe=696F91C2"
+      ]
+    },
+    {
+      "index": 46,
+      "collected_at": "2026-01-19T14:40:35.465273",
+      "page_name": "0:00 / 0:27",
+      "video_urls": [
+        "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m86/AQOJThVpajb12Et6iTxkUgrgF61glN75fnvv03PoRvuubZHNPWy1a-4DE1qAE-z-C3f9sX-5e8Jt4Cq5LDKbzG9mmgMPYPjsrQS93tA.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=xn0zxEZe31gQ7kNvwEvJPpL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLmRhc2hfYmFzZWxpbmVfM192MSIsInhwdl9hc3NldF9pZCI6MTExNzM1NjU1MzU2MDI1MCwiYXNzZXRfYWdlX2RheXMiOjIxNCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjI2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=1fab7ff647a8060e&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9ENjQ0RjZDMjFBNzYxRkNENThGOEVBQUU4QTg5MUFCNF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTldnVGg2VmhvLXpYTE1EQU1zNDloUS1hODU4YnFfRUFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm9IKzh9uO_AMVAigCQzMsF0A6btkWhysCGBJkYXNoX2Jhc2VsaW5lXzNfdjERAHUAZeadAQA&_nc_gid=Puu31bxyR7vJwuaq0opqKg&_nc_zt=28&oh=00_AfrE9_SaKeW5f4zSwbK0s5Y-F8WomhXPqCr1fC9MjnpKaw&oe=696F9FA6"
+      ]
+    },
+    {
+      "index": 47,
+      "collected_at": "2026-01-19T14:40:35.494906",
+      "page_name": "0:00 / 0:41",
+      "video_urls": [
+        "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m86/AQO_4iv6kyWgzBQUMZyYWsWe-X_nezmBWT7LFMniyitO3YSPwdMi_Azh1cRgBFN5z4B-8JeccNkEFAkTO77MfvYn21CQl1zFZYKPA7k.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=pZEbSvz5yJYQ7kNvwHxe3Lo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLmRhc2hfYmFzZWxpbmVfM192MSIsInhwdl9hc3NldF9pZCI6NzE5ODAzMjg3NTY2OTY5LCJhc3NldF9hZ2VfZGF5cyI6MTczLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=5e4f6dd6b90d18b9&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83MzRBRjFGMzUzREVDQ0EzMzZCQUFBOEZGMjc2NTc4NF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYRmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83MTkwMTcwNDA5NDYyMzVfNTEwOTMxMjc4ODg3NjY1NzE0Mi5tcDQVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm8umbtIiqxwIVAigCQzMsF0BEkQYk3S8bGBJkYXNoX2Jhc2VsaW5lXzNfdjERAHUAZeadAQA&_nc_gid=Puu31bxyR7vJwuaq0opqKg&_nc_zt=28&oh=00_AfoOe8HVR6XsHohBx9WpXTxiY3MhP2A_XRvRJOIVtajhgA&oe=696F91C2"
+      ]
+    },
+    {
+      "index": 48,
+      "collected_at": "2026-01-19T14:40:35.530954",
+      "page_name": "0:00 / 0:18",
+      "video_urls": [
+        "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPYC9a0J4oUYFEOjLRHxpieUUesFaP2iazYYOjmjYmT4kJKmWF-09qaJEX_eT2CIykORd7UHx0mWXnno5ABdpOsgrrKl466t4GQvzac5Q.mp4?_nc_cat=107&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=XWwnDoy7BBoQ7kNvwF2HWci&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NzY1NTI3ODAzMjQwMTQwLCJhc3NldF9hZ2VfZGF5cyI6MTEsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjoxOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Puu31bxyR7vJwuaq0opqKg&_nc_zt=28&oh=00_Afp8gu1t8pPVk2yAqiVK2alURg99tEucQjj_rZ3riof5Cg&oe=697386A3"
+      ]
+    },
+    {
+      "index": 49,
+      "collected_at": "2026-01-19T14:40:35.571995",
+      "page_name": "0:00 / 0:20",
+      "video_urls": [
+        "https://video-icn2-1.xx.fbcdn.net/v/t42.1790-2/508230479_1706380486916166_508925414152321093_n.mp4?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ktcNt8fv0IwQ7kNvwFh5LwN&_nc_oc=AdkbllP41xSYXcOcbRd-MXW_TXR6uhSbkg4Ij6lJOxmT-ymZZZRxr0FObC3J3R_AqqE&_nc_zt=28&_nc_ht=video-icn2-1.xx&_nc_gid=TjJUHTS05A6YrNg3Utm2tg&oh=00_AfrAkBQXLtYI3bFoABk0sq1q4gKGQjsLuufIGdvaD9jhpA&oe=697391B1"
+      ]
+    }
+  ]
+}

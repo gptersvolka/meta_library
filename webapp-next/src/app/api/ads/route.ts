@@ -2,12 +2,27 @@ import { NextResponse } from "next/server";
 import fs from "fs";
 import path from "path";
 
+// 데이터 경로 (Vercel vs 로컬 자동 감지)
+function getDataDir(): string {
+  // Vercel 환경에서는 프로젝트 루트/data
+  // 로컬에서는 webapp-next/../data
+  const vercelDataDir = path.join(process.cwd(), "data");
+  const localDataDir = path.join(process.cwd(), "..", "data");
+
+  // Vercel 배포 시 data 폴더가 프로젝트 루트에 있음
+  if (fs.existsSync(vercelDataDir) && fs.existsSync(path.join(vercelDataDir, "raw"))) {
+    return vercelDataDir;
+  }
+  return localDataDir;
+}
+
 interface Ad {
   page_name?: string;
   ad_text?: string[];
   image_urls?: string[];
   video_urls?: string[];
   landing_url?: string;
+  r2_image_url?: string; // Cloudflare R2에 업로드된 이미지 URL
   _collected_at?: string;
   _source_file?: string;
 }
@@ -32,7 +47,7 @@ interface KeywordsData {
 
 // keywords.json에서 등록된 키워드 목록 읽기
 function getRegisteredKeywords(): string[] {
-  const keywordsFile = path.join(process.cwd(), "..", "data", "keywords.json");
+  const keywordsFile = path.join(getDataDir(), "keywords.json");
   try {
     if (fs.existsSync(keywordsFile)) {
       const content = fs.readFileSync(keywordsFile, "utf-8");
@@ -47,8 +62,8 @@ function getRegisteredKeywords(): string[] {
 
 export async function GET() {
   try {
-    // data/raw 폴더 경로 (프로젝트 루트 기준)
-    const dataDir = path.join(process.cwd(), "..", "data", "raw");
+    // data/raw 폴더 경로
+    const dataDir = path.join(getDataDir(), "raw");
 
     // keywords.json에서 등록된 키워드 가져오기
     const registeredKeywords = getRegisteredKeywords();

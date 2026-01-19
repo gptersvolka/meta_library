@@ -4,6 +4,17 @@ import path from "path";
 
 // POST: 키워드 수집 실행
 export async function POST(request: Request) {
+  // Vercel 환경에서는 수집 기능 비활성화
+  if (process.env.VERCEL) {
+    return NextResponse.json(
+      {
+        error: "수집 기능은 로컬 환경에서만 사용 가능합니다.",
+        message: "GitHub Actions를 통해 자동 수집되거나, 로컬에서 직접 실행해주세요."
+      },
+      { status: 400 }
+    );
+  }
+
   try {
     const body = await request.json();
     const { keyword, country = "KR", limit = 50 } = body;

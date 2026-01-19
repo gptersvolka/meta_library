@@ -2,8 +2,21 @@ import { NextResponse } from "next/server";
 import fs from "fs";
 import path from "path";
 
+// 데이터 경로 (Vercel vs 로컬 자동 감지)
+function getDataDir(): string {
+  const vercelDataDir = path.join(process.cwd(), "data");
+  const localDataDir = path.join(process.cwd(), "..", "data");
+
+  if (fs.existsSync(vercelDataDir)) {
+    return vercelDataDir;
+  }
+  return localDataDir;
+}
+
 // 키워드 저장 파일 경로 (스케줄러와 동일한 파일 사용)
-const KEYWORDS_FILE = path.join(process.cwd(), "..", "data", "keywords.json");
+function getKeywordsFile(): string {
+  return path.join(getDataDir(), "keywords.json");
+}
 
 // 스케줄러와 동일한 형식
 interface KeywordItem {
@@ -21,7 +34,7 @@ interface KeywordsData {
 }
 
 function ensureDataDir() {
-  const dataDir = path.dirname(KEYWORDS_FILE);
+  const dataDir = getDataDir();
   if (!fs.existsSync(dataDir)) {
     fs.mkdirSync(dataDir, { recursive: true });
   }
@@ -29,14 +42,15 @@ function ensureDataDir() {
 
 function readKeywords(): KeywordsData {
   ensureDataDir();
-  if (!fs.existsSync(KEYWORDS_FILE)) {
+  const keywordsFile = getKeywordsFile();
+  if (!fs.existsSync(keywordsFile)) {
     return {
       keywords: [],
       schedule: { time: "09:00" }
     };
   }
   try {
-    const content = fs.readFileSync(KEYWORDS_FILE, "utf-8");
+    const content = fs.readFileSync(keywordsFile, "utf-8");
     return JSON.parse(content);
   } catch {
     return {
@@ -48,7 +62,8 @@ function readKeywords(): KeywordsData {
 
 function writeKeywords(data: KeywordsData) {
   ensureDataDir();
-  fs.writeFileSync(KEYWORDS_FILE, JSON.stringify(data, null, 2), "utf-8");
+  const keywordsFile = getKeywordsFile();
+  fs.writeFileSync(keywordsFile, JSON.stringify(data, null, 2), "utf-8");
 }
 
 // GET: 키워드 목록 조회

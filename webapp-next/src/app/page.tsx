@@ -16,6 +16,7 @@ interface Ad {
   ad_text?: string[];
   image_urls?: string[];
   video_urls?: string[];
+  r2_image_url?: string; // Cloudflare R2에 업로드된 이미지 URL (우선 사용)
   _collected_at?: string;
   _source_file?: string;
   landing_url?: string;
@@ -37,6 +38,11 @@ interface HighlightAd {
   highlighted_at: string;
   landing_url?: string;
 }
+
+// R2 URL 우선, 없으면 원본 이미지 URL 사용
+const getImageUrl = (ad: Ad): string => {
+  return ad.r2_image_url || ad.image_urls?.[0] || "";
+};
 
 export default function Home() {
   const [data, setData] = useState<AdsData>({ keywords: [], ads: {} });
@@ -101,7 +107,7 @@ export default function Home() {
 
   // 하이라이트 토글
   const toggleHighlight = async (ad: Ad, keyword: string) => {
-    const imageUrl = ad.image_urls?.[0];
+    const imageUrl = getImageUrl(ad);
     if (!imageUrl) return;
 
     // 이미지 URL에서 ID 생성 (API와 동일한 로직)
@@ -157,7 +163,7 @@ export default function Home() {
 
   // 광고의 하이라이트 ID 계산
   const getAdHighlightId = (ad: Ad): string => {
-    const imageUrl = ad.image_urls?.[0];
+    const imageUrl = getImageUrl(ad);
     if (!imageUrl) return "";
     try {
       const url = new URL(imageUrl);
@@ -178,8 +184,11 @@ export default function Home() {
   // 유효한 이미지가 있는 광고만 필터링
   const validAds = useMemo(() => {
     return currentAds.filter((ad) => {
-      const imageUrl = ad.image_urls?.[0];
+      const imageUrl = getImageUrl(ad);
       if (!imageUrl) return false;
+      // R2 URL인 경우 크기 체크 건너뛰기 (이미 검증됨)
+      if (ad.r2_image_url) return true;
+      // 원본 URL의 경우 크기 체크
       const sizeMatch = imageUrl.match(/(\d+)x(\d+)/);
       if (sizeMatch) {
         const width = parseInt(sizeMatch[1]);
@@ -823,7 +832,7 @@ export default function Home() {
               {paginatedAds.map((ad, idx) => (
                 <AdCard
                   key={`${ad._source_file}-${idx}`}
-                  imageUrl={ad.image_urls?.[0] || ""}
+                  imageUrl={getImageUrl(ad)}
                   pageName={ad.page_name || "Unknown"}
                   collectedAt={ad._collected_at || ""}
                   adText={Array.isArray(ad.ad_text) ? ad.ad_text.join("\n") : ad.ad_text}
