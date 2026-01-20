@@ -2,38 +2,101 @@ import { NextResponse } from "next/server";
 import { spawn } from "child_process";
 import path from "path";
 
+// GitHub Actions 워크플로우 트리거 (특정 키워드)
+async function triggerGitHubActions(keyword: string): Promise<{ success: boolean; message: string }> {
+  const token = process.env.GITHUB_TOKEN;
+  const owner = process.env.GITHUB_OWNER || "gptersvolka";
+  const repo = process.env.GITHUB_REPO || "meta_library";
+
+  if (!token) {
+    return {
+      success: false,
+      message: "GITHUB_TOKEN이 설정되지 않았습니다. 환경 변수를 확인해주세요.",
+    };
+  }
+
+  try {
+    const response = await fetch(
+      `https://api.github.com/repos/${owner}/${repo}/actions/workflows/collect-ads.yml/dispatches`,
+      {
+        method: "POST",
+        headers: {
+          Authorization: `Bearer ${token}`,
+          Accept: "application/vnd.github.v3+json",
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          ref: "main",
+          inputs: {
+            query: keyword,
+          },
+        }),
+      }
+    );
+
+    if (response.status === 204) {
+      return {
+        success: true,
+        message: `"${keyword}" 수집이 GitHub Actions에서 시작되었습니다. 완료까지 약 5-10분 소요됩니다.`,
+      };
+    } else {
+      const errorText = await response.text();
+      console.error("GitHub API error:", response.status, errorText);
+      return {
+        success: false,
+        message: `GitHub Actions 트리거 실패: ${response.status}`,
+      };
+    }
+  } catch (error) {
+    console.error("GitHub API request failed:", error);
+    return {
+      success: false,
+      message: "GitHub API 요청 실패",
+    };
+  }
+}
+
 // POST: 키워드 수집 실행
 export async function POST(request: Request) {
-  // Vercel 환경에서는 수집 기능 비활성화
-  if (process.env.VERCEL) {
+  const body = await request.json();
+  const { keyword, country = "KR", limit = 50 } = body;
+
+  if (!keyword || typeof keyword !== "string") {
     return NextResponse.json(
-      {
-        error: "수집 기능은 로컬 환경에서만 사용 가능합니다.",
-        message: "GitHub Actions를 통해 자동 수집되거나, 로컬에서 직접 실행해주세요."
-      },
+      { error: "Invalid keyword" },
       { status: 400 }
     );
   }
 
+  const trimmedKeyword = keyword.trim();
+  if (!trimmedKeyword) {
+    return NextResponse.json(
+      { error: "Keyword cannot be empty" },
+      { status: 400 }
+    );
+  }
+
+  // Vercel 환경에서는 GitHub Actions 트리거
+  if (process.env.VERCEL) {
+    const result = await triggerGitHubActions(trimmedKeyword);
+
+    if (result.success) {
+      return NextResponse.json({
+        success: true,
+        keyword: trimmedKeyword,
+        message: result.message,
+        mode: "github_actions",
+      });
+    } else {
+      return NextResponse.json(
+        { error: result.message },
+        { status: 400 }
+      );
+    }
+  }
+
+  // 로컬 환경에서는 직접 Python 스크립트 실행
   try {
-    const body = await request.json();
-    const { keyword, country = "KR", limit = 50 } = body;
-
-    if (!keyword || typeof keyword !== "string") {
-      return NextResponse.json(
-        { error: "Invalid keyword" },
-        { status: 400 }
-      );
-    }
-
-    const trimmedKeyword = keyword.trim();
-    if (!trimmedKeyword) {
-      return NextResponse.json(
-        { error: "Keyword cannot be empty" },
-        { status: 400 }
-      );
-    }
-
     // 프로젝트 루트 경로
     const projectRoot = path.join(process.cwd(), "..");
 

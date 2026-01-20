@@ -5,6 +5,7 @@
 
 import asyncio
 import importlib
+import json
 import os
 from datetime import datetime
 
@@ -17,6 +18,83 @@ from src.config import (
     ensure_dirs,
     get_env
 )
+
+# Supabase 클라이언트 초기화
+def get_supabase_client():
+    """Supabase 클라이언트 반환 (환경변수 필요)"""
+    supabase_url = os.getenv("SUPABASE_URL") or os.getenv("NEXT_PUBLIC_SUPABASE_URL")
+    supabase_key = os.getenv("SUPABASE_KEY") or os.getenv("NEXT_PUBLIC_SUPABASE_ANON_KEY")
+
+    if not supabase_url or not supabase_key:
+        logger.warning("Supabase 환경변수 미설정 - DB 저장 건너뜀")
+        return None
+
+    try:
+        from supabase import create_client
+        return create_client(supabase_url, supabase_key)
+    except Exception as e:
+        logger.error(f"Supabase 클라이언트 생성 실패: {e}")
+        return None
+
+
+def save_ads_to_supabase(ads: list, query: str, raw_file: str):
+    """수집된 광고를 Supabase에 저장"""
+    client = get_supabase_client()
+    if not client:
+        return {"saved": 0, "skipped": 0, "error": "Supabase 미연결"}
+
+    saved = 0
+    skipped = 0
+
+    # raw 파일에서 permanent_image_url 정보 읽기
+    try:
+        with open(raw_file, "r", encoding="utf-8") as f:
+            raw_data = json.load(f)
+            ads_with_urls = {
+                ad.get("image_urls", [""])[0]: ad.get("permanent_image_url")
+                for ad in raw_data.get("ads", [])
+            }
+    except Exception as e:
+        logger.warning(f"raw 파일 읽기 실패: {e}")
+        ads_with_urls = {}
+
+    for ad in ads:
+        try:
+            image_url = ad.get("image_urls", [""])[0] if ad.get("image_urls") else None
+            if not image_url:
+                skipped += 1
+                continue
+
+            # permanent_image_url 가져오기
+            permanent_url = ads_with_urls.get(image_url) or ad.get("permanent_image_url")
+
+            ad_data = {
+                "keyword": query,
+                "page_name": ad.get("page_name", "Unknown"),
+                "ad_text": ad.get("ad_text", []),
+                "image_url": image_url,
+                "permanent_image_url": permanent_url,
+                "landing_url": ad.get("landing_url"),
+                "collected_at": ad.get("collected_at", datetime.now().isoformat()),
+            }
+
+            # upsert로 중복 처리 (keyword + image_url 기준)
+            result = client.table("ads").upsert(
+                ad_data,
+                on_conflict="keyword,image_url"
+            ).execute()
+
+            saved += 1
+
+        except Exception as e:
+            if "duplicate" in str(e).lower() or "unique" in str(e).lower():
+                skipped += 1
+            else:
+                logger.warning(f"광고 저장 실패: {e}")
+                skipped += 1
+
+    logger.info(f"Supabase 저장 완료: {saved}개 저장, {skipped}개 건너뜀")
+    return {"saved": saved, "skipped": skipped}
 
 
 def run_full_pipeline(
@@ -67,17 +145,25 @@ def run_full_pipeline(
         imgbb_api_key = os.getenv("IMGBB_API_KEY")
 
         if imgbb_api_key:
-            logger.info("\n[Step 2/2] imgbb 이미지 업로드 시작")
+            logger.info("\n[Step 2/3] imgbb 이미지 업로드 시작")
             upload_module = importlib.import_module("src.03_upload_images")
             process_raw_file = upload_module.process_raw_file_with_imgbb
 
             result = process_raw_file(raw_file)
-            logger.info(f"[Step 2/2] 완료 - {result['uploaded']}개 업로드, {result['skipped']}개 건너뜀")
+            logger.info(f"[Step 2/3] 완료 - {result['uploaded']}개 업로드, {result['skipped']}개 건너뜀")
         else:
-            logger.warning("\n[Step 2/2] IMGBB_API_KEY 미설정 - 이미지 업로드 건너뜀")
+            logger.warning("\n[Step 2/3] IMGBB_API_KEY 미설정 - 이미지 업로드 건너뜀")
             logger.warning("imgbb를 사용하려면 .env에 IMGBB_API_KEY를 설정하세요.")
     else:
-        logger.info("\n[Step 2/2] 이미지 업로드 건너뜀")
+        logger.info("\n[Step 2/3] 이미지 업로드 건너뜀")
+
+    # Step 3: Supabase에 광고 데이터 저장
+    logger.info("\n[Step 3/3] Supabase DB 저장 시작")
+    db_result = save_ads_to_supabase(ads, query, raw_file)
+    if db_result.get("error"):
+        logger.warning(f"[Step 3/3] {db_result['error']}")
+    else:
+        logger.info(f"[Step 3/3] 완료 - {db_result['saved']}개 저장, {db_result['skipped']}개 건너뜀")
 
     logger.info("\n" + "=" * 50)
     logger.info(f"파이프라인 완료: {datetime.now().isoformat()}")

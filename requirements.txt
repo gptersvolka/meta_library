@@ -19,3 +19,6 @@ loguru>=0.7.0
 
 # 스케줄러
 schedule>=1.2.0
+
+# Supabase 클라이언트
+supabase>=2.0.0

@@ -1,149 +1,121 @@
 import { NextResponse } from "next/server";
-import fs from "fs";
-import path from "path";
-
-// 데이터 경로 (Vercel vs 로컬 자동 감지)
-function getDataDir(): string {
-  // Vercel 환경에서는 프로젝트 루트/data
-  // 로컬에서는 webapp-next/../data
-  const vercelDataDir = path.join(process.cwd(), "data");
-  const localDataDir = path.join(process.cwd(), "..", "data");
-
-  // Vercel 배포 시 data 폴더가 프로젝트 루트에 있음
-  if (fs.existsSync(vercelDataDir) && fs.existsSync(path.join(vercelDataDir, "raw"))) {
-    return vercelDataDir;
-  }
-  return localDataDir;
-}
+import { supabase } from "@/lib/supabase";
 
 interface Ad {
-  page_name?: string;
-  ad_text?: string[];
-  image_urls?: string[];
-  video_urls?: string[];
-  landing_url?: string;
-  permanent_image_url?: string; // imgbb에 업로드된 영구 이미지 URL
-  r2_image_url?: string; // (구) Cloudflare R2 URL (하위 호환)
-  _collected_at?: string;
-  _source_file?: string;
-}
-
-interface JsonData {
-  query: string;
+  id: string;
+  keyword: string;
+  page_name: string;
+  ad_text: string[];
+  image_url: string;
+  permanent_image_url: string;
+  landing_url: string;
   collected_at: string;
-  ads: Ad[];
 }
 
-interface KeywordItem {
-  query: string;
-  country: string;
-  limit: number;
-  enabled: boolean;
-}
-
-interface KeywordsData {
-  keywords: KeywordItem[];
-  schedule: { time: string };
-}
-
-// keywords.json에서 등록된 키워드 목록 읽기
-function getRegisteredKeywords(): string[] {
-  const keywordsFile = path.join(getDataDir(), "keywords.json");
+// Supabase에서 등록된 키워드 목록 읽기
+async function getRegisteredKeywords(): Promise<string[]> {
   try {
-    if (fs.existsSync(keywordsFile)) {
-      const content = fs.readFileSync(keywordsFile, "utf-8");
-      const data: KeywordsData = JSON.parse(content);
-      return data.keywords.map(kw => kw.query);
+    const { data, error } = await supabase
+      .from("keywords")
+      .select("query")
+      .eq("enabled", true)
+      .order("created_at", { ascending: true });
+
+    if (error) {
+      console.error("Supabase keywords error:", error);
+      return [];
     }
+
+    return (data || []).map((kw: { query: string }) => kw.query);
   } catch (e) {
-    console.error("Error reading keywords.json:", e);
+    console.error("Error reading keywords from Supabase:", e);
+    return [];
   }
-  return [];
+}
+
+// Supabase에서 광고 데이터 읽기
+async function getAdsFromSupabase(): Promise<Record<string, Ad[]>> {
+  try {
+    const { data, error } = await supabase
+      .from("ads")
+      .select("*")
+      .order("collected_at", { ascending: false });
+
+    if (error) {
+      console.error("Supabase ads error:", error);
+      return {};
+    }
+
+    // 키워드별로 그룹화
+    const adsByKeyword: Record<string, Ad[]> = {};
+    for (const ad of data || []) {
+      const keyword = ad.keyword || "unknown";
+      if (!adsByKeyword[keyword]) {
+        adsByKeyword[keyword] = [];
+      }
+
+      // 프론트엔드 호환 형태로 변환
+      adsByKeyword[keyword].push({
+        id: ad.id,
+        keyword: ad.keyword,
+        page_name: ad.page_name,
+        ad_text: ad.ad_text || [],
+        image_url: ad.image_url,
+        permanent_image_url: ad.permanent_image_url,
+        landing_url: ad.landing_url,
+        collected_at: ad.collected_at,
+      });
+    }
+
+    return adsByKeyword;
+  } catch (e) {
+    console.error("Error reading ads from Supabase:", e);
+    return {};
+  }
 }
 
 export async function GET() {
   try {
-    // data/raw 폴더 경로
-    const dataDir = path.join(getDataDir(), "raw");
+    // Supabase에서 키워드와 광고 데이터 가져오기
+    const [registeredKeywords, adsByKeyword] = await Promise.all([
+      getRegisteredKeywords(),
+      getAdsFromSupabase(),
+    ]);
 
-    // keywords.json에서 등록된 키워드 가져오기
-    const registeredKeywords = getRegisteredKeywords();
+    // 프론트엔드 호환 형태로 변환
+    const allAds: Record<string, Array<{
+      page_name?: string;
+      ad_text?: string[];
+      image_urls?: string[];
+      permanent_image_url?: string;
+      landing_url?: string;
+      _collected_at?: string;
+    }>> = {};
 
-    if (!fs.existsSync(dataDir)) {
-      // 폴더가 없어도 등록된 키워드는 표시 (빈 광고 목록과 함께)
-      const emptyAds: Record<string, Ad[]> = {};
-      for (const kw of registeredKeywords) {
-        emptyAds[kw] = [];
-      }
-      return NextResponse.json({ keywords: registeredKeywords, ads: emptyAds }, { status: 200 });
+    // Supabase 데이터를 기존 형식으로 변환
+    for (const [keyword, ads] of Object.entries(adsByKeyword)) {
+      allAds[keyword] = ads.map((ad) => ({
+        page_name: ad.page_name,
+        ad_text: ad.ad_text,
+        image_urls: [ad.permanent_image_url || ad.image_url],
+        permanent_image_url: ad.permanent_image_url,
+        landing_url: ad.landing_url,
+        _collected_at: ad.collected_at,
+      }));
     }
 
-    const files = fs.readdirSync(dataDir).filter((f) => f.endsWith(".json"));
-    const allAds: Record<string, Ad[]> = {};
-
-    for (const file of files) {
-      try {
-        const filePath = path.join(dataDir, file);
-        const content = fs.readFileSync(filePath, "utf-8");
-        const data: JsonData = JSON.parse(content);
-
-        const query = data.query || "unknown";
-        const collectedAt = data.collected_at || "";
-        const ads = data.ads || [];
-
-        if (!allAds[query]) {
-          allAds[query] = [];
-        }
-
-        for (const ad of ads) {
-          allAds[query].push({
-            ...ad,
-            _collected_at: collectedAt,
-            _source_file: file,
-          });
-        }
-      } catch (e) {
-        console.error(`Error reading ${file}:`, e);
-      }
-    }
-
-    // 중복 제거 (이미지 URL 기준 - 쿼리스트링 제외하고 파일 경로만 비교)
-    for (const keyword in allAds) {
-      const seenImagePaths = new Set<string>();
-      allAds[keyword] = allAds[keyword].filter((ad) => {
-        const imageUrl = ad.image_urls?.[0];
-        if (!imageUrl) return false;
-
-        // URL에서 쿼리스트링 제외하고 경로만 추출
-        // 예: https://scontent.../615432525_871913725548992_n.jpg?stp=... → 615432525_871913725548992_n.jpg
-        let imagePath = imageUrl;
-        try {
-          const url = new URL(imageUrl);
-          imagePath = url.pathname; // /v/t39.35426-6/615432525_...n.jpg
-        } catch {
-          // URL 파싱 실패 시 원본 사용
-        }
-
-        if (!seenImagePaths.has(imagePath)) {
-          seenImagePaths.add(imagePath);
-          return true;
-        }
-        return false;
-      });
-    }
-
-    // keywords.json에 등록되었지만 아직 수집되지 않은 키워드도 포함
+    // 등록된 키워드 중 아직 수집 안 된 것도 포함
     for (const kw of registeredKeywords) {
       if (!allAds[kw]) {
         allAds[kw] = [];
       }
     }
 
-    // 키워드 목록: keywords.json 순서 우선, 그 다음 수집된 키워드
+    // 키워드 순서: 등록된 키워드 우선
     const collectedKeywords = Object.keys(allAds);
     const orderedKeywords = [
       ...registeredKeywords,
-      ...collectedKeywords.filter(kw => !registeredKeywords.includes(kw))
+      ...collectedKeywords.filter((kw) => !registeredKeywords.includes(kw)),
     ];
 
     return NextResponse.json({
