@@ -1,80 +1,29 @@
 import { NextResponse } from "next/server";
-import fs from "fs";
-import path from "path";
-
-// 데이터 경로 (Vercel vs 로컬 자동 감지)
-function getDataDir(): string {
-  const vercelDataDir = path.join(process.cwd(), "data");
-  const localDataDir = path.join(process.cwd(), "..", "data");
-
-  if (fs.existsSync(vercelDataDir)) {
-    return vercelDataDir;
-  }
-  return localDataDir;
-}
-
-// 키워드 저장 파일 경로 (스케줄러와 동일한 파일 사용)
-function getKeywordsFile(): string {
-  return path.join(getDataDir(), "keywords.json");
-}
-
-// 스케줄러와 동일한 형식
-interface KeywordItem {
-  query: string;
-  country: string;
-  limit: number;
-  enabled: boolean;
-}
-
-interface KeywordsData {
-  keywords: KeywordItem[];
-  schedule: {
-    time: string;
-  };
-}
-
-function ensureDataDir() {
-  const dataDir = getDataDir();
-  if (!fs.existsSync(dataDir)) {
-    fs.mkdirSync(dataDir, { recursive: true });
-  }
-}
-
-function readKeywords(): KeywordsData {
-  ensureDataDir();
-  const keywordsFile = getKeywordsFile();
-  if (!fs.existsSync(keywordsFile)) {
-    return {
-      keywords: [],
-      schedule: { time: "09:00" }
-    };
-  }
-  try {
-    const content = fs.readFileSync(keywordsFile, "utf-8");
-    return JSON.parse(content);
-  } catch {
-    return {
-      keywords: [],
-      schedule: { time: "09:00" }
-    };
-  }
-}
-
-function writeKeywords(data: KeywordsData) {
-  ensureDataDir();
-  const keywordsFile = getKeywordsFile();
-  fs.writeFileSync(keywordsFile, JSON.stringify(data, null, 2), "utf-8");
-}
+import { supabase, KeywordRow } from "@/lib/supabase";
 
 // GET: 키워드 목록 조회
 export async function GET() {
   try {
-    const data = readKeywords();
-    // 키워드 query만 추출해서 반환
-    const keywordQueries = data.keywords.map(kw => kw.query);
+    const { data, error } = await supabase
+      .from("keywords")
+      .select("*")
+      .order("created_at", { ascending: true });
+
+    if (error) {
+      console.error("Supabase error:", error);
+      return NextResponse.json(
+        { error: "Failed to read keywords" },
+        { status: 500 }
+      );
+    }
+
+    const keywords = (data as KeywordRow[]) || [];
+    const keywordQueries = keywords.map((kw) => kw.query);
+
     return NextResponse.json({
       keywords: keywordQueries,
-      schedule: data.schedule,
+      keywordsData: keywords,
+      schedule: { time: "09:00" },
     });
   } catch (error) {
     console.error("Error reading keywords:", error);
@@ -106,33 +55,53 @@ export async function POST(request: Request) {
       );
     }
 
-    const data = readKeywords();
+    // 중복 체크
+    const { data: existing } = await supabase
+      .from("keywords")
+      .select("query")
+      .eq("query", trimmedKeyword)
+      .single();
 
-    // 중복 체크 - 이미 존재하면 성공으로 반환 (수집은 별도로 진행 가능)
-    const exists = data.keywords.some(kw => kw.query === trimmedKeyword);
-    if (exists) {
+    if (existing) {
+      // 이미 존재하면 성공으로 반환
+      const { data: allKeywords } = await supabase
+        .from("keywords")
+        .select("query");
+
       return NextResponse.json({
         success: true,
         keyword: trimmedKeyword,
-        keywords: data.keywords.map(kw => kw.query),
+        keywords: (allKeywords || []).map((kw: { query: string }) => kw.query),
         alreadyExists: true,
-        message: "Keyword already exists, you can run collection"
+        message: "Keyword already exists, you can run collection",
       });
     }
 
-    // 키워드 추가 (스케줄러 형식)
-    data.keywords.push({
+    // 키워드 추가
+    const { error: insertError } = await supabase.from("keywords").insert({
       query: trimmedKeyword,
       country,
-      limit,
+      ad_limit: limit,
       enabled: true,
     });
-    writeKeywords(data);
+
+    if (insertError) {
+      console.error("Insert error:", insertError);
+      return NextResponse.json(
+        { error: "Failed to add keyword" },
+        { status: 500 }
+      );
+    }
+
+    // 전체 키워드 목록 반환
+    const { data: allKeywords } = await supabase
+      .from("keywords")
+      .select("query");
 
     return NextResponse.json({
       success: true,
       keyword: trimmedKeyword,
-      keywords: data.keywords.map(kw => kw.query),
+      keywords: (allKeywords || []).map((kw: { query: string }) => kw.query),
     });
   } catch (error) {
     console.error("Error adding keyword:", error);
@@ -156,22 +125,27 @@ export async function DELETE(request: Request) {
       );
     }
 
-    const data = readKeywords();
-    const index = data.keywords.findIndex(kw => kw.query === keyword);
+    const { error: deleteError } = await supabase
+      .from("keywords")
+      .delete()
+      .eq("query", keyword);
 
-    if (index === -1) {
+    if (deleteError) {
+      console.error("Delete error:", deleteError);
       return NextResponse.json(
-        { error: "Keyword not found" },
-        { status: 404 }
+        { error: "Failed to delete keyword" },
+        { status: 500 }
       );
     }
 
-    data.keywords.splice(index, 1);
-    writeKeywords(data);
+    // 전체 키워드 목록 반환
+    const { data: allKeywords } = await supabase
+      .from("keywords")
+      .select("query");
 
     return NextResponse.json({
       success: true,
-      keywords: data.keywords.map(kw => kw.query),
+      keywords: (allKeywords || []).map((kw: { query: string }) => kw.query),
     });
   } catch (error) {
     console.error("Error deleting keyword:", error);

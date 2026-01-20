@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { Star } from "lucide-react";
+import Image from "next/image";
 
 interface AdCardProps {
   imageUrl: string;
@@ -23,18 +24,32 @@ export function AdCard({
   onHighlightToggle,
 }: AdCardProps) {
   const [imageError, setImageError] = useState(false);
+  const [isLoaded, setIsLoaded] = useState(false);
 
   return (
     <div className="glass-card rounded-xl overflow-hidden">
       {/* 이미지 */}
       <div className="relative aspect-square group">
         {!imageError ? (
-          <img
-            src={imageUrl}
-            alt={pageName}
-            className="w-full h-full object-cover"
-            onError={() => setImageError(true)}
-          />
+          <>
+            {/* 로딩 플레이스홀더 */}
+            {!isLoaded && (
+              <div className="absolute inset-0 bg-gray-100/50 animate-pulse" />
+            )}
+            <Image
+              src={imageUrl}
+              alt={pageName}
+              fill
+              sizes="(max-width: 768px) 50vw, (max-width: 1024px) 25vw, 14vw"
+              className={`object-cover transition-opacity duration-300 ${
+                isLoaded ? "opacity-100" : "opacity-0"
+              }`}
+              onLoad={() => setIsLoaded(true)}
+              onError={() => setImageError(true)}
+              loading="lazy"
+              quality={75}
+            />
+          </>
         ) : (
           <div className="w-full h-full bg-gray-100/50 flex items-center justify-center text-gray-400">
             No Image
@@ -47,7 +62,7 @@ export function AdCard({
               e.stopPropagation();
               onHighlightToggle();
             }}
-            className={`absolute top-2 right-2 p-1.5 rounded-full transition-all duration-200 ${
+            className={`absolute top-2 right-2 p-1.5 rounded-full transition-all duration-200 z-10 ${
               isHighlighted
                 ? "bg-yellow-400/80 backdrop-blur-sm shadow-lg shadow-yellow-400/30"
                 : "bg-white/30 backdrop-blur-sm opacity-0 group-hover:opacity-100"

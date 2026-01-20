@@ -6,7 +6,7 @@ import { AdDetailModal } from "@/components/ad-detail-modal";
 import { GlassButton } from "@/components/ui/glass-button";
 import { KeywordInput } from "@/components/ui/keyword-input";
 import { PaginationAnt } from "@/components/ui/pagination-ant";
-import { RefreshCw, ChevronDown, X, Sparkles, Trash2, Star, User, Hash } from "lucide-react";
+import { RefreshCw, ChevronDown, X, Sparkles, Trash2, Star, User, Hash, Play, Loader2, Clock } from "lucide-react";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { CalendarNew } from "@/components/ui/calendar-new";
 import { startOfDay, endOfDay } from "date-fns";
@@ -76,6 +76,9 @@ export default function Home() {
   const [currentPage, setCurrentPage] = useState(1);
   const pageSize = 70;
 
+  // 수집 상태
+  const [isCollecting, setIsCollecting] = useState(false);
+
   const fetchAds = async () => {
     setLoading(true);
     try {
@@ -89,6 +92,36 @@ export default function Home() {
       console.error("Failed to fetch ads:", e);
     } finally {
       setLoading(false);
+    }
+  };
+
+  // 모든 키워드 수집 실행
+  const collectAllKeywords = async () => {
+    if (isCollecting) return;
+
+    if (!confirm("등록된 모든 키워드에 대해 광고 수집을 시작합니다.\n키워드 수에 따라 시간이 소요될 수 있습니다.\n\n계속하시겠습니까?")) {
+      return;
+    }
+
+    setIsCollecting(true);
+    try {
+      const res = await fetch("/api/collect/all", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+      });
+      const result = await res.json();
+
+      if (res.ok) {
+        alert(`수집 완료!\n${result.message}`);
+        await fetchAds();
+      } else {
+        alert(`수집 실패: ${result.error || result.message}`);
+      }
+    } catch (e) {
+      console.error("Failed to collect all keywords:", e);
+      alert("수집 중 오류 발생");
+    } finally {
+      setIsCollecting(false);
     }
   };
 
@@ -183,20 +216,13 @@ export default function Home() {
   const currentAds = data.ads[selectedKeyword] || [];
 
   // 유효한 이미지가 있는 광고만 필터링
+  // Meta CDN URL은 시간이 지나면 만료되므로, permanent_image_url이 있는 광고만 표시
   const validAds = useMemo(() => {
     return currentAds.filter((ad) => {
-      const imageUrl = getImageUrl(ad);
-      if (!imageUrl) return false;
-      // 영구 URL인 경우 크기 체크 건너뛰기 (이미 검증됨)
+      // 영구 URL이 있는 광고만 표시 (imgbb 또는 R2)
       if (ad.permanent_image_url || ad.r2_image_url) return true;
-      // 원본 URL의 경우 크기 체크
-      const sizeMatch = imageUrl.match(/(\d+)x(\d+)/);
-      if (sizeMatch) {
-        const width = parseInt(sizeMatch[1]);
-        const height = parseInt(sizeMatch[2]);
-        if (width < 200 || height < 200) return false;
-      }
-      return true;
+      // 영구 URL이 없으면 표시하지 않음 (Meta CDN URL은 만료됨)
+      return false;
     });
   }, [currentAds]);
 
@@ -396,7 +422,11 @@ export default function Home() {
         <div className="h-px bg-border/50 my-6" />
 
         {/* Highlights 섹션 */}
-        <h2 className="text-sm font-medium text-foreground/70 mb-3">Highlights</h2>
+        <h2 className="text-sm font-medium text-foreground/70 mb-2">Highlights</h2>
+        <div className="flex items-center gap-1.5 text-[10px] text-muted-foreground/70 mb-3">
+          <Clock className="w-3 h-3" />
+          <span>매주 월/금 오전 9시 자동 수집</span>
+        </div>
         <button
           onClick={() => {
             setViewMode("highlights");
@@ -499,12 +529,22 @@ export default function Home() {
 
         <GlassButton
           size="sm"
-          onClick={fetchAds}
+          onClick={collectAllKeywords}
+          disabled={isCollecting}
           className="w-full"
           contentClassName="flex items-center justify-center gap-2"
         >
-          <RefreshCw className="w-4 h-4" />
-          <span>Refresh</span>
+          {isCollecting ? (
+            <>
+              <Loader2 className="w-4 h-4 animate-spin" />
+              <span>수집 중...</span>
+            </>
+          ) : (
+            <>
+              <Play className="w-4 h-4" />
+              <span>지금 수집</span>
+            </>
+          )}
         </GlassButton>
 
         <p className="text-xs text-muted-foreground mt-4 text-center">
