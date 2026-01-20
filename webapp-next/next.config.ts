@@ -14,7 +14,12 @@ const nextConfig: NextConfig = {
         hostname: "scontent*.fbcdn.net",
       },
       {
-        // Cloudflare R2 공개 URL (r2.dev 서브도메인)
+        // imgbb 이미지 호스팅
+        protocol: "https",
+        hostname: "i.ibb.co",
+      },
+      {
+        // Cloudflare R2 공개 URL (하위 호환)
         protocol: "https",
         hostname: "**.r2.dev",
       },

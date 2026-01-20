@@ -16,7 +16,8 @@ interface Ad {
   ad_text?: string[];
   image_urls?: string[];
   video_urls?: string[];
-  r2_image_url?: string; // Cloudflare R2에 업로드된 이미지 URL (우선 사용)
+  permanent_image_url?: string; // imgbb 영구 URL (우선 사용)
+  r2_image_url?: string; // (구) R2 URL (하위 호환)
   _collected_at?: string;
   _source_file?: string;
   landing_url?: string;
@@ -39,9 +40,9 @@ interface HighlightAd {
   landing_url?: string;
 }
 
-// R2 URL 우선, 없으면 원본 이미지 URL 사용
+// 영구 URL 우선, 없으면 원본 이미지 URL 사용
 const getImageUrl = (ad: Ad): string => {
-  return ad.r2_image_url || ad.image_urls?.[0] || "";
+  return ad.permanent_image_url || ad.r2_image_url || ad.image_urls?.[0] || "";
 };
 
 export default function Home() {
@@ -186,8 +187,8 @@ export default function Home() {
     return currentAds.filter((ad) => {
       const imageUrl = getImageUrl(ad);
       if (!imageUrl) return false;
-      // R2 URL인 경우 크기 체크 건너뛰기 (이미 검증됨)
-      if (ad.r2_image_url) return true;
+      // 영구 URL인 경우 크기 체크 건너뛰기 (이미 검증됨)
+      if (ad.permanent_image_url || ad.r2_image_url) return true;
       // 원본 URL의 경우 크기 체크
       const sizeMatch = imageUrl.match(/(\d+)x(\d+)/);
       if (sizeMatch) {

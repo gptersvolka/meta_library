@@ -22,7 +22,8 @@ interface Ad {
   image_urls?: string[];
   video_urls?: string[];
   landing_url?: string;
-  r2_image_url?: string; // Cloudflare R2에 업로드된 이미지 URL
+  permanent_image_url?: string; // imgbb에 업로드된 영구 이미지 URL
+  r2_image_url?: string; // (구) Cloudflare R2 URL (하위 호환)
   _collected_at?: string;
   _source_file?: string;
 }

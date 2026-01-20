@@ -12,11 +12,11 @@ env/
 .venv/
 ENV/
 
-# 데이터 폴더 - 로컬 이미지만 제외 (R2에 업로드됨)
+# 데이터 폴더 - 로컬 이미지와 해시 파일 제외
 data/images/
 data/ocr/
 data/image_hashes.json
-data/r2_image_hashes.json
+data/imgbb_image_hashes.json
 
 # 로그
 logs/
