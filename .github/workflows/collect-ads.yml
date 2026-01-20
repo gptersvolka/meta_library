@@ -47,48 +47,11 @@ jobs:
           IMGBB_API_KEY: ${{ secrets.IMGBB_API_KEY }}
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          MANUAL_QUERY: ${{ github.event.inputs.query }}
         run: |
-          # 수동 실행 시 입력된 키워드 사용
-          if [ -n "${{ github.event.inputs.query }}" ]; then
-            KEYWORDS="${{ github.event.inputs.query }}"
-            echo "Manual trigger with keyword: $KEYWORDS"
-          else
-            # Supabase에서 키워드 읽기
-            echo "Reading keywords from Supabase..."
-            KEYWORDS=$(python -c "
-          import os
-          from supabase import create_client
-          url = os.getenv('SUPABASE_URL')
-          key = os.getenv('SUPABASE_KEY')
-          if url and key:
-              client = create_client(url, key)
-              result = client.table('keywords').select('query').eq('enabled', True).execute()
-              keywords = [r['query'] for r in result.data] if result.data else []
-              print(' '.join(keywords))
-          else:
-              print('')
-          " 2>/dev/null || echo "")
-
-            # Supabase에서 못 읽으면 keywords.json 폴백
-            if [ -z "$KEYWORDS" ] && [ -f "data/keywords.json" ]; then
-              echo "Fallback: Reading from data/keywords.json"
-              KEYWORDS=$(python -c "import json; data=json.load(open('data/keywords.json')); print(' '.join([k['query'] for k in data.get('keywords', []) if k.get('enabled', True)]))")
-            fi
-          fi
-
-          if [ -z "$KEYWORDS" ]; then
-            echo "No keywords found. Exiting."
-            exit 0
-          fi
-
-          echo "Collecting ads for keywords: $KEYWORDS"
-
-          # 각 키워드에 대해 수집 실행
-          for keyword in $KEYWORDS; do
-            echo "=== Collecting: $keyword ==="
-            python -m src.07_run_weekly --query "$keyword" --limit 50 --headless --image-only || true
-            sleep 5
-          done
+          # Python 스크립트에서 Supabase 키워드를 직접 읽어서 처리
+          # (공백이 포함된 키워드도 정상 처리)
+          python -m src.collect_all_keywords
 
       - name: Commit and push changes
         run: |
