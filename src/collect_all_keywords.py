@@ -51,7 +51,9 @@ def get_keywords_from_supabase():
 
 def main():
     """모든 키워드에 대해 수집 실행"""
-    from src.07_run_weekly import run_full_pipeline
+    import importlib
+    weekly_module = importlib.import_module("src.07_run_weekly")
+    run_full_pipeline = weekly_module.run_full_pipeline
 
     # 수동 입력 키워드 확인
     manual_query = os.getenv("MANUAL_QUERY", "").strip()
