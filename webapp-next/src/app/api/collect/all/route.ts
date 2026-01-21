@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import { spawn } from "child_process";
 import path from "path";
-import fs from "fs";
+import { supabase } from "@/lib/supabase";
 
 interface KeywordItem {
   query: string;
@@ -10,35 +10,29 @@ interface KeywordItem {
   enabled: boolean;
 }
 
-interface KeywordsData {
-  keywords: KeywordItem[];
-  schedule: { time: string };
-}
-
-// 데이터 경로 (Vercel vs 로컬 자동 감지)
-function getDataDir(): string {
-  const vercelDataDir = path.join(process.cwd(), "data");
-  const localDataDir = path.join(process.cwd(), "..", "data");
-
-  if (fs.existsSync(vercelDataDir) && fs.existsSync(path.join(vercelDataDir, "raw"))) {
-    return vercelDataDir;
-  }
-  return localDataDir;
-}
-
-// keywords.json에서 등록된 키워드 목록 읽기
-function getRegisteredKeywords(): KeywordItem[] {
-  const keywordsFile = path.join(getDataDir(), "keywords.json");
+// Supabase에서 등록된 키워드 목록 읽기
+async function getRegisteredKeywords(): Promise<KeywordItem[]> {
   try {
-    if (fs.existsSync(keywordsFile)) {
-      const content = fs.readFileSync(keywordsFile, "utf-8");
-      const data: KeywordsData = JSON.parse(content);
-      return data.keywords.filter(kw => kw.enabled);
+    const { data, error } = await supabase
+      .from("keywords")
+      .select("query, country, ad_limit, enabled")
+      .eq("enabled", true);
+
+    if (error) {
+      console.error("Supabase keywords error:", error);
+      return [];
     }
+
+    return (data || []).map((kw) => ({
+      query: kw.query,
+      country: kw.country || "KR",
+      limit: kw.ad_limit || 50,
+      enabled: kw.enabled,
+    }));
   } catch (e) {
-    console.error("Error reading keywords.json:", e);
+    console.error("Error reading keywords from Supabase:", e);
+    return [];
   }
-  return [];
 }
 
 // GitHub Actions 워크플로우 트리거
@@ -114,7 +108,7 @@ export async function POST() {
 
   // 로컬 환경에서는 직접 실행
   try {
-    const keywords = getRegisteredKeywords();
+    const keywords = await getRegisteredKeywords();
 
     if (keywords.length === 0) {
       return NextResponse.json(

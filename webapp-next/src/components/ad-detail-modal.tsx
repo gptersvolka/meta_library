@@ -12,6 +12,8 @@ interface Ad {
   page_name?: string;
   ad_text?: string[];
   image_urls?: string[];
+  permanent_image_url?: string;
+  r2_image_url?: string;
   _collected_at?: string;
   landing_url?: string;
 }
@@ -25,7 +27,8 @@ interface AdDetailModalProps {
 export function AdDetailModal({ ad, open, onOpenChange }: AdDetailModalProps) {
   if (!ad) return null;
 
-  const imageUrl = ad.image_urls?.[0] || "";
+  // 영구 URL 우선, 없으면 원본 이미지 URL 사용
+  const imageUrl = ad.permanent_image_url || ad.r2_image_url || ad.image_urls?.[0] || "";
   const adText = Array.isArray(ad.ad_text) ? ad.ad_text.join("\n") : ad.ad_text || "";
 
   return (
