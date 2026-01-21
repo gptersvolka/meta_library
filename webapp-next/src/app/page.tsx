@@ -208,6 +208,54 @@ export default function Home() {
     }
   };
 
+  // 광고 삭제
+  const deleteAd = async (ad: Ad, keyword: string) => {
+    const imageUrl = getImageUrl(ad);
+    if (!imageUrl) return;
+
+    if (!confirm(`"${ad.page_name}" 광고를 삭제하시겠습니까?\n\n이 작업은 되돌릴 수 없습니다.`)) {
+      return;
+    }
+
+    try {
+      const res = await fetch("/api/ads", {
+        method: "DELETE",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ imageUrl, keyword }),
+      });
+
+      if (res.ok) {
+        // 로컬 상태에서 즉시 제거
+        setData((prev) => ({
+          ...prev,
+          ads: {
+            ...prev.ads,
+            [keyword]: (prev.ads[keyword] || []).filter(
+              (a) => getImageUrl(a) !== imageUrl
+            ),
+          },
+        }));
+
+        // 하이라이트에서도 제거
+        const highlightId = getAdHighlightId(ad);
+        if (highlightedIds.has(highlightId)) {
+          setHighlightedIds((prev) => {
+            const next = new Set(prev);
+            next.delete(highlightId);
+            return next;
+          });
+          setHighlights((prev) => prev.filter((h) => h.id !== highlightId));
+        }
+      } else {
+        const result = await res.json();
+        alert(result.error || "광고 삭제 실패");
+      }
+    } catch (e) {
+      console.error("Failed to delete ad:", e);
+      alert("광고 삭제 중 오류 발생");
+    }
+  };
+
   useEffect(() => {
     fetchAds();
     fetchHighlights();
@@ -829,6 +877,40 @@ export default function Home() {
                         setHighlights((prev) => prev.filter((h) => h.id !== highlight.id));
                       });
                     }}
+                    onDelete={async () => {
+                      if (!confirm(`"${highlight.page_name}" 광고를 삭제하시겠습니까?\n\n이 작업은 되돌릴 수 없습니다.`)) {
+                        return;
+                      }
+                      try {
+                        // DB에서 광고 삭제
+                        const res = await fetch("/api/ads", {
+                          method: "DELETE",
+                          headers: { "Content-Type": "application/json" },
+                          body: JSON.stringify({ imageUrl: highlight.image_url, keyword: highlight.keyword }),
+                        });
+                        if (res.ok) {
+                          // 하이라이트에서도 제거
+                          await fetch("/api/highlights", {
+                            method: "DELETE",
+                            headers: { "Content-Type": "application/json" },
+                            body: JSON.stringify({ id: highlight.id }),
+                          });
+                          setHighlightedIds((prev) => {
+                            const next = new Set(prev);
+                            next.delete(highlight.id);
+                            return next;
+                          });
+                          setHighlights((prev) => prev.filter((h) => h.id !== highlight.id));
+                          // 광고 목록도 새로고침
+                          await fetchAds();
+                        } else {
+                          alert("광고 삭제 실패");
+                        }
+                      } catch (e) {
+                        console.error("Failed to delete ad:", e);
+                        alert("광고 삭제 중 오류 발생");
+                      }
+                    }}
                     onDescriptionClick={() => {
                       setSelectedAd({
                         page_name: highlight.page_name,
@@ -876,6 +958,7 @@ export default function Home() {
                   collectedAt={ad._collected_at || ""}
                   isHighlighted={highlightedIds.has(getAdHighlightId(ad))}
                   onHighlightToggle={() => toggleHighlight(ad, selectedKeyword)}
+                  onDelete={() => deleteAd(ad, selectedKeyword)}
                   onDescriptionClick={() => {
                     setSelectedAd(ad);
                     setModalOpen(true);

@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Star } from "lucide-react";
+import { Star, Trash2 } from "lucide-react";
 import Image from "next/image";
 
 interface AdCardProps {
@@ -11,6 +11,7 @@ interface AdCardProps {
   onDescriptionClick?: () => void;
   isHighlighted?: boolean;
   onHighlightToggle?: () => void;
+  onDelete?: () => void;
 }
 
 export function AdCard({
@@ -20,6 +21,7 @@ export function AdCard({
   onDescriptionClick,
   isHighlighted = false,
   onHighlightToggle,
+  onDelete,
 }: AdCardProps) {
   const [imageError, setImageError] = useState(false);
   const [isLoaded, setIsLoaded] = useState(false);
@@ -53,28 +55,43 @@ export function AdCard({
             No Image
           </div>
         )}
-        {/* 별표 버튼 - 우상단 */}
-        {onHighlightToggle && (
-          <button
-            onClick={(e) => {
-              e.stopPropagation();
-              onHighlightToggle();
-            }}
-            className={`absolute top-2 right-2 p-1.5 rounded-full transition-all duration-200 z-10 ${
-              isHighlighted
-                ? "bg-yellow-400/80 backdrop-blur-sm shadow-lg shadow-yellow-400/30"
-                : "bg-white/30 backdrop-blur-sm opacity-0 group-hover:opacity-100"
-            }`}
-          >
-            <Star
-              className={`w-4 h-4 transition-all duration-200 ${
+        {/* 버튼 그룹 - 우상단 (세로 배치) */}
+        <div className="absolute top-2 right-2 flex flex-col gap-1.5 z-10">
+          {/* 별표 버튼 */}
+          {onHighlightToggle && (
+            <button
+              onClick={(e) => {
+                e.stopPropagation();
+                onHighlightToggle();
+              }}
+              className={`p-1.5 rounded-full transition-all duration-200 ${
                 isHighlighted
-                  ? "fill-white text-white drop-shadow-sm"
-                  : "text-white/80 hover:text-white"
+                  ? "bg-yellow-400/80 backdrop-blur-sm shadow-lg shadow-yellow-400/30"
+                  : "bg-white/30 backdrop-blur-sm opacity-0 group-hover:opacity-100"
               }`}
-            />
-          </button>
-        )}
+            >
+              <Star
+                className={`w-4 h-4 transition-all duration-200 ${
+                  isHighlighted
+                    ? "fill-white text-white drop-shadow-sm"
+                    : "text-white/80 hover:text-white"
+                }`}
+              />
+            </button>
+          )}
+          {/* 삭제 버튼 */}
+          {onDelete && (
+            <button
+              onClick={(e) => {
+                e.stopPropagation();
+                onDelete();
+              }}
+              className="p-1.5 rounded-full transition-all duration-200 bg-white/30 backdrop-blur-sm opacity-0 group-hover:opacity-100 hover:bg-red-500/80"
+            >
+              <Trash2 className="w-4 h-4 text-white/80 hover:text-white transition-colors" />
+            </button>
+          )}
+        </div>
       </div>
 
       {/* 정보 영역 */}

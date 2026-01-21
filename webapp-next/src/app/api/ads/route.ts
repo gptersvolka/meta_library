@@ -130,3 +130,43 @@ export async function GET() {
     );
   }
 }
+
+// DELETE: 광고 삭제
+export async function DELETE(request: Request) {
+  try {
+    const body = await request.json();
+    const { imageUrl, keyword } = body;
+
+    if (!imageUrl) {
+      return NextResponse.json(
+        { error: "imageUrl is required" },
+        { status: 400 }
+      );
+    }
+
+    // permanent_image_url 또는 image_url로 삭제
+    const { error } = await supabase
+      .from("ads")
+      .delete()
+      .or(`permanent_image_url.eq.${imageUrl},image_url.eq.${imageUrl}`);
+
+    if (error) {
+      console.error("Supabase delete error:", error);
+      return NextResponse.json(
+        { error: "Failed to delete ad" },
+        { status: 500 }
+      );
+    }
+
+    return NextResponse.json({
+      success: true,
+      message: "광고가 삭제되었습니다.",
+    });
+  } catch (error) {
+    console.error("Delete API Error:", error);
+    return NextResponse.json(
+      { error: "Failed to delete ad" },
+      { status: 500 }
+    );
+  }
+}
