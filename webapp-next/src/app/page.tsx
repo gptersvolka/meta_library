@@ -806,7 +806,7 @@ export default function Home() {
                 className="mb-6 flex justify-end"
               />
 
-              <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-7 gap-4">
+              <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-7 gap-3">
                 {paginatedHighlights.map((highlight) => (
                   <AdCard
                     key={highlight.id}
@@ -867,7 +867,7 @@ export default function Home() {
               className="mb-6 flex justify-end"
             />
 
-            <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-7 gap-4">
+            <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-7 gap-3">
               {paginatedAds.map((ad, idx) => (
                 <AdCard
                   key={`${ad._source_file}-${idx}`}
