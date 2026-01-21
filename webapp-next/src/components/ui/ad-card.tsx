@@ -64,17 +64,17 @@ export function AdCard({
                 e.stopPropagation();
                 onHighlightToggle();
               }}
-              className={`p-1.5 rounded-full transition-all duration-200 ${
+              className={`p-1.5 rounded-full transition-all duration-200 shadow-md ${
                 isHighlighted
-                  ? "bg-yellow-400/80 backdrop-blur-sm shadow-lg shadow-yellow-400/30"
-                  : "bg-white/30 backdrop-blur-sm opacity-0 group-hover:opacity-100"
+                  ? "bg-yellow-400 shadow-lg shadow-yellow-400/30"
+                  : "bg-black/40 backdrop-blur-sm opacity-0 group-hover:opacity-100 hover:bg-black/60"
               }`}
             >
               <Star
                 className={`w-4 h-4 transition-all duration-200 ${
                   isHighlighted
-                    ? "fill-white text-white drop-shadow-sm"
-                    : "text-white/80 hover:text-white"
+                    ? "fill-white text-white"
+                    : "text-white hover:text-yellow-300"
                 }`}
               />
             </button>
@@ -86,9 +86,9 @@ export function AdCard({
                 e.stopPropagation();
                 onDelete();
               }}
-              className="p-1.5 rounded-full transition-all duration-200 bg-white/30 backdrop-blur-sm opacity-0 group-hover:opacity-100 hover:bg-red-500/80"
+              className="p-1.5 rounded-full transition-all duration-200 bg-black/40 backdrop-blur-sm shadow-md opacity-0 group-hover:opacity-100 hover:bg-red-500"
             >
-              <Trash2 className="w-4 h-4 text-white/80 hover:text-white transition-colors" />
+              <Trash2 className="w-4 h-4 text-white transition-colors" />
             </button>
           )}
         </div>
