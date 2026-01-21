@@ -6,7 +6,7 @@ import { AdDetailModal } from "@/components/ad-detail-modal";
 import { GlassButton } from "@/components/ui/glass-button";
 import { KeywordInput } from "@/components/ui/keyword-input";
 import { PaginationAnt } from "@/components/ui/pagination-ant";
-import { RefreshCw, ChevronDown, X, Sparkles, Trash2, Star, User, Hash, Play, Loader2, Clock } from "lucide-react";
+import { ChevronDown, X, Sparkles, Trash2, Star, User, Hash, Play, Loader2, Clock } from "lucide-react";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { CalendarNew } from "@/components/ui/calendar-new";
 import { startOfDay, endOfDay } from "date-fns";
@@ -79,7 +79,7 @@ export default function Home() {
   // 수집 상태
   const [isCollecting, setIsCollecting] = useState(false);
 
-  const fetchAds = async () => {
+  const fetchAds = useCallback(async () => {
     setLoading(true);
     try {
       const res = await fetch("/api/ads");
@@ -93,7 +93,7 @@ export default function Home() {
     } finally {
       setLoading(false);
     }
-  };
+  }, [selectedKeyword]);
 
   // 모든 키워드 수집 실행
   const collectAllKeywords = async () => {
@@ -211,9 +211,9 @@ export default function Home() {
   useEffect(() => {
     fetchAds();
     fetchHighlights();
-  }, [fetchHighlights]);
+  }, [fetchAds, fetchHighlights]);
 
-  const currentAds = data.ads[selectedKeyword] || [];
+  const currentAds = useMemo(() => data.ads[selectedKeyword] || [], [data.ads, selectedKeyword]);
 
   // 유효한 이미지가 있는 광고만 필터링
   // Meta CDN URL은 시간이 지나면 만료되므로, permanent_image_url이 있는 광고만 표시
@@ -604,7 +604,6 @@ export default function Home() {
                   const currentAdvertisers = viewMode === "highlights" ? highlightAdvertisers : availableAdvertisers;
                   // null = 전체 선택, [] = 아무것도 선택 안됨
                   const isAllSelected = selectedAdvertisers === null;
-                  const isNoneSelected = selectedAdvertisers !== null && selectedAdvertisers.length === 0;
 
                   return (
                     <>
@@ -814,7 +813,6 @@ export default function Home() {
                     imageUrl={highlight.image_url}
                     pageName={highlight.page_name}
                     collectedAt={highlight.collected_at}
-                    adText={Array.isArray(highlight.ad_text) ? highlight.ad_text.join("\n") : ""}
                     isHighlighted={true}
                     onHighlightToggle={() => {
                       // 하이라이트에서 제거
@@ -876,7 +874,6 @@ export default function Home() {
                   imageUrl={getImageUrl(ad)}
                   pageName={ad.page_name || "Unknown"}
                   collectedAt={ad._collected_at || ""}
-                  adText={Array.isArray(ad.ad_text) ? ad.ad_text.join("\n") : ad.ad_text}
                   isHighlighted={highlightedIds.has(getAdHighlightId(ad))}
                   onHighlightToggle={() => toggleHighlight(ad, selectedKeyword)}
                   onDescriptionClick={() => {

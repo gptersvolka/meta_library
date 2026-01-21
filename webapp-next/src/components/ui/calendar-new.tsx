@@ -85,6 +85,9 @@ export const CalendarNew = ({ value, onChange, className }: CalendarNewProps) =>
 
   useEffect(() => {
     if (value) {
+      // This component keeps an internal "draft" range while the picker is open.
+      // Syncing controlled `value` into that draft state is intentional.
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setTempRange({
         from: value.from,
         to: value.to,

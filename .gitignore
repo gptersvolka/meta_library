@@ -43,6 +43,7 @@ tmpclaude-*
 webapp-next/.next/
 webapp-next/node_modules/
 webapp-next/.env*.local
+webapp-next/data/
 
 
 # Service account (민감 정보)

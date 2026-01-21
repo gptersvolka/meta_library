@@ -49,7 +49,8 @@ export const Input = ({
   ...rest
 }: InputProps) => {
   const [_value, set_value] = useState(value || "");
-  const _ref = ref ? ref : useRef<HTMLInputElement>(null);
+  const internalRef = useRef<HTMLInputElement>(null);
+  const _ref = ref ?? internalRef;
 
   const _onChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     set_value(e.target.value);
@@ -60,6 +61,9 @@ export const Input = ({
 
   useEffect(() => {
     if (value !== undefined) {
+      // This input supports both controlled (`value`) and uncontrolled (internal state) usage.
+      // Syncing controlled `value` into internal state is intentional.
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       set_value(value);
     }
   }, [value]);

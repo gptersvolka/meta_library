@@ -8,7 +8,6 @@ interface AdCardProps {
   imageUrl: string;
   pageName: string;
   collectedAt: string;
-  adText?: string;
   onDescriptionClick?: () => void;
   isHighlighted?: boolean;
   onHighlightToggle?: () => void;
@@ -18,7 +17,6 @@ export function AdCard({
   imageUrl,
   pageName,
   collectedAt,
-  adText,
   onDescriptionClick,
   isHighlighted = false,
   onHighlightToggle,
