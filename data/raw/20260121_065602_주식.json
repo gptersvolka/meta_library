@@ -1,0 +1,93 @@
+{
+  "collected_at": "2026-01-21T06:56:02.092008",
+  "query": "주식",
+  "count": 6,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-01-21T06:56:01.691284",
+      "page_name": "윙크스톤",
+      "ad_text": [
+        "재테크 초보도 최소 5천 원부터 부담 없이 시작하고 매달 부수입 만들자!",
+        "✔ 자체 신용평가·깐깐한 심사 → 부실률 0%",
+        "*윙크스톤은 투자원금과 수익을 보장하지 않으며 투자손실에 대한 책임은 모두 투자자에게 있습니다."
+      ],
+      "image_urls": [
+        "https://scontent-atl3-2.xx.fbcdn.net/v/t39.35426-6/616402170_4024641651118717_2689287987249374492_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=i4vYlXvBzSwQ7kNvwFIW5gd&_nc_oc=AdnoAVLMkBQ1vFzaZb1SXBLveU81hfYvSMDVec49l3-KkreEH-Y7j72-KUzGbwzBqlc&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=aapK86cdZQAUJ6916SjY0g&oh=00_AfqTGQiy8KUmHpihf5KCLNiK1dmzdBihcu5PyXz0HQwHxQ&oe=69766022"
+      ],
+      "landing_url": "https://www.winkstone.com/inv/proList",
+      "permanent_image_url": "https://i.ibb.co/xqHjjVVm/65074eb9.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-01-21T06:56:01.742511",
+      "page_name": "청개구리투자클럽",
+      "ad_text": [
+        "이번주 급등예상주식 궁금하면 지금바로 설치!",
+        "ⓛ 급등예상주 무료추천 및  매수매도 신호제공",
+        "③ 26년  꼭 필요한 투자종목 리스트 공개"
+      ],
+      "video_urls": [
+        "https://video-atl3-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQMzyzNfUtVEhB2pSbq_apt7xeN7WibpMYXAdnGJhIz2EYUN9ytgBG0MyiJ8Z1_FOwX54WJRvk1pOderp0uiLFL21IOrBWAtTvPvUmEU4w.mp4?_nc_cat=110&_nc_sid=8bf8fe&_nc_ht=video-atl3-3.xx.fbcdn.net&_nc_ohc=htQg1Q_k674Q7kNvwFixbZZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjA5MTQyMzQ0MTY5OTQyOCwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=aapK86cdZQAUJ6916SjY0g&_nc_zt=28&oh=00_AfqGdHyKGU-KitCO7ehGP4m0chdrzE5Rakime9c47sAKJA&oe=69764604"
+      ],
+      "landing_url": "http://play.google.com/store/apps/details?id=com.frog.talk"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-01-21T06:56:01.786266",
+      "page_name": "GGU",
+      "image_urls": [
+        "https://scontent-atl3-1.xx.fbcdn.net/v/t39.35426-6/616716557_1963680737577692_7009033354814452123_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YueRcVVJhaQQ7kNvwEvX737&_nc_oc=Adln3k9fh4LhuhKMDIRxV19jeKItw2bYWuMgsKspk1XXdobmC5VUTnh4VnSk1WVye_U&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=aapK86cdZQAUJ6916SjY0g&oh=00_AfoqMmAI0ssrqxPjHSzThhazVkTDmwtSI0oCCWqjlB13wQ&oe=6976318B"
+      ],
+      "landing_url": "https://ggu-moneylab.com/landing",
+      "permanent_image_url": "https://i.ibb.co/vW5M0t5/GGU-71a2b6b8.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-01-21T06:56:01.831787",
+      "page_name": "청개구리투자클럽",
+      "ad_text": [
+        "이번주 급등예상주식 궁금하면 지금바로 설치!",
+        "ⓛ 급등예상주 무료추천 및  매수매도 신호제공",
+        "③ 26년  꼭 필요한 투자종목 리스트 공개"
+      ],
+      "video_urls": [
+        "https://video-atl3-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQMXL8ddE8ZDG-6pkxcFI1Dro_LMCCBP_brBCbKrPTgWSDHV2j6byH6gtwoCDbCZvv_7qfxHY6hi1pr7zpY4I3vQqa0yYb675sC3pmwoww.mp4?_nc_cat=111&_nc_sid=8bf8fe&_nc_ht=video-atl3-3.xx.fbcdn.net&_nc_ohc=60szI4z6pQwQ7kNvwEnod6Z&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU5OTY5MzU3Nzg4MjYxNiwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=aapK86cdZQAUJ6916SjY0g&_nc_zt=28&oh=00_Afqxq-R58vmlsJzy73zgy6NRw3JykdpUwphxjZz4x3J3-g&oe=69765A57"
+      ],
+      "landing_url": "http://play.google.com/store/apps/details?id=com.frog.talk"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-01-21T06:56:01.874873",
+      "page_name": "청개구리투자클럽",
+      "ad_text": [
+        "이번주 급등예상주식 궁금하면 지금바로 설치!",
+        "ⓛ 급등예상주 무료추천 및  매수매도 신호제공",
+        "③ 26년  꼭 필요한 투자종목 리스트 공개"
+      ],
+      "video_urls": [
+        "https://video-atl3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNtWUZyp2-rKqeH_dV16N_iY8lMtSnlq_HR4iQ3iliqQ_gFOzp8n6eT62OHt-wXj3BTKtEZBLoY6M6aNItCdOvX5OPHMeRu6DxpvbJVbg.mp4?_nc_cat=100&_nc_sid=8bf8fe&_nc_ht=video-atl3-1.xx.fbcdn.net&_nc_ohc=oBR6w9Lh74gQ7kNvwG8kRPL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU5NjY0NzI2NDg1NTMxOCwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=aapK86cdZQAUJ6916SjY0g&_nc_zt=28&oh=00_AfoCytFCAJb5R9YtqPup3QRTlkXccbRHpEA-pDkkxYheyA&oe=697646D6"
+      ],
+      "landing_url": "http://play.google.com/store/apps/details?id=com.frog.talk"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-01-21T06:56:01.917441",
+      "page_name": "알에이치코리아",
+      "ad_text": [
+        "❝주식을 한다면, 이 책은 한 편의 호러영화다!❞",
+        "'입급완료(이민수)'의 첫 주식 심리서!",
+        "≪대신 주식해드립니다≫ 북클럽을 모집합니다!"
+      ],
+      "image_urls": [
+        "https://scontent-atl3-1.xx.fbcdn.net/v/t39.35426-6/617001157_1594340241575841_8509454667102253487_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ji0RwVwuWBIQ7kNvwGATo0D&_nc_oc=Adl8Lw8PcNISSxHdtS4CUcraFHW7HiCrTV59TlWyov24LGkeBQTEtx-U5rjvEEn0N3M&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=aapK86cdZQAUJ6916SjY0g&oh=00_Afqx9UFCEIJQ-5kdy9KCve0RR4dhHnwRDgydJ_6aWY5mpA&oe=69765E4A",
+        "https://scontent-atl3-1.xx.fbcdn.net/v/t39.35426-6/618480988_1397846067936978_6645640076841208640_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HvYCv2vUwxMQ7kNvwE1Gd7j&_nc_oc=AdnTO55ofsYWpV9teuTFApO7auuY2QXGIHmVrQUiMFnGucWLEFsiNA2Z20bhTr2YubE&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=aapK86cdZQAUJ6916SjY0g&oh=00_AfrLg_iDLmplVSNzQkpuMUOnvK_KtK7puak9R6-WjJ7eGg&oe=69765207",
+        "https://scontent-atl3-3.xx.fbcdn.net/v/t39.35426-6/616603555_1868888087330240_6610104128137932107_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q86uzvvC1pcQ7kNvwEAkb0-&_nc_oc=Admj2kl-Fh3_eFWja8fX9eCBKDgWpYvpYcaJlDl0X8dAg9qHffRYeaSjVtIhHiSGHeY&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=aapK86cdZQAUJ6916SjY0g&oh=00_AfplEFkngYqEumzdNZwl1jO4uPXvCq-ZeijvNBdvrUAisQ&oe=697638CE",
+        "https://scontent-atl3-1.xx.fbcdn.net/v/t39.35426-6/619417296_907396458910661_2981287828467615915_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZPEFDHKko78Q7kNvwGiJgDp&_nc_oc=Adkzjz0zYqhEa-znkdZHnOVzt7C3c40NUCOPAhfNGmHcoBsZZkW7FYpXd3ePRRrMTs8&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=aapK86cdZQAUJ6916SjY0g&oh=00_Afo5VJcLwoU6xCTYTY4SlKhMerHLKlbs6fGw5-_syzvvXA&oe=69765DED"
+      ],
+      "landing_url": "http://aladin.kr/p/LC0GG",
+      "permanent_image_url": "https://i.ibb.co/tMpxsjwK/5db4c3d7.jpg"
+    }
+  ]
+}
