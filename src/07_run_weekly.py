@@ -68,10 +68,15 @@ def save_ads_to_supabase(ads: list, query: str, raw_file: str):
             # permanent_image_url 가져오기
             permanent_url = ads_with_urls.get(image_url) or ad.get("permanent_image_url")
 
+            # ad_text가 문자열인 경우 배열로 변환 (PostgreSQL array 타입 호환)
+            ad_text = ad.get("ad_text", [])
+            if isinstance(ad_text, str):
+                ad_text = [ad_text] if ad_text else []
+
             ad_data = {
                 "keyword": query,
                 "page_name": ad.get("page_name", "Unknown"),
-                "ad_text": ad.get("ad_text", []),
+                "ad_text": ad_text,
                 "image_url": image_url,
                 "permanent_image_url": permanent_url,
                 "landing_url": ad.get("landing_url"),
