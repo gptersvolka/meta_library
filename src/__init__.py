@@ -1,14 +1,11 @@
 """
-Meta 광고 라이브러리 수집 파이프라인
+Meta 광고 라이브러리 수집 파이프라인 (현행 모듈 구성)
 
-각 모듈 실행 순서:
-1. 01_collect_ads_api.py - 광고 수집
-2. 02_fetch_creatives.py - 이미지 수집
-3. 03_upload_drive.py - Drive 업로드
-4. 04_write_sheets.py - Sheets 기록
-5. 05_ocr.py - OCR 처리
-6. 06_generate_ideas.py - 아이디어 생성
-7. 07_run_weekly.py - 전체 파이프라인
+1) 01_collect_ads.py       - Playwright로 광고 메타데이터 수집 (raw JSON 생성)
+2) 02_fetch_creatives.py   - raw JSON에서 이미지 다운로드 (중복 해시 체크)
+3) 03_upload_images.py     - 수집 이미지 imgbb 업로드 및 영구 URL 기록
+4) 07_run_weekly.py        - 1,3단계를 묶어 실행하고 Supabase에 upsert
+5) 08_scheduler.py         - 키워드 스케줄 실행/관리 CLI
 """
 
 from src.config import (
