@@ -1,0 +1,80 @@
+{
+  "collected_at": "2026-01-21T02:59:28.029951",
+  "query": "무료 자료",
+  "count": 4,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-01-21T02:59:27.419763",
+      "page_name": "체험단 광고 에이전시",
+      "ad_text": [
+        "투자하면 항상 손실? 정보 부족이 아닙니다!",
+        "기준 없이 시작한 결과, 반복되는 실패를 경험하고 계십니까?",
+        "지금도 같은 방식이라면, 다음 결과는 굳이 보지 않아도 알 수 있습니다."
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/617477255_1422442252670134_7996426386253701811_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=43x3mTjzJrcQ7kNvwGWiXON&_nc_oc=AdnyQPma5w9hlle_VFg8BVVXErIkGAuwq3wO0vsMimtv2sVRgBuxDh6PHsFr5PrHd1Y&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=20SDdc229HSS75jPT7CbRA&oh=00_Afoc7yTbEMUC8nlv3WCs5dXW9YocZz6FeYYoS99s7X0JHg&oe=6976160B"
+      ],
+      "landing_url": "http://fb.me/",
+      "permanent_image_url": "https://i.ibb.co/7NpVcvgm/d31c6d5f.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-01-21T02:59:27.489400",
+      "page_name": "체험단 광고 에이전시",
+      "ad_text": [
+        "투자하면 항상 손실? 정보 부족이 아닙니다!",
+        "기준 없이 시작한 결과, 반복되는 실패를 경험하고 계십니까?",
+        "지금도 같은 방식이라면, 다음 결과는 굳이 보지 않아도 알 수 있습니다."
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/616815489_1964498084466790_4815618699010347333_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Z2wg7IVwQygQ7kNvwFaoNOj&_nc_oc=AdlZOsSzCuQUF9dTgo7zHSUNW5L4OdI5yzyiX-mO1p8BqdqQDKgxJKtTTJpMo5O2xNk&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=20SDdc229HSS75jPT7CbRA&oh=00_Afqz5qr3AQy34zF8pSCCn8WZ6H3NO9zCmPvTsxMxKbeGbg&oe=6975FA5F"
+      ],
+      "landing_url": "http://fb.me/",
+      "permanent_image_url": "https://i.ibb.co/GQ2d7nCk/7eecd0e1.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-01-21T02:59:27.562903",
+      "page_name": "끼너지 kkinergy",
+      "ad_text": [
+        "🔥끼너지 무료 점검 신청 소문내기 이벤트 🔥",
+        "“무료면 일단 받아보는 거 아닌가요?”",
+        "✔ 지금 해야 할 것 / 말아야 할 것"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/618227524_1521775115564356_2455499955682710902_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kn4bKRqao8sQ7kNvwHUU777&_nc_oc=AdlYKSaJcsXowksPIGDDu2bMmBGFyclSyD-PqnZLrL4rCNeE47lWwdW0Uhn4IOBzvqU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=20SDdc229HSS75jPT7CbRA&oh=00_AfrHdtUbycfgEEVdU4ZAT2yWyFro7GfEXHX0ybddEkUjEQ&oe=6975F9D4",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/617592970_1389324548784779_8145785554477261222_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3YBGODWPfQsQ7kNvwEpeffh&_nc_oc=AdkzqGupsVVB8EWthYF847GLfy_pO3PAYfTwbA2T8dwO48G2uwcv8jUlVCpX6h-q_2o&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=20SDdc229HSS75jPT7CbRA&oh=00_AfoWDe6fN7SGPoO8RgFYDham8XkzT6GX1sk0XSyAzqlVzA&oe=69762237",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/618239213_1443021794087329_7774657477779192320_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ILQONT0laqoQ7kNvwGNTfkD&_nc_oc=AdmSXdpwYLKQpO97j6vW6uXUWTurB3_LJNHWVbJa6f_wuyw-iKd2ieQcR_UlZcgcdQY&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=20SDdc229HSS75jPT7CbRA&oh=00_AfqoCYx25nXf7cc-4lf21dNx4bFyBUeNtvwvnohf07Tm9g&oe=69762D4E",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/618834152_822868860796163_8478215770388343923_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WR7sSETw5PEQ7kNvwEm8qRK&_nc_oc=AdlD4xvFilYvU-rfKcTq8tOB-n-9W6U5Tt8gGNUKtepKeRA-c8GwNXvqBZ767oV4-_w&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=20SDdc229HSS75jPT7CbRA&oh=00_AfrDbM67gkRlU5m4OwRuSNC2QPAwpvtX3RTCH930KERB7g&oe=697609F2",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/617995563_815272858232666_6353326835090292492_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=I1iDn2sYRo8Q7kNvwElzNW7&_nc_oc=AdnJIC7UoQ0TbrnsUcJ9SnaLPOLrEvAPJp8WjkjwDjPFIktrh23OxaCko0CcBOJZj3M&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=20SDdc229HSS75jPT7CbRA&oh=00_AfpriQmobcFhim1AIZ7qk1faykvVPpauACKwoTCqA6JoaA&oe=69760B39",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/619676095_1179154661040818_1223209293711510220_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gQi6azfRE18Q7kNvwFX1VDO&_nc_oc=AdmIx8Z3j0Hjw0Xk8Ty-aqIP8dR6iMRaoanWDgFNLudVMc1-MezEu1A6cgkZPR1u1Qg&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=20SDdc229HSS75jPT7CbRA&oh=00_Afp4HBhpRXJFlhpf5BZtaS3zPEBee2jRL8aOLKxc4Ah0Fw&oe=697613F0",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/617607446_1424112079495702_5465365771216907611_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GPei0NQFMuQQ7kNvwGvj79k&_nc_oc=Adl4YH3DBX07q2KmF4feAurlZBUkgre1GnPq3sKKxa_Qaq5GT7uizQMQt_ELViTajiQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=20SDdc229HSS75jPT7CbRA&oh=00_AfobZIKb7t_Ev0fABzHVsBZ30HGv7dazuC6ApWZTFajn0Q&oe=6975FC44",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/619571790_4302617063308210_5286550642677677544_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Vp9nyeos148Q7kNvwFakUJf&_nc_oc=AdkGoof8XTXcFILKn6nvlz1UNB3a03MzS7O7y6aZjyXL05Fkespr03EE0Wos9HMkmlU&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=20SDdc229HSS75jPT7CbRA&oh=00_AfqtzmMTeiC55Z5vSLAmKH9vFktQFTO8ewOe5B0KopVxmw&oe=69760220"
+      ],
+      "landing_url": "http://instagram.com/kkinergy",
+      "permanent_image_url": "https://i.ibb.co/MD0BmD4C/kkinergy-e62299ab.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-01-21T02:59:27.794971",
+      "page_name": "이로울쌤 고교학점제 진로선택학습코치",
+      "ad_text": [
+        "”쌤, 우리 애 자사고 보내야 할까요?“",
+        "상담하면서 가장 많이 받는 질문입니다.",
+        "2028 대입 개편으로 판이 뒤집혔습니다."
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/618086985_1599497744812319_7631007789401357810_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pcIr9cVfnp4Q7kNvwHNakQG&_nc_oc=AdlQqMnSPOmiPeuTlY0uy_KW6kyhCTfw8M17dihn9VYgVtJwsNKjIvA-BHAmFNKMu2M&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=20SDdc229HSS75jPT7CbRA&oh=00_AfpHTrAidmK_UXMho4_LV1fp5Qq4KR-7jAQutJsyKkTCqQ&oe=6975FC9C",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/619295133_874217162045750_837683486720728696_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BSRx5Els_c4Q7kNvwHzz6xt&_nc_oc=AdkBtlfojhs9QlefW2MXyy8Crbizf1LWx-PaD3mv1ITOmTwpQgIY-9_y3JkPXNig8lU&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=20SDdc229HSS75jPT7CbRA&oh=00_AfpIqZAtiCwma7jvcRh1TczZBQqMRu0UQQVCXZSVFTZjKA&oe=6975FF77",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/617542522_1465016198358012_8364403781974428682_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=D8PxcBIFfsYQ7kNvwHeJH7C&_nc_oc=Adls0zSm-2gGOLc0s0Hgpkhlm9v8Kpbh12y4vtVRsqtShxJSbN8Y38dlRYqHKRFgpGE&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=20SDdc229HSS75jPT7CbRA&oh=00_AfqisnS1yr3rfJpwLNBf1QgvKB6usbV_3Fv2ZLmHCgy6BQ&oe=69761CC3"
+      ],
+      "video_urls": [
+        "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQOHU78-9wJ7HK_3eY3VTMuFCv_2zr18fbnwCf-oKsjj9--KmrGTCL1c46Ag-BtKfIyaPThbf65VPeZZnJXnzQ3HGScImNa83tLE_wQpPg.mp4?_nc_cat=107&_nc_sid=8bf8fe&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=kM3mzZZwLHkQ7kNvwG5SiVc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjoxNTYxMDA3MzcxNzcwMzUzLCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=20SDdc229HSS75jPT7CbRA&_nc_zt=28&oh=00_AfqnEAaKzvRcqYx8_ioQk3mTKKgI4jd6U0oSQdtnZ07EHA&oe=697620AF"
+      ],
+      "landing_url": "http://instagram.com/eroul_ssam",
+      "permanent_image_url": "https://i.ibb.co/pvxhCFBN/a06dbe23.jpg"
+    }
+  ]
+}
