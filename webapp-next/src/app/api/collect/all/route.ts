@@ -39,7 +39,7 @@ async function getRegisteredKeywords(): Promise<KeywordItem[]> {
 async function triggerGitHubActions(): Promise<{ success: boolean; message: string }> {
   const token = process.env.GITHUB_TOKEN;
   const owner = process.env.GITHUB_OWNER || "gptersvolka";
-  const repo = process.env.GITHUB_REPO || "meta-library_v1";
+  const repo = process.env.GITHUB_REPO || "meta_library";
 
   if (!token) {
     return {
