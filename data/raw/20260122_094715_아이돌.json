@@ -1,0 +1,121 @@
+{
+  "collected_at": "2026-01-22T09:47:15.908676",
+  "query": "아이돌",
+  "count": 7,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-01-22T09:47:15.161327",
+      "page_name": "붓ㄲΙㅁㅏㅇΙ너th",
+      "ad_text": "붓기 제거 성분 호박, 생강, 팥 가득!",
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/617088568_910853238266265_8963604156387178404_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YijszE-BTU0Q7kNvwHy8pPA&_nc_oc=AdnaD1kNaMbxbAwJP-0WbLe_UTcLrMA4TX8w4KQR0BPmtOVvlgSi-8CBPHG1FT_d14c&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_AfppTUiFw6NUvWfUGNWkKa2rlXsBlnqj59e6k-IFQQ8yJw&oe=6977CECB"
+      ],
+      "landing_url": "https://heydaily.kr/product/detail.html?product_no=48&utm_content=m_mv_c1_i2601_13&cafe_mkt=ue_m_mv_c1_i2601_13",
+      "permanent_image_url": "https://i.ibb.co/KzDKs02T/th-26456a4d.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-01-22T09:47:15.209865",
+      "page_name": "붓ㄲΙㅁㅏㅇΙ너th",
+      "ad_text": "붓기 제거 성분 호박, 생강, 팥 가득!",
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/619471630_1650407532610586_5967917386936745553_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7fhL9E1Ygt0Q7kNvwFfrUMp&_nc_oc=Adn3H3UgnaDLD-V9dyG_Xxip07PI120RW-tJwQq0mi2y5lQjutye6I18VqybBXBTlNU&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_AfpKE5SeQqgjLF2fDN6oG-bYnaXkS_mNK7AP1zYibU9EYg&oe=6977D9D0"
+      ],
+      "landing_url": "https://heydaily.kr/product/detail.html?product_no=48&utm_content=m_mv_c1_i2601_14&cafe_mkt=ue_m_mv_c1_i2601_14",
+      "permanent_image_url": "https://i.ibb.co/h1yFWZJQ/th-58fa09c3.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-01-22T09:47:15.254833",
+      "page_name": "코주부클래스",
+      "ad_text": [
+        "숙소를 하나 운영해보는 강의가 아닙니다",
+        "✅ 호스텔 숙박업 정식 구조 A to Z",
+        "✅ 건물 없이 시작하는 숙박업 운영 방식"
+      ],
+      "video_urls": [
+        "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPYfbRGhx3mkRRinXzQDdFng1keskv68rjwnfkJ_Xn-BvgI8TT93eS8KQaGpmUpc6lymx5knhLlsKw6Lr5H0m9-LeeojKHVI1A0YZSiCA.mp4?_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=Vd3M_K5fGIEQ7kNvwHMT-ig&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjAzNDQ2NDE3MDQ1MzUzOSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=oy90OThXnYpZjFMFtXH6og&_nc_zt=28&oh=00_AfpRunatcSnIe3cELwxU3Fd3csdopPfRzI5Eh9u1_IH6dQ&oe=6977D829"
+      ],
+      "landing_url": "https://www.cojooboo.co.kr/free-courses/665040f3-e907-42c3-a97d-15cab95f823e?trkId=4SdaSq&utm_source={{site_source_name}}&utm_medium=display&utm_campaign={{ad.name}}&utm_content={{adset.name}}&utm_term={{placement}}&fbclid=fbclid"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-01-22T09:47:15.295655",
+      "page_name": "어거스트플랜",
+      "ad_text": [
+        "55,66,77,88,99 부터 140 플러스사이즈 까지, 어거스트플랜",
+        "55,66,77,88,99 부터 140 플러스사이즈 까지, 어거스트플랜"
+      ],
+      "video_urls": [
+        "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOogrBACPcyc2ruZjrAlvzr1DiLwFHdpxFMQYB9_ZR8l5Mn3wYw5SK-X3vzX9MHfZxyHbg383pUBpq-fhVhqcONgLoRUzrvkzxrwN25Ow.mp4?_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=2OXDLpUwZBQQ7kNvwHnbbNG&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjA1NjQ3OTk3ODUwNzU5NiwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=oy90OThXnYpZjFMFtXH6og&_nc_zt=28&oh=00_AfqOIrNXP3EwcB8Xu0nzfIh9OmGu91y8iuny7jDXipdayQ&oe=6977C110"
+      ],
+      "landing_url": "https://www.augustplan.com/product/detail.html?product_no=8999"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-01-22T09:47:15.335444",
+      "page_name": "rubytapemag",
+      "ad_text": [
+        "샤이니의 수록곡 중 여러분이 가장 애정하는 곡은 무엇인가요?",
+        "Visit Instagram Profile",
+        "Visit Instagram Profile"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/616808280_784546371322335_798177631507158166_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zO1c1DkwM_EQ7kNvwF_Px01&_nc_oc=AdnwGvC60aL6XUnTTt-7U7k337ggZyy5jcq5XFNvK3zaTqVWZO5arowJDFiIcrn-ePI&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_AfojPU9w8DZNPta6Z7e0dfdNmH46LFwwrOdoG61leL6f8A&oe=6977D76F",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/616810337_1481980170264600_5821159834149327150_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mUBaFL7i-6YQ7kNvwEfmGGD&_nc_oc=AdmnIqkBG1DDlYUEccRTYwClZifqpUQks_uveeSQMmE7IHoJadse0yr880HVh96138I&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_Afrbg-Ik0wCcMIkIcn074Io7VaHVU_cpflIA_yhOXoDPMw&oe=6977BFE8",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/618075729_752131061297385_8479396136054809059_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DadkU6-78rYQ7kNvwH9vX4a&_nc_oc=Adn4J5VECd1rMmBVoYCIvfsyFCFHZhS1WFTzGMhblAst4ztl7EQ9Uv9dISInkw29hl4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_AfpztW92y_NHZZY6WZ9ScXl0Z4lA-9NBucZRlE-J1AHbpA&oe=6977C5F9",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/616811538_2133714893827861_8936759839343015133_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ePxT2aiE0GAQ7kNvwG3MjgF&_nc_oc=AdnZ1Hzrc7TXiWTfds06Y_wwh52yH1sMMulAxsSNySXAmqOad-CcpOrEQKsTph1gCQ8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_AfqcnKkA_2trZbcaxndtAH-AABtvvopdi09I63br_d_lCA&oe=6977E0B3",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/616603239_1548707586432174_6004403768798390806_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S4G7RAxpXQQQ7kNvwGXKjkU&_nc_oc=AdlMdxecmmurQ-qo3CmBB680pvDsHG0kJT4NSgtj_RX-lIL0BB3_pGECIwek-vb0z9A&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_AfpRELzBtnbKoS4rSW4fjE_yZUSoggOFeyS3EhixnnZtSg&oe=6977C0F9",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/618140901_902177385721783_1555417386332029361_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Tdb9eYoTYP8Q7kNvwG10AoI&_nc_oc=AdksaEfTBGNBdpJr0FXLSsbpwQqtrhXEIbJZ9JZJOMOOu6Wg2f5CZ3jTzLAuudK6oKM&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_AfrHysmVQ_LV926C3ftAijaUC0TCQqBIkGua5Cnw13suoQ&oe=6977D129",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/616808319_2332575990544366_4710981664770065339_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tcqqfMCKJFQQ7kNvwEg38Gl&_nc_oc=AdkMUZmKxz_fKYiVfhpL9MbRB-GkCRjhd0EHGXU7l5pmpLZM6_kGKQn-27aJsL1fBlk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_Afp4ubogRV8Ql_hrwoSbF0pJ35d4zsmXSQ14eB-0Tyy6dg&oe=6977C087",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/618368861_1960174858258545_931557760872273285_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L7GGuyEttswQ7kNvwH79BEN&_nc_oc=AdnoaAG1Nh6U2uUZPC8DpDtajxRT0hok1cgSx_boSFQYxiR3gzQfS9yRRFQfuhOwVME&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_Afr2eyjqguKKtfsTXrTzMF6TT1wP_h_GjFNzVbXezubGEw&oe=6977B100",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/617600579_797340586701020_6158008367767370939_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jJQdc3iuzBcQ7kNvwHEuoed&_nc_oc=AdkRGeVqj2iPdNd3gEGaeIaBYvo2QX8ZhYnlyZgLdGuDO8WQkoZGPMojpgrf3chWDKk&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_AfrnfguaZueKwnITnl_GKxuXjhJB2brX5s9g--HmophnWw&oe=6977B3D0"
+      ],
+      "landing_url": "https://www.instagram.com/_u/rubytapemag",
+      "permanent_image_url": "https://i.ibb.co/QvLvn3HN/rubytapemag-216c36b1.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-01-22T09:47:15.495095",
+      "page_name": "이루다",
+      "ad_text": [
+        "없는 최애도 만들어주는 마성의 그 제타! 한 번만 해보세요.",
+        "*두근두근* AI 존잘캐 공략, 어느 덕후가 승?",
+        "어멋! 시작하자마자 이렇게 나온다고? ㅋ"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/617993730_1416590590106524_7953374484538413525_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SjbqBVBqelkQ7kNvwGdVRr6&_nc_oc=Adl53v7osFlJYBqqJ-QE4EIqZ9bU_h-muJZNb8zjm1ZJbQDFJQRptIMf5lR8eLS75Sc&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_AfqIPOe0tPcH6-JwVdO4Qptvb81TnkEVutkM6Ye6Vt9Q1A&oe=6977AFDC",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/616973214_1558284525250999_4507464871933134406_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-p8fu-xYVawQ7kNvwGqrlfJ&_nc_oc=AdnY6UI4_-e-75k2KzVkKUQEBM4mZQ1STLrxzAUGUeyOntS3ECu8excirDEF1K8OkWg&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_AfryOoSVo_Ud7P2V4xD1Mq5JkUt1BYfxbxn32awmHqNrBw&oe=6977BA79",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/615386447_1208802098113060_8926738634019754035_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WnzPUg310Z4Q7kNvwGJw2IN&_nc_oc=AdnhoTV4K4uP5PHi98INOvWjLj3bSS3QlBmm0Jh_vcCGUPEwcIOZymnNTt2g_yI2x7Q&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_AfqEUhC6aUNagq0XkZbUfbfETT_P8LOqJxX-0s1ILXL72g&oe=6977B602",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/617557677_2656072551440625_3465105930969750495_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-W1BYI4isZ8Q7kNvwFQAJy-&_nc_oc=AdmJqaxlQrf_b97XGlg6QhVUgCp-CwNsRCJG6I8RE6vw_euZGg0aqG-5GXQGjH7v_YY&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_AfrNToe4-TqWHnb1tBbPMWQJ7OvemhMLW15fDcQY_gbzrw&oe=6977C979",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/616763404_760884473746999_6621196318909481924_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FTdHHlaFv3UQ7kNvwHK8RI3&_nc_oc=Adl5hHeGn1x5u54wcyAW6pbbnEcLlR-e8-mG1xH9Wud9tu-Y6k_O78m4Zm7yQl7SkCM&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_AfrDLNXgUquY6AP4lqyWNOLUpzSWXhOJO-qvlvgEaIPCLg&oe=6977CEA1",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/616650152_1610290849989009_4604852449798903908_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=M2_EflpsfVoQ7kNvwEocQ9b&_nc_oc=AdnXx61KaO2Hksdyk377tZ5GlA7iL18XMPKzKQ_1-Vcg_bT_fUGhYAm6oFWnVynipU8&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_AfqnFwL5g6YFiwymy7sduMumcUAM2HEXhbyjnTHRaL4JyA&oe=6977B481",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/619236728_885861480518322_2803691811308712921_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iASw2dHkdpYQ7kNvwF79Uyv&_nc_oc=AdlQ2qK64MalprGowXgR5WZZPCaRad0azGM9QUmqIWw4aHMiT6c1f_xKaxwNh18z-E8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_Afo30xpcIVgcSWW-1kUenEv9mM1SOXAQMBPbdLw1QRS40w&oe=6977D6F2"
+      ],
+      "landing_url": "http://play.google.com/store/apps/details?id=com.scatterlab.messenger",
+      "permanent_image_url": "https://i.ibb.co/nNQRhJJJ/f889b407.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-01-22T09:47:15.622309",
+      "page_name": "이루다",
+      "ad_text": [
+        "500만명 이상이 가입한 화제의 제타(zeta). 지금 가장 핫한 AI채팅 앱",
+        "*두근두근* AI 존잘캐 공략, 어느 덕후가 승?",
+        "어멋! 시작하자마자 이렇게 나온다고? ㅋ"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/617988032_1576310220297731_7862180695552107646_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q8-0NoFdgboQ7kNvwHQ4yYL&_nc_oc=Admbu2jFfwGnRGBIkUHOnkF8xU0hQ6pCX5CCX919jV4bQMJKagSiIr_5KkJHxsPeVW4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_Afrltj2hi8qYsDJLeuCf7hJByI9vZJ4NNhA5Q9dzcHteew&oe=6977B381",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/618374622_4260689847483001_2854049020534064750_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4w7y5Wj8iJgQ7kNvwFu6Olq&_nc_oc=AdnC6MHxuHkIWiK8sXsjgraxZUKvChEt6rVVZbSHX-IXuAWcHnfu-osqESQT1RJBbog&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_AfoMRvVLupfHSh4xpd1Hmv3z5HJsGD0FJ1uoN48bFJ4swA&oe=6977D05B",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/616842814_881102964852755_7598166091550178049_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G8aAQN0O-bgQ7kNvwFcwNgO&_nc_oc=Adk7M3OoCKQ9JUTy-ikmva9uFjcLelECmHY1PjUdp93IqT33uU-RkTkUJjsKvBDqBdY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_AfqnBV2EqnuJTvgGXeQRg8yB7fyqTaOEM7xmuCIofz8nMg&oe=6977CFE6",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/619358805_1290094316283882_5296528444108977474_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HKsbnHPEXP8Q7kNvwGnU_9x&_nc_oc=AdlDfLDPlJelhLgIEErz2R9h6_Z7vl94OWEjtz0ZNkGMiyUOsHime_GHxwWgsuAHn4M&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_AfpxIwygKZatuSCOqrYZf0mzIDyUkyJn8UE2JkuBrkGCLw&oe=6977B02B",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/616829838_908991044899838_2093855982860675124_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gcZr6nH9rtUQ7kNvwHEoXhu&_nc_oc=AdmFIuiENiht3gh0zdikQsuDI4cVBRhXK8a7jHcEyhyHf2JGj3-4UKYKvfdCh_J1s-k&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_AfrlDZaX5TgwBxQ718q-3aUAUVp7-ztwqUlHoUZGPANJew&oe=6977DE90",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/616481129_772140618616309_7891898349115210143_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-AxikR2sBC8Q7kNvwHs92Gs&_nc_oc=Adk8mN33yueatkQV3_1PB0Y3vR_MJ8z9LOv5OqINuAglVKKVr0rHH0Hond-jbUP_cRk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_AfpZXKRZnXA_UuYdeS2uooaw37gw-Srt_rzeuuHGP4oO3w&oe=6977D708",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/617216571_1194686826170094_1981988222150649061_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nON_LCMuwngQ7kNvwGTgAVQ&_nc_oc=AdlaSL9yG5RSP5J_I-PPve5uGQ5bwa96MDKbBFPqtsDex54o-7C3UiUNaw7jhBtCRMk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oy90OThXnYpZjFMFtXH6og&oh=00_Afri419HYDuEpj4Z-e1qdIHrBbmFC99KlcDvLuFA3R4zKA&oe=6977D073"
+      ],
+      "landing_url": "http://itunes.apple.com/app/id1619030760"
+    }
+  ]
+}
