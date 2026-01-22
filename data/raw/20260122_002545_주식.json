@@ -1,0 +1,53 @@
+{
+  "collected_at": "2026-01-22T00:25:45.996319",
+  "query": "주식",
+  "count": 2,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-01-22T00:25:45.587524",
+      "page_name": "케이뱅크",
+      "ad_text": [
+        "더 센스 있게 달라진 케이뱅크가 궁금하신가요? 😛",
+        "새롭게 업데이트되는 케이뱅크의 소식을 지금 확인해보세요!",
+        "2026.01.20. 준법감시인 심의필 2026-93 (유효기간: 2027.01.19.)"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/617535945_2006819636547855_2604775572927498123_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fO-LdLxN1dYQ7kNvwETpfFp&_nc_oc=AdksOCjeD2DSR62WWaDeSKrBaGMG-S6PUuqU5WVW6dqRNUsgTx9yxFchim0UZ3qyNBU&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5QJxnjom7Rd5U8Nw7xNLTw&oh=00_AfpGmjxbTKgH8pX7SsfE0femaGn5q7yJxaHKYizTyEWu1g&oe=697758A0",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/618231630_1207356177654452_947323616309370008_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DucIJbN7G8kQ7kNvwHi31pM&_nc_oc=Adl1e0H-XLTq_1DmJzPyHY2mwuTLOw4LetjN9YIrArPmtSOXvSXpFXYmWINJWGOHdUg&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5QJxnjom7Rd5U8Nw7xNLTw&oh=00_Afpd-KQR82Nl38kk6Cs82WN325kf0EOYUeEBjnmju8e41A&oe=69773F98",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/618716389_1810596682943704_2042253857690729116_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oryqVbH_gGgQ7kNvwHV0eBi&_nc_oc=Adn_xjq6GLvdGjAf6mcxs-bMWvKsOBVyMFVK1UWSCD4aUV5uw1ctuVF2Q40x-xXD3wg&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5QJxnjom7Rd5U8Nw7xNLTw&oh=00_Afo4akRmbBu1dX-79_Irf0PIPs082hvtTrkPiqJr9gvvyg&oe=69773A68",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/616682881_911569407988312_263654031210062106_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yg8Osf6YrN8Q7kNvwHsKjgk&_nc_oc=Adne69J2b8tqj4hZdJcNIT5KWf2jPsUJfPJC9wGtppBuMUZQO8M9mRGavqpUJkkBGFM&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5QJxnjom7Rd5U8Nw7xNLTw&oh=00_AfqUc82FaT0kim5ZW8csC_rMP2zfyhBOlk68D3nJCpXVQA&oe=69775C79",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/617615034_905878955742384_3823669582418964562_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HRDqLjzEfy0Q7kNvwFiDts9&_nc_oc=Adlb_3JGHBMTi1cRuaev4C9gZH9hgrq8G_XNES-NQqp-Bo9Sbkd45e58lxmcP_hRg6k&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5QJxnjom7Rd5U8Nw7xNLTw&oh=00_AfoSjSyC9tFngDhqFY50st4yKBrAIst7RfaHUUQeRs3nMQ&oe=697726CA",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/616825917_696773610168870_2387959143754108592_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jIVyDrgBRQsQ7kNvwFU6NI4&_nc_oc=AdlHtAP8zqrw2VWOv-P98P98MEqqWAQLwiEWLqGrQgRX2jlWUuqhiX64Eg6MD-e6rSY&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5QJxnjom7Rd5U8Nw7xNLTw&oh=00_Afqqpexg839-lwStMIzIkuMfTFPjTXCG2Zyg7SbOKuexRw&oe=697742EA",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/616832894_876645185337896_2450006459093618485_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8lYdVJfqog0Q7kNvwH-VPiB&_nc_oc=Adl6H7HHtSOv0GoklWUP8xuO_YqLy0AQUgTJ7LRm3cY7nUbXlMN9t0f1I-j62LgwSbs&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5QJxnjom7Rd5U8Nw7xNLTw&oh=00_AfrJHBa08TFlRW_qDsvkNooAEisPHUvocOlz8VMmwGS-0A&oe=69772734",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/616831258_1368452401747909_2972715186894326788_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LTi2OhhfuicQ7kNvwH7YKLP&_nc_oc=Adknlqt3JVLEo43TEoomqwyZFQGg_XGXfO2PBGVGuXu36Vjr-nTGdnm9yipxU1XbeyA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5QJxnjom7Rd5U8Nw7xNLTw&oh=00_AfqZN2CISqSpshACXPKvFQrmFM1LD--OWFYtLSQEllyj-w&oe=69775247",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/616828195_955550804306227_8705299944936964038_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gAgNcAaBGpUQ7kNvwFLwM1L&_nc_oc=AdlhLtMFxBOt4PWGBJ0st0jiUj1vx-45bZTTgZr1ioZK_AZJHHrCliuiGJdEaYd7o-I&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5QJxnjom7Rd5U8Nw7xNLTw&oh=00_Afpz80SDzrRlv7a3SJ1_Ca89hTxWlSyoXM-rZdcjAWr7_w&oe=697739F8"
+      ],
+      "landing_url": "https://www.instagram.com/kbank_official/",
+      "permanent_image_url": "https://i.ibb.co/Z1GXtcmn/a19bc8ff.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-01-22T00:25:45.776812",
+      "page_name": "케이뱅크",
+      "ad_text": [
+        "더 센스 있게 달라진 케이뱅크가 궁금하신가요? 😛",
+        "새롭게 업데이트되는 케이뱅크의 소식을 지금 확인해보세요!",
+        "2026.01.20. 준법감시인 심의필 2026-93 (유효기간: 2027.01.19.)"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/618915771_1976150186672873_1491392809939374360_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k5nRJjjiDcgQ7kNvwExjYjm&_nc_oc=AdkpNr5BZnZFTOVYbgPqwUsPRdSl8yyqc6fKeKupGW-IDyTD-psNsphTxrR4tE4CaSk&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5QJxnjom7Rd5U8Nw7xNLTw&oh=00_AfoFpB62zEfkwH7khwnu5NVC6dYdrykjuB1wdai9Ig9JFQ&oe=69774C76",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/618934993_723331353944373_3095865371424446905_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HM1JHanTYtIQ7kNvwH5FkJR&_nc_oc=Adlq0ynRwaXrR5LiePuTWRuZbfE_tQxgc109JvOCl-hb_eU1_MEYZJK1_rPmHl36358&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5QJxnjom7Rd5U8Nw7xNLTw&oh=00_AfpUbVLkwRTLCnx6YOK4GTMZcIN_kBLOOEI3qDg86rG4PQ&oe=69774D3E",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/619068046_1910718916183866_7442139725604317891_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0EUJRj-sR38Q7kNvwEczlHk&_nc_oc=Adnwt68kUUt22WiZzx_gcwB1fjlerZBSS5duCzbMKJt-f5HLhevm58cfrFmztIR3skk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5QJxnjom7Rd5U8Nw7xNLTw&oh=00_AfqNKjyN42l7RVN3xaWE18GkPIsW9CcldiKQHoyx0V4mHg&oe=697749F8",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/619058112_829143413487917_3394119453119591065_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=U0iT9Z0jXKkQ7kNvwE8GuqC&_nc_oc=AdmYIuJPAM2xRWmRDJkY39n4thc546GEBvmF5amDwKMvnZes5BXkqNvyZxWsh4eA7e8&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5QJxnjom7Rd5U8Nw7xNLTw&oh=00_AfpWw9IKZ8gPDFTjbBu8mGS-Wt3XKu8Ynl_XFNbOBHSdIQ&oe=69772704",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/618968941_776219461929049_431953789989109134_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Kz_AszWPPfAQ7kNvwFTUk2b&_nc_oc=Adn5R3gqX6utHCgTP_hFAMo5Y5B338X2EUHirRsq5S5oJrWvlClLp5IwmFMq0plsCoo&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5QJxnjom7Rd5U8Nw7xNLTw&oh=00_Afp0UWtk-STUBz5oN_yfeUAAu2YOKcrtfUKefS8pkQWwlA&oe=6977325C",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/619089910_829949740076533_5033054441098862088_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iBQ6I0xOtlwQ7kNvwF-wKQb&_nc_oc=AdlpafIXaDF3H7mgtCqOvBGz2il28jOq-jyxFtIG50zCUzYiIRiUQq0rik8JayajTc4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5QJxnjom7Rd5U8Nw7xNLTw&oh=00_AfqXaW2HarAs1zdVzb65r-Usu6re-eMOa1KY77l7Xv2tqA&oe=697730E1",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/619134080_1385412643069431_922078878051949021_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=owrhqLiXWdsQ7kNvwFth0IA&_nc_oc=AdkrdrQeqvrbAav8TeFLf4-EXCjYqLjc0e1XcI59xnbRvD_Vg_gZuvvf7SuZwG2P-cc&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5QJxnjom7Rd5U8Nw7xNLTw&oh=00_Afqax2AlRcnWhzLuOuD0COxuayhu2cjyJM5PtTYr5jk3dg&oe=69773057",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/619205036_1780364675969271_8747445044958744540_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-SOqZdSqQJsQ7kNvwGIt_s4&_nc_oc=AdkwFQLilIH1GPCJ8eCtEeSpq4FVgOs5sg9wSEzYFqHdLCu6xPDPKKGNkd21jXm9060&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5QJxnjom7Rd5U8Nw7xNLTw&oh=00_AfrO5oTk9Gjy6YLDPFCPnE8GXu7yPWHd1mmqWH7XR5qQkA&oe=69774C62",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/618974793_2084358012327066_8342802767133064453_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=94vS6K40dfsQ7kNvwEw-sXB&_nc_oc=AdmiYVXfsBC2ThSrP5i7yxYCAaLWUdeBzSkbVcSIRTAsPKGNZiAS70N6QcC2ntk80Oo&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5QJxnjom7Rd5U8Nw7xNLTw&oh=00_AfqthGtsOTg90RdEQAiIirW2sxUH2tDSExJdc2IX3POFww&oe=697740B9"
+      ],
+      "landing_url": "http://instagram.com/kbank_official"
+    }
+  ]
+}

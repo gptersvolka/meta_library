@@ -1,0 +1,121 @@
+{
+  "collected_at": "2026-01-22T00:21:45.725915",
+  "query": "ai 교육",
+  "count": 6,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-01-22T00:21:45.116238",
+      "page_name": "코드잇 스프린트",
+      "ad_text": [
+        "하규태님이 직접 말하는 코드잇 스프린트 💬",
+        "생각하는 힘을 길러주는 게 제 역할이라고 믿습니다.”",
+        "진짜 개발자는 ‘왜’를 끊임없이 묻는 사람입니다."
+      ],
+      "video_urls": [
+        "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMUE9EjVG2thrOzoi44MZUTiD5x-741YDSzY1EBBbND8JeNZgtImjzPjZ2rAEF9pcnqa-CUfF4oRYn1aM4fdE8CinWCdduAS_FAtrqYqg.mp4?_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=0w6uSD9yuukQ7kNvwFYAkYZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNjM2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzA0MjU3NzUzOTI2NDQ0OSwiYXNzZXRfYWdlX2RheXMiOjk3LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&_nc_zt=28&oh=00_AfpMWGWn-yxQ9aFttFIbCmL8V2fbBog_sAbkL71fZ8IWfA&oe=69774E29"
+      ],
+      "landing_url": "https://sprint.codeit.kr/track/backend-spring"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-01-22T00:21:45.159462",
+      "page_name": "beakmyongjin",
+      "ad_text": [
+        "라헬코칭&리더온평생교육원 무료특강, 기다리셨죠?",
+        "'어린이집 원장 리더십 콘서트'로 돌아왔습니다!",
+        "\"이제는 다시, 원장으로서 제대로 리드하고 싶어요!\""
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/619899363_4488178461500832_7857367361012352714_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OtQb3p7GRU4Q7kNvwEBJUCn&_nc_oc=AdmKtwGV7RReA0Zt-cOLH91uQgdd7At5W-vwKOF8bj-vYtphZYJzAwdEV9WW8K6egLE&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_Afq9tEy7WMVcwAcQaCmadHW3CFa5M5Wcpz_s-XLw-NUKPA&oe=6977524E",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/619895395_1222185733190917_3022144003381394066_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JRnXuAsr2w0Q7kNvwGp26k2&_nc_oc=Adm6gNSrk9aHQ5_dVQgM9HhvvzhcfiN1m97HNivbSdIYlVjGx2J0g4M0ZAEiN1-LVAU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_AfpYHiM1UdTacTU2qKCITjuoAddDYu0anv6UVNe8E5yGEg&oe=69774048",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/619816753_1432076911972485_7367348060749092572_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=i1elc9Py1OgQ7kNvwEut98A&_nc_oc=AdlkdK4LXjystzRfDswJoQOhzjFzGI3Wg9gyIwzNUuXtfCEQ-v4geVHQsGP0-jJ4vxk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_AfrP7AztzD76SYzFxGM395OstrsEwtSOl4zGvI3ooCsDYg&oe=69772FA4",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/618808399_1222977183106488_3862001966436585230_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nuMWmjVUt1oQ7kNvwHZmMd8&_nc_oc=Adn3R4mifk20fR5YAkfob5MVZisdmuJLbsjmvIHXY7_Wo40UnRsgCju-LGa16RedxEM&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_AfoL8MHegNzJx0edGWMGNgpv54Llacmm4KzTxlIRJG5dwQ&oe=69773042",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/618643482_1327469075814241_2972674869207290417_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5plfzBvgFk0Q7kNvwHEvLjg&_nc_oc=Adn8Z5ky5c8iK6Q7K4DNxNOI979a2iPfhX-gwNqNJEQanujq5rh_Ik2pFSn98Zcaf1M&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_AfpLHv04AN3ClkYPK9fYxTpvD2RnDECS8hhU8gv4hjzfDQ&oe=69773AAA",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/618517069_2746586775681520_1159519016392216887_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N5gvtxe_M4YQ7kNvwEk4jF5&_nc_oc=AdlRZG_7rKZV5rQRfoLiD8ueX85U1sTxNMkJ5iUnYe9me1N6Vbh5jpVbofLS_1OElW0&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_AfoZ7uSr07YXh3hZau-pqyHmr_d3Qomhf50GnTLkiBTbrg&oe=69772B62",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/619991134_1370702595069468_7609527385379806697_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gpXZXEnHpWUQ7kNvwH1_Kmi&_nc_oc=Adn9W3J-EjWacfPktUBK3XU2tg5hdSW36XdNecP39IT__VyFJlh15I9skaHU4zxqdsc&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_Afpi2sJsgh1giGt21JeZ-iKt6TlPqyNLM_UtY8S0nHRG2Q&oe=697759DA",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/618494653_1422379009402131_6655213373382416072_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=d83P8zSFZ3EQ7kNvwF7ttty&_nc_oc=AdnlazbnLP3GJe4kHMTFYVWdHe0qtMkRjWPrkJu7GD4PiX-N2KzneaS2uPeeAsLR0Qo&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_AfpUiBbQrgh75sSuMEDUjr-Qyfb95VqsG6q64bYBCckF4g&oe=69772CF6",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/619815945_1273998194544859_2237142586229763591_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JIQP5zkJ4R4Q7kNvwF_Xy8e&_nc_oc=AdmnnajkvHz7dO7X3HNng_BEnSAdUNMB_NZ7KBQw-DbGu27auQED3Y29bFRu3kwHyIs&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_Afr79993xHCnj4-CMn2XMd0f9XZLH9gYYTzdAXKOP_e1uA&oe=69775B72",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/619770667_2269643290169289_7714569872459724570_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fdDyaKDHst0Q7kNvwFNjkO1&_nc_oc=AdkXseu0Ypgt2KGS-Zqs0GDw74o7CF7-pstV-Rabtvpez0aaSQKS4_jyzc6ClUVeLkQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_AfqjY1yvG2DJHEowuO9-Q8viQvKvI1z3ULpEtvt73aRASA&oe=6977599D"
+      ],
+      "landing_url": "http://instagram.com/rachel_leadership",
+      "permanent_image_url": "https://i.ibb.co/DDffFvjp/beakmyongjin-228971da.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-01-22T00:21:45.340190",
+      "page_name": "한국교육검정원",
+      "ad_text": [
+        "👏어르신의 하루에 작은 웃음을 더하는 따뜻한 돌봄, 마음으로👏노인돌봄생활지원사!",
+        "AI활용전문가,병원코디네이터,심리상담사,",
+        "140과정에 달하는 다양한 온라인 교육 보유"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/617522194_1214386430667264_6258256900031362363_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=immw-BAgsjwQ7kNvwHdHn8m&_nc_oc=AdmElnrMDuRSGXdbq2_5lDc3c0FuOAH2EEsFr-3nXu9KmUqRlF2aQGZh17W9HyQKNVE&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_AfpxDx03msC02N1f40cbc1mFV-5tWD6eqJSp3v6hcNcEbA&oe=69773A79"
+      ],
+      "video_urls": [
+        "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMHKu6g91odLIdq5UGukZlFZdKgDPSrmaHVaD91qqh90jftFVjdeUBX9ZAc7iKTmjkD14aTgd4N0IfYxSDTwftogRuDD-GLq1GKr3CS2g.mp4?_nc_cat=111&_nc_sid=8bf8fe&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=n0GSYI77WdMQ7kNvwGFN8yz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTYyNjIwMDAyNTIyMzY1MiwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&_nc_zt=28&oh=00_Afq6ASCJTi2TQKoy2aM0EOF5s5cECfv-WRUCc4p47vgUzQ&oe=69772B1F"
+      ],
+      "landing_url": "https://www.kefe.co.kr/sub/c_notice/notice_01_view.asp?seq_no=30441&notice_gn=1&cnum=노인돌봄",
+      "permanent_image_url": "https://i.ibb.co/FpGSjcY/e3eb3a89.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-01-22T00:21:45.394442",
+      "page_name": "한국교육검정원",
+      "ad_text": [
+        "👏혼자 가기 두려운 병원길 든든한 동행 빠르고 안전한 진료 파트너 병원동행매니저!👏",
+        "AI활용전문가,병원코디네이터,심리상담사,",
+        "140과정에 달하는 다양한 온라인 교육 보유"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/616830248_1439327477815347_4510118522404785673_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NirUi89AL9EQ7kNvwFEJjD0&_nc_oc=AdnJTlzxOY3GK1j121no4Vbh4C6HG0xEpqQQK9urQIhRNqxaWmyohPSV3WC7qHo6dJI&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_AfrMyOBYgNl4nGrCr0rdUcgBz6WpZbEQGZgZUDdVTZYDdA&oe=697737E2"
+      ],
+      "video_urls": [
+        "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOK1vCLmxWOImjous3hwqCOFT087dgCCbAmy8u2uD9Y9NbyNSAfO7iS-6rWAjd9gN_EWR7NgYbWtdadbrElXDO-aH58qoQBAzscHn8dpw.mp4?_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=BVeAt0lMu-YQ7kNvwE3hLKn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzQzOTgwMDk5NjE3NzE5NiwiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&_nc_zt=28&oh=00_AfrOx0rDZHYr7Ov9O_kRAQ1Ert-KRfFGVmTS8FezeZaZug&oe=69773378"
+      ],
+      "landing_url": "https://www.kefe.co.kr/sub/c_notice/notice_01_view.asp?seq_no=30441&notice_gn=1&cnum=병원동행",
+      "permanent_image_url": "https://i.ibb.co/FCGPwR2/39fd54ae.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-01-22T00:21:45.450777",
+      "page_name": "대한상공회의소 경기인력개발원",
+      "ad_text": [
+        "반도체·임베디드 취업, 아직도 이론만 준비하고 있나요? 🤔",
+        "✔️ FPGA, Verilog HDL 실습",
+        "✔️ NPU Accelerator 프로젝트"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/616017947_853649297658236_6653716536942348764_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Vp9VMUQxanUQ7kNvwEH5Pkv&_nc_oc=AdnHMK2mvMEq-MYFztfcBa0pDzDVaxDO5okQ03llK92ag-9Y8kGdldzW_6kxfx0Zcr8&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_Afrs7V-HHNfV8xP-Xrwhlqsp3Z4jCJbVh2b_ppa0GtAiww&oe=69773C72",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/617839738_1405111104402313_4774129321799733138_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lyPWQgxmRrUQ7kNvwEnAL3R&_nc_oc=AdkA66mRNat105In6g-RYfMjheBJoVAL0hJvuCxPZhgGknvxN3PQl-Rp0CJVo8B010w&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_AfofTXoYHdAtCJvDn3A7_NwOmUn6Lx55m7U1Ud2K45lmbQ&oe=69773104",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/616611637_1913104032914889_6087194242076713338_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-dmNBJ9aTAMQ7kNvwEEwy2q&_nc_oc=Adm6zjTuvaRFrvJ5RCWzsKxhHfUz-M7rPSv8qLwXoZ8N97sJUMlSVe1VnHmwoxQJBZ8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_AfqsJJwWuBk8BTV16l6mu3iHRUjhi3AVtGbsiSlpit8aWg&oe=69775915",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/615907382_1547042596528065_6552796246444478133_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KHAiP86Q2T8Q7kNvwF7vXSJ&_nc_oc=AdkApd1EXHXrQtWQK8YePj8Qj45jPC4_Ev_fN6sF58JzgPln59hfvwUU1B6drXCYSTI&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_AfryxHuu9LfwMtUyb-gb3XDoj-jxS5Rea02iOWTUfSWx3w&oe=6977250F",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/617570743_1415855673611907_7971777529582888973_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JM36SV35zOkQ7kNvwEf8pTS&_nc_oc=AdkWcB7COjPdKCslRqEkV6B0rjDoqagvKRZmP3z4poVfl1csLw4ezxm5RXHGtX8BbpE&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_AfqWv6VtALqxilWvktMmUq1Dmdb5_oQw5vmoUnneRx9dYw&oe=697735DD",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/616525617_934651125895275_5192742461424033582_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_1KvlGnmCtkQ7kNvwHReGmd&_nc_oc=Adkrms9FA465ipQMfbzIVXkFI0Ns-7AJd0lyrNy6ayKs1WlYOv5-szb8CdEc5okLwXs&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_AfrpJYwI7tMCyD9C0XmmTHH62V9SaQY9OubYRaPcyOOukg&oe=69774956"
+      ],
+      "landing_url": "https://kg.korchamhrd.net/education/professionalSkillEduDetail.do?rootMenuId=3416&menuId=3422&gaebalwon_cd=04000&gwajeong_no=M2026003&utm_source=META&utm_medium=display&utm_campaign=ondevice_q3",
+      "permanent_image_url": "https://i.ibb.co/M5Gc53Vh/63a71827.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-01-22T00:21:45.567308",
+      "page_name": "대한상공회의소 경기인력개발원",
+      "ad_text": [
+        "반도체·임베디드 취업, 아직도 이론만 준비하고 있나요? 🤔",
+        "✔️ FPGA, Verilog HDL 실습",
+        "✔️ NPU Accelerator 프로젝트"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/617567720_853768944141350_5711440744993747810_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ocH9Y8B8ToIQ7kNvwHEvnSk&_nc_oc=AdljStsw0DKlTVuVOI1OUymxcQbDq57yp7OLbLIKXucp81p1T4pfwygxyX2icI9smQU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_AfoLX0b1dSOSwOmW7t26VE80nbUdCMX6uCcOi6fQ7tjO2Q&oe=69775100",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/617556686_870792449265009_5360774904709344493_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k9ucdg-m82wQ7kNvwEcVsRH&_nc_oc=Adkx1IuoJ4izWs-ZUYYVYALK9ioLOGUDfOuwEahcF_lmFeHdp-6tOH2JvXCpiXPLe4E&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_Afrz1-GyQsHnYpPcho_xR2-OeL0aaiRVV_b5dxLuj5FIjQ&oe=697728C5",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/617523275_3428576520656829_801778226870443116_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ol5s4e5a2EsQ7kNvwHb4WAf&_nc_oc=AdnVtXTe940OeiY6tpNQQJozU0OoBJ1kYeu-ar_6VwzQ-m7zWC6YUEsf7pXt84Y8kJg&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_AfpGI_kNmsBXvahzSrnYOnCPZAcQxmXraE2aZyIM4zS_2g&oe=69773C5A",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/617811730_1432228675250319_5466935280540754197_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LCyEx3k0R1gQ7kNvwGxgcW2&_nc_oc=AdnQanUwGbc0BQ-_u4An55GbYN8j_rvmCD3228rzjWHmtGPAuOty2_Id-cVkmZnBTok&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_AfrbVpNg9akZ8i3cz104c6bYRnHkqmCTELYK_2XL310bgQ&oe=69773FA8",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/617845051_1611528896942103_6168749093649595214_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iUkZrEJ9ZkoQ7kNvwHLWA73&_nc_oc=AdnkcVu2F7cq0noJc57jox3MNglbVttCLdrnj5oUKz2q8R67gYri5vNqepkaWeYTdu0&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_AfrbWl5hApFtcgzYakCtGgYnL0yjUDgBk7HTwhVKLdUGWw&oe=69773AE4",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/617532617_1403770344735733_6930800198686931595_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=whVnsmOWiusQ7kNvwFETC6F&_nc_oc=Adk3xpJist87_Sr8cZaqAJgUzNek2o9q7PAC7D0fmt5d5ZBOZhuU61Ej0eguA6Aajqk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=XJ-qyMhwefNqrHgOcGnBew&oh=00_AfqadP6oTTlLcBtBxs1dnqBdGEaQALkWmz2mEP6esyp_ng&oe=6977541A"
+      ],
+      "landing_url": "https://kg.korchamhrd.net/education/professionalSkillEduDetail.do?rootMenuId=3416&menuId=3422&gaebalwon_cd=04000&gwajeong_no=M2026003&utm_source=META&utm_medium=display&utm_campaign=ondevice_q3"
+    }
+  ]
+}

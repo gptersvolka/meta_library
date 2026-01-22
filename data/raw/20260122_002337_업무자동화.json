@@ -1,0 +1,181 @@
+{
+  "collected_at": "2026-01-22T00:23:37.575031",
+  "query": "업무자동화",
+  "count": 11,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-01-22T00:23:36.821066",
+      "page_name": "Hanbit Media",
+      "ad_text": [
+        "지금 바로 무료 특별 체험판 eBook으로 확인하세요",
+        "AI, 챗GPT, 노코드 11만 유튜브 채널 <일잘러 장피엠>의 『일 잘하는 사람은 이렇게 챗GPT를 씁니다』무료 특별 체험판 eBook 공개 \"챗GPT 어떻게 써야 내가 원하는 결과가 제대로 나올까?\" 아직도 검색·요약 수준으로만 챗GPT를 활용하고 있다면, 실무에서 바로 쓰는 프롬프트 구조와 활용 흐름을 무료 특별 체험판 eBook으로 먼저 확인해보세요."
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/611652813_1063749429216030_2939777497737037570_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0SIc0yDefeIQ7kNvwHPOTPL&_nc_oc=AdkAJqm3j6x_J85hwQf6-ja6hSLucPFGktFOip2y7TCkF4VAuooOrhaId2Hq0Q1g_zc&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=hgomcJ3N-5QOjbtjUSdD6g&oh=00_AfoJeLH_OA0HsxDqa2d-q6RMuB9mryMGlGG2z4uZV9jI6g&oe=6977248C"
+      ],
+      "landing_url": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012404702",
+      "permanent_image_url": "https://i.ibb.co/0y9F8v93/Hanbit-Media-4dfd00fc.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-01-22T00:23:36.873447",
+      "page_name": "AI 코딩밸리",
+      "ad_text": [
+        "🐴 2026년 목표가 AI & 파이썬 정복?",
+        "지금 가장 빠른 길을 혜택받고 시작하세요! :D",
+        "🎁(~1/31) AI 코딩밸리 새해 응원 이벤트 중!"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/609038346_890224423981251_816501317632546193_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QJNdQhalju4Q7kNvwFnM0Ey&_nc_oc=AdlEzVp05fwsbkbv2ZFUD1roX7awR1lzRhVhLeyDaFTdV9MjdwHY-MVzQF1dzSu7bSk&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=hgomcJ3N-5QOjbtjUSdD6g&oh=00_AfpIItcXW7MKPbYEChzfacJmDG92gadDJmWVt_gmHYnOPA&oe=69775481"
+      ],
+      "landing_url": "https://www.codingvalley.com/ldm/7",
+      "permanent_image_url": "https://i.ibb.co/zVpH4g8v/AI-0ce59b8b.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-01-22T00:23:36.923810",
+      "page_name": "AI 코딩밸리",
+      "ad_text": [
+        "🐎 올해 AI 업무자동화가 목표라구요?",
+        "그럼 가장 빠른 AI 학습 솔루션을 만나보세요!",
+        "🎁(~1/31) AI 코딩밸리 새해 응원 이벤트 중!"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/610915881_1547989323200709_8354556439272157063_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lBQL6be9R8MQ7kNvwHparRX&_nc_oc=AdlzMCDWHWRLsTxesd3v7sMQuPjAAV2muem2ZHB6BlV8_WCBSrnLRfzWpHdw6gzOz40&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=hgomcJ3N-5QOjbtjUSdD6g&oh=00_AfqG2ICaa40C0aTbG6iEGlgY65yBLrsXH17V-df0EXy49Q&oe=69772F84"
+      ],
+      "landing_url": "https://www.codingvalley.com/ldm/7",
+      "permanent_image_url": "https://i.ibb.co/DPH2vhgp/AI-9179a2b9.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-01-22T00:23:36.971783",
+      "page_name": "AI 코딩밸리",
+      "ad_text": [
+        "🐎 올해 AI 업무자동화가 목표라구요?",
+        "그럼 가장 빠른 AI 학습 솔루션을 만나보세요!",
+        "🎁(~1/31) AI 코딩밸리 새해 응원 이벤트 중!"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/611830128_858492483759491_4862931953117549003_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C3Pmqo3Rl4QQ7kNvwFhEu71&_nc_oc=Adm91G4Uhr9KD-Vd3nuiLtauwyiZ8l08ebpP2iErNd0WrrysiiqVZOkefokvUxfnojo&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=hgomcJ3N-5QOjbtjUSdD6g&oh=00_AfrTiTIQKycheJboB-h6codJIoDb7Fpd17kJJUZ8ipp9FQ&oe=6977545F"
+      ],
+      "landing_url": "https://www.codingvalley.com/ldm/7"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-01-22T00:23:37.019123",
+      "page_name": "M Cloud Bridge",
+      "ad_text": [
+        "Microsoft Copilot Studio 기반 업무자동화 AI 365",
+        "우리 회사만의 고유한 AI Agent 만들기, 시작해 보세요!",
+        "에이전트 빌드, 업무자동화, Microsoft 365와의 통합 활용"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/611196813_1629631661354534_3914259522097579099_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KttUFW5mfIsQ7kNvwHoH25u&_nc_oc=AdnWFJtDPSgptcvhS52s0s2YvPHQc_LywKk5RC7ZB_d-TZ3hIEaakBG18-zVK0Nr6wc&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=hgomcJ3N-5QOjbtjUSdD6g&oh=00_AfqWsN-EubgZjBfHglYIKfntYGC1S9gejg8Lg08aVPbIdA&oe=69775642"
+      ],
+      "landing_url": "https://mcloudbridge.com/school/1501?utm_source=FacebookAD_A&utm_medium=Image&utm_campaign=2026_Jan_Free_Training_MS_Copilot_Studio_Ai365_Business_Agent_Regi",
+      "permanent_image_url": "https://i.ibb.co/NgyQPLmS/M-Cloud-Bridge-1a16814d.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-01-22T00:23:37.065999",
+      "page_name": "스파르타클럽 - 미래를 돌파하는 힘",
+      "ad_text": [
+        "*GPT 강의, 수강료 90%가 지원됩니다.",
+        "✔️ AI시대, 쉽게 대체되지 않고 싶은 분",
+        "✔️ AI 공부, 혼자서 시작하기엔 막막한 분"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/617010765_821063644309760_1052713158532187188_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=muArASfOiQYQ7kNvwG2yHbr&_nc_oc=AdkYNCeOEhkL_RGgr7j6qbpSFOppeY6QtA5FQeHtg7qHBMxCmgV8SJ2s343ZCy0Nmjc&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=hgomcJ3N-5QOjbtjUSdD6g&oh=00_Afo5SHWx_96fV-PleHLFQbZtyQ394j0jIzvenlpEoss2_Q&oe=69773121"
+      ],
+      "landing_url": "https://spartaclub.kr/kdc/class/gpt-2.0",
+      "permanent_image_url": "https://i.ibb.co/FLxjWBcR/46e82ba7.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-01-22T00:23:37.115151",
+      "page_name": "스파르타클럽 - 미래를 돌파하는 힘",
+      "ad_text": [
+        "*GPT 강의, 수강료 90%가 지원됩니다.",
+        "✔️ AI시대, 쉽게 대체되지 않고 싶은 분",
+        "✔️ AI 공부, 혼자서 시작하기엔 막막한 분"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/615791645_1530358351355786_4586440388944952055_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EyikUZQ5JJIQ7kNvwHFOn0P&_nc_oc=AdmBsMgm0QhGShLof-HLmWXBCqRk7P221SaDOvP3auRYEAeHPn0CGzzaeLQ2KdCz0es&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=hgomcJ3N-5QOjbtjUSdD6g&oh=00_AfrvnUB6BT--t56BvjbsGu5WoSseYcHl2m-5uJMOov21nA&oe=6977585F"
+      ],
+      "landing_url": "https://spartaclub.kr/kdc/class/gpt-2.0",
+      "permanent_image_url": "https://i.ibb.co/PZh7W5ts/f13adeca.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-01-22T00:23:37.194589",
+      "page_name": "스파르타클럽 - 미래를 돌파하는 힘",
+      "ad_text": [
+        "*GPT 강의, 수강료 90%가 지원됩니다.",
+        "✔️ AI시대, 쉽게 대체되지 않고 싶은 분",
+        "✔️ AI 공부, 혼자서 시작하기엔 막막한 분"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/615860281_1326733149260801_1604671461030613990_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Qf4FlSbzSGEQ7kNvwHWOi0I&_nc_oc=AdmkdCBAaWYERJXSCk3hVx7fI7BxXbBNCKHCNqG8ZJARONEJun-pnY8OGbVDOv_ecJQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=hgomcJ3N-5QOjbtjUSdD6g&oh=00_AfqC9JpDlTBX9OjATHrxZURDLp2lwWh0HllkMgln5486nQ&oe=697727D6"
+      ],
+      "landing_url": "https://spartaclub.kr/kdc/class/gpt-2.0",
+      "permanent_image_url": "https://i.ibb.co/TB5L2rpn/4b522374.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-01-22T00:23:37.240739",
+      "page_name": "ITUP 잇업",
+      "ad_text": [
+        "🚨모르면 손해보는 업무 클릭 한 번에 끝내는 방법!",
+        "“반복작업 힘든데, 누가 나 대신 일 안해주나?”",
+        "✅ 90% 국비지원, 수강료 45,000원!"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/568134670_1815206355852675_8819397974552631306_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KVsUlDQCBKYQ7kNvwEpPZxt&_nc_oc=AdnBnLVbXeJAmpAQv0i---4WWBpvpQPS38tSwWeM7lUtetkxU7NnVKRtetd26we1VEM&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=hgomcJ3N-5QOjbtjUSdD6g&oh=00_Afo6dZcGQvST1XfRFNGgXu_xSr8VNMHPIWE0o6yfbOLt9Q&oe=69773E59"
+      ],
+      "landing_url": "https://itup.co.kr/rv1/k-digital/main/lecture/info?course_uid=726703&education_uid=59764&_C_=57",
+      "permanent_image_url": "https://i.ibb.co/vCWhxkpG/ITUP-a0b11f5e.jpg"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-01-22T00:23:37.286548",
+      "page_name": "클라우드튜링",
+      "ad_text": [
+        "(옆으로 넘겨서 스마트한 민원실 풍경 보기 👉)",
+        "**클라우드튜링 AI 챗봇**과 함께라면 현실이 됩니다.",
+        "복잡한 서류 안내부터 운영 시간 문의까지,"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/618282176_1358298385985095_4559781284510029989_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tUp5KsFV5IgQ7kNvwF-HDa_&_nc_oc=Adm0OJkQcztvB4UNlGQ4oG8mdwMwX7KuleR547MWNfENFgKrkV_Ci9eMyucaw8sfEtk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=hgomcJ3N-5QOjbtjUSdD6g&oh=00_AfpGo29vuMXJV8oaw2XQOWKxoScose4f5X1dus9GfiSM6w&oe=69774010",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/616339523_1202703482005346_3041895933458773993_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wmEjmGWOfxsQ7kNvwEB1mYr&_nc_oc=AdkE-aigaJe95GtTqJ5I3nA208WVK2PWiXWw_EAuw8L-RiDn0e3n27o_C5rjWz2-UpE&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=hgomcJ3N-5QOjbtjUSdD6g&oh=00_Afqn80XKbg_jBjUuSbZkAlzWtd9U-4f0capG6_DCieMTLA&oe=69774A6A",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/616409240_1209322504079137_1882454865873176396_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dJxTMFhlVP0Q7kNvwHv2rup&_nc_oc=Adn9Lo2p-o02QjIh_4Y-n1W6cN52VcEgTPCrxgKuc6DdxRVII2Kr1J9J0MCv2xfI3us&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=hgomcJ3N-5QOjbtjUSdD6g&oh=00_AfpvQUJ0-bHL5El7fRSwZWDd0rid2WAJ4oW3MKXWGvj5sg&oe=697754DB",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/616258549_1975445179704073_2350561418136309990_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dyj3yRdbd14Q7kNvwESka2D&_nc_oc=AdkQgazXdGmJMrnLKI4qs21hgYzK5KzqrNrIu1hyJnYU0lK6awg5Ieay_fiLsurKH3c&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=hgomcJ3N-5QOjbtjUSdD6g&oh=00_AfqRSiuzSWmGpKAhsR9inKEGFk0PY_awp5TwOuq7MY1i0w&oe=6977347B",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/617537515_25881076274860244_6577254338664022618_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cqLivHxI5IYQ7kNvwEzJNJK&_nc_oc=AdlP2br1Y2xhG7Zkl8UGNy_0BIHRDXWJ151g4HsSvQwkpm4LjXLKpiRJegblhH9eFrQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=hgomcJ3N-5QOjbtjUSdD6g&oh=00_Afph-noYai9dO0NdEIjs9dR-2XAL8byQU2PvGFHKccf_qg&oe=69775257",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/616233680_1542384713650731_418729436631066729_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XKy1obuHr1MQ7kNvwGI3XVr&_nc_oc=AdlWYaK4hYoVNZAQUBog8g9BBPQTRqQzvu3O1zRls7X6jngNOzLxmSc4DG-Oe8-fm4Y&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=hgomcJ3N-5QOjbtjUSdD6g&oh=00_AfrNnUCVjnVrsBaN42tW5N-57ZIdu_tcztegIpx_f42ydg&oe=69774AEC"
+      ],
+      "landing_url": "https://cloudturing.com/",
+      "permanent_image_url": "https://i.ibb.co/Z6TWp5gJ/0555d6eb.jpg"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-01-22T00:23:37.410095",
+      "page_name": "엠에스벤터",
+      "ad_text": [
+        "업무 자동화 시스템으로 효율을 높여보세요",
+        "HTTPS://XN--ERP-JC7MY74DH1CM8FMOV.COM/",
+        "HTTPS://XN--ERP-JC7MY74DH1CM8FMOV.COM/"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/574366082_832211299166012_1231341325427731502_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mszsALfozqAQ7kNvwFZM4cK&_nc_oc=Admw0XxNvo-Slw0PChaJRUxUU-KN5EjVrNgwU8AYk_nsYJplWbmUKw5nq5CsWQ7l-Yk&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=hgomcJ3N-5QOjbtjUSdD6g&oh=00_Afow2-w3KLPKn___10wrVae0MqSzTAkXzZ8DePsnn0J9Rg&oe=69775A73",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/573050887_867926078909274_166397098042088753_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=60Oi3vqtIBQQ7kNvwFAvxOZ&_nc_oc=AdlnZ-aLeE1D7L-KGlhWvJAl3JplPRL1MDqjg0dbEBfb7adymaX_7t_tG99UU6uefeU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=hgomcJ3N-5QOjbtjUSdD6g&oh=00_AfqeVrw5JN08iE-BvoP_g4ayYoYNlsq8Uk-onKz3Jz9XLA&oe=69772F43",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/571614007_845651091751533_3518919711818811697_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nP4IVmcrHikQ7kNvwE6rmNg&_nc_oc=AdnfhQjYDM_NGCJYJczD1-j5gPWftsCZXrh0qyxCDbcTPc54NbvKdLdhpO7skOBmBJw&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=hgomcJ3N-5QOjbtjUSdD6g&oh=00_AfpORV1LpNnADG5BvQ95AhYsfOy9gEBxf3faIpuY9uxNJA&oe=69773B33",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/571341225_1156256872648945_4054374721877301098_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=isnnmXLeyX0Q7kNvwE5XriR&_nc_oc=AdkJBU6h08K9s1Qsy7n2obEs41Acf7jnr3T8HJ_6IRM4pys4AWVdVW-gtLJBcqBX2kA&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=hgomcJ3N-5QOjbtjUSdD6g&oh=00_AfrpPFBhMjocd4hJjDLSo1b8xuSBPoafRUQuuJ_jUWBpBw&oe=69774C51",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/573431483_2565411247170519_2641155702320767647_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MoK6MtXm3qYQ7kNvwF0Lsc_&_nc_oc=AdnFv_n09ZSujWUEiKysPOl8FmSCzOKPjnec2QEfzwDvFF2FNPbO6ayR2WB5DJcvVoI&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=hgomcJ3N-5QOjbtjUSdD6g&oh=00_Afo6_MQOr2fdP8Q74xDQ29eH4Ohjx8WdCOVFRY8NPDEsIw&oe=697740A5",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/574561514_638486979218710_17548641515564030_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zeVGQuy2dxQQ7kNvwHjXUbp&_nc_oc=Admw1HMK-PSw_dmBKBA9fqMxDduHIuND_nsNTC02JVpgrCvW5CMJPFZtYjn_aZe6Xo0&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=hgomcJ3N-5QOjbtjUSdD6g&oh=00_Afozp37k66gtvA-uEt2E9mpsuDMTmK13DNDTGsZ4uBIO-Q&oe=69773862"
+      ],
+      "landing_url": "https://xn--erp-jc7my74dh1cm8fmov.com/?utm_source=meta&utm_medium=paid&utm_campaign=inquiry",
+      "permanent_image_url": "https://i.ibb.co/mVjsNT2z/22afa57b.jpg"
+    }
+  ]
+}
