@@ -1,0 +1,148 @@
+{
+  "collected_at": "2026-01-23T01:47:27.186145",
+  "query": "아이돌",
+  "count": 10,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-01-23T01:47:26.211206",
+      "page_name": "모무 MOMU",
+      "video_urls": [
+        "https://video-sjc6-1.xx.fbcdn.net/v/t42.1790-2/473102652_1137917371038690_1904129896877191173_n.mp4?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4MWEUOrNxBYQ7kNvwFxXMJ2&_nc_oc=AdnaUa4W15L-AHG8amVjIYlmj_pp8woNf6t_awS5ZbTFjpxNacm1Ns36m8CsdT7uByk&_nc_zt=28&_nc_ht=video-sjc6-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_Afp_m9XVctmRK7-7b7BE25I3GDpb98pU3iV6F-4BziUVlA&oe=6978BA5A"
+      ],
+      "landing_url": "https://www.momu.store/product2/?idx=29"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-01-23T01:47:26.262189",
+      "page_name": "소문 듣고 왔어요",
+      "ad_text": "HTTPS://TINYURL.COM/MR3R3KHK",
+      "video_urls": [
+        "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOLqBFbzEroAJFS-pixZk6Dsm8KHcbnLZ0jEoIgty9MiWPuRMkh8m7qcPXq-nIqgY8l5xk6SC_tRNY-VS3ZT42W4Vrk5bMMvoASrXT_XQ.mp4?_nc_cat=104&_nc_sid=8bf8fe&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=4JquPhI1P14Q7kNvwHXuz_V&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTA1Nzc4MjE3MzEwNjIyOSwiYXNzZXRfYWdlX2RheXMiOjQ5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&_nc_zt=28&oh=00_AfpDccoO_iqkU5hv3jLYLwc4fbHb-0R4Oz_oYFanSIvJrQ&oe=697890D6"
+      ],
+      "landing_url": "https://www.food-ology.co.kr/product/detail.html?product_no=1993"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-01-23T01:47:26.309646",
+      "page_name": "소문 듣고 왔어요",
+      "ad_text": [
+        "사라졌던 턱선 돌아오게 만들어주는 아이돌 붓기차",
+        "HTTPS://TINYURL.COM/458K37DD"
+      ],
+      "video_urls": [
+        "https://video-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNAUCQ0ZQyOPXRvpytNg2FtsWV9MiikiK48gAGmfU6sSjS3aiaQTvZF2WwAwFPb5N_dfFC8AYrUjZvm0YZ2L8swXnJ282hIQ2xXnzz49w.mp4?_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=video-sjc3-1.xx.fbcdn.net&_nc_ohc=Q36Psjv-WukQ7kNvwH-IVcU&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjAwNDAwMjU2Mzc4NjQyMiwiYXNzZXRfYWdlX2RheXMiOjEyMSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&_nc_zt=28&oh=00_Afr61KaVMZVZfmNyr7AqbuiXuzDGN1wYtomcOlEW-Yl0RA&oe=6978AFDC"
+      ],
+      "landing_url": "https://www.food-ology.co.kr/product/detail.html?product_no=1993"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-01-23T01:47:26.354291",
+      "page_name": "소문 듣고 왔어요",
+      "ad_text": "HTTPS://TINYURL.COM/MPD95SMH",
+      "video_urls": [
+        "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPOKHnyaPAUP31RC2VsYVTMflBVwNaLogVeuva9B7xIHtYYmb3Hh9m585566UBktj41-ZDqhY3iBmi49l25PtFDK6bK1dnWdxhk22-IwQ.mp4?_nc_cat=109&_nc_sid=8bf8fe&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=w6CC3bkh7ucQ7kNvwH_Xx3P&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjM2ODU2MjEzNjkyODk0OCwiYXNzZXRfYWdlX2RheXMiOjEwLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&_nc_zt=28&oh=00_AfoVsDogx3Ll4swo77EX59iTuKvZGIkoCn9mivkOGu8ZnQ&oe=6978BF91"
+      ],
+      "landing_url": "https://www.food-ology.co.kr/product/detail.html?product_no=1993"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-01-23T01:47:26.399941",
+      "page_name": "소문 듣고 왔어요",
+      "ad_text": "HTTPS://TINYURL.COM/MS6M4TV9",
+      "video_urls": [
+        "https://video-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQN2xex-bLZSJlBhUDsFrmHiGR9JCKDBpOGNYGhpk4B60_xBI_XEnCwDBZWYaW5zsSXO0XQ_ZoB-RKJFYnVokgG2yBUN8vuwoAolxDD4Kg.mp4?_nc_cat=110&_nc_sid=8bf8fe&_nc_ht=video-sjc3-1.xx.fbcdn.net&_nc_ohc=xBcEdtNVzHUQ7kNvwFZF1nR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6ODI1NzgxNjc2NDk4ODE0LCJhc3NldF9hZ2VfZGF5cyI6OTAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&_nc_zt=28&oh=00_AfqFMYGMyKZWQ3wVHNx02EE0gmcnxUIj7uyGpA4hByCbkQ&oe=6978BBD0"
+      ],
+      "landing_url": "https://www.food-ology.co.kr/product/detail.html?product_no=1993"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-01-23T01:47:26.445300",
+      "page_name": "소문 듣고 왔어요",
+      "ad_text": [
+        "HTTPS://TINYURL.COM/MV3KDTCT",
+        "🚨맘에 안 들면 무조건 100% 환불🚨"
+      ],
+      "video_urls": [
+        "https://video-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNhbSKAYWMwW7eySdv0vrVCeADpsUqMLJ53ea50iheoVVSWJmsbfXNUOdnjD3hepHx01i6aWui19BFwsXIelEiyqUBR5S5bKmJB55dh6g.mp4?_nc_cat=105&_nc_sid=8bf8fe&_nc_ht=video-sjc3-1.xx.fbcdn.net&_nc_ohc=EC2i5FUABAsQ7kNvwFUazxn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM1NDM0MzEwMjg3NjY3NywiYXNzZXRfYWdlX2RheXMiOjExNCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&_nc_zt=28&oh=00_AfqyfWUmW4OQ4o7N4suy1FXPKhxVFo6B7IZk7wFrhKzwiQ&oe=6978ABB5"
+      ],
+      "landing_url": "https://www.food-ology.co.kr/product/detail.html?product_no=1993"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-01-23T01:47:26.495323",
+      "page_name": "메디큐브 에이지알",
+      "ad_text": "누구나 50% > https://vo.la/BCZMe",
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/464408129_3860002204264823_7709058420097544528_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NG-EFiV1I-sQ7kNvwHSSb8n&_nc_oc=AdlAm_WlXZ9RaH5rqRxvIQPOyGHvq5kwwMeSdGAdUsdnwvcfXGaYmuufGPlxD0Br2NQ&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_AfpDFFVJ29aPWeKJ3GiT9NVFYPHelC2SiX4epxiYjCg6UA&oe=6978B976",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/464187908_1588707828666315_5761459397765998402_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9RuCn_lh7wcQ7kNvwE6M5K0&_nc_oc=Adlof9apAlEZyQ6atajn9xvCgw_hpGTpv1cMhkOh1mXrufUSYkukeIVcC4VE19MMAFw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_Afq8IwTtgBX9-BWJWbce4LbBTyoVQI081eBKEup1--7eaA&oe=6978BD2D",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/464153776_2006040789908983_2805926693630693559_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LYIW2SEE30oQ7kNvwEUF1r3&_nc_oc=AdmETqLncohI2x6gpIpi2zCx-1maSQO2ZmJvJp92Wu1tKsDaxcJEZhI7uekA_3vk-Dg&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_Afpwu28Wz8p7TR0fZQegD_eK-mH-dYYk5UreIsmz8fDG0Q&oe=6978BBF6",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/464275592_3180488408759984_825632690397209130_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kEc7lFcE7soQ7kNvwEG0HzH&_nc_oc=AdnHSkVFO8w-Dl0tKcmwSBnVBMdt3PjQz8YxhsyjvutR8aWEf5JROYgxjVc-jmj1wjc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_AfrI8dGu5qc_zUGwI8vAJe-JplxZSCtKbt340SOZYCDKvg&oe=69789531",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/464468876_1311724866496431_5359765238540510165_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4R_9BR2NEGoQ7kNvwF0gV_L&_nc_oc=AdkAHICom3ZKTjUAXtvqhB4ch1Cu7QZu6G9_mIzn8j6dVrb4ud2GWkILcCPQfUO-z7w&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_AfrS8KDnh390T5XgOqGc6_FzC7o_ENcY-xRxcUwJ7hsbBg&oe=6978A60C",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/464199411_558660246811434_8661869517725396158_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HG9uaJvqNkkQ7kNvwHFyovR&_nc_oc=Adm1U8za6qMJC7J8YVoyS37k7vL-1MVIgbfAgsJZGZua0CGbuTXSpH7b0rstm-dmn6w&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_Afo6nngCIMFYtjhG2XuBwWAcdTsRPcoMqQDc3uPh9Qp4kw&oe=69788FC0"
+      ],
+      "landing_url": "https://vo.la/BCZMe",
+      "permanent_image_url": "https://i.ibb.co/TqLsY3s3/9a168586.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-01-23T01:47:26.618783",
+      "page_name": "꿀팁저장소",
+      "ad_text": [
+        "1️⃣사주를 몰라도 술술 읽히는 '나만의 웹툰' 사주풀이",
+        "무작정 내용만 늘리고, 줄글로 쓰여진 인터넷 사주 너무 많죠?",
+        "사주에 대한 상식부터, 보는 방법까지, 모두 친절한 웹툰으로 설명해드려요"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/559898284_790632710515977_2540030647497025460_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gaiHRSkXt8UQ7kNvwHrgCtt&_nc_oc=AdnnUaNn68MvbNkQTEzXRrluv0lU0D1MLqo3JWZlh__4D8M-U1FiFcSrUnMRGJxbJ2Q&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_AfqXp7k5pYa3gEH1MOgGwvIPu2rHzvBiUEJIp46DzHpzbA&oe=6978A497",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/564025317_816218898243274_7755257345425870869_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BIwYcAfubXEQ7kNvwH1Rf6z&_nc_oc=Adna31v1kB1iyF1YUWiH2u7w430t0x9ytF8JjFj3giBSVOeqzON23Ws0iqGGmh7LLds&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_AfrsmVaJ2gjm4shtWPhhOazEw5jMAkTDkbVpOvD1JTpqWQ&oe=6978B6BF",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/565129625_1522580342259060_6963912280395572136_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kv53Nj57AUgQ7kNvwHd7kHq&_nc_oc=AdmbM-cJL8JZwY-O-sixkhK1INchkyhI0stGExvcSM3z21mH-Vn9tqT8JX7yuhRteo4&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_AfqABH6sqmixur5-TZzcyYDfYnR8cR3fmgGKIQhEJw2a7g&oe=6978B8A4",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/560155471_2277523006083775_2559265609582978778_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=u7p-K03gvvAQ7kNvwEQlIj7&_nc_oc=AdkIr7Z9hxZPiIyTbwfTvRlJUCZNw66dtn3ozt_3H0vNfmDCtK5-VOAtY5-EzjYYmGo&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_AfpsMv4OmwHRxq2LetpRJNpEVH3QCOJteYAaBRmotZ9TAg&oe=6978A9F7",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/565929713_1349322459874036_9050378910963617620_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ypQc34G5IRgQ7kNvwE7zkWF&_nc_oc=AdkMNOk6LIzoRzFKfY_NEl9gZxGCelupDzXHBg4bjb1CGdhK1rSOC7742j5ytKAOzuA&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_AfortM7JVKTRX_ipvCymKZHT9k6M4E5Cpl6O0_i7yxE_6A&oe=69789017"
+      ],
+      "landing_url": "https://aifortunedoctor.com/s/bluemoonladysaju?utm_source=meta&utm_medium=bluemoon&utm_campaign=asc&utm_content=250410_미주&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/rC06CzW/151a1bce.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-01-23T01:47:26.737479",
+      "page_name": "뮤닥터 아카데미 대구점 - Mudoctor Academy",
+      "ad_text": [
+        "뮤닥터 아카데미 대구점 - Mudoctor Academy",
+        "🧐 #초등댄스 #키즈댄스 찾고 있다면?",
+        "💡 110명 이상 아이돌이 데뷔한 #뮤닥터"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/523837095_1450047839606056_6314817899042051172_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BgwTJD0uCGwQ7kNvwERiz47&_nc_oc=Adk72hfR_opxJDufaQ0_kiTYUP3ZLVah5_tT393kQLQybn3zRcGNOiuhFiqfnbFwp7k&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_Afqpn4d4DDjaV8Wyfyzo1Jr0udtqzth-omM2PeCGp3q9cQ&oe=6978A30E",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/524523125_1699224337415689_2084504363201866624_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7XlNCIaJYZ4Q7kNvwELzW1q&_nc_oc=AdneeTkZx3E5MV4Ps-2gVz68K-a9STvh-uP3E9C-LaG_JqQYHycJ1yX9NP267sMs0tY&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_AfqhTzN-btyooKqtNctMPxYQYDMwYkTC0CQyqyIdcVpCWQ&oe=6978B5B1",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/524583521_1480062086753486_8005940775493377302_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CSXPtopz01gQ7kNvwE7idDr&_nc_oc=Admu1_mo7lgCRGz4NPj4hZJk-Cmm5VofRYrjR00Qk4sk1dcl10_PL2xe5fDRcIoQdac&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_AfoCP-zkyT664f1T1k173vj5TB7DJpx0pIW99BoY9ZXTrA&oe=69789CD9",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/523833031_1050911583902272_2974980383694369918_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lTLpQDn_JycQ7kNvwF-pI-7&_nc_oc=AdkYxMGL9izxdhBKLw-2RENeEz2FIM6otxwFH_yOB-VJPq2tLDcIwYFNHzAOx2HFXNk&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_AfrpYAWQb36MFOxDW5pVPwE2YpKQVL8Sar2q6FrR0Z0hGA&oe=6978A75E"
+      ],
+      "landing_url": "https://www.mudoctor.kr/kids-kpop?utm_source=fb&utm_medium=da&utm_campaign=bu&utm_content=bu",
+      "permanent_image_url": "https://i.ibb.co/Xx3PstCh/Mudoc-e4d377f2.jpg"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-01-23T01:47:26.917468",
+      "page_name": "트렌드 1초",
+      "ad_text": [
+        "대만, 미국에서도 1위 먹었다고..ㄷㄷ",
+        "#이슈 #유머 #인기 #추천 #후기 #귀여움 #심심할때 #취미 #공유 #공감 #연예인 #걸그룹 #아이돌 #여돌 #김세정 #게임 #개발자 #게임추천 #인기게임 #로크라이크게임 #모바일게임 #RPG #QWER"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/468358091_562204236516662_4364806813499751369_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Eh13zJTh3PgQ7kNvwG68DtD&_nc_oc=AdmhEVL9EiFjAXUPsYJJIkCixNqsUyMkEgiRo9PKvrV4O5jJMNd-SS5azBTLP7M1j6c&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_AfpjjJNmlp-lUkf0p9ooWCged7iV-afmiTJ8_INp8OE1eQ&oe=6978AD62",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/468306720_1208534840218507_7697927746669854763_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2wD9W0no8OoQ7kNvwH6qQmV&_nc_oc=Adl9d21WwjUUE3NCtaliP1SHRXn0sG2i3ms1U7K7HkV2cXbcCGBLXSdZubvgfQVqdSA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_AfqUbcAAizbX3DuuK-UFz-FH_os6Bj7806FdAms2bWjySQ&oe=6978BE1B",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/468297975_474576862314294_138030929624895672_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pEZ4dPSus6MQ7kNvwEv4U2Q&_nc_oc=AdnpsuEO9t3wivZYGSbhCYzqX9VBitOwUIHeIo8kd-38itEagF2X23AMbrzNdPqKYF0&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_Afosp93ATwmd7EU4QaOvANDoSDIaSZytRMSEqjuRNNvlbQ&oe=6978BE67",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/468472618_994353519231955_7280791813596149947_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C6MXfZhgn7gQ7kNvwF-DI31&_nc_oc=AdleJVN7WSFbNHLHrcmv5iPTZeadBB0NtdVbbXLcEHMBBZfuUKkedru15gjBpLrfkNg&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_AfqcXT2-QGlpeP-gKXSZaWfCrB8sFidPPEPrVUf1-z9twQ&oe=6978C14F",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/468394317_587231653687834_7293129764841716836_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mU895jZHVgAQ7kNvwE0_7F5&_nc_oc=AdnhGCcsFDeKhy2jvLJYd43HLXNsj3sbpa_ZNi6O9652V4GgEZDwROTHnwyhDL_LNo4&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_Afqjuzfrg2_iU-l9WTWtL67EN58pIHv1npI2-UC3AoA7ow&oe=6978B27D",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/468296825_1807066810065829_4199280634219026273_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YEU7igOIMvEQ7kNvwFfOlWK&_nc_oc=AdlntUu93Pjlwg87q1qJ_4HgY3jTqJu8h_BTEd-RLYvhyVSvHYQviemAzHl2xa_JLjA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_AfpMG_RTO-9T8TKxqnUV2nCjkwN3WQLpgM3hdxvQMkJOgA&oe=697894FF",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/468501565_437515909185697_8788128222804652792_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eO5D3pxzy60Q7kNvwGVxygZ&_nc_oc=AdlIWfY_Bz4G0qQYGXH7f72wil7VGK4-AdyKAJpqgTLVCgIAGB9ESnElwFyzRmmajVk&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_AfpawEr73MYYkh3QmSOajDt4tYXywL0kTGgaeFgU9Ag4OQ&oe=69789038",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/468356196_1217632216013627_4022513395121799250_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-y5QZgYokoUQ7kNvwGKjoMi&_nc_oc=AdkFMVAAJcSZF3THe0JfIVFjn8hAYuoiCOf4OIaFCwcofbSqo-nIX9J0cvJVVb1azMk&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_AfrnMMU109MfsxOl4bGga2zyt8wzVsNPBdUETdpb-T10zQ&oe=6978A521",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/468495687_2150388422042444_2006045123287563503_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=z70stv1SRicQ7kNvwHS92Ox&_nc_oc=Admae1UGTgb5yzv89CYmMa5KcnfMJT7uTEAuOfVgsbK3co6tahJVlOs1WEuJPA0GjO4&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=sTc0mwaR1Eknn47MdqKYYQ&oh=00_AfpiFZuVusNtqAX59GgRb25BaodupD8BBTY8hKB9SEtq-g&oe=69789929"
+      ],
+      "landing_url": "http://itunes.apple.com/app/id6449141384",
+      "permanent_image_url": "https://i.ibb.co/TsVPhQj/1-c3926f52.jpg"
+    }
+  ]
+}

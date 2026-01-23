@@ -1,0 +1,130 @@
+{
+  "collected_at": "2026-01-23T01:44:31.003549",
+  "query": "무료 자료",
+  "count": 7,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-01-23T01:44:30.205089",
+      "page_name": "원티드 wanted",
+      "ad_text": [
+        "조기 퇴사를 줄이는 온보딩 전략 A to Z",
+        "첫 3개월이 조직 적응의 성패를 가릅니다.",
+        "우수한 인재도 빠르게 이탈하거나 성장을 멈춥니다."
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/580759577_1512138410035228_5031426307440254835_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LHU-NS8osnYQ7kNvwGUhn9s&_nc_oc=Adl4SYHUiJpwR8QpuPmMMOq1-O68U8-_DsHxyb3DVRCB1oAe82-E5YPpclBvIXFjaw4&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_AfpNks-Hcd1paJXLaG5FCkKTIlV_Oli64_UEeZuPY5VLHA&oe=6978B317"
+      ],
+      "landing_url": "https://blog.wantedlab.com/hr/report/onboarding-a-to-z",
+      "permanent_image_url": "https://i.ibb.co/PZc4PGbJ/wanted-70c36127.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-01-23T01:44:30.258526",
+      "page_name": "키엔스코리아 Keyence Korea",
+      "ad_text": [
+        "대형 제품의 치수·형상을 혼자서 측정하기 어려우셨나요? 최대 25m의 다양한 대형 제품을 혼자서 측정할 수 있는 새로운 솔루션을 지금 바로 확인해 보세요!",
+        "HTTPS://WWW.KEYENCE.CO.KR",
+        "「대형 제품의 치수·형상을 혼자서 측정」신제품 광범위 3차원 측정기를 확인해 보세요 >"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/576864410_4149694425312626_6151802050440728101_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oORtb5l-K9oQ7kNvwGEtV_2&_nc_oc=AdlSgVwuYCV6MxbEH7noLhJMimXBLs9Mq1_QhU-64sQMzrSy5dIkLLuCQhkrvqjJdzs&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_AfrKwSO2OoSgJxSe8fw70V8455SSfoAIzzf6Rn7CxROmNg&oe=6978BFAB"
+      ],
+      "landing_url": "https://www.keyence.co.kr/Facebook_WM01_120238364138710728",
+      "permanent_image_url": "https://i.ibb.co/WvZDC98F/Keyence-Korea-d7ed02ba.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-01-23T01:44:30.307980",
+      "page_name": "makeumineworks",
+      "ad_text": [
+        "K-POP 작사가, 나도 할 수 있을까?",
+        "정보는 넘치지만 방향은 안 보이는 현실.",
+        "작사를 시작하는 분들을 위한 가장 현실적인 입문 가이드.pdf! 지금 공개합니다."
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/571012531_1338220104630790_7222900617330127883_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ugUnSKUnsuAQ7kNvwHeVA5i&_nc_oc=AdkIwI04R98vxxBAtQuD69T8iS2_Gduh9mh4vGwo2rhCKN-W6zruaGcDWtLX0hwdDTw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_AfrkAThj1UzA_Fvn9gevd-gizaGzUBw5aGfsxeHDYRy4xA&oe=6978B2EC",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/571440200_1831246640835266_2363775499312455629_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wxx8giU21XsQ7kNvwGZaCPN&_nc_oc=AdlBVZdLBWlfjtBRLK8GIoVITqMufuarUb0sznlx-2Qz8Icegqm89gkSAGMCqX9d3m4&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_AfpoN3qWCJAArA1Z8tel0VqIKfI2VQWjF7Tpm9nEkusCVA&oe=69788C6B",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/514397681_590640517433980_3629673943705786619_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3XGnWOt9-_IQ7kNvwH8o38K&_nc_oc=Adnq3IE0wbqjAPaZE91KLohZHMlh1hoRCTWr5cFLRA1ul0bUCkE15H7SyV-1WA2A-P8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_Afqe-wse1GlyTXEMbDTk5AED-g0KJy8_xw_fL7X6PIR_YA&oe=6978A759",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/570380593_889061990480477_4686558284369078208_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rLzDUw9vaJQQ7kNvwFXF-pK&_nc_oc=AdmfPOn18DGm6r6FGLbd1Z22XSYrTKUBPGt7trdWnw60gBvZPKLspt-eiwnBkjDfOxQ&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_AfrOCSbSO_pieOf3JeOy78-z16nR-k-WvF_AWJidw5Yi9g&oe=6978A7A0"
+      ],
+      "landing_url": "http://instagram.com/makeumineworks",
+      "permanent_image_url": "https://i.ibb.co/CyY9b99/makeumineworks-15783b10.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-01-23T01:44:30.411051",
+      "page_name": "비토리페이지",
+      "ad_text": [
+        "총 200p 넘는 자료 반드시 받아가세요.",
+        "총 200p 넘는 자료 반드시 받아가세요.",
+        "총 200p 넘는 자료 반드시 받아가세요."
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/580939153_838171485838051_2473199576590042298_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mjCXxQz55ocQ7kNvwHCG2rR&_nc_oc=AdmPZj0oSxHxV0-mevKETevNYD1bsghKx4AbDXDcDzkdsuS3kVWRQXiokcKVqunWD70&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_Afowxnk4C_Kxq6gizZvD2J76YkiSlB7yFJ6djtgqggSHFQ&oe=697898A3",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/580915125_1465715794526437_2149796458545080867_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r0NrQVU2_7MQ7kNvwEJDh6M&_nc_oc=AdnD0_C5c4W-cW70SznQYKl5Zn2pcGiC5bMgtTVp_DpngWRlGSAtOaGSmrbYQjsFLGE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_Afp0MDD-cpS6iTcyuEL8834xEEKbZmxMQYNvf9XA3cF_Dw&oe=6978AE36",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/581770440_1517165782763993_678346487708280129_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C5lE296hnGMQ7kNvwGxFieD&_nc_oc=AdlWxFUQqROxKYm63qPnfzEdm2f_G3dI2FnDUidd6J8eMJLJb45QBAnraYiYQ6EbIOk&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_AfrZCfuMg6o3S2RB1ZNFObJ5q01tnU4ySCfpaWBZjGksMQ&oe=69789D63",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/583751001_1352051245784758_2992042540032962440_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-Ooq-Km4UKUQ7kNvwEWB8xk&_nc_oc=Adk1Qv3pnyFMXY7icUigEOx73dH8l4TnSvm2QqGR_4y40735Haa85WbqoG73AaWHcEg&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_AfpVa0UVUb5cig8w3K-IOmijw_ELW8oaFcJkpDc-M69JtA&oe=6978917D",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/581935853_4143361612579309_5412612429112547147_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eef7Vw4ScGQQ7kNvwFQw0m5&_nc_oc=AdnZ4xJOKegLbGXrgd8yIXdgFhpYQpI2jCIkFnuMp9Tb04vHw82oy2GxfQRxDyotjGE&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_Afooq-is03a-M-lzPOaRxIxYkZtDo8HDG1R3zrwguBg9Ew&oe=6978C024"
+      ],
+      "landing_url": "http://fb.me/",
+      "permanent_image_url": "https://i.ibb.co/3ycPMYNv/3186ef49.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-01-23T01:44:30.530643",
+      "page_name": "아소비에듀케이션",
+      "ad_text": [
+        "놀이학습지를 다운로드할 수 있는 링크를",
+        "3️⃣2025년 가장 즐거웠던 순간 떠올리기",
+        "자연스럽게 표현력과 사고력을 키울 수 있어요."
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/609046841_1253597673257668_5146375012981807142_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=io9YzQ6tCKgQ7kNvwGETd9c&_nc_oc=Admvx9V2WY9yfCazCjdpeAsY-XAtsVDL5MEQQCE79Azx9RZS1Q47jWXGcHNy_7uTMiA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_AfpsLY1uzMpwzdN5M2IXxtvJbp9udjPmwtnCvPETScAOkg&oe=6978A779",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/610984890_2322397088204047_6477226472372171032_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G2aq-NMg-PoQ7kNvwHDcHis&_nc_oc=Adnmt3_A_EmPkwQJEH7GC5If0iawWslngXE5ymKscyNN7C0fzJK7z_UPG7aRw-xj0nw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_AfqCEo7pPZSisTEFfN-dkHbHiz-h37mGjI0ltZv96zPrUA&oe=69789C26",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/611641921_1564917404698899_5212997354882630997_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QdmDPGV6wmUQ7kNvwHjGsJ9&_nc_oc=Adlt_rLHekcEZCDou5LbFwug-6uBD9ndMVk-nV5bvK7lk6z7WUsCrGYg9CmivXDgMOY&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_Afq4kU3VNYSWLFWbCDEgyajH7L7ZU7F_SvlXLTyu-0tquQ&oe=6978B45F",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/611274972_1856697924982971_250667507316698947_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NnoJyJN2ylwQ7kNvwG87EZb&_nc_oc=Adm-iusCECHU7UXlC0WaJTUCXHxbXJB8OTBgDzXESfLw7H9pPJhyDqZgJ-4XTk_Yy8U&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_AfpNTNOcNYvK9OL-DVAC7t0iNMW1FFe5HNZiMUYgc8jUEg&oe=69789DE2",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/611202901_883695930907694_9193647299365896506_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OFsXUE38hpQQ7kNvwGRLxKf&_nc_oc=Adk0MieBKRoaj-Y-CZLdHVNt22zoFRgS-ua4J-dMsM1meTKVU-yesfeDk2lZNMdpBSg&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_Afq5Ndr13zpgIBf0_Q1aJHE3Dcevse0Ubrkl_mDFAnGA6w&oe=6978AE5D",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/611598257_1214691923969295_691409736999331166_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZCjk7CpnQ70Q7kNvwF1_l_X&_nc_oc=Adl8wKgwnIQ3zAPWOsdpS4z0Hfdt1Y_wB05cWG-fR-aIY3tWWSQH1HnJZ8pq7rRAQP0&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_Afo9smmpjZfWK5v0Izh0zpTfpTxxEKAK-NzKv0XnRFeC-Q&oe=6978B63B"
+      ],
+      "landing_url": "http://instagram.com/asobieducation",
+      "permanent_image_url": "https://i.ibb.co/WvvYLBTz/775f7369.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-01-23T01:44:30.663260",
+      "page_name": "바디먼트",
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/583144482_1471565197265010_3771403340686586550_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cWmRB0Yw4j4Q7kNvwGJv9NO&_nc_oc=AdkQzAvFbSZ6670bUUI4OUU8p6Jkf_Sxt-PclamljtIlH1-pgW6bvlJapephVqPyDSQ&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_AfqzT0DorGU0HwpN6vpK89iQ5yB1yzI6FUAhn4Ces9kycQ&oe=69788E16",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/581033948_2515959618776611_249536015694585066_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pyKiHcg1w7gQ7kNvwG9RAzs&_nc_oc=AdlCR7VNHFWVGR6ALKUs_NqrrWbdfW8HcK-K-eworRxX2njGdP2wTICv7qF9UovLogY&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_Afo2PJhHfQUhwOvD-RILCYonhorKFLbQ3sOVORj4z6DzOQ&oe=6978B32D",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/581646481_816498764686901_3115054466447315928_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HR2uWw_BUUUQ7kNvwEFiXFE&_nc_oc=AdmIEj3W2LDL9uKGb-ArTRgAkW96cNq-EJEi5ACxqxZNxCtN04Lo1A0lqcdPQuU5UpA&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_Afp2xvkMTuYMue3QMjMGqniKRJobxtRR5nS5vZXP-308JA&oe=6978AD60",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/583310876_1581008599734650_440469486389420221_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=psbSPlJVXTEQ7kNvwF7SelR&_nc_oc=Adm0_u654fFKNyXaiwCNL2iEvfkQM_bxozd9ZJxcKEysTxXRR3TLM1mqHtbqibeBHAU&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_AfogUahNFRC300KxGt34ftutYYHVAeZHH6Pbsd582Ex4sw&oe=6978A262",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/581384137_1176057827845103_8613046571201915728_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vH7VaDRYNUIQ7kNvwG7zCla&_nc_oc=Adn6JPmv-H30vbXb6rd1gWDcPeTWavhLTsyXN0JlXhAb1OQSTC58eWqu4Gr0uXKWyKQ&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_AfqOGTjtV_nC2xfBZdirH4vAPN2JyMfdCmxJ61SEfcNiog&oe=69789862",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/580512921_1482332459719931_2282773847363537828_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jzW8o41sUSYQ7kNvwHV4hgi&_nc_oc=AdkQUNgJ1I-tIHjdjmX-ULF2HZIeGxOQQxkwhvWZZVwgwLzL3L1qYExLg6QiaS6oeIw&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_AfprBvY-lYb5Gwi1y8yQcfqUzruhS5MmSUMXSZespNVZUg&oe=6978B337",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/580832527_1347160376900369_6313910274933332553_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FDClKRYV3moQ7kNvwFDIucZ&_nc_oc=AdlTG23QaqMVwSwUuFVnrBdPzvK96nX7YhpFQRxSzzs-PbsS028CWBKLOXr5omb9VQI&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_AfpnMgvDa6v6DV3eLk7M6OwZXsZcYqu_IQkLr2MIfyg6Jw&oe=6978970D",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/580853160_1187470826656167_265632181722109694_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iaRgqijhiKkQ7kNvwFgrION&_nc_oc=AdnBcI2UtaMx4bcK5PXVdduJ_h-z2RaOIkxyiySR_HPycIuPzocgpVh014Gb-Juufu0&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_Afoo1X5HLRYXxVmbQalYUqmMcGqKv2XAkqvXHtFu9K17Eg&oe=6978A776",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/583712856_1936106237253157_8748837264340227398_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sg5FY0-wGG8Q7kNvwHBCLBL&_nc_oc=AdkOASD6DHE6yS6T6nqLpXgi7knQtRPqsEW22npM4R7ZktB54D9T38kFPho99BeH0F0&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_AforYjOfnNB2AE_klFBAer0mw4LC2b_udi4k24pfaBkceg&oe=6978AD37"
+      ],
+      "landing_url": "https://bodyment.co.kr/",
+      "permanent_image_url": "https://i.ibb.co/rRct5FYh/17dc6479.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-01-23T01:44:30.847147",
+      "page_name": "합격의 기적, 이기적",
+      "ad_text": [
+        "1트 합격을 위한 컴활 필기 합격 예상문제 무료 배포!🎁",
+        "한 문제 차이로 떨어지면 억울하잖아요😭",
+        "오직 이기적 팔로워들의 확실한 컴활 필기 합격을 위해 특별 제작한 ’합격을 다지는 고퀄리티 예상문제 PDF!‘"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/614560917_2109449869860502_1416381919445097690_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WCDoYmZdfG4Q7kNvwEQU-1u&_nc_oc=Adkg8pVHe7OU3z90-ivoOlRAvz9kq166meuWl5MMTdKlxNO4en2zeaCLvgV96GXsq2I&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_AfpHRwD7vAra-QaF-b4sK4U2ItDKJ55htfrF9Y2vJRI0Bw&oe=6978AB04",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/614401892_4418034621765746_845509209191578733_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=glAJNaek11MQ7kNvwEMP8Fs&_nc_oc=AdnDashS6QVtVzD3NOWcPy6ucJu_dvqgo4KPHF0vJGqn_7SgGH2ogVauPlTyzWnAqXI&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_AfqtxIt_mkkashths4qDps3NL5ynvhfpjTtt6q37998CYg&oe=69788970",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/615692096_868086062677651_7180297498076266951_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cZyxb-gtWX8Q7kNvwGnRvLn&_nc_oc=Adm8PF4nPFo-XXnFRewF6twaolX-DkgmK9fZHLvW0ln2fcTKRCHEgQajuhTr7h3dHMg&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=DqPoBQvVCYsTa40yZ-dfSA&oh=00_AfpgzrehQpTN7ecdYn6zjY5klVgVlnd9QzkFEu6710kuAA&oe=6978A651"
+      ],
+      "landing_url": "http://instagram.com/license.youngjin_official",
+      "permanent_image_url": "https://i.ibb.co/bR15SzrD/3a1aa0fa.jpg"
+    }
+  ]
+}
