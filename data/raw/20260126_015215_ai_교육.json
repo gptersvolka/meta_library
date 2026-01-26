@@ -1,0 +1,67 @@
+{
+  "collected_at": "2026-01-26T01:52:15.643279",
+  "query": "ai 교육",
+  "count": 4,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-01-26T01:52:15.358341",
+      "page_name": "인프런 - 기술을 배우고 나눠요.",
+      "ad_text": [
+        "인프런 비즈니스 구독 서비스 OPEN! 🔥",
+        "구독 서비스 도입으로 2025 하반기 교육, 한 번에 정리하실 교육 담당자를 찾습니다.",
+        "📌 기업 규모에 맞는 정산 방식, 예측 가능한 예산으로 간편하게 구독"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/514671085_1231853575091324_6239890698465867443_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WOOnnXTaILUQ7kNvwHC24J6&_nc_oc=AdkkgTH6IRHMlEZLy-jnN_S_9XIJnqaz0TkvGL-2C3zkgZ9wP1lLyRC8sESQ0OJqp-w&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=2jwR6gd4iHU7HhPBY_NVGg&oh=00_AfrNZeoXwXSHeFF13uVnPi2F4rMGpuCogl6KqEcyhR_dcw&oe=697C9D04"
+      ],
+      "landing_url": "https://www.inflearn.com/tag-curation/common_tag/biz-subscription-intro?utm_source=facebook&utm_medium=display&utm_campaign=traffic_b2b_subscription2507&utm_content=_etc_all&utm_term=_250701_v4",
+      "permanent_image_url": "https://i.ibb.co/gMLTbTJ0/505f7520.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-01-26T01:52:15.411054",
+      "page_name": "한국gpt협회",
+      "ad_text": [
+        "엄청난 프로젝트 비용, AI가 1000원으로 대체? GPT & AI가 여러분의 업무를 혁신적으로 바꿔드립니다.",
+        "HTTPS://GPTKOREACLASS.COM",
+        "텍스트 이미지 영상을 한번에 AI 올인원"
+      ],
+      "video_urls": [
+        "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMSVlkJC0g2dP-jNPyHF3jQAJ_DK0bAgN7HIe5e5erHNXpCuJroh2TDWcm81EdIFyAiQNzJaz6CsrKcx-SIB1ot.mp4?strext=1&_nc_cat=104&_nc_sid=8bf8fe&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=YnC49904kIUQ7kNvwGV477R&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNjQwLmFzaWNfaHExX3NkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo3NDk0NDQ3NzQ4MjMyNTgsImFzc2V0X2FnZV9kYXlzIjo3NiwidmlfdXNlY2FzZV9pZCI6MTA2ODAsImR1cmF0aW9uX3MiOjMzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2jwR6gd4iHU7HhPBY_NVGg&_nc_zt=28&oh=00_AfqErRRbDDqxF6BcF5DObH3NitCvJ_JyKfZRw1FSUMdggw&oe=697CA01E"
+      ],
+      "landing_url": "https://gptkoreaclass.com/courses/gpt-ai-standard/"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-01-26T01:52:15.477430",
+      "page_name": "교육 페이지는 한국디지털컨버전스협회과(와) 함께합니다",
+      "ad_text": [
+        "교육 페이지는 한국디지털컨버전스협회과(와) 함께합니다",
+        "방송정보국제교육원에서 영상제작, 영상편집 분야 실무교육을 받고 취업해요!",
+        "취업준비생 여러분, 기초에서 심화까지 교육 및 취업 지원을 받으세요!"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/612092440_4281575095411827_1425270319445187235_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WmX_cOxSM9MQ7kNvwGXnJdR&_nc_oc=AdldwBvd3VCVdoVpEaTmX04hylYlPueid1ElzXBKFOHknSq--eYtbzk0SglQiaHbyH8&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=2jwR6gd4iHU7HhPBY_NVGg&oh=00_AfqBnHtKQDFQrcrLtXnSs__75cXC50xiYcUwZOyH5C4L-Q&oe=697C8A09"
+      ],
+      "landing_url": "https://forms.gle/Fg3k8PFMB4PD9hz78",
+      "permanent_image_url": "https://i.ibb.co/mVMj1jzT/57d368da.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-01-26T01:52:15.527263",
+      "page_name": "오즈코딩스쿨",
+      "ad_text": [
+        "📢하루 5천원으로 배우는 AI창업교육!📢",
+        "일 잘하는 사람들은 모두 활용한다던데 어렵지 않으세요?🤦‍♀️",
+        "차세대 창업가를 위한 AI 리더 캠프가 지금 열렸습니다!💰"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/599939597_1279876410840951_4635114876477772138_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G9ggpqN2SCAQ7kNvwFVRhd1&_nc_oc=AdkI1uxDG6PSY-UiKl-wQojwGGG1zGad33fk4n21m2S85k42f8i_zllUFQ6_5ppQLig&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=2jwR6gd4iHU7HhPBY_NVGg&oh=00_AfpiOHa0axH7lxaXfcMtAe6tAny1YEsbgIFmXea6FjswQg&oe=697C8CB4"
+      ],
+      "landing_url": "https://ozcodingschool.com/ozcoding/aileadercamp?marketing_channel=META&utm_source={{site_source_name}}&utm_medium=da&utm_campaign={{campaign.name}}&utm_content={{adset.name}}&utm_term={{ad.name}}&utm_id={{placement}}",
+      "permanent_image_url": "https://i.ibb.co/b5QJnh3Q/284299d4.jpg"
+    }
+  ]
+}
