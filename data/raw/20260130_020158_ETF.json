@@ -1,0 +1,122 @@
+{
+  "collected_at": "2026-01-30T02:01:58.588943",
+  "query": "ETF",
+  "count": 8,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-01-30T02:01:58.091718",
+      "page_name": "키움증권",
+      "ad_text": [
+        "새해니까 더 풍성해진 키움 중개형ISA 혜택",
+        "#키움증권 #키움중개형ISA #키움ISA #키움증권중개형ISA #키움증권ISA #중개형ISA #ISA #ETF #키움이벤트 #키움증권이벤트 #ISA이벤트 #신세계상품권",
+        "ETF 10주 당첨 주인공은 누구?!?"
+      ],
+      "video_urls": [
+        "https://video-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOCg4tdr7iVbPT8h-Q7qUuYOw5WSGYwn4xK8SZJyz6aT_p75rtajXvA7AqDumCmT9hz7-vYM7ZoCAEdC2LeAC7iX8i5Purbgq4K8AbWCQ.mp4?_nc_cat=105&_nc_sid=8bf8fe&_nc_ht=video-sjc3-1.xx.fbcdn.net&_nc_ohc=nQgJaSZkziIQ7kNvwHlrMZa&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTYxNzgzMTg1OTIxMjI4MiwiYXNzZXRfYWdlX2RheXMiOjksInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=IzuScShVagjXaWR5ZgxHOA&_nc_zt=28&oh=00_AfqRQc_7aqvdS1kicdz0rah505ZDtQ8SAFh3ydZ2WX64SQ&oe=6981F141"
+      ]
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-01-30T02:01:58.136242",
+      "page_name": "직장인의 모든것",
+      "ad_text": [
+        "회사 다녀도 내가 가난했던 그 이유...",
+        "챌린지 1기 등록하고 월급쟁이 부자되자!",
+        "20대 20억 자산가 🐰래빗해빛 튜터🍀와"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/600922857_2096156927793411_1969847858612294871_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hbf3k3d3nxAQ7kNvwFrm7Y-&_nc_oc=Adns8xkahuC8ZGFgxip6a6nw32SmM1v-SgackhfoeVOZI7awg17vKPocf24zn5_XoMc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=IzuScShVagjXaWR5ZgxHOA&oh=00_AfqnhMjPSmwSmeKY-0xsHEM79aLebbdeEVpQEVArbyevOA&oe=6981E1C9"
+      ],
+      "landing_url": "https://taling.me/mkt/rabbit_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=rabbit_purchase&utm_content=재밌게1억&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/SXjg5fNY/8e6126ca.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-01-30T02:01:58.193655",
+      "page_name": "키움증권",
+      "ad_text": [
+        "ETF 10주, ETF 수수료 1년 우대, 300만원까지 다 드림!",
+        "#키움증권 #키움연금 #키움증권연금 #개인연금 #연금ETF #키움이벤트 #키움증권이벤트 #연금이벤트 #신세계상품권 #수수료우대"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/615334228_4364104680574264_4637379237306777675_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-3ps_MgWIL8Q7kNvwFL8sXN&_nc_oc=AdmD9mp_krJ65lxlZET4Org9ws1EEa2bQenuVDyJM6cWY8p4Ywg1QfZQRGWiR1Y8fos&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=IzuScShVagjXaWR5ZgxHOA&oh=00_AfqaGf5arjX2VMubY935v5U4A0liSKCZ4Ft4Xkkw2qAWRQ&oe=6981D301"
+      ],
+      "landing_url": "https://www.kiwoom.com/e/m/wm/event/evtUserEC250071View",
+      "permanent_image_url": "https://i.ibb.co/chzVXrhY/edb921ae.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-01-30T02:01:58.246696",
+      "page_name": "퇴근할래",
+      "ad_text": [
+        "오직 월급만으로 20대에 20억 만든 래빗해빛과",
+        "‘60일 월급테크 챌린지’ 함께해요! 🐰 💪",
+        "매일 딱 한 번, 재테크 미션을 수행하면"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/599004321_3075030999351058_6284044378428700054_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eR3gdx9h7moQ7kNvwH27Hl6&_nc_oc=AdnK4XTpIEBJZnDn8gPP8z9Evh4HORb99Tr0y5p5jDHFV1UUegK1RXxjmZug8KLGJtA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=IzuScShVagjXaWR5ZgxHOA&oh=00_AfqD5CtpO6aSW0wlcdgBQjl8HnOIOle3NZxehVAyFEtrdQ&oe=6981F0B1"
+      ],
+      "landing_url": "https://taling.me/mkt/rabbit_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=rabbit_purchase&utm_content=래빗해빛루틴&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/FqLXJkff/cd32a494.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-01-30T02:01:58.300525",
+      "page_name": "재테크는스크루지",
+      "ad_text": [
+        "스크루지가 직접 알려주는 재테크 솔루션💪",
+        "20만원 상당 재테크 템플릿 무료 제공!"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/548210534_1475318613512864_6455853012658869933_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZZye9Jc38csQ7kNvwHJ80of&_nc_oc=Adlru2DC9127LKQDg3jZe9roel9_2d27RcpB78qV2bR3T36AYasc7m9O13h6gbesLaM&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=IzuScShVagjXaWR5ZgxHOA&oh=00_AfpPpHeFxw-cbmu-V3yXU4vbRcHvMbd9g2KFZD1qsLnwLg&oe=6981FEE2"
+      ],
+      "landing_url": "https://taling.me/mkt/skluzy_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=skluzy_purchase&utm_content=스크루지루틴&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/JWcQ3nNH/df33210c.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-01-30T02:01:58.352201",
+      "page_name": "모햇",
+      "ad_text": [
+        "4060을 위한 재테크, 지금 바로 확인해보세요",
+        "HTTPS://MOHAET.COM/INVESTS?UTM_SOURCE=FB_MONTH&UTM_MEDIUM=0418_CONV_OTHERTARGET&UTM_CAMPAIGN="
+      ],
+      "video_urls": [
+        "https://video-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOZTe8elXHMf9pkxpmZ8wVYkOC9UFJo7yq_8A8znx5hJhePaOmp1IM2PNiqqqXM5dCZOKI_K1-gil1lniXcHnRvQXQXNPrjSi3_dJCBVw.mp4?_nc_cat=103&_nc_sid=8bf8fe&_nc_ht=video-sjc3-1.xx.fbcdn.net&_nc_ohc=HRgo1CvCt6AQ7kNvwGnSxpx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTA2ODgzNjg4NDk2MzQ3MSwiYXNzZXRfYWdlX2RheXMiOjE3NiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=IzuScShVagjXaWR5ZgxHOA&_nc_zt=28&oh=00_Afr8qlJko58lkPEOP48v1BJJwtiSr7Ys3dzp6ZDhPXt54A&oe=6981E1D3"
+      ],
+      "landing_url": "https://mohaet.com/invests?utm_source=fb_month&utm_medium=0418_conv_othertarget&utm_campaign=plus_250806_3_5"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-01-30T02:01:58.399538",
+      "page_name": "Firstrade",
+      "ad_text": [
+        "转移部分或全部资产到Firstrade皆可享有最高$250转户补贴！美股交易无手续费、无期权合约费。立即加入Firstrade，将美股投资产品一网打尽。",
+        "限时优惠：转户到Firstrade，最高可获得$250美金补贴！",
+        "加入Firstrade，享受无期权合约费、网上交易（包括股票，ETF和共同基金）无佣金，还可投资债券与CD。无账户闲置费或维护费！"
+      ],
+      "video_urls": [
+        "https://video-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPtG2Mb6oErtXaMuOIk8jvbAwHbf9xsh7JHF3ZsiLlWnkmPF1m2ebUshVB-hsdPibvp8lfTTQHIG87PbzbSyaM.mp4?_nc_cat=103&_nc_sid=8bf8fe&_nc_ht=video-sjc3-1.xx.fbcdn.net&_nc_ohc=Gw4tYNON6UEQ7kNvwHI3VMH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjE3Njc2NzY3NjA0MTc5LCJhc3NldF9hZ2VfZGF5cyI6MTAzOCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=IzuScShVagjXaWR5ZgxHOA&_nc_zt=28&oh=00_AfpKBHH1ZdHXaT7WgftZeIyjBhtLYZrCAmW6PJNN59EwTw&oe=6981C9AF"
+      ],
+      "landing_url": "https://promo.firstrade.com/zh-cn/intl/xfer250?utm_source=paidsocialch&utm_medium=facebook&utm_campaign={{campaign.name}}&utm_content=xfer250cn"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-01-30T02:01:58.448167",
+      "page_name": "Kodex ETF",
+      "ad_text": [
+        "“코스피 5,000시대 뛰지 말고 날자, 앙!”",
+        "한국 코스피 시장을 대표하는 200개 종목으로 구성된",
+        "KODEX 200 ETF | 합성총보수 연 0.1615% (운용: 0.124%, 판매: 0.001%, 신탁: 0.01%, 사무: 0.015%, 기타비용: 0.0115%) | 위험등급 2등급 (높은 위험) | 직전회계연도 기준 증권거래비용 0.0333% 발생"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/621826631_896256500247274_5070972079851105796_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Mk8f2XX_5QQQ7kNvwHvI4-n&_nc_oc=AdkzkikvyjWtaXICtbNovtkzdjoKQWehIR9ARXlTtyIudasVWvCdgL9SFviVycjL1nE&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=IzuScShVagjXaWR5ZgxHOA&oh=00_AfqYqRoFZ6lIYLduBK1LoKSIiCGpPfZNfBmjOg1ZwXNw9Q&oe=6981D319",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/621799788_1542318283489364_6505358895314270075_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TPi1kGM916gQ7kNvwH-q0FN&_nc_oc=Adm7Rcfc4WqL2xFQg5QUh29sOvMT5fBpM7AHRzdAarfH6OXxg_qMvRuFjQzEOf6NqYE&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=IzuScShVagjXaWR5ZgxHOA&oh=00_AfqvlT03_bqVywXaH2GMX0BI43WR_TTZdHQHOqaKtYoSAg&oe=6981CCCD"
+      ],
+      "landing_url": "https://www.samsungfund.com/etf/product/view.do?id=2ETF01&utm_medium=social_da&utm_source=meta&utm_campaign=_d2&utm_content=CCW_069500_meta_1",
+      "permanent_image_url": "https://i.ibb.co/gZMhj2T8/Kodex-ETF-bb4372d8.jpg"
+    }
+  ]
+}

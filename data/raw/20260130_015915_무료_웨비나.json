@@ -1,0 +1,132 @@
+{
+  "collected_at": "2026-01-30T01:59:15.493042",
+  "query": "무료 웨비나",
+  "count": 9,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-01-30T01:59:14.939303",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "✨ 국제학교 자녀분의 코앞으로 다가온 미국 명문대학 입시 준비…",
+        "미국 입시에서 Common App 작성은 곧 시간 싸움!⏰⏰",
+        "꿈의 명문대 입학사정관의 눈을 단번에 사로잡을👀"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/544995989_1311938777240584_7643198229873328322_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4heS2JRzdgoQ7kNvwFHIhlX&_nc_oc=Adkb1cOSJARdM_c-V9StPSAHO-0TZDMdGvEtewRFBMupX411ErikWWv4WN8TJXV_JIs&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=oHDw1rfKfwza4EplVPknDg&oh=00_AfogLuZrw9GDhLZjM1euPQDsIfpGE-TjUDgXqAB_kU5yfg&oe=6981C95D"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/resources/webinars-workshops/",
+      "permanent_image_url": "https://i.ibb.co/spdpYmH3/Crimson-Education-183d965c.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-01-30T01:59:15.020292",
+      "page_name": "Factsheet",
+      "ad_text": [
+        "우리 하우스의 포트폴리오 관리 방식은 여전히 엑셀에 머물러 있지 않습니까?",
+        "수십 개의 엑셀 파일을 취합하고, 검증하고, 다시 가공합니다.",
+        "데이터 신뢰도를 떨어뜨리고, 실무자의 시간을 소모시킵니다."
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/621896450_1208909010825152_6465336261935343774_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lPXcJTM7vDYQ7kNvwG2xueZ&_nc_oc=AdlmqnttKkJ4X6DdR9-UPY9SzV6RUZ99c53UCeaDsSMDh2kmuJv1zVA91-uEAfOIrwM&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=oHDw1rfKfwza4EplVPknDg&oh=00_AfoPoJw4MAcVFVomGnQB3KLPwagF6RCvIrpa-z_Szw0XZg&oe=6981E48E"
+      ],
+      "landing_url": "https://forms.gle/xZbgrPzCy1kxNDaw9",
+      "permanent_image_url": "https://i.ibb.co/k6WkHbR3/Factsheet-977848af.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-01-30T01:59:15.075327",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "✨ 국제학교 자녀분의 코앞으로 다가온 미국 명문대학 입시 준비…",
+        "미국 입시에서 Common App 작성은 곧 시간 싸움!⏰⏰",
+        "꿈의 명문대 입학사정관의 눈을 단번에 사로잡을👀"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/544498933_1686715765330737_9216432937402814786_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UQqnDCB3Ng4Q7kNvwE8AC1x&_nc_oc=Adk1fC_BLS7jFhvjNDmgP2NvWtmy9Rt31EghKatW-T-7XTj4HGf6gETlgUKn8IdY7KI&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=oHDw1rfKfwza4EplVPknDg&oh=00_Afppk-c1Eg3XiW216otBFZmCfe8oM63A-Upcf8L-fCO-dA&oe=6981DF38"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/resources/webinars-workshops/"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-01-30T01:59:15.127272",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "왜 지원자는 줄었는데, 합격은 더 어려워졌을까요?🧐",
+        "ED·ED0 확산, SAT 의무화, 에세이 평가 기준 변화까지",
+        "올해 입시는 ‘정보 차이’가 합격 차이가 됩니다."
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/615242889_2156451204893561_1618998639070346193_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_ANxb_ZL4jQQ7kNvwFtcbei&_nc_oc=AdkhASgXkQdvr4e8UbMoVNXC5mE7--OSgHXOxSUk-fFGsLUAYCt1YuGAe94Xo94zY5M&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=oHDw1rfKfwza4EplVPknDg&oh=00_AfqcniD0lxnz7OY_gNWm41x5QTaHJr4Od_4xsCmvJtw8yQ&oe=6981C8C9"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-feb-11-2026-admissions-trends",
+      "permanent_image_url": "https://i.ibb.co/BVwfkvNS/Crimson-Education-c66fa62b.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-01-30T01:59:15.179882",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "Oxford vs. Cambridge, 11학년 아이를 위한 현실적 선택은?",
+        "명성이 아닌 ‘입시 구조’로 비교합니다!",
+        "🎓 두 대학이 어떤 유형의 학생을 우선적으로 선별하는지!"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/619266727_26682235338035318_8683006986786164633_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9YwTA45SDFQQ7kNvwGktp_L&_nc_oc=Adm25kpJ6oC8tBljDMrNDHj2UmVOz3quFAWbd3yqhy8SQG-J8LgnWNj3tK_wUyTR10U&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=oHDw1rfKfwza4EplVPknDg&oh=00_AfqCLw5CLqu8MgQV9cYBJBoToxCr4CKiOTktQXIOWd_pkg&oe=6981CEE9"
+      ],
+      "landing_url": "http://fb.me/",
+      "permanent_image_url": "https://i.ibb.co/FkHkqRSX/Crimson-Education-d7c1935e.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-01-30T01:59:15.231359",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "Oxford vs. Cambridge, 11학년 아이를 위한 현실적 선택은?",
+        "명성이 아닌 ‘입시 구조’로 비교합니다!",
+        "🎓 두 대학이 어떤 유형의 학생을 우선적으로 선별하는지!"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/617084952_909766558142769_1617223971987798218_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ms0yTXZGzf0Q7kNvwGbDkw1&_nc_oc=Admg904NnsOTqc4BuXs5uRiYi-XnAn17-do8_8O9iLtrS148LQC-2rKjW7yDQu8zJr4&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=oHDw1rfKfwza4EplVPknDg&oh=00_AfoTD4akp8c3D4Z-SGRLj_wlLNw0_6oemnBZ3Pv6vRKu5Q&oe=6981C93C"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-feb-4-oxford-vs-cambridge"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-01-30T01:59:15.282815",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "Oxford vs. Cambridge, 11학년 아이를 위한 현실적 선택은?",
+        "명성이 아닌 ‘입시 구조’로 비교합니다!",
+        "🎓 두 대학이 어떤 유형의 학생을 우선적으로 선별하는지!"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/619597180_3243808112445666_6193680590794237935_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IzPAA32qGMIQ7kNvwHixRUk&_nc_oc=AdnTYO5dKemPQk0CRckXGp-o0f9LZLLgAeZKMQxPykO7V6iqnr26YsO8lkSEBvWZsPc&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=oHDw1rfKfwza4EplVPknDg&oh=00_Afqmuw3CSbIbrxcITLgSWgf9_bJM_Aer6Dh8XH3j7hqkmg&oe=6981C746"
+      ],
+      "landing_url": "http://fb.me/"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-01-30T01:59:15.335913",
+      "page_name": "CONC. Farmers광고광고비는 계속 쓰는데, 매출은 제자리걸음인가요? 한 달 만에 월 매출 10억에서 40억을 만든 실전 마케터의 '위닝 콘텐츠' 공식을 공개합니다. 매번 똑",
+      "ad_text": "CONC. Farmers광고광고비는 계속 쓰는데, 매출은 제자리걸음인가요? 한 달 만에 월 매출 10억에서 40억을 만든 실전 마케터의 '위닝 콘텐츠' 공식을 공개합니다. 매번 똑같은 구도, 뻔한 모델은 이제 그만! 자고 일어나면 1억 매출 터지는 킬러 포맷 7가지를 무료로 하드털이 해드립니다.자고 일어나면 1억 매출? 킬러 콘텐츠 포맷 하드털이 🚀Learn More",
+      "landing_url": "https://forms.ccfmedu.co.kr/r/Xx4GJV"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-01-30T01:59:15.387910",
+      "page_name": "국내 1위 오피스 브랜드 - 패스트파이브",
+      "ad_text": [
+        "국내 1위 오피스 브랜드 - 패스트파이브",
+        "📢웨비나 놓치신 분들 주목! 1/31까지 웨비나 발표 자료만 무료 배포합니다",
+        "2026 오피스 비용 절감 전략 사례집.zip"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/618635805_2906169456405539_4295296690302447913_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zAtGPzhDOH0Q7kNvwF-6IAA&_nc_oc=AdkadwRJGVYftjHt7UYYzfFz1Hspno2tHvuyviEbOC0zIS82rosk7jtY9tXWgLJ2Cxs&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=oHDw1rfKfwza4EplVPknDg&oh=00_AfrvC8kDJm5nf-D8s5lzzuB48v5N0yUkYhz68tanhJtgww&oe=6981F776"
+      ],
+      "landing_url": "https://fastfive.co.kr/event_webinar_download_contact",
+      "permanent_image_url": "https://i.ibb.co/rKyYVvM6/1-35ecc4f7.jpg"
+    }
+  ]
+}

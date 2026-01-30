@@ -1,0 +1,87 @@
+{
+  "collected_at": "2026-01-30T01:58:38.961740",
+  "query": "ai 교육",
+  "count": 5,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-01-30T01:58:38.510090",
+      "page_name": "교육 페이지는 한국디지털컨버전스협회과(와) 함께합니다",
+      "ad_text": [
+        "교육 페이지는 한국디지털컨버전스협회과(와) 함께합니다",
+        "방송정보국제교육원에서 영상제작, 영상편집 분야 실무교육을 받고 취업해요!",
+        "취업준비생 여러분, 기초에서 심화까지 교육 및 취업 지원을 받으세요!"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/612092440_4281575095411827_1425270319445187235_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=U7b-TXPLhawQ7kNvwFP5MfN&_nc_oc=AdlJIWQC4hqICMAk3GXNWeU1Avg7iuW81l49G40cH5mZaCI00rreHHmc7bZm8DJ1T1Q&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=g6luc6i-PZ3SRSV_x49Fvw&oh=00_Afrjj8rL_pce2EGHkjPIX3UdWRJK68bKs2h1rntEL8lmqw&oe=6981D009"
+      ],
+      "landing_url": "https://forms.gle/Fg3k8PFMB4PD9hz78",
+      "permanent_image_url": "https://i.ibb.co/dw8Q3KZy/57d368da.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-01-30T01:58:38.578435",
+      "page_name": "인프런 - 기술을 배우고 나눠요.",
+      "ad_text": [
+        "인프런 비즈니스 구독 서비스 OPEN! 🔥",
+        "구독 서비스 도입으로 2025 하반기 교육, 한 번에 정리하실 교육 담당자를 찾습니다.",
+        "📌 기업 규모에 맞는 정산 방식, 예측 가능한 예산으로 간편하게 구독"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/514671085_1231853575091324_6239890698465867443_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TeTaHTUIVn4Q7kNvwErAP6C&_nc_oc=AdlXEnIIwF-TfQXf7SpsiVHTrfshoKKCE-9qHO6SxkNJ3VTA2NpJseYRtNxpbE0a2h4&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=g6luc6i-PZ3SRSV_x49Fvw&oh=00_AfrubAYOdx8VrpkXXtQO1MYdpGiiBnFVXazDGJ2BZ-jcaw&oe=6981E304"
+      ],
+      "landing_url": "https://www.inflearn.com/tag-curation/common_tag/biz-subscription-intro?utm_source=facebook&utm_medium=display&utm_campaign=traffic_b2b_subscription2507&utm_content=_etc_all&utm_term=_250701_v4",
+      "permanent_image_url": "https://i.ibb.co/BHyRCSjb/505f7520.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-01-30T01:58:38.635512",
+      "page_name": "한국gpt협회",
+      "ad_text": [
+        "엄청난 프로젝트 비용, AI가 1000원으로 대체? GPT & AI가 여러분의 업무를 혁신적으로 바꿔드립니다.",
+        "HTTPS://GPTKOREACLASS.COM",
+        "텍스트 이미지 영상을 한번에 AI 올인원"
+      ],
+      "video_urls": [
+        "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMSVlkJC0g2dP-jNPyHF3jQAJ_DK0bAgN7HIe5e5erHNXpCuJroh2TDWcm81EdIFyAiQNzJaz6CsrKcx-SIB1ot.mp4?strext=1&_nc_cat=104&_nc_sid=8bf8fe&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=5sLDTljVhSoQ7kNvwEOExhI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNjQwLmFzaWNfaHExX3NkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo3NDk0NDQ3NzQ4MjMyNTgsImFzc2V0X2FnZV9kYXlzIjo4MCwidmlfdXNlY2FzZV9pZCI6MTA2ODAsImR1cmF0aW9uX3MiOjMzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=g6luc6i-PZ3SRSV_x49Fvw&_nc_zt=28&oh=00_AfrPvN7IKZKLX_pPjHSP03kOc7v6Sz0of84WPDxVlk_lOg&oe=6981E61E"
+      ],
+      "landing_url": "https://gptkoreaclass.com/courses/gpt-ai-standard/"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-01-30T01:58:38.676339",
+      "page_name": "교육 페이지는 한국디지털컨버전스협회과(와) 함께합니다",
+      "ad_text": [
+        "교육 페이지는 한국디지털컨버전스협회과(와) 함께합니다",
+        "방송정보국제교육원에서 영상제작, 영상편집 분야 실무교육을 받고 취업해요!",
+        "취업준비생 여러분, 기초에서 심화까지 교육 및 취업 지원을 받으세요!"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/617384190_1371457158088708_5150183053500736242_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FewNrEy50I8Q7kNvwFE9OQF&_nc_oc=AdkzavLCLKMPZci03aFDiciu7aNERpf4oqyuDy0KpSvWFGYZHO9xYhfULVjLN5--g1c&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=g6luc6i-PZ3SRSV_x49Fvw&oh=00_Afo9jxVsFYeumTxU8Fm-8XVZhpIw5JoizmUNn0jbpMiB3A&oe=6981D59C"
+      ],
+      "landing_url": "https://forms.gle/Fg3k8PFMB4PD9hz78"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-01-30T01:58:38.732449",
+      "page_name": "서울디지털대학교",
+      "ad_text": [
+        "🔔 01.24(토)~ 서울디지털대학교 2026학년도 1학기 신·편입생 최종 모집 시작!",
+        "바쁜 일상 속 배우고 싶은 건 많은데,",
+        "학비 걱정, 시간 부족, 전공 고민..🤔"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/619318669_1456151679244871_5619458397765068189_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ghlNC4Hlo7oQ7kNvwF-Nh3n&_nc_oc=Adkie9Ft0PVa8lzWisaBVEfH2_RRPeE_DJBk4NJFpnybYNtk0_Dz7opCEBwcYCSoIbA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=g6luc6i-PZ3SRSV_x49Fvw&oh=00_Afpp8LNBlW7iPMd4vQw9GOGgFbhvzIWgiWS6ohJWIU1UrA&oe=6981DE4D",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/621199843_1409124580705906_3051797085428965814_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hgo6_SFh4HwQ7kNvwG_a0Ni&_nc_oc=AdncGb0PdZU9X8htHaiZnPCT6RZqJLoU4M_vHljlI117WVtViufcpu8PStmltL_KLIU&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=g6luc6i-PZ3SRSV_x49Fvw&oh=00_Afqy-l_J8F-ynHcFhI91YYKWO4hnZ3qS7sItMulM4U6awA&oe=6981F7AA",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/619554579_1446981557060451_693689872673983163_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L07nxyqRps0Q7kNvwHFDsne&_nc_oc=AdlY1Zd0ygKlqeZsO8SmCHW3KF7I1KHFzVi4wZCWNLdm7xQXUpx8uQXF-Sbu5CauGCw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=g6luc6i-PZ3SRSV_x49Fvw&oh=00_AfoTS3ezCEVVzUnM_I2-GxHGu-FUvrRUQkX0iVakJU0L-A&oe=6981DFF3",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/619241234_955562006996268_5736037287706302538_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-DiNvMrAoL8Q7kNvwGf06no&_nc_oc=AdkZohjpuyWRtHAq1Rfb_xY7Gq-ikk6pAqUNfa8MV5aXrE0qSWgORJtJAgTPjHh75cI&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=g6luc6i-PZ3SRSV_x49Fvw&oh=00_AfqU5DaIG4D5VUKn1_Pkys-HtkpkMT_tEm_O3uQknlJahw&oe=6981CA4E",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/619593211_1575428690233093_847153607941176782_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Wl1bfyPBn7YQ7kNvwESMrQq&_nc_oc=AdklY8T3tY-2EaGRBYOg_aZQWJ1pTSI-uoIHFgAc0rEqVnLM9unWR8nNK4ChaRzjgoA&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=g6luc6i-PZ3SRSV_x49Fvw&oh=00_Afqpw1UFQsLQu1Ww7za77BythEuVSMrIqGk6poQ_ZBcmhw&oe=6981F807",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/618795496_4018108988479094_3394221147262073482_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YUPJyhPCPLYQ7kNvwHe2cXI&_nc_oc=AdlZMuQev0qiyN7T_t3BjBbfYDgWlSywob7TVtmlcBUPqr6a1IuI2jq-pC6CSUqV7nU&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=g6luc6i-PZ3SRSV_x49Fvw&oh=00_AfpkIt25jOpHN9nUU7Q8lqbqLznXmdy8kEpd4wWl5t5l-Q&oe=6981DCD2",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/618664408_1249990340357979_6102351569328646229_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7mBxE_lcn3AQ7kNvwHZVYcq&_nc_oc=Adkq5nPL7z8hs5zy7mKHG5SfjiLBtQmJFB1LSCN-IRsP7TQedIfwwmSSzxLjfU-AVFI&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=g6luc6i-PZ3SRSV_x49Fvw&oh=00_Afr-gpf_Mk8yEkRCtJ7N8iTwidjPHf5w1KM1j1IpgTJjnw&oe=6981CFF2"
+      ],
+      "landing_url": "https://go.sdu.ac.kr/?utm_source=instagram&utm_medium=display&utm_campaign=mobrand260124&utm_content=IG_pro_26_101",
+      "permanent_image_url": "https://i.ibb.co/F4mWBmtp/0a77d116.jpg"
+    }
+  ]
+}
