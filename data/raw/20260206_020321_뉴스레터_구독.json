@@ -1,0 +1,204 @@
+{
+  "collected_at": "2026-02-06T02:03:21.080704",
+  "query": "뉴스레터 구독",
+  "count": 10,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-02-06T02:03:19.707319",
+      "page_name": "Learning Crew",
+      "ad_text": [
+        "글로벌 경영인사이트 & 직장인 자기계발팁",
+        "HTTPS://LEARNINGCREW.STIBEE.COM/"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/522000108_677903235281481_1168875256050692421_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Pl0-rlGVYY0Q7kNvwEIiKMh&_nc_oc=AdlWLRQmUwbRwt3y4bJTf7BB-5jxubLJ65IZCdDhuB3u5bfQne52g4geueVcmSia6bs&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_Afu9_5CWseQusSlzq1sOLQ8XrLFU1E5tn0ZCVMyptlyYmA&oe=698B0EB0"
+      ],
+      "landing_url": "https://learningcrew.stibee.com/",
+      "permanent_image_url": "https://i.ibb.co/v6cq64SL/Learning-Crew-b48aa142.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-02-06T02:03:19.759385",
+      "page_name": "CLAP.Official",
+      "ad_text": [
+        "여러분의 메일함으로 가장 빠르게 도착하는 HR 지식,",
+        "지금 구독하면 매주 실무에 바로 쓰이는 정보를 받아보실 수 있어요.",
+        "HR 전문가들이 먼저 구독하는 실무 중심 뉴스레터, 클랩에서 받아 보세요."
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/591914317_1623131332386628_224367831405106867_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0LMHGCyB_xsQ7kNvwHNj78f&_nc_oc=AdmcUNfGW7CDSJnNoNJSmu8_zbDK4QVusgjoCMmXgN7Et0Z-2SS6cgL_XCSlSlln158&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_Afvccc3KMruTW5d6u1-KZqHZN3PWtrQXcebtRF_SXTkvZg&oe=698B02D0"
+      ],
+      "landing_url": "http://fb.me/",
+      "permanent_image_url": "https://i.ibb.co/tpJBq505/CLAP-Official-97aa2bec.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-02-06T02:03:19.810740",
+      "page_name": "adu.aihub 페이지는 운세위키과(와) 함께합니다",
+      "ad_text": [
+        "adu.aihub 페이지는 운세위키과(와) 함께합니다",
+        "https://luckyloveme.com",
+        "⚡ [기간한정/강추] 2026년 신년운세 : 19,800원"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/589126847_1377054537156325_4920189790743967323_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dSaEDq1lkSIQ7kNvwH-m7Xh&_nc_oc=AdmZrPadag1P9TzDMyw5jUgJqs6SFM4BhpLfGx0_0YM0l62HYdpoROhQlfBKFFgfR_w&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfunpXBIInRZt-TuNvxMh8XxfEmmrHIpDUx3CwtpkUMJ6Q&oe=698B22F0",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/587336411_713044805179543_7107645535748048024_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c8weiDGWqKoQ7kNvwG7_vMe&_nc_oc=AdnSO59JADRHvEH5OUO8kLbZd9R5-gPC0QCjKUWb0Ce7fgOOWLpNB3ywPgKae77lQfg&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_Afv9B9bxnZlSpA61abQsEhrWr348dfaKKxrzXc0ZsA21zQ&oe=698B1EBD",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/587343437_690779614100941_3299698869105945831_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KsFkVWl6_wIQ7kNvwHHhcfQ&_nc_oc=AdmLHYP_37AuiD1MYa0h_Eg-5TC10UZSlaY2FFcSc9mfuQ6Z3lBgKcggmKcs35nA4JE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfuaJMK8vADcV94dAn44othPgH0PLDYh30UveikiPCtprw&oe=698B2B76",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/589097897_1329372738941152_3542643238567763290_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pVmxNRTH7kIQ7kNvwEnBs3P&_nc_oc=AdnbW3OazGfY3aOM83F2i5L2MZJZWCBV2GzQDh33FFOj2zmScuQ7tyH2tdarVgG5MRU&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfsboKutDu7VfxPKV60acVgZy9cChm9p4wb_qJk5lPp6bA&oe=698B06B7",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/589120179_1371281947780320_8491165867320674549_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S3O-avXUkWEQ7kNvwF31UD8&_nc_oc=Adl1r3Dxq5Vd6xNFfja4mZwhe-t5AYKatXHX0hd2G9jPN7iCtK10kSOEORmVKqAm7IU&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfskktgVfVvRPCHNcOkrAXXZtXkEICiNBazYzHXQrPkFPg&oe=698B20E0",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/588503818_1212944224032807_6635296829825700013_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ElPL9KdiEBEQ7kNvwHBojkv&_nc_oc=Admd1KT1yWYA-s1Mqswta3Nk7AUMqJ_handmuE8Kc6YjqT996jp7qzrWO8diq79WR0o&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfuKR4QLgqKK7cB7ZrkEjYnfwFZrI3tIPHS7mtMaBSAVPQ&oe=698B29BF",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/589078831_2036245800113239_3060566289706327061_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=l0u2W7pDSZYQ7kNvwFBJBJt&_nc_oc=AdkuY6xOaSBWUcQ1L0HasQWYpSNwpdGnhauZA-GjzTTUd8MbUop-raFqydsichNrJko&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_Afscz-XJxgaxAdi59Sh9Fr37vTn8LEGJOK7uqkK2kgeHkQ&oe=698B2627"
+      ],
+      "video_urls": [
+        "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQNX8dUndq-RTZm5YD0GCMkLXTpcL3AW2KmMn2UszYOW3-sP76BEOv3B2GIf0u165fjgUilTmQdA2iSh7p1afjSK.mp4?strext=1&_nc_cat=104&_nc_sid=8bf8fe&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=j61Q83i-5OEQ7kNvwEWrnas&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjoyNTM4MTEzMDMxNDkwNTA0NywiYXNzZXRfYWdlX2RheXMiOjc0LCJ2aV91c2VjYXNlX2lkIjoxMDE0NiwiZHVyYXRpb25fcyI6NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&_nc_zt=28&oh=00_AfvoCP2zO7ER-BRhiEX34w6rOfyGxspTlV44ShzsTCNCQg&oe=698B393A"
+      ],
+      "landing_url": "https://www.instagram.com/_u/adu.aihub",
+      "permanent_image_url": "https://i.ibb.co/B5zpgRb2/adu-aihub-e98b72ed.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-02-06T02:03:19.973583",
+      "page_name": "카멜리아 힐",
+      "ad_text": [
+        "카멜리아 힐 뉴스레터 <제주 화원> Vol.42",
+        "마흔 두번째 이야기에서는 영하의 추위를 견디는 동백의 강인한 생명력과 제주만의 독특한 겨울 풍습, 그리고 풍경을 소개합니다. 집에서 간단히 즐길 수 있는 허브티와 겨울 보습템까지 더해 겨울의 정취를 가득 담아 보냅니다.",
+        "(뉴스레터 구독방법은 하단에서 확인하세요 ^^)"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/622413597_1542925296783297_7620457209589825688_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c_pC1IVMNI8Q7kNvwEjBS73&_nc_oc=AdmNYZYWqfdnvp22YCyDlGfvhYTr8DBlSKcTfqBeVfbN-d2pib-6rIMV4WxbGZ0cf7Y&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfuMKk9MCxI_dYquXJzgw-ZSbzEb0-u7dSZPYPbsAE1_Yw&oe=698B2015",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/625134078_1183081067178501_6449235902478272025_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ekcKcCxJlBwQ7kNvwF4o-hX&_nc_oc=AdnsLBsFTKQHxkNfY3B8z1K1aBVA7rsvrJjlf_TxwedZvKHCKg4tb9CcZLVtqAj00CY&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfuoLlqmZa--LLpz8oH_dANWrqadhKGoKhFvMxooYzzYuQ&oe=698B1491",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/623412457_868145999366254_691181569986788057_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fZzZjpnbRDEQ7kNvwEp6L-7&_nc_oc=AdkjDqDI3P-jYQ8379DIjXemwRl4ByTFWk04T4k8dxKYQU0QRYboA6Hfkn-Z0VQWrBU&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AftBkmFv2lwVdAevPwOFH0Y4_hUcq9eConJnZbB_6zGZtQ&oe=698B0C55",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/615768449_1227626369500572_6853614457635178120_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ttYn2yx1SkUQ7kNvwFvB_KE&_nc_oc=AdnbFCTJKR5NhmIICKJzbz5aRz8iZSVxWgmP0ZgzgthZhxvanKGU7g8uV_KBuwVwAYY&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfuhEFeNfg1-xVmalQxpCi8VgOiYtl1HNMeeD94iKRkBsw&oe=698B2051",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/622396133_26070369422600144_9177477994394933865_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vlm3hIXTyTYQ7kNvwHq2A2B&_nc_oc=Adm88WmtxV-tvBJx-64ZCbF_K7RnkxJDYRUDsvAXWBZnEco69C6lAlpVBpO7TWoeBaQ&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_Afv_uZP0VV5GXYaHPLRt3KgPfoWz4djA0XHZtEf1KjwdOA&oe=698B09B8",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/622381687_870761525866143_6356940634372779949_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=z0u5MnJMlzQQ7kNvwEl7e_p&_nc_oc=AdnUB2XVwoBqwVJrQwCQMIDynx7_wvqmLJIQiF75BFRMFWGciXI3odW0e3dqlfS89pU&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_Aftk1DwhYGbNYQTBd729G2vaKxnJq7ewHiu294hzFegxhQ&oe=698B0971",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/621658381_4459597264272446_45797542256659154_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zoIkS9aQTGMQ7kNvwFKwPed&_nc_oc=AdnaGfSWW0_uzJ6aFuc_S5Td9HkXEC6MfweyvQjR4ekAFKQu-dUdNbyBXMkhLNv3K-A&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfsVTSkfuV8HN3ANUbBpiYmnmmDKibOMkDQqERQEMzLYNQ&oe=698B3445",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/623678039_1709269513379152_9012003726952528049_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Yp8FMt_vpsEQ7kNvwF4NIy0&_nc_oc=AdnSx13Yw3BlfKhbVOhGXteS2Z3o5X3n7UCfWn5CY8IEFjZW0lS3FYN8Wke3a1rgzi0&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfsRiIM3RFBOnfzwLmGmr6VEUkZxO1EEgrGPuOdnMWVqrQ&oe=698B2800",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/622128760_1457052812501976_8423530820960812208_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mMBs_AIFTMMQ7kNvwEVGL1J&_nc_oc=AdnG4VT38PJ7sxMQh96xCij-otf6GHLXX7-03ExpP0_BowcQEW0P3CqQANueZS0vGl4&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AftaCjn4255XwyKKy2c3R-Y5vCWYRTP7CgafFmLJ-wYuXw&oe=698B1BCF",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/622681027_2344998219335908_2651981818107004230_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jTVxbg-BRTQQ7kNvwH9M6oy&_nc_oc=AdmrwMBBIk59icvFjI2bxY7V8CM9fhjFqVz2IVccSTKisTiOJPFvRZnNsIswBWrD4KA&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_Afs8zvTPDN5El0pRhHFYZV5onFnLdSRZt_TiKjnffCPXRA&oe=698B2D8F"
+      ],
+      "landing_url": "http://instagram.com/camelliahilljeju",
+      "permanent_image_url": "https://i.ibb.co/XrJ3JND9/3184922b.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-02-06T02:03:20.166456",
+      "page_name": "영보스 매거진",
+      "ad_text": [
+        "매출은 오르지 않았고, 시간은 줄어갔다.",
+        "고객이 ‘자발적으로 찾아오게’ 만들어라.",
+        "ex) 인스타·뉴스레터·영상·자동 축적 루틴"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/572135869_2664099263938563_204447756053676784_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-kEZ4sS-edoQ7kNvwEf9flc&_nc_oc=AdktJ4dgm-MWVjPg3xoKwmLksc6-gu4kZcN1u3bhFPeuKeaoWEx8nZaOZbo-7B1NjJs&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_Afv8TpcWXDZgWFMCh23bwon5YPuxMOKjDx7dRCj01lm2Ew&oe=698B2F46",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/571241235_3522105477931084_5347125982839588638_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6V9hgs4JrM0Q7kNvwGnSb47&_nc_oc=AdmpUI5ZgJc9_YWQwoBRWdFS1HvEXOfmZGXeR5LjEMZvjLXLPFkI-yPtP2fZgqGaH2w&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_Afs7tfc4ormEo3kYQFg6u5LXQhOvxqKu1IPn5gGqquEgwA&oe=698B1CD0",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/571362816_1338572421093337_346688366585184516_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P3rJ3OxBkwYQ7kNvwErlx4h&_nc_oc=Adnb3rzmkWv2UJbShLhrWegaVm9VD_cjp-yvP-cb9g6poICdREzRLGq12P468vJdnIc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfsezbnuZ9CQGnhRqq2kOi5UrNrrsxoDxunTJQwDOB945g&oe=698B1E3E",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/571143874_2315601825622666_6211746668211549941_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=80_7RkS6BfwQ7kNvwHoyzad&_nc_oc=Adk_IKVdVwiaaN1NOdZf0eibrfBv44PeqVtK4KdkUt44gnUPOWInmP5fbLFlsSgoY2Q&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AftOVkTyDFqBvEx5z7SboB3LlWvFgMI-4-uUPulx6zDd5g&oe=698B3170",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/571351021_1726803291297214_6633643585231276438_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QojLgd3r8EQQ7kNvwEsWdph&_nc_oc=Adm-1UDReSeOjd_v6ndK-oogZvppNO-NYWGAG89reGlhOXVcLA5RrEwTpbKx2qh3HjM&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfuPbM_WWcrdsb7H_VModta1ffcwVmDNcSVTmYKQxbhUbg&oe=698B3923",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/559097490_845803065063330_2250525045435353972_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qcyF3f1Oa6UQ7kNvwGq0-Zp&_nc_oc=AdmOw9g9xhRQgfB0VRSKlBTESHbZdAnw32o_RG8_uHrTCNaclD1QJlQDDbjlty1p-jM&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfsAI4HZqRF0r4_u66ffJ37DJbtSMoHRQWlQ7uaDFPSaAg&oe=698B1760",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/572222757_1262549339233473_8018288257757285136_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=E_jtKwkh_x4Q7kNvwEhec-N&_nc_oc=AdkVBs_fJ_iOO6IDH82MeAHHTn_TN7OC81158JV7c-8sr_jB3Ny8WjksMoFkFJIYrXI&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_Afv5Q-x66h8QoJ69gnGX77xgdRw2MLI3W1hGUI8NWvQ5Qw&oe=698B2874",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/572056842_828696603235513_1542898713065926651_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4LXHKS2H_K0Q7kNvwHd8SyD&_nc_oc=Adnd0R5UHLWLb1k28sAxgM7edn80H7bz60rYyVRKWZmQmVkTdg6Ps2lwvwimaRfscFM&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_Afv-KxRNrEZ2uYMLB2MwP-Ff9SH3WELhpZLJfSQ4Pdxc6w&oe=698B0FC4",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/571427248_4175964355982749_8917915720209011318_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8GKwbS-IO_cQ7kNvwH1djdI&_nc_oc=AdlDysxWOzMncySGlhPac5Nj8jQYNpk_KxYugcUAiivUdgSLIo4a0v1ZJCD9kwg6nrk&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfvqPncodTqEYNQs6bOccv_93eMf2xZo7_Vhji_cgwhmlA&oe=698B3841"
+      ],
+      "landing_url": "http://instagram.com/youngboss.kr",
+      "permanent_image_url": "https://i.ibb.co/4n28mDjT/f0d78ff5.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-02-06T02:03:20.329327",
+      "page_name": "와우띵마켓 - WOWthing",
+      "ad_text": [
+        "🌎트렌디한 친환경 라이프를 위한 가이드라인, 와우ESG🌎",
+        "트렌디한 친환경 체험 제품의 모든 것, 와우띵마켓",
+        "트렌디한 친환경 체험 제품의 모든 것, 와우띵마켓"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/588947261_859130639904566_5438819180177115514_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RW8c64WvoCYQ7kNvwF8xcaw&_nc_oc=AdmMJowqgxLmSUo0ycQum3cXsByvboxk7UmUp-fCJiUF_IYgf1cyWpm0uBr-zsPaOn8&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfsUz7f4BNAhkt4RkgGNo3TPLk8o9LbdjzOyrn1qWGvglg&oe=698B1A54",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/589724642_2587641808285504_4199445996177702576_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DUeehaz0hFMQ7kNvwEAFVg0&_nc_oc=AdnH9Kb0LS0MZBVF8FlHhDDsDEjUNSuuIdaKEftreCCmXOslHDXM1LMSOw7_05tGiP4&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfvGynvXY2xlIJCe1SPViwFI-AMzaUVzaOnwI543bcXwjg&oe=698B1339",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/587228159_1347774766356960_6811103449718928520_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lmdPrr5r6bkQ7kNvwGoGXOV&_nc_oc=AdnqneDimG-AlmpgHjBGATZ4esE4b6YvB_dsNUK2g5xTU-1XR2IvZkg_kSH3ZsTMMXo&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfvZdrn9UfJ7AimLTT8w5JzF6_o6DJbkROSgI5xnLsquGg&oe=698B137E",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/589794891_844637877973844_5302640160190905667_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0NR228PTYXcQ7kNvwGiHxW0&_nc_oc=Adl3kdX13y5wme5pfzucK6Y4jU7gf4WP53ddkV6MoH5lyVy4pdx-kKsDekHufLGqVKA&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_Aft3C6j9BCtkDxMnoK7iID8wWbVw-NMEzKS-moWJgtHNeQ&oe=698B2DB7",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/587046773_2338442023272003_7673026209711222216_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kMZAMQEv8c8Q7kNvwHtreTA&_nc_oc=AdmHyml_sZCiCC2_OzrRUo2rM64t_la5Lm9xqqiYwUq3tqc2_wxKdELrrxfv6PJy00c&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfsZuIVydPyji1MZJr0aIeFZp8Khu81j-yKnhC65wFOvPQ&oe=698B1B73",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/588930220_1186902496726858_1103421513832394727_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8m088LoLBVUQ7kNvwG6nbmI&_nc_oc=AdnYlwMYLAEAig_-94ZdJ5msZnDiAQZuInOQUFqjyFRmmtIjvZB-iScxG8t2wqSEL6A&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfvE-e2Tu-x3ePcIMtJUsZeFGxOOZzDe8vpdRvW7GW2uqA&oe=698B0C1D",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/588418748_3332577383564223_3963649051330798087_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=b-uZaooGvgsQ7kNvwG9M88f&_nc_oc=AdlsfZOUEg11wtxFDdV8Kw7iL3Q_f6ZoOIsb-j204EpkM2oxmq5otkaYBjJaaIjHPqs&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfsnI-0tBSBAq-bNV1D-erFrZ468eevQR3Zoe06Y_IijDQ&oe=698B099D"
+      ],
+      "landing_url": "https://wowthing.stibee.com/?groupIds=461931&utm_source=adriel&utm_medium=cpc&utm_campaign=insta_251126_와우esg_캠페인_campaignid_91558_connect_id_376479",
+      "permanent_image_url": "https://i.ibb.co/p6q34Y5Y/WOWthing-229dc677.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-02-06T02:03:20.520618",
+      "page_name": "다산어린이",
+      "ad_text": "매달 알찬 도서와 이벤트 소식을 알려드리는",
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/626536110_1688396202372387_3572883626340024298_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tinErDUhWrcQ7kNvwGVON-7&_nc_oc=Adm59j6_Rb3rmTTm7zGd5LpEuVKJ1TGCe8SuMF906rDV840py6s5U57-bXCaQ7jfZ6k&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AftVCMN2tQudWuaOHmaF4q-Xg02qo7Oj-kOLni0CKl_MHQ&oe=698B1D04",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/624694613_2341810492964120_814759768516109995_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=F-3N6Jxp8usQ7kNvwHeqFX_&_nc_oc=AdnaKqJ7i0M7g9QE2F17_5ZXOoPmj1B1K9k_xogQiAPZDa-QHAGtfzuN5p6wS9JIuJk&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AftA5szz_FwFEOncneImJjo-zOY6wkbTYj5A-Mxtl3yF_w&oe=698B08B8",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/626815565_2297604297382781_6897807597630676224_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zuReN2vDExIQ7kNvwHbolsj&_nc_oc=AdlRvkopGc0-NDWcT1oKWq7NeIl2UF7jglcu7xzpW5N3hQkkaSyNXnb9yGMW2VGZw70&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfuhodAg9fi2Wvg06dEsFHEeYy_oWOeTlhvOYMlGfXO5lw&oe=698B12A3"
+      ],
+      "landing_url": "https://dasankids.stibee.com/",
+      "permanent_image_url": "https://i.ibb.co/g1f0hHL/0359e44c.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-02-06T02:03:20.619935",
+      "page_name": "woorischool_kids",
+      "ad_text": [
+        "🌸 「한 학기 한 권 읽기」 추천 도서 & 자료집 증정 이벤트 🌸",
+        "「한 학기 한 권 읽기」에 사용하기 좋은",
+        "추천 도서와 독서지도안을 묶은 자료집을"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/625299104_870581292621961_8291493374669606121_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=z60UYv8CguEQ7kNvwH2cm09&_nc_oc=AdnHWtRFogC_7yBmPHlMOMjAPC1RtHDsMtekRXY0iAlAreRrimOE6Vf3ql3cdvHRZrc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfuF2U27CqQtqWdAcWWdKti8VnfM56YKKdncFB_LS8jfsg&oe=698B3197",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/628465954_1223072460010312_9015606097442858239_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RPUzgFgOUi4Q7kNvwFvpChf&_nc_oc=AdmuntMCxpXiu_BkMp-s72RPdSURuoRv-YfICIhwr5Yob2bxfEFcsyMAYSf05up1ce8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_Afv8ZqMPNtXz1GP6jAUmH6uwXYSrQoIDvw9JlyujaEGWyw&oe=698B218A",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/625003832_2312095702550217_3426837618240327900_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fcivj54-h_oQ7kNvwEks9cn&_nc_oc=AdnYceE7XrJxOkUmoVz8Al6bi7M8LIOcw5K4dgll7u_UYQ8ovx2n0PA1D7XTd52hnCE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_Afv2Gq7bCky2eFrt8IHJWxDxRUcPnN1tAi08_5YfOpMCdQ&oe=698B2849",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/624543823_909484641654180_6386628055105773619_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FjTSoDLMQIMQ7kNvwEKBP8E&_nc_oc=Adnuo0-gc3KoGyj3csSQVO_A5jMmmk1vR2VV3Ew7pzvKp47ez54wfQgt0yuXTae_jJE&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AftM0yxhTYTrlyWaVWLjUJLRdNdp1JSzgyZT25Gtiy5_mQ&oe=698B1EF4",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/628464417_25832361866431089_6821056082751566406_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NCDK-KC_cnYQ7kNvwFo_Xiw&_nc_oc=Adl0LoN7Zo55l59lVYdO_vEc1Gz0bmrg_4da0PqwAPH0HOIAbmXIT9XSDd6LyMv9VI8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AftrLJ909j63qN2scUJA9-y-bPD2ubMNgrv8xpmn8a8TVA&oe=698B3868",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/627661671_1226630582155516_1642602867668803308_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zJz9nXurWHgQ7kNvwE73lXD&_nc_oc=AdkHMiGL6msGgeBBBHcobTv4eiC4SlOTWJIoOtZfetgIp_cn1RbFoWtROZBCfZ_z5Ys&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_Afu98--hs9DvRkpr1NjGCj7ulqd2LCjca2_D4mYCu_Qqkw&oe=698B1CF7",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/624604215_743553545166368_1850069404168989526_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GmfQ966w5MoQ7kNvwHwt2Ss&_nc_oc=AdkwXB_hIY0ZbUbWIi7P7HSZnp6zBDZFT_893f-rtASim_FQenqbOVfs-HNrGoczxBU&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfufCe7eyTNcXNL1wRue-byh8jQpUvgEjinsOyitpYl5_Q&oe=698B0572",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/625057230_2758171174550489_8347871026242882384_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=W3eBmJpDfTwQ7kNvwGrJjqh&_nc_oc=AdmWHbwXE1CixCczS7euyHyJUlP6nY2eYwogpeTgBlgOB6-kskqar-Zp0_osvGvPAAE&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_Aftmif9uVIsL9xCjotHv-J6LRdo8TEQSRpcMoQFfERDAow&oe=698B180D"
+      ],
+      "landing_url": "http://instagram.com/woorischool_kids",
+      "permanent_image_url": "https://i.ibb.co/60JzL8LC/woorischool-kids-96ff8534.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-02-06T02:03:20.780095",
+      "page_name": "sophie_sentences",
+      "ad_text": [
+        "2026년 2월/27기 생각확장 글쓰기 클럽 참여자 모집",
+        "\"받아들이자, 상황을 환경을 그리고 나 자신을",
+        "받아들임에 필요한 것은 들숨과 날숨이다. \""
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/627050537_2115409225886125_2267596002705500781_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zxZyIqWRjfoQ7kNvwHwayJx&_nc_oc=AdnOIeRzE3ipJ_43wBQXE30yL4pQHQ8CAs8_a9-8JRGvmmLqrJIDmyZquDykF6mQ-nE&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_Afv_PGiwl0ad3ia7eexU5zArZUXNsvJW0LNtiiw_rnMYIg&oe=698B29FE",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/629354643_891632266796190_3327935878284604718_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C6F_sA1UNewQ7kNvwEClq7f&_nc_oc=Adl2hzV4kORHzbPilwTKtY6byXbNMW05sQEqm8YCvDDYH8-iDjhSC8FMjU_Y4jGTCVE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfuL46gOV89zfIDZo-_f7J-IewyeZesMUVikO7UvfNnJsw&oe=698B117C",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/627077962_1431471285158207_8401695401535011536_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=geISbuMJ37UQ7kNvwHtN0bC&_nc_oc=AdmxQbjQHz5QuhFAkUCw_VD5nCsdCt_4P965j2Kpp7N2Nqlg4423BqzzXhgMmzFm2CQ&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_Aftr0RZAiwUVB7Y4uuAAkzRjW4L4PLC7ii7AC9lGpfDZ9g&oe=698B37AE",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/626928339_2340172453077459_4934101990313378532_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=T8rfN5yr5k8Q7kNvwF3eMBr&_nc_oc=Adko5lYInhuIxeifgsbjIi7_j27l9knhP1mMT5Bnvb6STcU1XVLwcoQ1O7OJi_LtH0E&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AftnBSipP1P2hlB19mFznlbBpaITWGWypHuCATMaALWj-Q&oe=698B399C",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/627160081_2399089630563814_1274115452416050210_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JYE70AlYOnsQ7kNvwHp9vrT&_nc_oc=AdnsY4ptLvzcGc1PzcexAUofIbhzv_CGBQqSvgA40emH2wcQQ0KUNjixHYdrPO1KL3o&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfsO-zvpR8bq8xZ8LhXpSRjgYebnjVJbYL1HeBjbhzZCNg&oe=698B25FB",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/627205551_4138266396386989_3976542568791066662_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oR2vRUkhnIEQ7kNvwG__mKP&_nc_oc=AdmeXQeK3TfnAQ7sER9pU-95DpvK6TUXGkcK-Q3NXn8Yy0DT5c7Ekpe5pdvHW_yk3Ps&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AftqjN1nb-I3UuuRK0KGNE5HXwzmpo-mg9opKnvl1jndLg&oe=698B2F4C"
+      ],
+      "landing_url": "https://www.instagram.com/_u/sophie_sentences",
+      "permanent_image_url": "https://i.ibb.co/qYsJXxkV/sophie-sentences-9d5b23fe.jpg"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-02-06T02:03:20.906035",
+      "page_name": "calmstherapy_professional",
+      "ad_text": [
+        "calmstherapy_professional",
+        "캄스테라피가 생각하는 헤드스파와 뷰티는 단순히 ‘깨끗하게 관리하는 것’에서 끝나지 않습니다.",
+        "그리고 그 답은 언제나 ‘두피를 만지는 손이 먼저 건강해야 한다’는 결론으로 돌아왔습니다."
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/627643901_782274164897292_6650403811273447316_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vIqag1CAzhcQ7kNvwFRl5_P&_nc_oc=AdlKxBmhpdO_Ab1QZ5Bp7Kcoa11aL6uYujPKKZ2FgkTR1oBBQll4_k5u9icPuQNnOL8&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfuuIyKqTJL0wVuEArrzgNhxTaPtxk27dhYO3mXCxIRr9g&oe=698B2EDA",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/627565855_4269747823290243_4313103685719965430_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=O47N7MfVnZsQ7kNvwG7ctcX&_nc_oc=AdnsWyRcd8gva1a9bOT2zpgE1d83d75msdVCTcfuU3QHhZhC_0f43C6enMeCt4_vHIs&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfsBPgeP0gf8HNPAdGeRHIvwntJVq4HsZ_mRMTgqMVQ0Sg&oe=698B208C",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/627413942_1428907628930246_3905747442566304650_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4sxzjnGMEDUQ7kNvwGRlQ7t&_nc_oc=AdmBPr_H5irYkxpdq6d7JLq6VKdP5lMviZiy-cfymLs7m3vajgYPoW_asWR9W0b_alQ&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_Afv1fQaITtF5ZZ2bjTvKYvg6Ri2WwsxRC0BaOG0MHWzTsA&oe=698B2D33",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/627499750_1974440400145470_2211521480148338962_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cNKpAh4bbVoQ7kNvwFsEIRO&_nc_oc=AdnQmqnYWZm9zCiL_SMwjo2WPOb8rl-v0hiKc1R7sPrc96rrdScUgJuflMEaOFY5K3U&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfsMaacZ4Meam7L-Ai-edPHd_AvTtm6EonYwUAVrL3Zgdw&oe=698B1988",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/627163815_1882522892404563_5136434144898246149_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7Ai5WqYIwKcQ7kNvwH0ERQb&_nc_oc=Adl8nArihsisgAbcRMFnRvWS0uO8U6JLjTbvhU3Vo9d4u48Xo3iI-TMJ-ZPo7VI4xg0&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfvsLh3p1veKq7zTin1IXUBkOMqXhp92HLfM75nSAe26bg&oe=698B1AFD",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/626870404_888892370560137_1057448363294975990_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cGZy-M2eC1cQ7kNvwH4hhEK&_nc_oc=AdmjelmeFISI7TZLUV-NEGavf_pfO1pwPdYpbd61Q4QYD5rjUo9qCS6EAQuxFH777uA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ydUsXBF4a3RJ8Oz5P8aXCQ&oh=00_AfvgXfKPYIAaafwJgoyF22ro5cAr-g4kfPQDthfDxAYp7A&oe=698B2C06"
+      ],
+      "landing_url": "https://www.instagram.com/_u/calmstherapy_professional",
+      "permanent_image_url": "https://i.ibb.co/4wjbzp48/calmstherapy-profess-d9fdea9a.jpg"
+    }
+  ]
+}
