@@ -1,0 +1,268 @@
+{
+  "collected_at": "2026-02-09T02:35:41.634447",
+  "query": "ETF",
+  "count": 16,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-02-09T02:35:40.294993",
+      "page_name": "직장인의 모든것",
+      "ad_text": [
+        "회사 다녀도 내가 가난했던 그 이유...",
+        "챌린지 1기 등록하고 월급쟁이 부자되자!",
+        "20대 20억 자산가 🐰래빗해빛 튜터🍀와"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/600922857_2096156927793411_1969847858612294871_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9OvPVJk0yUcQ7kNvwHGuWff&_nc_oc=Adkqa5eLGLtJWmyFH1pm_mAaySxJoGFzt3kvsivuEfWq8y30HD5ZnkNxGsKxSNtJ8i8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_Afs-hWcvKrY9AV_wcRP-U4mFv3sUUPhiYPjHX0l9zjMx9g&oe=698F10C9"
+      ],
+      "landing_url": "https://taling.me/mkt/rabbit_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=rabbit_purchase&utm_content=재밌게1억&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/1fzbtQS6/8e6126ca.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-02-09T02:35:40.356051",
+      "page_name": "미래에셋자산운용",
+      "ad_text": [
+        "TIGER 차이나증권 ETF 놓치지 마세요!",
+        "#중국ETF #중국투자 #차이나증권 #중국ETF #중국정부 #수혜주 #정부정책",
+        "#ETF #ETF투자 #TIGER #TIGERETF #타이거ETF #미래에셋자산운용"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/626727799_1417391389997591_2460896294474051839_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lvfQQhTebgcQ7kNvwGy_EOK&_nc_oc=Adl-9oqPjHC0TodsUxmSbigxdstp1h_4sjrjQh4CGSEV3ejPWjqDg36Mb27747mtkF0&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfsWaJoRlRWBigl6J0RraRRRPfKY_0GfnyY05yc1PyCTVQ&oe=698F2E99"
+      ],
+      "landing_url": "https://investments.miraeasset.com/tigeretf/ko/insight/hot-etf-introduce/view.do?listCnt=8&pageIndex=1&detailsKey=635&q=",
+      "permanent_image_url": "https://i.ibb.co/606HJMRK/f17e534d.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-02-09T02:35:40.408823",
+      "page_name": "퇴근할래",
+      "ad_text": [
+        "오직 월급만으로 20대에 20억 만든 래빗해빛과",
+        "‘60일 월급테크 챌린지’ 함께해요! 🐰 💪",
+        "매일 딱 한 번, 재테크 미션을 수행하면"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/599004321_3075030999351058_6284044378428700054_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9XzEppq811MQ7kNvwF3_4eA&_nc_oc=AdmJgUdRp0JRTcSLsi4yvPAKqAf1aPXrB_u9jOLbvxP1PdppHDX6-A4FHoNNIrA8MvE&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_Afs57tMxGaLePSzLgrYlnsBWicSZNhPNeSk-BoalJcuJ4w&oe=698F1FB1"
+      ],
+      "landing_url": "https://taling.me/mkt/rabbit_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=rabbit_purchase&utm_content=래빗해빛루틴&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/Jwm9rhFV/cd32a494.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-02-09T02:35:40.463779",
+      "page_name": "미래에셋자산운용",
+      "ad_text": [
+        "TIGER 차이나증권 ETF 놓치지 마세요!",
+        "#중국ETF #중국투자 #차이나증권 #중국ETF #중국정부 #수혜주 #정부정책",
+        "#ETF #ETF투자 #TIGER #TIGERETF #타이거ETF #미래에셋자산운용"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/627369111_4374503932870741_198326355617063624_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=juCrpsiBldsQ7kNvwEXT0Q0&_nc_oc=AdnyZ3CTLdx824wmFE7GzkzV2l04nJV6Ah7VewrvrepoIsXXBZgAYHZ6fpHYpf4CUSQ&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfsikqeAWI_Q2tmIr5ikTBEVhHcZDHGBof548ODoZhqOig&oe=698F31F1"
+      ],
+      "landing_url": "https://investments.miraeasset.com/tigeretf/ko/insight/hot-etf-introduce/view.do?listCnt=8&pageIndex=1&detailsKey=635&q="
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-02-09T02:35:40.518753",
+      "page_name": "재테크는스크루지",
+      "ad_text": [
+        "스크루지가 직접 알려주는 재테크 솔루션💪",
+        "20만원 상당 재테크 템플릿 무료 제공!"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/548210534_1475318613512864_6455853012658869933_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iz4PJmMLdGgQ7kNvwEvyDka&_nc_oc=Admh_N4FWV8SoqginM_Qc087L0uB3xQpbieOgXVxi0dv_NehDPrjnoHyBXBTDHeZxqA&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfvaWRs9YMnLdbaaUNvabpfCmM3nv9kNahcmHRwgYimgsw&oe=698F2DE2"
+      ],
+      "landing_url": "https://taling.me/mkt/skluzy_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=skluzy_purchase&utm_content=스크루지루틴&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/RkxXR2Qp/df33210c.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-02-09T02:35:40.572200",
+      "page_name": "모햇",
+      "ad_text": [
+        "4060을 위한 재테크, 지금 바로 확인해보세요",
+        "HTTPS://MOHAET.COM/INVESTS?UTM_SOURCE=FB_MONTH&UTM_MEDIUM=0418_CONV_OTHERTARGET&UTM_CAMPAIGN="
+      ],
+      "video_urls": [
+        "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOZTe8elXHMf9pkxpmZ8wVYkOC9UFJo7yq_8A8znx5hJhePaOmp1IM2PNiqqqXM5dCZOKI_K1-gil1lniXcHnRvQXQXNPrjSi3_dJCBVw.mp4?_nc_cat=103&_nc_sid=8bf8fe&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=fhvw8xqJ6v4Q7kNvwFy7Mwk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTA2ODgzNjg4NDk2MzQ3MSwiYXNzZXRfYWdlX2RheXMiOjE4NiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQwLCJ3YXRjaF90aW1lX3MiOjY4NDk2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&_nc_zt=28&oh=00_Afuksk5G-ss8JJ9hF7qHPOkSwsp3bQGl-TJSL1Gidu5BtQ&oe=698F10D3"
+      ],
+      "landing_url": "https://mohaet.com/invests?utm_source=fb_month&utm_medium=0418_conv_othertarget&utm_campaign=plus_250806_3_5"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-02-09T02:35:40.621196",
+      "page_name": "Firstrade",
+      "ad_text": [
+        "转移部分或全部资产到Firstrade皆可享有最高$250转户补贴！美股交易无手续费、无期权合约费。立即加入Firstrade，将美股投资产品一网打尽。",
+        "限时优惠：转户到Firstrade，最高可获得$250美金补贴！",
+        "加入Firstrade，享受无期权合约费、网上交易（包括股票，ETF和共同基金）无佣金，还可投资债券与CD。无账户闲置费或维护费！"
+      ],
+      "video_urls": [
+        "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPtG2Mb6oErtXaMuOIk8jvbAwHbf9xsh7JHF3ZsiLlWnkmPF1m2ebUshVB-hsdPibvp8lfTTQHIG87PbzbSyaM.mp4?_nc_cat=103&_nc_sid=8bf8fe&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=EKSptx7QLM4Q7kNvwHU_DHX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjE3Njc2NzY3NjA0MTc5LCJhc3NldF9hZ2VfZGF5cyI6MTA0OCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjgsIndhdGNoX3RpbWVfcyI6NzM0OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&_nc_zt=28&oh=00_AftVwQyik3z7ycb7E-esU-a_BuRh62r7DZvoF8HnvIF24w&oe=698F30EF"
+      ],
+      "landing_url": "https://promo.firstrade.com/zh-cn/intl/xfer250?utm_source=paidsocialch&utm_medium=facebook&utm_campaign={{campaign.name}}&utm_content=xfer250cn"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-02-09T02:35:40.669373",
+      "page_name": "KB증권",
+      "ad_text": [
+        "KB증권 2026 연금저축 새해맞이 페-스타",
+        "지금 KB증권 연금저축 이벤트에 참여하면",
+        "최대 200만원 신세계상품권을 드립니다!"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/626963188_1448933893459915_5651629885631627886_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nd_fHQzGVpoQ7kNvwF8y6m5&_nc_oc=AdmFGnSqRvhGsSoxpLLvKbXWfBImTujyOgKQPCLyYBRjufmBkFc1kRswBYLRCRFYWqs&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfvLzJgaOCsY-ojOR3Zv7i0QtElYmCcOpdGXFoQFbgb_uA&oe=698F2F1C"
+      ],
+      "landing_url": "https://m-able.app/k16vne",
+      "permanent_image_url": "https://i.ibb.co/DgwXJvf6/KB-df185d37.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-02-09T02:35:40.716939",
+      "page_name": "1E1A",
+      "ad_text": [
+        "매일 카톡으로 경제 뉴스를 보내드릴게요!",
+        "경제 용어와 알기 쉬운 예시로 쉽게 이해하는 매일 하나의 주요 경제 뉴스",
+        "💬 언젠가로 미뤄둔 다짐을 오늘의 실천으로,"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/619061843_2388501794918215_2599548515014047853_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bG0Mdekz7M4Q7kNvwHLrwbF&_nc_oc=Adk-jx5xds0pPmFc6h97-jfiPR8Gc_kInPfPAPphiJfSt8xwoqCgcWxNrMd2yYIDtDg&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfszOizSiL-5Sbiv27dv3Y3fhCQXZJjB_EYLgnZ81coQYg&oe=698F1D7E"
+      ],
+      "landing_url": "https://1day1message.com/shop_view/?idx=20",
+      "permanent_image_url": "https://i.ibb.co/9mGnjXnk/1-E1-A-ecea67e0.jpg"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-02-09T02:35:40.755730",
+      "page_name": "Kodex ETF",
+      "ad_text": [
+        "주주환원 정책 수혜 기대를 정조준한 진짜 고배당주 등장!",
+        "✨KODEX 주주환원고배당주 ETF ✨",
+        "오늘 상장한 ETF를 댓글로 응원해주세요☺️"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/616682622_881074244332031_7416744635009380529_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3zCnyiW1-VMQ7kNvwGIIx4l&_nc_oc=Adn1-YrchTrajchhGrD0dMpdD3CjiYH4x9QXV2bPSUcZYlmy6tNl0EDws3tBcJYPC0M&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_Afs0RloYKsFKPKC21JXE336B9K_XVQBBNrdh4c6z648cVQ&oe=698F2B04",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/616805807_895310306416259_5823472405578984170_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gbxx4SZQ8YQQ7kNvwH0_InT&_nc_oc=AdmFyH0tqdWK9p479DOqUU4lz-Su9K-UBBSxukOwcWoYb-qkdPaAQV8cXosnHTaebJI&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_Afvus7witZrZbfFYwydAvEz6citecemPPSNtt5EMsP5tVw&oe=698F2CCB"
+      ],
+      "landing_url": "https://www.samsungfund.com/etf/product/view.do?id=2ETFT8&utm_medium=social_da&utm_source=meta&utm_campaign=_d2&utm_content=0153K0_event_meta1",
+      "permanent_image_url": "https://i.ibb.co/b5pCbD31/Kodex-ETF-0519349c.jpg"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-02-09T02:35:40.823017",
+      "page_name": "Kodex ETF",
+      "ad_text": [
+        "🔊여의도 금융권 김부장이 송과장에게 주는 정보",
+        "2차 전지에 주목! 오랜 기다림 끝에 알을 깨고 나왔다⚡",
+        "✨KODEX 2차전지산업레버리지 ETF✨"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/626353589_1440496947482619_6712022628049070432_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C1TMrAh3QLwQ7kNvwHDrvOj&_nc_oc=AdlI0CDO24eOyCgCCSgRWXM45D3rmqcQK0E8YezmZzGPsUomsVIpyy98gntR_sb7O9M&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfuNNcPFH34s08FwkfsW90ofd8m-2PkFyfvmJzx1TdXFSQ&oe=698F1301",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/626686996_1447733426721309_4321320522174123784_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YHVGRqUpicYQ7kNvwH-pWh5&_nc_oc=AdkuzvqkniIQNUuXlkRWbyQeVsAwm_xNqHOMcSDWMllzIVZBldnqbs_3CnweyZcr704&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfuVJCYDy_e3kCb8gZ0E-tAYfMXceVGFBvvteqr2phaP1Q&oe=698F1ADC"
+      ],
+      "landing_url": "https://www.samsungfund.com/etf/product/view.do?id=2ETFB1&utm_medium=social_da&utm_source=meta&utm_campaign=_d2&utm_content=secondary_battery_1",
+      "permanent_image_url": "https://i.ibb.co/fz3nwbVG/Kodex-ETF-9d8b73c5.jpg"
+    },
+    {
+      "index": 11,
+      "collected_at": "2026-02-09T02:35:40.891932",
+      "page_name": "Kodex ETF",
+      "ad_text": [
+        "🏆 1월 5주차 KODEX 개인순매수 & 월배당 ETF TOP5 순위 도착!",
+        "최근 가장 많이 선택한 KODEX ETF를 확인해보세요! 👀",
+        "· KODEX 코스닥150 ETF | 합성총보수 연 0.2826% (운용 : 0.209%, 판매 : 0.001%, 신탁 : 0.02%, 사무 : 0.02%, 기타비용 : 0.0326%) | 위험등급 1등급 (매우 높은 위험) | 직전회계연도 기준 증권거래비용 0.0449% 발생"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/627144519_1579377526641663_5613744027308222421_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SCUcXpS4YMYQ7kNvwFyGu0S&_nc_oc=Adm_tir5DbCBI5e9n2MiK6JQC65Az17UoyR39Cyy7-hTZew_Y0p86RgmZn8rdeqmYzE&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfvPq2kxKMkEiiWyEMm2cmnqwDLQgEWaxsstT5uhW8dS1Q&oe=698F223D",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/626843820_1382250193094252_9187493566958864956_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DFhCJvnQsY4Q7kNvwEad5hv&_nc_oc=Admdb5ow1ySUgrKXoUypi1ysSru0G5v1CyBhCjifspu2-zdoWH4GqHrQylHLiqHeZZQ&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_Aft8fJnmlb6jchqWVQcs8YReSWj7C4ec58IUaoa6HRsCsw&oe=698F0791"
+      ],
+      "landing_url": "https://www.samsungfund.com/etf/product/list.do?utm_medium=social_da&utm_source=meta&utm_campaign=_d2&utm_content=15ETF_TOP5_1",
+      "permanent_image_url": "https://i.ibb.co/zhsHp8Wc/Kodex-ETF-bf04e4de.jpg"
+    },
+    {
+      "index": 12,
+      "collected_at": "2026-02-09T02:35:40.963160",
+      "page_name": "Kodex ETF",
+      "ad_text": [
+        "연금 포트폴리오에 한 번 더 균형을 더할 때",
+        "✨국장의 기본, KODEX 200 ETF✨",
+        "이제는 연금투자의 기본, KODEX 200 ETF 💙"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/626104106_1562296058313980_5070246676958831030_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N52t8oYUHwcQ7kNvwHCfOkM&_nc_oc=AdmJesZLmIrMzm0piYIDC8vnxwkqu2VxWY2dOW3rncFHf1maej3wNLtwt4nLlV04u0s&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_Aft4zheme1j17ybX60s3pySpeT3T4Co80xFst1JpdXCVGw&oe=698F0D41",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/627774775_1218671003148997_7523387848849569352_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=i5s7iPNElA0Q7kNvwFeAPse&_nc_oc=AdnHMcEl0uXY57CHvxmco-f_hMlOQL-pVPCwKSdTkckEcG8M1Wb-7f2KZ3bEZg-tVBE&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfshMtXUQd0ksxmBVbwfPmXsI6854zHo-67w9Z54OBKF_w&oe=698F1CF2"
+      ],
+      "landing_url": "https://www.samsungfund.com/etf/product/view.do?id=2ETF01&utm_medium=social_da&utm_source=meta&utm_campaign=_d2&utm_content=basic1_069500_1",
+      "permanent_image_url": "https://i.ibb.co/Tx9wYbjp/Kodex-ETF-470a71cd.jpg"
+    },
+    {
+      "index": 13,
+      "collected_at": "2026-02-09T02:35:41.034513",
+      "page_name": "money__moni__",
+      "ad_text": [
+        "지난 에피소드에서 ETF가 종합선물세트라고 설명했는데요,",
+        "(조금 더 자세한 내용이 궁금하면 저번화를 참고해주세요!)",
+        "-펀드처럼 여러 자산을 담았지만 주식처럼 실시간 거래가 가능"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/609068230_2100008150750515_7148219853106564487_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-j-kFPOG9j8Q7kNvwEKOcy9&_nc_oc=AdnDcoxpqpxWQ3tq39pzN-chUTr5e0_JdkMhf6jvrIEIgMo_pJU082FgxT1uGD5PrJk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_Afv4AD2v93Kea2lPY8fSgpKtDIYUeN7Nq43Td-Cud-xJMw&oe=698F35F9",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/608972096_890394386700304_2686436812390608850_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=E1qyqVtatrQQ7kNvwEjRSmE&_nc_oc=AdknytO9el3rIP-jcQqsrwilahayiGTjU0ltZiHXPnxUph3gYZEdlheDkFntPDdboRU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfssDgiZffX5ENznB7ORyXdNJuqE3H20ehJNuOgvYZmD9w&oe=698F0539",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/607117068_2124211621715402_3838679481941332618_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XsrbD6VsnKQQ7kNvwE7uy8t&_nc_oc=AdkzoHsJhmfKWQO2_MRbLeUmnipP8npB09i3QzU5zn4RwNV31ecPmqyk04mU0RraNPU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfsCXsxAdLduFQZ_lEjWnz8z-gSkXTR94wTxJznnxT2V7w&oe=698F0524",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/608158796_891171436899977_5884389708649208348_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Y9MGZd8oVSsQ7kNvwHaEOuy&_nc_oc=AdmqcWqo7Cl4DvwHD0cDdmp3TmBC-OAgbqTsbjVI6IsmRSNlBbNUyY-tN2zrY2EpNCc&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfvVCyiZGKpOTQz5RLbefF-NOjTDahyvzfBwGwm-aW8t2g&oe=698F0F2F",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/605972754_849102724781779_1465822290159839462_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iOrnxPTuGH8Q7kNvwGnDVbH&_nc_oc=AdnqYAttz6Fl7aZVyJNdwPeN5V9EbsIjSZ4t1RAbGs8IAq0yg4kjysdY1OHRS3x6QcI&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_Afv9hQZ-KN-o_FQkm1EEdj0lfH2LrdSdw7n-QHQiHpeHig&oe=698F0C4C",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/607093990_850393171300228_1576817418686770607_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=68JK9aE8x4MQ7kNvwGKFiGi&_nc_oc=AdmdLmuNKr4waH06ETZUJ4xruts_9Kb9Hj8AXBCyntG2iJANzYEHNoNHF026stPAQaQ&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_Afsm0sqoVcEgHhQafd7h3N0orBMj4ZqSnZKxes77xW___w&oe=698F12F4",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/607501705_2275944516144444_2676761968387280153_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xU8E3i7VSC4Q7kNvwGGG8eF&_nc_oc=AdkjYo1c5e8ZpCi_0ZKpxVRliKL_HjD0uFmEmrcawhxIuKdj63si6Z8i1sw_sK6BQ3I&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_Afvex55gLvkbbPCWSdioGJz9Y_nrxe-ASVP1Z-cIxCj0-A&oe=698F2A3A",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/607455059_1360676792477936_3379549382852700609_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zDgR_tJrp2kQ7kNvwGb1T0g&_nc_oc=AdnJz9xx_hhPLlN6RIjUhBiEI7zkC2zpxBGDXwt0U_90rpA23maNI1l456tRwcOkkLM&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfuzHFNSiBc-5AHn3JDMUT34JS5cmetcDHH-Ul0r6u4xVQ&oe=698F1354",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/611147411_1583296196345609_9195191775965548010_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0Cm0nLynbR8Q7kNvwGVjGAl&_nc_oc=AdnTQcbTFscAVS2rMIl0BX1axk1ygAUaRE3WrZklQo3fwFm9UH66nlVTjhNex-9lG-w&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfsHaq9BUJG1ZTjaDZxFc9mzZTgPLkQnDtD7xrLa3w9Ccw&oe=698F1E92",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/605782372_851349907634449_7583920334202349821_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LnFa-4eYaRoQ7kNvwFJvwkN&_nc_oc=AdkkpoIEZDNV_nz_i_aGhLlFzU5y5y16Tpho3EFeBtkuA0TBsb0Y95GTd12dZXW3CWA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfuBscKEWfHK4ByyTqb2brjVZrBYXmPj7vQIG8EQl7vEGw&oe=698F3082"
+      ],
+      "landing_url": "https://www.instagram.com/_u/money__moni__",
+      "permanent_image_url": "https://i.ibb.co/N6zHtXq4/money-moni-7cf76840.jpg"
+    },
+    {
+      "index": 14,
+      "collected_at": "2026-02-09T02:35:41.252241",
+      "page_name": "Kodex ETF",
+      "ad_text": [
+        "#ETF랭킹 1월 월배당 ETF TOP5",
+        "🏆 1월, 가장 많이 선택 받은 삼성 KODEX 월배당 ETF는?",
+        "계획적인 수익을 추구하는 투자자들이 지금 이 ETF를 담았습니다!"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/629075501_2779776499025647_8143820563908898243_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=V8Nsmy6Z1bIQ7kNvwGzlA8K&_nc_oc=AdkWDxHQN1K5rNhgKiNWbdvks3rPC1FnZuX2t-ZFZ2HzJ9npjlsLQZvsz8UZNz_yCSE&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AftyotIOMNnalEMMO-QL54mofCuTG5Ijn3ZzvlKSEiNgJQ&oe=698F3689",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/625727564_1256380513209187_3974488877534688718_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2NqfNJbR4HoQ7kNvwEKJyiL&_nc_oc=AdmGOJKS4iftpWbrbyM1QdpkeA247UiXmO9z5mQE042eOUhho5DNj9Q20UHsBUN3KFs&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfskTTurpeldIoiKdqUbS_rG1Gb5TAQ9VwXZJK2wMWUU-A&oe=698F1441",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/629272435_1595030081743741_7295237102499677278_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RrPvS1qPi_EQ7kNvwEyszCD&_nc_oc=AdmB02l6_6orAS4NjaPAVcUd-Tl3HDl1BvGFk6imBUIxzl49U9yaCFYdL-OSVEn5Wzo&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AftHy4k3I-l-6tmdF7pIaTbHFQ2SfcbLgpPRQe-Wo9dWRQ&oe=698F2263",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/627846275_866033519554145_5643993554778196999_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GktmgLKYj5cQ7kNvwGbCNRW&_nc_oc=AdnLgfjuX5ddsC4EiB5So0a2FyCSzbqMHcl8qJchRP7Dh_C5XAN1-kxNR6Z4A8QbEYo&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfvnVp4Fe0sAaj25c9UeT9YsagLWmV1gnpLg-DMq1ImR0Q&oe=698F2213"
+      ],
+      "landing_url": "https://blog.naver.com/samsungfund/224171174629?utm_medium=social_da&utm_source=meta&utm_campaign=_d2&utm_content=1MonthlDividend_TOP5_META_1",
+      "permanent_image_url": "https://i.ibb.co/ymgBBPsS/Kodex-ETF-72016891.jpg"
+    },
+    {
+      "index": 15,
+      "collected_at": "2026-02-09T02:35:41.351521",
+      "page_name": "포레스트북스",
+      "ad_text": [
+        "5년 전에 엔비디아 예측했던 투자 전문가 曰",
+        "#텐배거포트폴리오 #투자 #재테크 #경제 #김학주 #김학주교수 #책추천 #베스트셀러 #주식 #주식투자 #미국주식 #국내주식 #한국주식 #주식종목 #주식정보 #주식분석 #주식시세 #코스피 #코스피5000 #빅테크 #기술주 #AI주식 #AI관련주 #양자컴퓨터 #양자관련주 #로봇관련주 #환율 #주가 #ETF추천",
+        "텐배거 포트폴리오 | 김학주 | 페이지2북스 - 예스24"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/625982254_1557874308812889_8522902796156019753_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8BgP2b6n1LEQ7kNvwFg24ds&_nc_oc=AdlQzbTY6RXiw-1m5eF9qSxtHSvKjev3rnVgFwIR9LU6heTAVDqzdDPdfzXjISYaSK4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfuY06hKgiJ-Sh_SHquz2Gi3c5b98S0Nn6rXZtSEF5ATmg&oe=698F0BCF",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/626744885_1843836416306441_1307657150453076979_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7z357-iktWAQ7kNvwEOQlPP&_nc_oc=AdnoWxw4IpSZD59fm9Aq1zFPwQ4gNkDHthPXJq5jF_5u1j8kjyjLfL2vQCqZbCgjU7c&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfsHUZUh8m1DfXmTnvRp6ynYOD5NGjMfDBFpBm-gJ8MSRQ&oe=698F12F3",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/624814743_1181776870705553_4348622316028514802_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XGMfQNPlGukQ7kNvwGTxBlP&_nc_oc=AdkErxnE78B54_DmV2CeaFsIArz9gJpBJzqzPIZcA7Q9CBj39GCZzKNDqP-QAVyytXw&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AftLZrgU91cUcTJeSZjYYK7Y1ikGSh8SptNoB4gk7de-Zw&oe=698F1D62",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/627918446_1372438281302531_824667400697201161_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N5hmEzylGXwQ7kNvwHO2mDV&_nc_oc=Adk9TRNqPOpJlY9J5sd7u3ftWM6IWQXOn0VO_U1ritlWUuJLlCLQDyAd-f36eBOkBJE&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_Aft4RE0sHMKKjDRRmrJ1oAkrX5ehs9WUtN_a68VZabsbkA&oe=698F2556",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/627537101_1339611258224820_4837865397275844297_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wGFMqSGGVwUQ7kNvwGkIKHE&_nc_oc=AdkxKT8u8LePai-kdLSSzcIX9G8EVwe6yYU1vanDmGS4nci1vcqQIOR-ulyWL1_nAxs&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfvIT25NJP7KWM7T7V1RywcxQSrUxp9DJn0DfmJKNmyTuA&oe=698F126C",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/626650929_1526566581772614_6756585990761714121_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-pq4cxV_UOQQ7kNvwE-_DId&_nc_oc=Adla77GV2nwDKLdtO8I3LWOk9o_QtYvNqZZqAIUNQ04uRmmanoyoHtQe4HOE29CD9J4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfsCJMX8l6Lt2a5ym-dLZa4kXBWiFfqkccd4rK08vA0rVg&oe=698F0EAC",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/627675274_1429767615254093_6220660334194379979_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=I11WOpMJkqYQ7kNvwFy2V-s&_nc_oc=AdnyehCuOmlyy1f67bZ710TOiu2Ol_QUXSu_kFL2QtTQL5ZcpiDpEfHLaHHBz7n3ysE&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfucwQhrWEsjGCJtSCV5G7pHP2plqalz9ciHHaRcTDmwsg&oe=698F2A14",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/627752201_1250283637009806_8360298569569649204_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dCJkK0iNTDEQ7kNvwHwVAwx&_nc_oc=AdkLP0K0YQsKQUriVKxS16Ym_712bO8iM3THsnItqnAK-DiS5eWiXVTwsY7kdM0ROuo&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfsVCf4Wn0TJupjanvXx4hOHq0Zldws2kQ9EE-_8zII1Sg&oe=698F319B",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/625318695_793944600401497_3687538302968635725_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XCQamto_2GAQ7kNvwENflrb&_nc_oc=Admy7g2eUr7pNReH4H_o9cLYNatanyJgNPP1lpIoRldWnyukehSNiyp5vPIyI7uOAEc&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfvU-WDBaGoZMMns6hAnGb5xyt48MiYkdCPXMimu_nmDZw&oe=698F3230",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/627742118_25603564182671091_6462258586834451034_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-MQwocMOKmYQ7kNvwGHq033&_nc_oc=Adkh9OeiFdEZy3ztxcXhIBb9_iFRo-Jn9dSmHBNyuF5iKeZGp8Qsqt6L85vkFas65pg&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=5rX2TJ5P67qT7z1mj59uMg&oh=00_AfsJ4-tU4TpCyLfa773pdBnk-QpC5i2zxjVfa2nZqvNDfw&oe=698F0FBB"
+      ],
+      "landing_url": "https://bit.ly/4atqoxd",
+      "permanent_image_url": "https://i.ibb.co/XZF84Xr1/7a822eb7.jpg"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "collected_at": "2026-02-09T02:27:54.744288",
+  "query": "바이브코딩",
+  "count": 9,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-02-09T02:27:53.741592",
+      "page_name": "멋쟁이사자처럼",
+      "ad_text": [
+        "2026년 백엔드 개발자 취업 필수 역량은?",
+        "AI 툴 구독권을 무상 지급하는 것은 물론,",
+        "AI 기반 실습 중심의 커리큘럼을 제공해요!"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/628430651_879245891403875_8600567569738628336_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VnQ2VhjuINwQ7kNvwG_9OfS&_nc_oc=AdnLKtQT0e1u2JmfyfGQvdm3VbhSKmMwMBEEGwkjUd02BqkPEW2Yha1IhLCGhTExVzE&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&oh=00_AfuUnN_hK3mJNk7bjzAnMeuBZph23NHGYpFafwE-RTHtxA&oe=698F1F27"
+      ],
+      "landing_url": "https://bootcamp.likelion.net/school/kdt-backendj-23th?utm_source=meta&utm_medium=da&utm_campaign=kdtbejv23_meta_da_conversion_2601_new;new_2234mf_pcmo;re_ad04_i_object_c3_curriculum&utm_content=re_ad04_i_object_c3_curriculum&utm_term=new_2234mf_pcmo",
+      "permanent_image_url": "https://i.ibb.co/hxJ2wzsF/118ab94d.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-02-09T02:27:53.803582",
+      "page_name": "모두의연구소",
+      "ad_text": [
+        "하루 3,300원으로 바이브코딩 공부하고",
+        "✔AI부터 데이터 분석, 코딩, 사업분석까지",
+        "#모두의연구소 #바이브코딩 #직장인부트캠프"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/627109458_1340291434780455_7768951102945623599_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sw-SdCKboVAQ7kNvwHxyv8K&_nc_oc=AdnnkFoJusOcc3E7GXGc_iaERKEYu6FILZ-6dCvE1nIIZzzXEYzGVGQN9vjnE04AsXY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&oh=00_AftfgtAwoAl_P7vZwud8p1-yAaRrq2polJbK-3fSbBDHtA&oe=698F1CEE"
+      ],
+      "landing_url": "https://camp.modulabs.co.kr/vibecoding?utm_source=meta&utm_medium=da&utm_campaign=conversion_egigae_asc&utm_content=egigae_3300_image_260206",
+      "permanent_image_url": "https://i.ibb.co/YFs3V9hr/cb6a42ea.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-02-09T02:27:53.861426",
+      "page_name": "AI 코딩밸리",
+      "ad_text": [
+        "AI, 지겹게 공부 NO! 간편하게 하세요! 😎",
+        "하루 10분 언제 어디서나 앱으로 간편하게!",
+        "📢 설날맞이 이벤트 진행 중 (~2/18)"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/627898261_25763486793317220_2064757131949397426_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eq0nvqvxJe0Q7kNvwEBwGIN&_nc_oc=Adl-w1TFpEvyXigFFITyeFZnE8Hh0pjbX7y2-up_DEBoBP2kyQ1g-zv3QhdPeyYXhHU&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&oh=00_AfuLNA0iptUQq9XJvm20AUEaDW1PuzcDN6ZD4kC4PV2OAw&oe=698F2463"
+      ],
+      "landing_url": "https://www.codingvalley.com/ldm/7",
+      "permanent_image_url": "https://i.ibb.co/dsNZKrfY/AI-ed67929d.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-02-09T02:27:53.914598",
+      "page_name": "AI 코딩밸리",
+      "ad_text": [
+        "😎내 상황에 맞는 AI툴 뭐 써야 하지?",
+        "AI 코딩밸리가 목적별 최적의 AI를 알려드려요",
+        "📢 설날맞이 이벤트 진행 중 (~2/18)"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/627121554_1322018569673049_2881496209162303537_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cvofbkc17p8Q7kNvwGeC0rX&_nc_oc=Adn8pCDrMwung0dwj0BWoZyenVUu-BqTKDLFAFtp-nWlOhCgfwhJjOHChaUXwGs2zgk&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&oh=00_AftXoBm1W2y0zy0tRGUwonwHt-gfc9E7eBVeaVqd5adKNw&oe=698F1744"
+      ],
+      "landing_url": "https://www.codingvalley.com/ldm/7"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-02-09T02:27:53.973940",
+      "page_name": "패스트캠퍼스",
+      "ad_text": "진짜 나에게 필요했던 건 바로.. 👉🏻",
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/585133605_859333786651901_7815476735339428140_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gB1M39PfIpEQ7kNvwEWADdJ&_nc_oc=AdkL7ppa-jYXWAe1OTE5fuVsoA4wYlawJ_gvVt9m3SgXOr3TKkc36Wv2fF9Pqd0S_QU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&oh=00_AfshMnO5ZgQq3jQWgRYELKByz-M4SS9gt_j9EVhBNeVDaQ&oe=698F22A1",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/583086129_1173014654976274_214851947673232634_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-Hu577nVbrEQ7kNvwFy8Wbz&_nc_oc=AdmPG-OHLW3AFKBn6UJUV-2w5AURSfGLmSFNPEp-FSskxrr1zp3BPIODTFHS5O1nE-g&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&oh=00_AfsPwRm-S-iT7AVbB2HBzu6hieY52Y04q4nX7pKMUr_WpA&oe=698F29DF",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/585060117_1233941341910501_4574728653841889825_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qX6cZEFOfTsQ7kNvwE6LSnE&_nc_oc=Adko3ejVoLIbJZQ6D7vFIgHSW7yLooGeGkFXqmkcOZ4M_ZbK-iVLKbPsH5JBsqiM4DU&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&oh=00_AftRlGeav2dcUHTnhKSlpNbtTOkz0AK_Vaun8THDaejaIw&oe=698F226D",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/586267828_2322889284893302_286970485263553140_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CazTXeGE15MQ7kNvwFW_x8g&_nc_oc=AdlQMx5jUEp81kQzKT68CPishbJonehL01gTNDkOeUm2bJMyOK9pUWo8QQY5H41OSas&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&oh=00_Aftj6mXJp3P5_sjA8VIb5ypL7yEURAaW6k4pnuMMGPwQPg&oe=698F2622",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/586333210_1568943437589144_5206637707197660393_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lgDx2oZJShwQ7kNvwGaVye8&_nc_oc=Adno2sDBhMN3KeyifX5fD45lSc_Dy5sw2v4x0-XGQbcRfpiO582UO7rgbCmN4y9jRIY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&oh=00_AftSGSmKcLCa5ls9Dz5iJH89zDmNulHSh9k6mPk9z_jiSA&oe=698F14C9"
+      ],
+      "landing_url": "https://fastcampus.co.kr/event_online_vibecodingbridge",
+      "permanent_image_url": "https://i.ibb.co/Kxr2mcqZ/75f0235d.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-02-09T02:27:54.109014",
+      "page_name": "패스트캠퍼스",
+      "ad_text": [
+        "요즘 많이들 쓰는 바이브코딩 툴 추천!",
+        "툴만 잘~ 골라도 수익화 절반은 성공✨",
+        "30일 만에 바이브코딩으로 돈 버는 법🚀"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/602480477_881564091068999_4173744471313777296_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kPSl9RiMB8sQ7kNvwFE9G6q&_nc_oc=AdklQHzhsu4q2rPd5lYTe7QDvbHUUnDg6XDJBSY60R1I0IL9Yw1r0M8domBQ0ZkvjDg&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&oh=00_Afv35bsPRJzztdEpDNBDupQaqDHs3Lkp_wLbHqIi3FrYoA&oe=698F30E2",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/604748698_890187886808501_7890510697234747323_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=T0RPY3fHruYQ7kNvwFDJv_s&_nc_oc=AdkDCpicCl1hdzYoqM6acsXeg40avEezkv6h_ksSVUzMvsTqREZhju1boiTAPWpSrzs&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&oh=00_AfuzHBPqGkofPP4_znTSKG8RC9PcgQSx2HYb8EEZ0gQJSw&oe=698F0710",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/605523677_861538866793157_2989023793326258493_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WcBh3ZnjRI0Q7kNvwHV9dXP&_nc_oc=AdnibSqEVccZHmstyf1AL_NJGFNRgZUAI81xnYfAy1DJLRN895qwTnWT33tKy5ba_ac&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&oh=00_AfsJFkun8WBufIYioEEnTyKNpQhrTwzzhKAPo936T1BZtg&oe=698F15EC",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/605707938_1305499178258687_2857410766214253833_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pjLkrV08nXEQ7kNvwFJ4-7e&_nc_oc=AdnitB5ChikpLOrsUMmMg4uOgzFqQu71Yvg3nwWdKVUtfefUINCeEl_fSSMmx7VUc8k&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&oh=00_AfsL5IclBkxkKfeuzyLgNAsTtNnoFr6vpztqpblRiN4Z3A&oe=698F017C"
+      ],
+      "video_urls": [
+        "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOzxXNctYc1tpyJkvqoYqovjb0vetpOKfdzSnJmgbo-HauYqiJTJQxr5GM6T5t_4WxexPXKx5gTKfZtIdKQ5uQRURUiWq3quUZEdkhYOA.mp4?_nc_cat=103&_nc_sid=8bf8fe&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=OOa294uzbqYQ7kNvwHLw2pR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQ4MTYzMjY2OTY4OTUzOSwiYXNzZXRfYWdlX2RheXMiOjE3OCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&_nc_zt=28&oh=00_AfsrsUSEH0uVJWN2HcZFLb5X6_2-Dlk0NfGuQx8_Q5SRGQ&oe=698F06FF"
+      ],
+      "landing_url": "https://fastcampus.co.kr/biz_online_vibecoding30",
+      "permanent_image_url": "https://i.ibb.co/bg1tmysw/cbc5ee59.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-02-09T02:27:54.240256",
+      "page_name": "패스트캠퍼스",
+      "ad_text": [
+        "혼자서 PRD 작성부터 논문, 동영상 생성까지",
+        "비개발자도 4050도 할 수 있다고 하니,",
+        "요즘 이 AI 툴 조합 모르면 진짜 손해임"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/612021970_2942911619240920_6698101374086791328_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=F7HnodyfS7cQ7kNvwFNlW0l&_nc_oc=AdmKvJwMGyn2uVa-hgsH7DOfUU04TZTa8HVfJDogUa3OfAZRUc5TJsySiTY_OgimGLw&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&oh=00_AftkZDaxBuCKShC01BLg02EsiVk4rwwnfynpKjMHwdiyYA&oe=698F2543",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/612855609_724802014035457_8381385700276264471_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dHDI7M0cOfkQ7kNvwEV8ieT&_nc_oc=AdmFuR-5TmCJG30PJvH95IhURZDgJgDnkkCy50ImfiLAwj344weHkb-5MYZhRJJ0h0A&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&oh=00_AfsC-ryRxFRfmnru6ZALSbsGKJyAiNBDDLG1-18SDcrmmg&oe=698F1C43"
+      ],
+      "video_urls": [
+        "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQP2vjP04pnTxDByfsDxJ32mFbBKSP-7MOiO_UnZfbcf7Lg2UJYJZ02gIbS0C0p8TnKiT-dL_GVVqVpM7FxL_618cseK4MKihpT588e1nQ.mp4?_nc_cat=105&_nc_sid=8bf8fe&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=wMqioBCE7kcQ7kNvwF1PU_A&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTExOTQ4OTA2MzY1MDU1NSwiYXNzZXRfYWdlX2RheXMiOjEzMiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&_nc_zt=28&oh=00_Afv_P9BTanlprLkrZaXNIMfjV9VvdhdmlMtSxS8iwmqTlA&oe=698F20D1",
+        "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQN3jN7c7cWAfWLitW75LayI-CG66PREEN7W7kPJI_VU7QcT1o-7j60XPkXbbrX3vTsLpIiXR3HEGjWNt-8KUMtK1eXFZ5v0g1DAcgmDAg.mp4?_nc_cat=107&_nc_sid=8bf8fe&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=2IL86NSEtiwQ7kNvwEKvg3A&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQyNzQ3MDU2ODM0NTM5MiwiYXNzZXRfYWdlX2RheXMiOjEzMiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&_nc_zt=28&oh=00_Afuo9PO5J6t47niK78qYamcagyVBCLn4tQOXB0qU--Zvrg&oe=698EFD87",
+        "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOfuuF4OwXu7lemKX08B0zm_QHZ5-oRkziPgNfPXvrsw2kIng3auH9jtqox5PgooPd4kLRxk-MoMccklspcjKAB6p1DI_BFV2TB3TrBQg.mp4?_nc_cat=104&_nc_sid=8bf8fe&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=LXaa1Sm9ss0Q7kNvwEcp6ZN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM0ODQ0OTk4MDE4ODY4OCwiYXNzZXRfYWdlX2RheXMiOjEzMiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&_nc_zt=28&oh=00_Afv9lGOmk4xir4tVnDdoFo5yeKBdIBYhSyqslP2E1zJCpg&oe=698F0D76",
+        "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMUpnhRNobL3Mp0CYdiIj5-w93sHewzQfBIg4eMgCYqewrvzHCqulh0pEsbUv6FpLzlhqjNMBkvcyeqpLY9UDsHgVwsbfvmwz3UAqjSfA.mp4?_nc_cat=106&_nc_sid=8bf8fe&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=uJux0kUfJ40Q7kNvwHBnzp-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTk0MTA4OTg4NjQ2NTg4MywiYXNzZXRfYWdlX2RheXMiOjEzMiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&_nc_zt=28&oh=00_AfvkIiYSfuwgID24Oh0Gal9MthFyGsMZMwrLpeZlnI4ToA&oe=698F2550",
+        "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPS-5I-skWt1hD-qFccY6nenYS1F55_bVEoi62cWGbzTDzChzVM7Ff14j0Kh98Bq4ve4ALB4MBjsNsoDdZm7zsojK37dNbuUrxaTaKqng.mp4?_nc_cat=109&_nc_sid=8bf8fe&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=9BdjKy_AE4UQ7kNvwEF6JyG&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTI5NDI2Mzc2NTI1NTI0NiwiYXNzZXRfYWdlX2RheXMiOjEzMiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&_nc_zt=28&oh=00_Afu8gLEX-3sjUp7tYz7DikdLi9RmOFWbiDZ4fL6IzhYJOQ&oe=698F0F51"
+      ],
+      "landing_url": "https://fastcampus.co.kr/biz_online_vibecodingn8n",
+      "permanent_image_url": "https://i.ibb.co/z9sXzjp/4d7921db.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-02-09T02:27:54.373632",
+      "page_name": "짐코딩 클럽",
+      "ad_text": [
+        "📢 2025 인프런 어워드 수상 & 특별 할인",
+        "\"요즘 쉽게 돈 번다는 식의 강의들을 많이 보게 되는데, 막상 들어보면 알맹이 없이 가격만 비싼 경우가 많았습니다.",
+        "\"AI 도구는 거의 매주 변화하는데, 강사님은 새로운 기능이 나올 때마다 즉시 반영해주시더군요\""
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/625859720_1257634416292819_8406085989059907752_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UDoisEHQWoAQ7kNvwGzN8rn&_nc_oc=AdmFiFBL78XW8azCwtjT7wvXhlg8D2tQyLth4g0w0OEL4Fk_J37m68mJ8pszS0eeaC4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&oh=00_Aft8J4dTuufH41Zcf9YeT2C6Xfo_cIGxlp64ypILQ02upg&oe=698F1B41",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/627937116_1259811246069063_3714772014387637576_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3ThzfSoG_oEQ7kNvwFUFoxl&_nc_oc=AdnOm6lMSJjuJY3ePoCE1hWilR-ivyu-pjgsq1Vwcwsk9RzOgNZcd7oAhoY9QtMFcZs&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&oh=00_AfsIgvDl2NtgDuwrygTrGErTbPktJ4X0_79qSaDocjGdPw&oe=698F0A79",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/625905337_1572909640642336_8735992937858784808_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1_plJ8Wpf78Q7kNvwElYs4B&_nc_oc=AdmtG8KJ4utB0quOpLXlmakJMfRi57h3whjMmc0cR4YhHQqYfTMAGfznOy6HpxTN8KM&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&oh=00_Aft6THdESyUmrdtVvc3qaUXEwowvd94RuzVM4FXkMe5trQ&oe=698F1545",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/625899581_1424594765712915_5487906978157734653_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H74BwuN5YwUQ7kNvwGwbWJU&_nc_oc=Adla4f_4XTZAdcwjiKWHDW6HQ7LQVcc_90RdzHWHBtuZuwljB0pD_beV2BSye1t7zSg&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&oh=00_AfsEe4liqRap2lktw3kJdlT9s2V9OldfuFhIJGWMIuekEw&oe=698EFD6A"
+      ],
+      "landing_url": "https://gymcoding.co/vip",
+      "permanent_image_url": "https://i.ibb.co/SDF7vbST/3f248c47.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-02-09T02:27:54.481175",
+      "page_name": "SHARE X",
+      "ad_text": [
+        "Gemini 3 Pro X 나노바나나 X 바이브코딩",
+        "AI 비주얼 커뮤니케이션 & 최초 공개하는",
+        "플러스엑스 BX•UX 키노트 전략 원본까지"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/598277136_1406687241114501_4317953454345500773_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UZTUf3pVOY4Q7kNvwEXf7Dg&_nc_oc=AdmhAFMbSIKrG8bXwczZO9B-fHQ-I-qYjWvMzognJvowSwMHsqnK-B4W16XjEtNAwaY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&oh=00_AfsCx9fyulCdgz4yI_u0dv7_Kl1GaiRs2qkAiWk8Sgna8w&oe=698F1B93",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/598277477_747375318394539_2377034408649822863_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UpLZKZlnZIYQ7kNvwGWRM6b&_nc_oc=AdmV5bpVt6s-RvW6pzzD6R_PiglCT0YTz_1G6NeyVh6ppzN1u3lDBtHIEd32e8WXHJU&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&oh=00_AftXuTRssgWyj3f8auAf7oevGJNJmMpx1Z4V69r4sOAIkQ&oe=698F0D60",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/598066070_1218169313562058_3084757872374634235_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vnoZouF5oyIQ7kNvwHyWnJB&_nc_oc=AdnWg_Db3T6RzjsR34BTI1iywHBmqx5dDhS7lu9S7XXSx25ieAivcsI0s3buRD4iPfU&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&oh=00_Aftx20L18hIzjYuSFmqec6I4IOQJwrCL5YfAiWMfX_Sk-Q&oe=698F23F8",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/597957049_1197148579016290_475507033221390030_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vABp_Nohj5MQ7kNvwH_pvnA&_nc_oc=AdnWnPl7o0DXpWU2JqKKMmAmxDuPcILLB8VLw52cwZfsK8d0HONGfZIg5vwyqCu15Sw&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&oh=00_AfvO2gPM9ScD0JysQ3OTAVJ6Uww8ChWrIkxhzGwX1Ep1pg&oe=698F0F96"
+      ],
+      "video_urls": [
+        "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMf2usu2cPKr1iHUtnNu6PRJ4iJB9Zj1cZd6rxzf_0auMchjQnw4du0PMhgXPY-ha8p8FGLsvV1WNrCzJIvWMkUQw6JGAxsKT7kqr1ysQ.mp4?_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=ar8shXxNdJkQ7kNvwFC8ADT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NzM2ODgxNDI1NTgyMTY5LCJhc3NldF9hZ2VfZGF5cyI6NTMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&_nc_zt=28&oh=00_Aftansoi_ZpZ1z_LbEtKY73CvKZi8VBLPyDjNytfNAF27w&oe=698F1521",
+        "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPBftGdYNX9k4prFtbGVlEg9LTI22J5xxezuB9lTOZxgrl74qDpSrpHuIRZ5LzRNXeCF-etMnWecvxlczOOQeRrfKadTy89b3GmM1rokw.mp4?_nc_cat=107&_nc_sid=8bf8fe&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=eJbf9evaBrAQ7kNvwFaiEKI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc5NDI4NDY0Nzk2NjEwOSwiYXNzZXRfYWdlX2RheXMiOjUzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&_nc_zt=28&oh=00_AftBpGglK01Jcj9GA4O2joic6HiVDgusmZOv6nEQD48qIA&oe=698F0AAF",
+        "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQN9v88lSAa4_jCrxTenCyNttWsEvEbj4qwzJAoUXu6CcAdvqjwmw2w-hKNZ3ko22p_IFJn0rd2lok86gxgKxMhqIdpy0vC57UNm4zQMkw.mp4?_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=7Z4IJKZJFFQQ7kNvwFj7m54&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTI2NTUyODk5NTQwNzA3NywiYXNzZXRfYWdlX2RheXMiOjUzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&_nc_zt=28&oh=00_AfuEPuYPx8GddydQmU9iE7-c76FPQyrefWVD0neWhsXAXg&oe=698F14A5",
+        "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQO7TM6nLMYZ67RVxkeDoFpGGKBw0qMHyMaFxq1rwoc1nxGgzXm-Jda1nq77COFJQTCUy_hjZFC5ePUWq21T_JkwdF4XJdkf40QGV-W0Zg.mp4?_nc_cat=110&_nc_sid=8bf8fe&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=HG5nGgZKX7kQ7kNvwF1GYRQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM2MDI4NTE3NTg5NTI1NCwiYXNzZXRfYWdlX2RheXMiOjUzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&_nc_zt=28&oh=00_AfsnsKX6OlvLRP6fOuHLNE48RaOVGroX7qK7XDZEaP4ScQ&oe=698F1850",
+        "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPT98YT80lePX35qHaTCI3PpgjTiW5c2kHG5pXPK6bNLIVVrmxcVtcRbamm6qe5-acYZH853KsOyXUzTP-Oqg0jRcaVWsA_m2vjC1Mqmg.mp4?_nc_cat=110&_nc_sid=8bf8fe&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=KTMpFteNjLoQ7kNvwFRTNOL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTI3MjEzMDYzNDkzNDE4NywiYXNzZXRfYWdlX2RheXMiOjUzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&_nc_zt=28&oh=00_AfuU9jBKJEOGHeeMTy1M6GQ0eKtpAM9enlhcXb573f7-Sw&oe=698F168C",
+        "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPbCFoZyZaVlRXMjwwtcLl7yfHf9EaRAJL9dRKgUvLgPTwpjTa60aAzMo_q_lTJGs7jTkvBMaCZSibzu92fd6YKPOJhUBNvX1QUn8lfpQ.mp4?_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=O3SL3jh4vBQQ7kNvwEk4Btz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQ5MTI5MTU2ODYwNzYwOSwiYXNzZXRfYWdlX2RheXMiOjUzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=-MRWjNtkEoR0k2Q3Y5YDIQ&_nc_zt=28&oh=00_Afv0rfXv8l_9mNxv0aHMj98naf_A8kIYGMo68Iyf-EKhZw&oe=698F0968"
+      ],
+      "landing_url": "https://sharex.fastcampus.co.kr/dgn_online_pxsxbsb3",
+      "permanent_image_url": "https://i.ibb.co/HLCWs1dh/SHARE-X-33847866.jpg"
+    }
+  ]
+}
