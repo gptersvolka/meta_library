@@ -1,0 +1,88 @@
+{
+  "collected_at": "2026-02-13T02:11:59.529826",
+  "query": "무료 자료",
+  "count": 5,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-02-13T02:11:58.938703",
+      "page_name": "원티드 wanted",
+      "ad_text": [
+        "조기 퇴사를 줄이는 온보딩 전략 A to Z",
+        "첫 3개월이 조직 적응의 성패를 가릅니다.",
+        "우수한 인재도 빠르게 이탈하거나 성장을 멈춥니다."
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/580759577_1512138410035228_5031426307440254835_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0wLzsLEsBfYQ7kNvwF78lmm&_nc_oc=AdljxGH6jdb7px9HczMloDwHgS-_SdSoOEVSLtn38CwVX7SFe2jKYjWEjkdcPI3Cj0A&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Q1hsQfokYq1JuEZ7sJcWJA&oh=00_AfvYMjL1BViOHaK9QhA5Bf0X3ls76-hGm3_121ME84iLrg&oe=69946297"
+      ],
+      "landing_url": "https://blog.wantedlab.com/hr/report/onboarding-a-to-z",
+      "permanent_image_url": "https://i.ibb.co/TMkxxzgn/wanted-70c36127.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-02-13T02:11:58.995259",
+      "page_name": "미래엔 키즈",
+      "ad_text": [
+        "AI 시대를 대비하는 초등 학습 로드맵부터",
+        "디지털초코가 겨울방학 학습 준비를 한 번에 도와드려요💡",
+        "우리 아이 겨울방학 체계적으로 준비하세요!"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/623448373_1244362807624547_4472829534853718488_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LECHohtvQyAQ7kNvwGZSf7b&_nc_oc=Adkl_E7DmSxo3mutePM2gMXDzI6JRRPRBRlsxbVvgpTlfPVr3oQyHdEwkygABOE0Fro&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Q1hsQfokYq1JuEZ7sJcWJA&oh=00_AfvB_pbDnZ1OV4pcHTuEFXUHWPJAncLttEO9c1d0L-wU-A&oe=699464CE"
+      ],
+      "landing_url": "https://www.miraenchoco.com/brand/event_20251213.html?utm_campaign=choco&utm_medium=da&utm_source=instagram_feed&utm_content=choco_da_instagram_feed_mo_none_advantage_feb_pro_winter_parentsdocsC&utm_term=banner",
+      "permanent_image_url": "https://i.ibb.co/5X2s9DW1/f62339fc.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-02-13T02:11:59.047606",
+      "page_name": "미래엔 키즈",
+      "ad_text": [
+        "AI 시대를 대비하는 초등 학습 로드맵부터",
+        "디지털초코가 겨울방학 학습 준비를 한 번에 도와드려요💡",
+        "우리 아이 겨울방학 체계적으로 준비하세요!"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/626427641_3570414393099099_5834020784798387553_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=t6x2D7iwLGsQ7kNvwFE4LCx&_nc_oc=AdkWpStENsI7Xp0OXpzGDXKIb4b3g-AWUwBQxHJ80RdfsbrMvI4CFByupLqK_f7TfrM&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Q1hsQfokYq1JuEZ7sJcWJA&oh=00_AfvTMIEhheH1VFaZ0c3Q_Q37v_XmgQEITs2kVqtCdWCGIQ&oe=69944C37"
+      ],
+      "landing_url": "https://www.miraenchoco.com/brand/event_20251213.html?utm_campaign=choco&utm_medium=da&utm_source=instagram_feed&utm_content=choco_da_instagram_feed_mo_f3554_lal_standardmember_feb_pro_winter_parentsdocsC&utm_term=banner"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-02-13T02:11:59.103942",
+      "page_name": "makeumineworks",
+      "ad_text": [
+        "K-POP 작사가, 나도 할 수 있을까?",
+        "정보는 넘치지만 방향은 안 보이는 현실.",
+        "작사를 시작하는 분들을 위한 가장 현실적인 입문 가이드.pdf! 지금 공개합니다."
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/571012531_1338220104630790_7222900617330127883_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8ssEFNh0fAUQ7kNvwErLqCn&_nc_oc=AdnD6-BJrCn0oj6f1by2lEVlD7LFja70Jzw0lh4r40RNqnqlH8le0yQhhnk0bi2QDb0&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Q1hsQfokYq1JuEZ7sJcWJA&oh=00_Afuhw34DndCoRCcjj0ffepIQHJg1VXwxJ7Zj4sjOPyBJCA&oe=6994626C",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/570380593_889061990480477_4686558284369078208_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7OQJtuELsSIQ7kNvwHqswuw&_nc_oc=Adn0Uckrhs_14_kzWOcrO3EfSOeXoWroHkBG8eJTSWD4qsEWN3KNWtwx3wLDtWlG8-Y&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Q1hsQfokYq1JuEZ7sJcWJA&oh=00_Aftq45deWx45x5YmKzvUgmVynynyRqLe3DSdryVQzGxuCg&oe=69945720",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/514397681_590640517433980_3629673943705786619_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ySmlT24AHtcQ7kNvwHHAPSq&_nc_oc=AdnWP31DoTphJKfagnxQhVyliQDJg1HQ6YrLb9IEyi76GiYGqe3porgEtRC3aJNNRds&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Q1hsQfokYq1JuEZ7sJcWJA&oh=00_AfvoYtpQT-wvF74timIXZF9hgthJHv27GAgPD4Nh-x3eEA&oe=699456D9",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/571440200_1831246640835266_2363775499312455629_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3Z2TjVyeetYQ7kNvwHcVqEJ&_nc_oc=AdmSy7tE2CenkmAsoEUds-mfl4AcYjUqmDA01jMYIoRI4HZYUTsG-SLubTVubKm9Ku0&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Q1hsQfokYq1JuEZ7sJcWJA&oh=00_AfuvEdhciPDzMsNKOOEHERDJLgRHxm6hNupx64sIFT93TA&oe=6994742B"
+      ],
+      "landing_url": "http://instagram.com/makeumineworks",
+      "permanent_image_url": "https://i.ibb.co/ymvWdChV/makeumineworks-15783b10.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-02-13T02:11:59.252197",
+      "page_name": "바디먼트",
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/580512921_1482332459719931_2282773847363537828_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=02WyjYL6_DMQ7kNvwHVXZmE&_nc_oc=AdkYTxph1FHk14rNvrxfi4G_mB02iDDUV-uWFPnQExOx2f037Fh7AylZhun5f4DWceE&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Q1hsQfokYq1JuEZ7sJcWJA&oh=00_AfvCozFJTURRo7iHudDf4yOrd4FepBGLk_N8jFkhtzqcFg&oe=699462B7",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/581646481_816498764686901_3115054466447315928_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0aESyo3vYhgQ7kNvwFYyXck&_nc_oc=AdmGvlrDDVYUIjy3f_Fk1fSn1ZYmdXkkU3LUGNM-uSChd8OgyZX_jTcLPE75NfoVpr8&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Q1hsQfokYq1JuEZ7sJcWJA&oh=00_AfsEUGO5gQAgzriOUVTPwJwFiRHf4-xA6Xi5ZVtnAjOEvw&oe=69945CE0",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/580853160_1187470826656167_265632181722109694_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nLVjJP3Pe90Q7kNvwGxm_EP&_nc_oc=Adn0rkAF78x3-2UZelwQdkNT7-1LdbDj3OR9zGkFynahJTvn7BJ3MWV7EbQxSGWFiZo&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Q1hsQfokYq1JuEZ7sJcWJA&oh=00_AftPkD61HKRdboR2yQWo2hsztt3Gbs6EUKRKMaB40LXhVA&oe=699456F6",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/583144482_1471565197265010_3771403340686586550_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RTPVtDc5enkQ7kNvwHozgNM&_nc_oc=AdnIC20tQ8T_gU-5AN_OCWiq_68Mo5K5w6_SlKaBvAKwmH3GJDfLz-YUQOY48qTdW6c&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Q1hsQfokYq1JuEZ7sJcWJA&oh=00_AfvvddgSBd52v1EXrQihDuU9xAh612c-uQ9ZUbTw3J1RRA&oe=699475D6",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/581033948_2515959618776611_249536015694585066_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UPAQ5VuBAlcQ7kNvwHuv6wc&_nc_oc=AdnVnwmqdNlI2YY4HH5-v5uVEtgqjxgDu1byF_txgj4i7iMiuyCcN6TlRcWVF9A0zXE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Q1hsQfokYq1JuEZ7sJcWJA&oh=00_AfviZYT4QwpMbtzr64G2hTn1l8JnPn2H3Pb_-X9lekQOiw&oe=699462AD",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/581384137_1176057827845103_8613046571201915728_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=B8P5iskkFWIQ7kNvwHlKFE7&_nc_oc=AdnD2pl4DlnFFbqylTZ0LKJMVO8sFiqfdVTQmFuazLN3UyROQ-mg1LLXomz2KcIGCjw&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Q1hsQfokYq1JuEZ7sJcWJA&oh=00_Afu56-1FWVQOvY4CJUMdnZWkoXquZ7WY6pQ94vj0z9tIqg&oe=699447E2",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/583712856_1936106237253157_8748837264340227398_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Yx3cWV-XLBUQ7kNvwEK2NRe&_nc_oc=AdlARffJzEcjeuPPB8p7N18OO3GrarvReSi7lGXW9vxlwWJ6u3u1AIn0j-hCybIVJYI&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Q1hsQfokYq1JuEZ7sJcWJA&oh=00_AfvNDf_suQTMRgxx5lDU_nMLUrqORONnjgvQ-vyyprHOnA&oe=69945CB7",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/580832527_1347160376900369_6313910274933332553_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ejRbT8ZtASsQ7kNvwFkwm3x&_nc_oc=AdkaoxZTctVUCvrp3HdnaouyDELOuL2UPJxKl7i8m0uQyY1highuYVhA_NBuDP4qzOY&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Q1hsQfokYq1JuEZ7sJcWJA&oh=00_AftsiQ9UJ3B5u_kSp-ukXQq8n4F1anXjUtCkX7G4K9EYFw&oe=6994468D",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/583310876_1581008599734650_440469486389420221_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Cc2HtWl7m-MQ7kNvwGM8zIU&_nc_oc=AdmPaUDFzWfVH_4j6yDiOeSE2gWKf0dxn3KARQe4IvRn4IkKeX9UcJ8Kn7pFutW4Fi8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Q1hsQfokYq1JuEZ7sJcWJA&oh=00_AfvZt00W6LluFlC1GZBxgff8q3iJLKoSGVpfOc9wicuyiA&oe=699451E2"
+      ],
+      "landing_url": "https://bodyment.co.kr/",
+      "permanent_image_url": "https://i.ibb.co/kgsdZHwG/e5e9dc5d.jpg"
+    }
+  ]
+}

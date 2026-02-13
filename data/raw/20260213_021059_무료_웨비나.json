@@ -1,0 +1,213 @@
+{
+  "collected_at": "2026-02-13T02:10:59.155112",
+  "query": "무료 웨비나",
+  "count": 14,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-02-13T02:10:58.344696",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "✨ 국제학교 자녀분의 코앞으로 다가온 미국 명문대학 입시 준비…",
+        "미국 입시에서 Common App 작성은 곧 시간 싸움!⏰⏰",
+        "꿈의 명문대 입학사정관의 눈을 단번에 사로잡을👀"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/544995989_1311938777240584_7643198229873328322_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1dopkXbs7RIQ7kNvwH3aMHJ&_nc_oc=AdnZC12qi_dV_4_4x3c9iZaREP8mmF_RCSVOju1AVBbt1cwvXrN-cHBKOIi_41Ptyjs&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Rp7JYu_6eXHyJ-fe8qJDpw&oh=00_AfsTHsyBtMXA7yJdLVX5q-Gf7CDzxSQLw2xJQZau5VXKfQ&oe=6994769D"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/resources/webinars-workshops/",
+      "permanent_image_url": "https://i.ibb.co/Rks3wwJx/Crimson-Education-183d965c.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-02-13T02:10:58.397313",
+      "page_name": "리라랩 ReLa.LAB",
+      "ad_text": "매출은 늘었는데 왜 항상 현금이 부족할까요? 재무제표를 읽는 강의가 아니라, 대표가 숫자를 ‘어떻게 판단해야 하는지’를 다룹니다.",
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/625950846_1186192726837849_5588692111313915064_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AiLxoAiSbRwQ7kNvwG03UgD&_nc_oc=AdmaGbHs8xPsnNVikk6ax25WDCVTEz7AkjQcjSF8_7YpzjwWSgIenfva2LfrlAjcnYc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Rp7JYu_6eXHyJ-fe8qJDpw&oh=00_Aftrv6VDCRN_jVSRY7jaqh0yyIM3LyoZdHPN4N5h-6M5Yw&oe=69944734"
+      ],
+      "landing_url": "https://www.relalab.kr/program_details.php?program_id=15&utm_source=meta&utm_medium=paid_social&utm_campaign=202602_security_seminar&utm_content={{[ad.name]}}&utm_term={{[adset.name]}}",
+      "permanent_image_url": "https://i.ibb.co/4g5yqcPB/Re-La-LAB-77473df5.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-02-13T02:10:58.449835",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "✨ 국제학교 자녀분의 코앞으로 다가온 미국 명문대학 입시 준비…",
+        "미국 입시에서 Common App 작성은 곧 시간 싸움!⏰⏰",
+        "꿈의 명문대 입학사정관의 눈을 단번에 사로잡을👀"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/544498933_1686715765330737_9216432937402814786_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1LLeeghQJ8MQ7kNvwGkm2ta&_nc_oc=Adkz4u7UMehCnmEJZjPO3d8qWlh6CrMpgBRh1EAHHR3mg9lgCqxiw0y9im1lRLvXr4E&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Rp7JYu_6eXHyJ-fe8qJDpw&oh=00_Afv2ApbqB-TTN7i3oiiqAr-UqQbawwz4SWvXCcR9X1T59g&oe=69945438"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/resources/webinars-workshops/"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-02-13T02:10:58.503432",
+      "page_name": "Factsheet",
+      "ad_text": [
+        "[스타트업 IR 전략, 혼자 준비하고 계신가요?]",
+        "\"우리 회사 적정 밸류에이션이 얼마일까?\"",
+        "\"어떤 지원사업에 지원할 수 있을까?\""
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/628605062_4684084428579051_7760326425660446903_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rzWjqXgLOSIQ7kNvwGlSIH_&_nc_oc=AdnxXR_7FgNnlA1BVzajOQCwtWPUd0nfA6v8UkX2XUn1Hwnz5xESqf7YiSAJ9kNq3-I&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Rp7JYu_6eXHyJ-fe8qJDpw&oh=00_AfvxXaRMSXhEY5IWGeIVQbd_jGklq0rudbOJcsrXz5DT6A&oe=69945F89"
+      ],
+      "landing_url": "https://forms.gle/utAhVuKC4nNgNmva8",
+      "permanent_image_url": "https://i.ibb.co/p6L4hT7w/Factsheet-c651eb82.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-02-13T02:10:58.557620",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "📅 2월 26일 저녁 8시 무료 웨비나",
+        "주재원 육성 전략을 LX인터내셔널 HR 팀장이 직접 공유합니다.",
+        "HTTPS://RINGLE.RECATCH.CC/WORKFLOWS/RROWQGDTDG"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/630029512_3301260036705867_5489668648655481445_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=v_8iGIunmgkQ7kNvwGfCK2R&_nc_oc=AdngDu-PN-dVMio8BGLPHaTakueGzBADUDlvURAGF4dCV3-K-udUnJP4MNMLpBds6j8&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Rp7JYu_6eXHyJ-fe8qJDpw&oh=00_AfuEiTxQ2rxwEDPRmiWGfE4MIb-15GSh6QwM6lnm7MowzA&oe=699471A5"
+      ],
+      "landing_url": "https://ringle.recatch.cc/workflows/rrowqgdtdg?utm_source=fbinsta&utm_medium=cpm&utm_campaign=b2b-webinar-260226&utm_content=v05",
+      "permanent_image_url": "https://i.ibb.co/KzQSXVRV/1-1-b9bd9c21.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-02-13T02:10:58.609952",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "📅 2월 26일 저녁 8시 무료 웨비나",
+        "주재원 육성 전략을 LX인터내셔널 HR 팀장이 직접 공유합니다.",
+        "HTTPS://RINGLE.RECATCH.CC/WORKFLOWS/RROWQGDTDG"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/627998797_1143126271102587_2769260966476439118_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ju06-QsgGnUQ7kNvwF9_Wzp&_nc_oc=AdlvWM4EmIHhVPXB9cI7ZfrW20MveY4i_bN3tV2Dpt_5nPRzy4GdGTzxhyepWhK3_Oo&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Rp7JYu_6eXHyJ-fe8qJDpw&oh=00_AfvMojBjygMb37islTY-a2BhXPBvnaFYKx0yZnvtzGkZQQ&oe=6994577B"
+      ],
+      "landing_url": "https://ringle.recatch.cc/workflows/rrowqgdtdg?utm_source=fbinsta&utm_medium=cpm&utm_campaign=b2b-webinar-260226&utm_content=v03",
+      "permanent_image_url": "https://i.ibb.co/h1BwwLq3/1-1-1764889e.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-02-13T02:10:58.662112",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "📅 2월 26일 저녁 8시 무료 웨비나",
+        "주재원 육성 전략을 LX인터내셔널 HR 팀장이 직접 공유합니다.",
+        "HTTPS://RINGLE.RECATCH.CC/WORKFLOWS/RROWQGDTDG"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/626459712_26105765659062326_4587000572842155693_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=q5Xehho5rGoQ7kNvwHKTyvd&_nc_oc=AdlUiP_ngpmxAF1j-3iUvj-kurD9ousJrGXN48xDpbHqBEES_APbtlJO9Ajofaclgks&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Rp7JYu_6eXHyJ-fe8qJDpw&oh=00_AfvMp2Szcf4XA11621WHoK4K374ea5EuWtcP0_UoeDbszw&oe=699459F0"
+      ],
+      "landing_url": "https://ringle.recatch.cc/workflows/rrowqgdtdg?utm_source=fbinsta&utm_medium=cpm&utm_campaign=b2b-webinar-260226&utm_content=v02",
+      "permanent_image_url": "https://i.ibb.co/nhcFH1B/1-1-b58c50fe.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-02-13T02:10:58.716541",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "우리 아이 커먼앱, 입학사정관 눈에는 어떻게 보일까요?",
+        "입학사정관은 커먼앱 각 섹션을 어떻게 바라볼까요?",
+        "따끈따끈한 올해 스탠포드 합격 커먼앱을 구성했던 실력파 입시 전문가 단독 초청!"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/622740700_905452198671293_6105010546580617310_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BzrShHHDDtIQ7kNvwG-YAbS&_nc_oc=AdmYvsctRPCHtHmNosJgIfUuvxuU1ejs9sUHxzqTcJ1rrTyHWnQidy1ZA676OrOpv6A&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Rp7JYu_6eXHyJ-fe8qJDpw&oh=00_Afu59qLPOMhVZI9BlL8mgvvz9MXvoSf-NcD6-P_o49hHyA&oe=69946FDF"
+      ],
+      "landing_url": "http://fb.me/",
+      "permanent_image_url": "https://i.ibb.co/hxcjXYCQ/Crimson-Education-8df71452.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-02-13T02:10:58.767994",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "📅 2월 26일 저녁 8시 무료 웨비나",
+        "주재원 육성 전략을 LX인터내셔널 HR 팀장이 직접 공유합니다.",
+        "HTTPS://RINGLE.RECATCH.CC/WORKFLOWS/RROWQGDTDG"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/626765374_915290564303562_4054405036055646416_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mYsIfaY9U00Q7kNvwFwi8le&_nc_oc=AdnsnNFDJxnzm9WtKFZyHi0ginYOHJjKUp66-jFzGCO1IHcQzIjsm4Zc_3U8cTOE73Y&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Rp7JYu_6eXHyJ-fe8qJDpw&oh=00_Afsq50d5tAXoIBBbavIdzWJu5LLRGjBXiWNoCHa4JCrffQ&oe=69943EE9"
+      ],
+      "landing_url": "https://ringle.recatch.cc/workflows/rrowqgdtdg?utm_source=fbinsta&utm_medium=cpm&utm_campaign=b2b-webinar-260226&utm_content=v09",
+      "permanent_image_url": "https://i.ibb.co/rRjVy90L/1-1-012650d2.jpg"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-02-13T02:10:58.818309",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "84% 지원자는 이미 성적 A를 확보했다는 사실, 알고 계신가요?",
+        "스탠포드 합격 판도를 바꾸는 여름방학?🧐",
+        "스탠포드 입학사정관이 실제 인정했던 여름방학 활동부터"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/628393952_1551223245960540_4899268538905903358_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-55LA_GAMbEQ7kNvwGh7YPx&_nc_oc=Adl1em4ab5CkXElXEgrH-EVzQq1xl36DofyzeT6fxIyUGXEB2lxhkU3HBIK0zqvYZvo&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Rp7JYu_6eXHyJ-fe8qJDpw&oh=00_Afu3SHcXZi89ygN87SBx59zH5ksf-Jiwk_sQzMUJCFILyg&oe=69944C5E"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-march-4-maximizing-your-summer-break-2026",
+      "permanent_image_url": "https://i.ibb.co/Cs8tyMr6/Crimson-Education-029727c3.jpg"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-02-13T02:10:58.867861",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "우리 아이 커먼앱, 입학사정관 눈에는 어떻게 보일까요?",
+        "입학사정관은 커먼앱 각 섹션을 어떻게 바라볼까요?",
+        "따끈따끈한 올해 스탠포드 합격 커먼앱을 구성했던 실력파 입시 전문가 단독 초청!"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/622822417_1088837063367774_7107157125057200309_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0rpXHxd4tjAQ7kNvwH8JXvM&_nc_oc=AdmfyardSVQ3B6Ez91eP3tGuO1eZvzM9jJAu3MoVIQ2VMHQ71sQWuDH_dVGIKNIMzhY&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Rp7JYu_6eXHyJ-fe8qJDpw&oh=00_Afvb0MxPzWv_9wCG2_ES54A9fIXLj7cBePqPeRVcdUAA5w&oe=6994434E"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-feb-28-common-app-review"
+    },
+    {
+      "index": 11,
+      "collected_at": "2026-02-13T02:10:58.917793",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "[✨HR 무료 웨비나] 주재원 파견, 단순히 업무 능력만 보고 선발하시나요? 2026 글로벌 시장에서 '대체 불가능한 성과'를 만드는 LX인터내셔널의 주재원 선발·육성 전략!",
+        "• 연사 : 김승재 | LX인터내셔널 인재확보·육성팀 팀장",
+        "• 주제 :2026 주재원 선발·육성,"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/627711734_1249218430752260_2639471162579713957_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UudBmyjubCwQ7kNvwHku_wR&_nc_oc=AdkfDiwFxj5sYWn6vTw1eC8oKjRtGqi6vrGAqC2QFTg5PRe2HXAcba0yKW2K0oVL8vc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Rp7JYu_6eXHyJ-fe8qJDpw&oh=00_AftJ_2jTrkxtoVtfAHh1MdFOkXktnYGA1bMLdtzFL0xOHA&oe=699441E7"
+      ],
+      "landing_url": "https://ringle.recatch.cc/workflows/rrowqgdtdg?utm_source=fbinsta&utm_medium=cpm&utm_campaign=b2b-webinar-260226&utm_content=v01",
+      "permanent_image_url": "https://i.ibb.co/LHRfFKs/1-1-70a62afe.jpg"
+    },
+    {
+      "index": 12,
+      "collected_at": "2026-02-13T02:10:58.968164",
+      "page_name": "ZUZU",
+      "ad_text": [
+        "또 “작년처럼 하면 되겠지” 하고 계신가요?",
+        "HTTPS://ZUZU.NETWORK/",
+        "또 “작년처럼 하면 되겠지” 하고 계신가요?"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/628527139_1219125393677786_2719228609449154084_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sPJtT6KyEGIQ7kNvwE_RJU-&_nc_oc=AdmR5z4ewm6Z5cGCcCM-CrPd0BbJIQtNPBXNrBmHUTomuyYRw-SJV8yM0UCbmerqICA&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Rp7JYu_6eXHyJ-fe8qJDpw&oh=00_AftxXe-Cu6g0Q1tHqza8jIqJq3d1U4HIKMmiZYoCqKBCgg&oe=69945622"
+      ],
+      "landing_url": "https://zuzu.network/resource/promotion/webinar-annual2026/?utm_source=meta&utm_medium=paid_social&utm_campaign=annual2026",
+      "permanent_image_url": "https://i.ibb.co/HL4DGMzK/ZUZU-d31e614f.jpg"
+    },
+    {
+      "index": 13,
+      "collected_at": "2026-02-13T02:10:59.020622",
+      "page_name": "RightNow Media KR",
+      "ad_text": [
+        "📢 2026년2월 <AI 코파일럿 시대, 리더의 디지털 전략> 이라는 주제로 이 시대에 교회에 꼭 필요한 디지털 전략 웨비나로 목회자님을 초청합니다. 자칫 번아웃을 격기 쉬운 요즘의 목회 환경 속에서 디지털 도구로 사역의 균형을 잡고 성도의 성숙과 성장을 확장하기 위한 목회 전략을 소개합니다.",
+        "특별히, 2월 웨비나에는 목회데이터연구소 지용근 대표님(한국교회 트렌드 2026저자)의 특별 강연이 진행될 예정입니다.",
+        "라잇나우미디어 활용법 등 모든 궁금한 점을 해소하며, 지난해부터 새롭게 도입한 교육 프로그램(소그룹 퍼실리테이션 과정)을 소개하고 목회에 도움이 되는 여러 디지털 도구를 함께 소개해 드리는 시간으로 구성됩니다!"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/625158651_2347228302407991_7217682527557492175_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Let2L4ZkFikQ7kNvwGSrs4D&_nc_oc=AdkmvuoXQpULcNIeSMwnefWeBl0tikUoBDGgn6_sr7m1jlNnO4a88sR1XCR7oXnzJPA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Rp7JYu_6eXHyJ-fe8qJDpw&oh=00_AfvU5wfdiuzeVYl4EJgxV_6B5saHGTbCNBwK3Q6jedvVVQ&oe=6994438E",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/625871020_912963911286259_7733640276135924536_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TJRgkiGzVYYQ7kNvwEbpE5-&_nc_oc=Adl4igmfbwhMx-fQVWuw38BPMVnf3lbrdjcRHOScu021MKIJUFmUSfylT-bD7vq3jyo&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Rp7JYu_6eXHyJ-fe8qJDpw&oh=00_Afv9av_hm9Q2tiHwGxlBrtRgHpmTxT564QQ4ha3a7Nfjbw&oe=69946104"
+      ],
+      "landing_url": "https://forms.gle/B5vgNvg6vVFdZZen7",
+      "permanent_image_url": "https://i.ibb.co/QFgQRvD2/Right-Now-Media-KR-c46b3a0c.jpg"
+    }
+  ]
+}
