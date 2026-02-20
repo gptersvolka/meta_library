@@ -1,0 +1,197 @@
+{
+  "collected_at": "2026-02-20T02:01:27.312958",
+  "query": "ai 교육",
+  "count": 12,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-02-20T02:01:26.531230",
+      "page_name": "교육 페이지는 한국디지털컨버전스협회과(와) 함께합니다",
+      "ad_text": [
+        "교육 페이지는 한국디지털컨버전스협회과(와) 함께합니다",
+        "방송정보국제교육원에서 영상제작, 영상편집 분야 실무교육을 받고 취업해요!",
+        "취업준비생 여러분, 기초에서 심화까지 교육 및 취업 지원을 받으세요!"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/617384190_1371457158088708_5150183053500736242_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1ub4zUgNaFEQ7kNvwGvp5mT&_nc_oc=Adk7DLFxsAfklBfwZ6zkdYmeiuvAoTnfFx8lyQ6C2P-OP-SesXIIS4NcLW5_v2Pb1nw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=v3kqYQ2L2LmJmEeRoiiuxg&oh=00_AfsDSVgy0u5UnT1MWswxJYRtijlIbeKgfx8NgyTu8XNFeA&oe=699D851C"
+      ],
+      "landing_url": "https://forms.gle/Fg3k8PFMB4PD9hz78",
+      "permanent_image_url": "https://i.ibb.co/LHbtf9p/57d368da.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-02-20T02:01:26.584321",
+      "page_name": "인프런 - 기술을 배우고 나눠요.",
+      "ad_text": [
+        "인프런 비즈니스 구독 서비스 OPEN! 🔥",
+        "구독 서비스 도입으로 2025 하반기 교육, 한 번에 정리하실 교육 담당자를 찾습니다.",
+        "📌 기업 규모에 맞는 정산 방식, 예측 가능한 예산으로 간편하게 구독"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/514671085_1231853575091324_6239890698465867443_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JiPhSgRmVnUQ7kNvwGLqVnE&_nc_oc=AdlXKESmqbXMsLd9P4lhJJJnDcpGWazluGXlNVUdDJuW-JpbDAcg2tOLyeQR_JEtaas&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=v3kqYQ2L2LmJmEeRoiiuxg&oh=00_AftCSas27-HZJg0dhmNchalM9p_aqAxmaVHF7n8bYIfF1Q&oe=699D9284"
+      ],
+      "landing_url": "https://www.inflearn.com/tag-curation/common_tag/biz-subscription-intro?utm_source=facebook&utm_medium=display&utm_campaign=traffic_b2b_subscription2507&utm_content=_etc_all&utm_term=_250701_v4",
+      "permanent_image_url": "https://i.ibb.co/WW4GcR5t/505f7520.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-02-20T02:01:26.630545",
+      "page_name": "한국gpt협회",
+      "ad_text": [
+        "엄청난 프로젝트 비용, AI가 1000원으로 대체? GPT & AI가 여러분의 업무를 혁신적으로 바꿔드립니다.",
+        "HTTPS://GPTKOREACLASS.COM",
+        "텍스트 이미지 영상을 한번에 AI 올인원"
+      ],
+      "video_urls": [
+        "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m69/AQMSVlkJC0g2dP-jNPyHF3jQAJ_DK0bAgN7HIe5e5erHNXpCuJroh2TDWcm81EdIFyAiQNzJaz6CsrKcx-SIB1ot.mp4?strext=1&_nc_cat=104&_nc_sid=8bf8fe&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=xdHY0G3427sQ7kNvwG7BX05&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNjQwLmFzaWNfaHExX3NkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo3NDk0NDQ3NzQ4MjMyNTgsImFzc2V0X2FnZV9kYXlzIjoxMDEsInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjozMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=v3kqYQ2L2LmJmEeRoiiuxg&_nc_zt=28&oh=00_AftPGVMktuqZh9XPqjbyC6WMR9gq3L_DLihXSYjFc3Qxjw&oe=699D959E"
+      ],
+      "landing_url": "https://gptkoreaclass.com/courses/gpt-ai-standard/"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-02-20T02:01:26.672647",
+      "page_name": "스팩 : 스나이퍼팩토리",
+      "ad_text": [
+        "- 내일배움카드로 수강비 95% 이상 지원",
+        "- 실습형 교육 + 프로젝트 6개월 커리큘럼",
+        "- 전 과정 교재 무료 제공 + 고사양 학습장비 무상 대여"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/615280014_1269175701930840_1952108110120257288_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7BprAeZ5y9wQ7kNvwEiGgvl&_nc_oc=Adnk3LLH1PQq1Xnnh6xEsYqorB9LYwUaXmNKKlgBU7TXVA28RqMi1nessYB1XI74Q4w&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=v3kqYQ2L2LmJmEeRoiiuxg&oh=00_AfuS5N3EReG2nvb8lG3bvIQTwkgyr2MSISx_2n8u2hyV2Q&oe=699D8FE6"
+      ],
+      "landing_url": "https://sniperfactory.com/course/kdt-kakaocloud-5",
+      "permanent_image_url": "https://i.ibb.co/x8dWJwdc/18fb0b4d.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-02-20T02:01:26.720207",
+      "page_name": "스팩 : 스나이퍼팩토리",
+      "ad_text": [
+        "- 내일배움카드로 수강비 95% 이상 지원",
+        "- 실습형 교육 + 프로젝트 6개월 커리큘럼",
+        "- 전 과정 교재 무료 제공 + 고사양 학습장비 무상 대여"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/631123796_933224345896777_896246206562516008_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m3VxWguC1jAQ7kNvwHsRXEY&_nc_oc=AdnImqxY7EjpyANqZYjYpvgGsBehcUItwaC4RoSRNm0ui5zpooNPwaOZsnfsVu8rhao&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=v3kqYQ2L2LmJmEeRoiiuxg&oh=00_AfvgkkpqE1FYqrG3IM9XktCn1PlnBiDz8c3oiZIJP3JKSg&oe=699DA6E0"
+      ],
+      "landing_url": "https://sniperfactory.com/course/kdt-kakaocloud-5",
+      "permanent_image_url": "https://i.ibb.co/S4cbS0xP/8b81ba00.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-02-20T02:01:26.766733",
+      "page_name": "교육 페이지는 한국디지털컨버전스협회과(와) 함께합니다",
+      "ad_text": [
+        "교육 페이지는 한국디지털컨버전스협회과(와) 함께합니다",
+        "방송정보국제교육원에서 영상제작, 영상편집 분야 실무교육을 받고 취업해요!",
+        "취업준비생 여러분, 기초에서 심화까지 교육 및 취업 지원을 받으세요!"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/616832852_1542090433711491_3106132779891981975_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1t8cmnAsEl8Q7kNvwEgGN9u&_nc_oc=AdkpoexDZO7mhh4k3MBtG300lQxTSN2dyMjDjqKjp2O1ndjptLX8BGqX9hf09-trxe0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=v3kqYQ2L2LmJmEeRoiiuxg&oh=00_AftnvjusU9AGdu2PYIBZz8q-vcjhQZD_CJV20xZ5vI_8qQ&oe=699D9E48"
+      ],
+      "landing_url": "https://forms.gle/Fg3k8PFMB4PD9hz78"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-02-20T02:01:26.816604",
+      "page_name": "오즈코딩스쿨",
+      "ad_text": [
+        "📢하루 5천원으로 배우는 AI창업교육!📢",
+        "일 잘하는 사람들은 모두 활용한다던데 어렵지 않으세요?🤦‍♀️",
+        "차세대 창업가를 위한 AI 리더 캠프가 지금 열렸습니다!💰"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/599939597_1279876410840951_4635114876477772138_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RE1jtaCPES8Q7kNvwEsZQFH&_nc_oc=AdmCW4Lz5WIP0EMGeRE6Q1TK_GPQ0On1w4K6qnvh2rjdLFxu0jrDSW66Rcy6lC-AZeg&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=v3kqYQ2L2LmJmEeRoiiuxg&oh=00_AftLj4bT-AarY_tzM3RjWJuKNZSlku9MSrHJxlkSxRP8sQ&oe=699D8234"
+      ],
+      "landing_url": "https://ozcodingschool.com/ozcoding/aileadercamp?marketing_channel=META&utm_source={{site_source_name}}&utm_medium=da&utm_campaign={{campaign.name}}&utm_content={{adset.name}}&utm_term={{ad.name}}&utm_id={{placement}}",
+      "permanent_image_url": "https://i.ibb.co/fRkwBcc/284299d4.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-02-20T02:01:26.862651",
+      "page_name": "KAIST",
+      "ad_text": [
+        "KAIST에서 배우는 소부장 경영 전략!",
+        "가장 앞서가는 기술과 최신 전략을 습득하세요.",
+        "KAIST 소부장 경영자과정 1기 모집"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/624143746_892570196469355_5564635397232038085_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=juqZ5GshdEkQ7kNvwG2KMhf&_nc_oc=AdmyVOW4CjMcnc9EOHG5C6wxkMtEV6K8I8X4wbuZJ4TazJz9kOs0XHd29RvF2bCpj5E&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=v3kqYQ2L2LmJmEeRoiiuxg&oh=00_AfvMk-rQ71yzyOFvV7mYCHsAsL3nxKSlxAHsgifPDJO7Rg&oe=699D77FA"
+      ],
+      "landing_url": "https://www.business.kaist.ac.kr/programs/02041001",
+      "permanent_image_url": "https://i.ibb.co/rGYXWQvY/KAIST-521db605.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-02-20T02:01:26.904951",
+      "page_name": "삼성스토어(Samsung Store)",
+      "ad_text": [
+        "*자세한 내용은 본문 이미지와 신청 URL을 참고하세요",
+        "*클래스 신청하기 : https://www.samsungstore.com/clss/smartAcademy.sesc",
+        "🎓갤럭시 AI 클래스 스마트 아카데미 2월 교육 프로그램 오픈! 직접 보고, 배우고, 경험해보세요"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/626486471_1952014992331751_7814772650178752649_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hUQGVkua4kMQ7kNvwEqvx-1&_nc_oc=AdnFg4raDepsClnwTSx2ZXwu90C4qiy2FbSxGVAakCPJrNpEm2xM8RAXfmokv5Q-C04&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=v3kqYQ2L2LmJmEeRoiiuxg&oh=00_AfvGVjwVxWxcHAhMI8lV1hg4Ucv90Tw1KJvNwZplaOmczQ&oe=699D77CE",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/628001398_834309489642790_3627623824086271056_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uTK-9irUTTkQ7kNvwHwBMOn&_nc_oc=AdnjpMNv6EONY3v_lwdVnLTNxL5PIr1L947qyC9-mkxr1VGQp6yNg5eEOb3SzccSn5E&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=v3kqYQ2L2LmJmEeRoiiuxg&oh=00_AftcyAFfsQB2y8exheZy33HXSWtaWZEfHBMemW77L6OtqQ&oe=699D77E7",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/622804275_1716285386447589_1128471431986175250_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LuaoiEZ3npUQ7kNvwEr1EdS&_nc_oc=AdncDsERXFV2gLFIHgnOCyVw5ijPQPQayBiMD6Mc3IfzlAZNNqYFuecQu98xlvGtIDE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=v3kqYQ2L2LmJmEeRoiiuxg&oh=00_AftfsQHr_bClD_zcweY_p6vGtnnFuLN1jiyHOsy5zh5Hqg&oe=699D8965"
+      ],
+      "landing_url": "https://www.samsungstore.com/clss/smartAcademy.sesc",
+      "permanent_image_url": "https://i.ibb.co/FN0J1xf/Samsung-Store-62f2a75b.jpg"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-02-20T02:01:26.978160",
+      "page_name": "경기도일자리재단 경기IT새일센터",
+      "ad_text": [
+        "🎨 디지털디자인 포트폴리오 랩(LAB)",
+        "실무 중심 프로젝트로 완성도 높은 포트폴리오를 만들어보세요!",
+        "✔ 일러스트·포토샵·인디자인·피그마 실무 마스터"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/631661772_1621001512261584_4620163204018996886_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jWza65FyTbUQ7kNvwFjAiE4&_nc_oc=AdkzGimvcG581VtFqLSGutaIeGSDM9ZPb8lIXH-HbEDrAbOCPbLiWmODl56sDNp6sfQ&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=v3kqYQ2L2LmJmEeRoiiuxg&oh=00_Afvw922mi0U1Grom09NOPcuLs4t5Fm50n906ga6Z3KXOnA&oe=699D8D0E",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/630406074_2734940353524363_739069689571638941_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-Xs9wA6OuUcQ7kNvwG4jN3M&_nc_oc=AdkhNdr7Ay-zacMgSaIidG5lDuF36eAu-ioXshLdHKNtuWEvwutecCs5BlbeOmAJJws&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=v3kqYQ2L2LmJmEeRoiiuxg&oh=00_AfsnONdgBIS7c-LKJkWhKiCp6cGVeNuBClaAIh8gHnMpAw&oe=699DA736"
+      ],
+      "landing_url": "https://apply.jobaba.net/bsns/bsnsDetailView.do?bsnsSeq=5103",
+      "permanent_image_url": "https://i.ibb.co/LdRRcrdT/IT-2735379f.jpg"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-02-20T02:01:27.037404",
+      "page_name": "스팩 : 스나이퍼팩토리",
+      "ad_text": [
+        "카카오클라우드 AIaaS 마스터 클래스 5기 모집 🚀",
+        "👨🏻‍💻 클라우드 개발자 성장할 수 있는 기회!",
+        "이론부터 실무까지 '올인원' 커리큘럼🔥"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/615387452_3277434169100098_7585780529367194890_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pSQQ5DyWgsEQ7kNvwEu5vE6&_nc_oc=AdkvIBxuZ_ft8VtwHcv-fslEfXZfGJISiz_P6VrpWuWB9QnQpmgmQulTsbxxE1seCoM&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=v3kqYQ2L2LmJmEeRoiiuxg&oh=00_AftopSuMsAjQMJyB1cBWrOa2uesLwsZzmsQpasjGV26Etw&oe=699DA102",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/615812251_4303033959926099_442106998285584511_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wB78kwjxNHsQ7kNvwFMZreT&_nc_oc=AdndNSEoBEIvkemFFBA5j6TY4ccfZPntHwbzFfs5mtzfPPOGTsIoFNyxndnGqPWT-oU&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=v3kqYQ2L2LmJmEeRoiiuxg&oh=00_AfsKQohBi0X8qigNxyCua4KOZft9Zqx_8eH8xGl7fne1Nw&oe=699D868E",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/615482585_1149376750494757_8812855769332273164_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oodOjBGc7Q8Q7kNvwH_8uCO&_nc_oc=Adl2KBmX_mXqnAQp8gJ-u7GV8IRvx3V6rCGENL9gBdvGzar2LTJdHOWIua5F9tTSu9U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=v3kqYQ2L2LmJmEeRoiiuxg&oh=00_AfvTZSunGhmJb6OQ6bwYo89qMluEBW3t2ndaGdENdoWihA&oe=699D92C1",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/615480405_1421938779602018_3981821926811924088_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lCegrmcWCXcQ7kNvwF1syDV&_nc_oc=Adk1MPE1HqOF8U5mPhS0OzhGAiKREySsFCTWIlo1lB-3EcwB2rkfwrohTfvGZBvk63E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=v3kqYQ2L2LmJmEeRoiiuxg&oh=00_AfvTARLPtI72YxGQ9yzYEfTQ3nMajFAHHrWkJGqWXbUPYA&oe=699D9AD3"
+      ],
+      "landing_url": "https://sniperfactory.com/course/kdt-kakaocloud-5?utm_source=instagram&utm_medium=cpc&utm_campaign=260112",
+      "permanent_image_url": "https://i.ibb.co/qLmR57sr/75894e20.jpg"
+    },
+    {
+      "index": 11,
+      "collected_at": "2026-02-20T02:01:27.126722",
+      "page_name": "솔데스크",
+      "ad_text": [
+        "🇯🇵 일본 IT 취업, 지금은 ‘IT’가 대세!",
+        "단순 개발 스킬보다 실무역량을 갖춘 인재가",
+        "일본 주요 IT기업에서 가장 주목받고 있습니다."
+      ],
+      "image_urls": [
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/619339310_892638516499697_7704418312129394783_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xOfbDhfInvQQ7kNvwHZrqYB&_nc_oc=AdmIxVlhmdycgBhdtvkhcHDmKXyY8ODteHY6uDDREOk96FsOoK9EOCzPL_ddwc4vxDY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=v3kqYQ2L2LmJmEeRoiiuxg&oh=00_Aftb1NjPcLyqAQ-CVTPWNhuFw1smMSs-m09OCPVhCC-U0A&oe=699D95F0",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/619228208_869309842572810_6001664504991924700_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6dMjG0nK6iwQ7kNvwFO1AgW&_nc_oc=Adkfx2j9C8DSVeOTYJQr5WuTGaV36m1iqB1D3mC_KjbZ2_jfbS_IxSb1DFPJYNwdAy8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=v3kqYQ2L2LmJmEeRoiiuxg&oh=00_Afue2aX-YPi4Ki-VTh7APmIioYgBvMmTRvQEyUxgzG0GTA&oe=699D85AA",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/621178393_1139584648079320_8333570995123176615_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C6aPX4kCw2MQ7kNvwHkhTHh&_nc_oc=AdnJxkDGviLrLhHOKy-9rPbwAIpJbGLYtm23rT1OcZhh4-2bysGwgd9TWiqofmxIIlc&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=v3kqYQ2L2LmJmEeRoiiuxg&oh=00_AfuzdnZ1Rpilrk7Y-vDRD_VbEBH9PB9m5MOmPkCv6T7Mww&oe=699D8C71",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/619148500_1194505016210846_3838186853263617145_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LFAxI5Ecc5sQ7kNvwHcUaLt&_nc_oc=AdlALJJRS9NDUDjTOoknZ-IoU4oV9qZ2EDeF6rjJU_Fi8zi6gKxUVs1yHluo05VxhLc&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=v3kqYQ2L2LmJmEeRoiiuxg&oh=00_Afs2pK2XTYYScpWREzDevlKNn-E-tzgAt3EfppeSoGAbmw&oe=699D9A56",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/619825764_2124427931707484_7359877843186773116_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GLnGL3GF76cQ7kNvwFubE2q&_nc_oc=AdkDxIC84SSxxwllUcUzutA7TfolpILI-53HtWz1bEdiQVwemcqI11H0HIDr_Hb5jE0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=v3kqYQ2L2LmJmEeRoiiuxg&oh=00_AftKP5g99RW68_zwZeW7cAQDxsvuJjf_ypqhdD-jToV1tw&oe=699D87C1",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/619743282_1914112669180023_8599926805279342821_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eSNpPCoV0gcQ7kNvwEudyA2&_nc_oc=AdnTDvSr2JFZVYvYDhnhQ4P3DG2iME5HD09ci53rLpI_SDkA-2DuKymBC7ZH_piXzCs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=v3kqYQ2L2LmJmEeRoiiuxg&oh=00_AftqhJGki_SBqxzvgJiiRSoWy8l77bI63j011AmE74p04A&oe=699D8957"
+      ],
+      "landing_url": "https://forms.gle/7d7fh5JtZfMnydXL9",
+      "permanent_image_url": "https://i.ibb.co/jkpb2QMC/ae679829.jpg"
+    }
+  ]
+}

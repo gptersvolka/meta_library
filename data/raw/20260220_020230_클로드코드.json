@@ -1,0 +1,104 @@
+{
+  "collected_at": "2026-02-20T02:02:30.949256",
+  "query": "클로드코드",
+  "count": 5,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-02-20T02:02:30.277710",
+      "page_name": "짐코딩 클럽",
+      "ad_text": [
+        "📢 2025 인프런 어워드 수상 & 특별 할인",
+        "\"요즘 쉽게 돈 번다는 식의 강의들을 많이 보게 되는데, 막상 들어보면 알맹이 없이 가격만 비싼 경우가 많았습니다.",
+        "\"AI 도구는 거의 매주 변화하는데, 강사님은 새로운 기능이 나올 때마다 즉시 반영해주시더군요\""
+      ],
+      "image_urls": [
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/625899581_1424594765712915_5487906978157734653_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_NCnOeVdWEoQ7kNvwH0csqg&_nc_oc=AdkEO6HqNaW8V8Jud_nr27dgxgtHVBKbdK94peVsvkh8TIvI2fqepoHg9_yIvNiYArU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_Aft7AakerlCIZ1TefXksqd31iMt93cUcAKv5dwfaIBf-Pg&oe=699D7DEA",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/625905337_1572909640642336_8735992937858784808_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=97ekzI3ppPIQ7kNvwHkNcw2&_nc_oc=Adk2u7Jk92vUI35De3Qwq4tPfPhMwFPEW0mD1bXKkRxR4BZy7XDEwnD3x1nftD_HB9w&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_AftzfpIQUG2tYSxFpUYTOF28WLyGrVCRPxf1eYHk0YiinA&oe=699D95C5",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/627937116_1259811246069063_3714772014387637576_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XGOFrzNPM_wQ7kNvwEAeSzU&_nc_oc=Adm-h-DSVcQTUIFxgLISRlzb6mA7YahADU4SfXoO7-xudPiVgTx88gdxzyPyLjD_qKE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_AfuM1o5qFlp7Hb5aZmLodCPxDGtT_ZqfoLbcUV4gzjQsFg&oe=699D8AF9",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/625859720_1257634416292819_8406085989059907752_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9OJwETHdT-sQ7kNvwHWQq6G&_nc_oc=AdmD7btfGENcAtjaA4RM67zxk9FWY_HOshiupDF7Naj2OK1ZxsdE4gOoBYcQeIIzNMY&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_AfvERKLlDoRogkvFGXmz7qUV_DCQOf7N72oetLTe8mq7Cg&oe=699D9BC1"
+      ],
+      "landing_url": "https://gymcoding.co/vip",
+      "permanent_image_url": "https://i.ibb.co/n81RhrvG/eb0d93d2.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-02-20T02:02:30.383630",
+      "page_name": "짐코딩 클럽",
+      "ad_text": [
+        "🔥 클로드 코드 강의 출시 15일 만에 100명 돌파! 🔥",
+        "\"Cursor 잘 쓰는 비전공자였는데,",
+        "이 강의 듣고 Claude Code로 정착했어요!\""
+      ],
+      "image_urls": [
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/627782406_791825850096882_3190161828888779945_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=M_5nu3uiLiUQ7kNvwEBvnKH&_nc_oc=AdkKkcm7_8UUmUn9nq-gkstEbf4AnZOPzDkJ3_kVo0HMXhXMo-h6ZCI2MquHZJjh5Mk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_AftqetG0eT8fkjTejPvYeNsdLwye65AabaWs_N1uma31aQ&oe=699D9F72",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/626301531_2051465689043469_798942782110610541_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Uc6bb4PfxusQ7kNvwGjLhIe&_nc_oc=AdmcTLZRxONAvdJXq4-IbSotaJtzl2RJCycP4K-rwMSsql7onk6eeDxIDQHWW-uwlKc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_Afuv1gRZAjXOrZlK8OH1SiwBa7oNyGRTTA-k5h-ZPt7cIg&oe=699DA30D"
+      ],
+      "landing_url": "http://instagram.com/gymcoding",
+      "permanent_image_url": "https://i.ibb.co/Vcc4421t/3e90ac61.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-02-20T02:02:30.450731",
+      "page_name": "Hanbit Media",
+      "ad_text": [
+        "저는 회사 직무가 디자이너 쪽이라서 코딩을 한 번도 해본 적 없는 상태에서 AI 코딩 입문서로 바이브코딩을 배워 봤어요.",
+        "​이 책은 처음부터 끝까지 따라만 가도 결과물이 나와요. AI 도움으로 웹 앱을 직접 만들어보는 구조였어요. 코딩 울렁증이 줄어들었어요.",
+        "​제가 혼자서 클로드로 대화해가면서 바이브코딩으로 만든 홈페이지 화면이에요. 아침에 일어나 홈페이지에 접속해 날씨를 확인하면 그날 어떻게 입으면 좋을지 옷차림을 추천해주는 홈페이지랍니다."
+      ],
+      "image_urls": [
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/616017991_1253338943281836_4206992870271741971_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DA8BuMD9SuIQ7kNvwEBYMTb&_nc_oc=AdlEfbjeVWniN-0rGB8Nblz61O_UX7Y6spG1lcMfDUmhtov2rjOAN9HCCjvPH9SB3NI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_Afsr0cIvbIYP4AafewMuEzTRxpGQDr6KdovJiGZCqWW8YA&oe=699D7744",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/615423962_1065060172454405_9053214915639672302_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GVBxUCD8hpYQ7kNvwFqb16W&_nc_oc=AdkgqoPI0DPNvu8q4lm3uuNJbL51AwWf5KGvlbmEADLDRfbn5lqvgjq-qc2ndDxFiy8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_Afvm8FaexB1_Nbaj-fAa2u8XEETzchIv2R8ug2Hdbn8yIg&oe=699D9510",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/615163491_738050755619898_3990112961131026489_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2k1p9iS-zS8Q7kNvwG0gylY&_nc_oc=AdkC8g0xF7d76MrnsweJbrw27n6gqMvYeRLpBQjpQ9PBA6bkVQkHRQxqOVu9I1wFsHM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_Afs_HXUrxuEcWVVF4Axv3QX0LrSo6Ova7dlr3CskQvcJBA&oe=699DAEC9",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/616286056_897296729488210_9178930107407360381_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iQI4CGFr1NAQ7kNvwGNCDt5&_nc_oc=AdmeFEbNJChPz-v4is2EUyNrid8eo1olhebrdMQego4XT1iS6SPiVnU6BHW2EH5Qoow&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_AfudtF6jC51TuOXjUPr0HRra9hg74HAqHAnwaq2Ypfs32A&oe=699DA863",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/616312382_1944029652850878_5686021390285832516_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=J_yfeujz5bUQ7kNvwG0KNow&_nc_oc=Adm-cQE-l-k9kxlSufC7MLfaR6wXO9MQhA22e6jHAsT84YaN1nm3GD_d1Natjd-FehI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_Afs8B6tExANv_NOuERiXSu8SksZYWIbNb64INA-BAC4zQw&oe=699D9728",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/615957866_2747646615586742_1641083426059276669_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=I13uV1D6eekQ7kNvwHmd6Ey&_nc_oc=AdmlLdXjuNDir4DQdvkwAnYV_XIuxL94n1cThaq-OcU3cawsNjqW7goXingjm-2HUS4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_AftOi0RwglIlxgJ9JCzbEhx6BcQuoTOwqe5leJxvFsRYSw&oe=699D99A1",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/616281296_2643161749389695_6464456736958980570_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KIFB7Tc3vIcQ7kNvwGotJ9M&_nc_oc=AdmYOTgh54NTJE90rCVEPx2VjnaKn7wt1E-4U_ACgNf7tPuzs1OkGEnJSa6vS60_zkQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_AfuOo9DdsmAp8hfj_QOFm8fIUdJ92YKcyM9fU5j_pm5nJA&oe=699D87B2"
+      ],
+      "landing_url": "https://blog.naver.com/oh_so_fruity/224138271601",
+      "permanent_image_url": "https://i.ibb.co/60Nfmjxt/Hanbit-Media-7ad6df31.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-02-20T02:02:30.592274",
+      "page_name": "패스트캠퍼스",
+      "ad_text": "비전공 디자이너로 시작해 3개월 만에 수익화까지!",
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/629440771_1587898665692060_2738060325435261092_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UiEdNL34pUAQ7kNvwEgJDIY&_nc_oc=Adm1YjaqTzf7N8lD8nuwZrJ0TWnNUAugr1l4WPNIWTOYtBcX7QgP5DzkNwSO7mAX-ak&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_AfsKQOFZC8Y3jXQpVRP_lde9oeH-3wD8f6d5D_5AAyiNhA&oe=699D98BE",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/627856724_2203017593568811_5083550391881922127_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZfMGI3MLRA0Q7kNvwHxZXFG&_nc_oc=Adk5W3HU1oP-Ow-hPeZTcPKUM8bEpgKVAs_9GimrJicOycN75FpyLjNC0Sg0ENafmbc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_Afsifgo4LWmhGrOO7iriiJFFBDP8DuMmzuqw-qSp6fS2aQ&oe=699DA948",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/628369974_1438337081137405_1215483374332515972_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_8knTwJq7bUQ7kNvwHXQKzK&_nc_oc=AdkbMExw3KpnaOGjUmqA0pWi2X-Fcpt4yVNvaTfFj9OuW8ic9tURg06A6fdHZ-k_oGQ&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_AfuE5iLfCuQK36QFX6ufujZ26YWx5tF_sNyc5KnhcB8GeQ&oe=699D94AF",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/629519563_861665120201776_2933193866020181751_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jRIHDHWRka8Q7kNvwHtIp4_&_nc_oc=AdmVqWizaEFGqkilCT5Zoe4iHBAy9h2QkEoqEiOMfXmczjCR7OLTz7TF2JAgHfoBSrM&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_Afs038dysriBt4yZN7vrUjpRrcTXFiUGvm8GL-f2xXMJWQ&oe=699DAF04",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/627861820_803573342752989_8317466520335575459_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8LwOUIV4YYgQ7kNvwERTHsi&_nc_oc=AdnMzkoE7xoJqZKcXh02b5APV5X2cELN0b09FLSM9JhOyDDbBVhQT954__betehpveU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_AfulT0ZfXsMssQ02atIDcbNyMgOq3v1kwgtq_1S2wGFiCQ&oe=699D8671"
+      ],
+      "video_urls": [
+        "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNmdj3dEIooLPdwXv711yq7ir86bphqF_-V75KNW-fwO28C7BBIHHUY--QluthWexT8SeAM8qj4DheLCNocqifMyN6iC2cTL0oId2PQXQ.mp4?_nc_cat=108&_nc_sid=8bf8fe&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=S-G2JJcQjFAQ7kNvwGY1bju&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU2NTExNTc1NDczODgxOSwiYXNzZXRfYWdlX2RheXMiOjE0LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&_nc_zt=28&oh=00_AftZdC_ttHB5GQb3_VaETDrIkvu8qVQILbt09tr5W3KYLg&oe=699D973A"
+      ],
+      "landing_url": "https://fastcampus.co.kr/biz_online_gwonvibe",
+      "permanent_image_url": "https://i.ibb.co/1JdX6j8n/6d681ca9.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-02-20T02:02:30.719713",
+      "page_name": "Hanbit Media",
+      "ad_text": [
+        "\"클로드는 원하는 프로그램을 얘기하면 알아서 그 프로그램을 만들어주는 사이트이다~!",
+        "할리우드 유명인 토너먼트를 만들어보겠다~~ 얼굴이 나오면 더욱 좋겠지만 초상권에 따라서 이름과 이모티콘으로 나오는데 넘 귀엽고 기발함 ㅎㅎㅎ 다들 클로드 한번씩 써보시길 추천한다~~\"",
+        "혼자 공부하는 바이브 코딩 with 클로드 코드 리뷰"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/615267583_1155764136375355_484557350958894587_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jGFsdYKtyTsQ7kNvwHiDuu1&_nc_oc=Admd6j4Ty0BkdvDv1Um_SqMbYPNQsmvjZGBObA7pDzMiSqz-ah9rCyFWh2U5qaAp7d4&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_AfuPW1I9Upz2dfA1FnSrg3Wf-5HKGnZj0QXqCSQluWoTeA&oe=699D9DD6",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/615975580_2089317758574870_7210661533321657537_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_1UnpCVELhEQ7kNvwHcfv9f&_nc_oc=Adm3mi6QErZu759iAfglDx0Ny90ZhC79dUXtprlKD9APFNdow64cqy75YJRsy4qTpWw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_Afsx2xC48o6mJKo_SORLqTO03CidT81tljkPIOKAPXRyAA&oe=699D92E3",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/615202492_897591572614165_1569922728906950336_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cbFwi8GVpXYQ7kNvwFv_m68&_nc_oc=AdmZUVOg8VKabTH1J8Vai7pwfLHbgMZLQEy76Q7IsPwwLndZczZ-Q6HVrnr2GPZwnng&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_Afv8rvqPZMZOnEr4Ce34swfsczZ5IG6UJP5kYubOR4Yv8Q&oe=699D9095",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/615734149_4449899041959455_4498116351086741151_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LXCniphh8KQQ7kNvwFbb6_S&_nc_oc=AdlQUQ5xn4b3eOg1eCbi5eNT1j3vtR9iwyX7lk1nzBnY95aPLAwIr0FaKrMr1oC4D9s&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_AfsCO7lrk1Dzwoy3hACs1Pi2fgNRONh2vPupjne5lUTZrQ&oe=699DAE42",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/616811479_1784106032906225_989068670264519699_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ziielnr7aFgQ7kNvwGvEirW&_nc_oc=AdktRG9m9GwnsoRo9J38O50-HYmC6wnU_zBC217dUMY1p36YJ893jJaIX9AL3dpV8a8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_AfuLyIkbtj143zMMkRdTzhnA0gKPY8MJycHQvmuo05CRYQ&oe=699D9493",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/615416332_1941212540104858_3209986540898201991_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qaWDWVUc5b8Q7kNvwEAQ5Mm&_nc_oc=AdkWE9hCN_pBKuPnj4ay4yHQ7Yd_aBn0tFVRH7lM2Wt21_5FsV5vuykNbUOPhUdcGcU&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_Afs2EbQ2gkNm16Dk54fqzp7o1t6lxjtFhmwhp5ywkCJoGA&oe=699D8970",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/615054061_2025778794633417_1371608496912774488_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rA9ZLeIVpT0Q7kNvwFOFWlJ&_nc_oc=AdmBFVRMHiLxOpCSlHNOYot-xzhMOMriUk05SSIigQNFKmZq5soA6keaF51YCMAVKVQ&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_AftBOYpjmEG-bR5-KqRNzZ7abGEpEIn5ty1LObTP-p9Dhw&oe=699D935B",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/616511416_1455583999552973_8920289786064378903_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7vMS6THOwawQ7kNvwHpdUmS&_nc_oc=Adlvgtcemn6Sh-2MRkTw3j8xxY1-xHhGYeM9cOGxDLlPJJXjctoJcy3u60e8dito_nE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_Afu2bOmqG6jt6LDR3pNsZmj3YVgO1_JLJFarjC_XpdwTAA&oe=699DA6BF",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/616040825_1268201021787810_3142761579785852210_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ljhKvym8Yh0Q7kNvwG5FIoK&_nc_oc=Adnb54crRKMEobUduscn-Y3B1Fbw5raiZOBfuvAQLlxZhNbcmHes7Lhb1OCRz5iPKwU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=JgxEIO4SdlvGpItArnDMzQ&oh=00_Afu8r87-BtpyRr340glWZzB5e2Y8QcTdYBXG9mnLtrbQdA&oe=699DAB87"
+      ],
+      "landing_url": "https://blog.naver.com/gkzl67/224138327430?fromRss=true&trackingCode=rss",
+      "permanent_image_url": "https://i.ibb.co/W47WR322/Hanbit-Media-d83bc857.jpg"
+    }
+  ]
+}
