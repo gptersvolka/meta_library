@@ -1,0 +1,256 @@
+{
+  "collected_at": "2026-02-23T02:06:58.126104",
+  "query": "무료 웨비나",
+  "count": 16,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-02-23T02:06:56.953998",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "✨ 국제학교 자녀분의 코앞으로 다가온 미국 명문대학 입시 준비…",
+        "미국 입시에서 Common App 작성은 곧 시간 싸움!⏰⏰",
+        "꿈의 명문대 입학사정관의 눈을 단번에 사로잡을👀"
+      ],
+      "image_urls": [
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/544995989_1311938777240584_7643198229873328322_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=41ZZPFxtWQ8Q7kNvwEzoHrm&_nc_oc=AdnLUNVJhwCkuW1iDwy-PJumR0cFLdRaAEaQHub8eElOgz1Pa5_WzZEkSQ4_VS-287Y&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_Aft5YuTAB42GB0oMgbWhmzfUj1IIUZBA7ir083k3eu4GWA&oe=69A16D5D"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/resources/webinars-workshops/",
+      "permanent_image_url": "https://i.ibb.co/vCp0k8Pj/Crimson-Education-183d965c.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-02-23T02:06:57.015053",
+      "page_name": "Factsheet",
+      "ad_text": [
+        "[스타트업 IR 전략, 혼자 준비하고 계신가요?]",
+        "\"우리 회사 적정 밸류에이션이 얼마일까?\"",
+        "\"어떤 지원사업에 지원할 수 있을까?\""
+      ],
+      "image_urls": [
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/628605062_4684084428579051_7760326425660446903_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mM5zIujRG4sQ7kNvwFeDGps&_nc_oc=AdmC5EnkysLaHh2Q0YcQgoFKgdGO3AoBgI0pzio4dF7jrsnqqg2F-LICuS0xNd0c2q4&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_AfuVGtRObYFZPHmSCdCHmSJ-v9gWY3buWkSDVRLCQovdJw&oe=69A18E89"
+      ],
+      "landing_url": "https://forms.gle/utAhVuKC4nNgNmva8",
+      "permanent_image_url": "https://i.ibb.co/prbXmGhm/Factsheet-c651eb82.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-02-23T02:06:57.074885",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "✨ 국제학교 자녀분의 코앞으로 다가온 미국 명문대학 입시 준비…",
+        "미국 입시에서 Common App 작성은 곧 시간 싸움!⏰⏰",
+        "꿈의 명문대 입학사정관의 눈을 단번에 사로잡을👀"
+      ],
+      "image_urls": [
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/544498933_1686715765330737_9216432937402814786_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rkVjIq4kIEIQ7kNvwFKXDbj&_nc_oc=Adln9kbJ8i3MFgyEdwPzF2-KJSmPpGtsgwMvh2k4LXpOm-3vGXczwzvQFRtilruEYWY&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_AftyuLdH3iBi7pepTAeDHWYAmIgc7Wq_UIj-ujDlrjfcXg&oe=69A18338"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/resources/webinars-workshops/"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-02-23T02:06:57.130713",
+      "page_name": "SMART TECH KOREA",
+      "ad_text": [
+        "AI 도입, 어디서부터 시작해야 할지 막막하셨나요?",
+        "피지컬 AI 트렌드부터 데이터 설계 전략,",
+        "우리 비즈니스에 적용할 수 있는 AX 전략과 사례를"
+      ],
+      "image_urls": [
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/633887953_1315328780355878_8249315521954471828_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NoNYKHKPyGgQ7kNvwGKb09L&_nc_oc=AdmH6UpZCX16WtTfkHjrVhJ-KYK9KvCvUYZr5lclJkbcv3OXys9hbfIpNJUyL4yO8o4&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_AfsKaPCtnL-OWsrhVPnPEaiAdzv0VWf24N3Q8xYO_LVFDA&oe=69A1714E"
+      ],
+      "landing_url": "https://smarttechkorea.com/webinar",
+      "permanent_image_url": "https://i.ibb.co/CppQQNdd/SMART-TECH-KOREA-c40b62af.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-02-23T02:06:57.185174",
+      "page_name": "스파르타클럽 - 미래를 돌파하는 힘",
+      "ad_text": [
+        "취업 메가 인플루언서 & 채용플랫폼 CEO가 공개하는 단 하루 취업 웨비나 🔥",
+        "에어팟 추첨권 | 이력서 템플릿 | 탈락 자소서 분석 자료",
+        "26 상반기 채용 대비 무료 웨비나 OPEN🔥"
+      ],
+      "image_urls": [
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/637671234_1653952825763772_6671536769196701548_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ifyZKfX5cecQ7kNvwGjhuWI&_nc_oc=AdmHxMmCgqAO5tIfKYm1hvBSxEx2aEnNrqzqH5wXXmhW45HHI0mtZZoBiqJJIRkpiYs&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_AfttFV8jJoXhqiy2mbMs3LSuSUFYweRFBYKIExkqhTR3Gg&oe=69A17909"
+      ],
+      "landing_url": "https://nbcamp.spartaclub.kr/202603-webinar",
+      "permanent_image_url": "https://i.ibb.co/JwnZc799/83864216.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-02-23T02:06:57.241438",
+      "page_name": "에이블런",
+      "ad_text": [
+        "실무 현장을 넘어, 넓은 관점에서 AI에 대한 인사이트를 얻고 싶다면?",
+        "AI시대, 사람과 일의 변화를 기록합니다.",
+        "AI와 함께 일하게 된 지금, 사람의 역할은 어디까지일까요? 일하는 사람을 위한 월간 웨비나 시리즈 Alog, 기술 트렌드를 넘어 '어떻게 함께 일할 것인지'를 고민합니다. <지금 Alog에서만 들을 수 있는 이야기> 🅰️ 직장인이라면 누구나 공감할 수 있는 AI 이야기 🅰️ 트렌드 요약! 매달 새롭게 받아보는 레코드 🅰️ 유튜브 대신 언제 어디서나 편하게 보는 웨비나 🅰️ 이피소드당 20분, 바쁜 일상에도 귀로 듣는 인사이트"
+      ],
+      "image_urls": [
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/637716090_26109794315317317_662293297698717685_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Vomqy5wRTssQ7kNvwGy8J_f&_nc_oc=AdkXxSyWDMahzQexS11ecjpUmmIIBOwsqT8oP79c-kkeA3xcUyF5vMKnK49ce9x0ijk&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_AfviINFYcAzW78Prdv_FdFzRSO25ry6JRtHdp15WsN_D4g&oe=69A17040"
+      ],
+      "landing_url": "https://ablearn.kr/aiog?utm_source=ablearn&utm_medium=meta&utm_campaign=webinar&utm_content=aiog-260226",
+      "permanent_image_url": "https://i.ibb.co/LdN919Mz/13336200.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-02-23T02:06:57.297090",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "우리 아이 커먼앱, 입학사정관 눈에는 어떻게 보일까요?",
+        "입학사정관은 커먼앱 각 섹션을 어떻게 바라볼까요?",
+        "따끈따끈한 올해 스탠포드 합격 커먼앱을 구성했던 실력파 입시 전문가 단독 초청!"
+      ],
+      "image_urls": [
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/622740700_905452198671293_6105010546580617310_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8c934LF4q0YQ7kNvwEKVznI&_nc_oc=AdmjqRhvRIAYEsYV0Kr21YFEVZeFn_vWPgGK_3QRGxCUEm8iZxJjM7JojJuUGUyNO5o&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_AfsbV_mKq0mPjGZimauTaXahgf0Ez6Egwhp1PFSYDdLpPg&oe=69A19EDF"
+      ],
+      "landing_url": "http://fb.me/",
+      "permanent_image_url": "https://i.ibb.co/nMZXKpVQ/Crimson-Education-8df71452.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-02-23T02:06:57.350826",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "84% 지원자는 이미 성적 A를 확보했다는 사실, 알고 계신가요?",
+        "스탠포드 합격 판도를 바꾸는 여름방학?🧐",
+        "스탠포드 입학사정관이 실제 인정했던 여름방학 활동부터"
+      ],
+      "image_urls": [
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/628393952_1551223245960540_4899268538905903358_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dNIXnfa1TGkQ7kNvwEYynqA&_nc_oc=AdmZEzyHbwvKCl_q9JBfH-rjWREsLbk-fqB0ekf_uK3CsIaHlQEYoDIoAoce096dUVA&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_AftP-lDmfUQ7Jy-wSHkYY81cjw6dgWA-GzZ6rXRez0IIeA&oe=69A17B5E"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-march-4-maximizing-your-summer-break-2026",
+      "permanent_image_url": "https://i.ibb.co/p66kJK6n/Crimson-Education-029727c3.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-02-23T02:06:57.404135",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "우리 아이 커먼앱, 입학사정관 눈에는 어떻게 보일까요?",
+        "입학사정관은 커먼앱 각 섹션을 어떻게 바라볼까요?",
+        "따끈따끈한 올해 스탠포드 합격 커먼앱을 구성했던 실력파 입시 전문가 단독 초청!"
+      ],
+      "image_urls": [
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/622822417_1088837063367774_7107157125057200309_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hqVnkbGLu-kQ7kNvwFPxUdk&_nc_oc=AdmNAOwNdTW06qx1niTGit9WZcoDIALpyEyhXywX0-1jl42ZVFQvCngqS7ho11oXIfY&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_AfvOD5VM2qlb1E2bYiInAzXqyuezjwM3ARw503MHtDx6Ag&oe=69A1724E"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-feb-28-common-app-review"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-02-23T02:06:57.457209",
+      "page_name": "Impactive AI",
+      "ad_text": [
+        "🎁 비용 0원으로 시작하는 AI 수요예측 혁신",
+        "\"팔릴 줄 알았는데 남고, 살 사람 많은데 물건이 없네?\" 🤔",
+        "재고 관리의 핵심은 결국 정교한 '수요예측'에 있습니다."
+      ],
+      "image_urls": [
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/636812920_2118866102243856_7692956442029163709_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nbxmcDQVd6IQ7kNvwE9lwB3&_nc_oc=AdnJ7mxamoIur6rEt7hFH1wrvyiuJCuRyM0mR6gzkpNSVyP_rGFXqVyD_PbVV5zwCsw&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_AftpaT3srBZkQc3gWEql4OA7qq6In3yo9VPGTuH7b_SKlQ&oe=69A19521"
+      ],
+      "landing_url": "https://event-us.kr/m/120979/50063",
+      "permanent_image_url": "https://i.ibb.co/nsN3FqbW/Impactive-AI-21a34565.jpg"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-02-23T02:06:57.511508",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "84% 지원자는 이미 성적 A를 확보했다는 사실, 알고 계신가요?",
+        "스탠포드 합격 판도를 바꾸는 여름방학?🧐",
+        "스탠포드 입학사정관이 실제 인정했던 여름방학 활동부터"
+      ],
+      "image_urls": [
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/629340742_1712152416989810_815963008056311161_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yt0KFiMvqEEQ7kNvwF8WTtO&_nc_oc=Adnqzkhj8d7ewBiWemuzY1rlFs3MshTiCbws8z85ulUTBpcuTPkiDHR9xrGvkGutJN0&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_AfuFRPjCFVj2GdvkYt-q7XrSE3AIieUqbxiJQA9bWUtBzg&oe=69A16E40"
+      ],
+      "landing_url": "http://fb.me/"
+    },
+    {
+      "index": 11,
+      "collected_at": "2026-02-23T02:06:57.566969",
+      "page_name": "WhaTap Labs",
+      "ad_text": [
+        "국내 1위 모니터링, 와탭랩스 핵심 기술진 총출동 무료 웨비나",
+        "와탭랩스 개발 리더들이 밝히는 AI 옵저버빌리티 기술",
+        "단순 모니터링을 넘어 AI 시대에 맞는 옵저버빌리티 전략이 필요합니다. 와탭랩스 핵심 전문가들이 전하는 인사이트를 2/24(화) 무료 웨비나에서 만나보세요."
+      ],
+      "image_urls": [
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/625371927_877162868495665_3137964967276693159_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=arexw2veUbIQ7kNvwG0HlfS&_nc_oc=AdmGbKvtngdL9qOkL1jt_ilyj45sS0OnKdp0JvimkOfXyTSb2rt44DPcqw83pMZhG4U&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_Aft4FMpUmgr1OBZlYKB87GHymziVqyv8J3IPi45UCEnYLQ&oe=69A1914A"
+      ],
+      "landing_url": "https://contents.whatap.io/ko/wos_talkit_1?utm_source=meta&utm_medium=cpc&utm_campaign=[2602]meta_talkIT_webinar_KR",
+      "permanent_image_url": "https://i.ibb.co/RpnWBx8C/Wha-Tap-Labs-0d074a73.jpg"
+    },
+    {
+      "index": 12,
+      "collected_at": "2026-02-23T02:06:57.621041",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "왜 커리어는 앞으로 나아가는 느낌이 없을까요?",
+        "이직, MBA, 창업… 선택지는 많아졌는데",
+        "지금 필요한 건 정보가 아니라 방향일지도 모릅니다."
+      ],
+      "image_urls": [
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/631870674_838221019254622_6162539622507023144_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YbpeHZc7lu0Q7kNvwFnmses&_nc_oc=Adlq_Zc9zVPjt-07r3DRWqITJWn8hAfN1SI23wgBHUdzwIWB-PIgpQV3xcAPpXwggQ0&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_AfueABqU1tnxLzAj096KDBDQ7Vy2tmnKhmkeMxyqGsUzUA&oe=69A188DE"
+      ],
+      "landing_url": "https://www.ringleplus.com/ko/student/landing/event/detail/global-carrer-strategy-ko?utm_source=fbinsta&utm_medium=cpm&utm_campaign=plus-feb_webinar-sh-260211&utm_term=gen-new-purchase-kr global-ko-img&utm_content=sh_webinar_ef_03",
+      "permanent_image_url": "https://i.ibb.co/G45P3PS8/1-1-5aa6ffa1.jpg"
+    },
+    {
+      "index": 13,
+      "collected_at": "2026-02-23T02:06:57.678064",
+      "page_name": "한국온라인마케팅연구소",
+      "ad_text": [
+        "📢AI숏츠실습 3월5일 무료특강, 90분 숏츠완성",
+        "📌AI숏츠실습 3월5일 무료특강, 90분 숏츠완성",
+        "AI도 써봤지만 어디서부터 시작해야 할지 모르겠다면,"
+      ],
+      "image_urls": [
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/630867255_1428450438921333_1093531465614688519_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nkO2zhF9uy4Q7kNvwHEf9mI&_nc_oc=AdnqyhnXKuSggQK11Az8kep7YRsKRk0NXsM6AJiQO5xwT8HLmRGkRAFyYQ_hddI6nEY&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_AfvvJ6hxettbXpQD1QSigOzVa0nRSHOPBo5V4COQ_FpAQA&oe=69A19CAF",
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/631744874_1407849884688719_4106700968845146272_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oPSLLSQGDbQQ7kNvwHC6VNZ&_nc_oc=AdkwbVO4dme-n7F2ESt8mET6Ic2Zp6rSg-12Aj6EnO9UWY6t_NQpex1YwimLsJZ1E5E&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_AftyUBv9fAnEBXZ6R1nKY6ofwYlyR91drrob_E0YyjoN-A&oe=69A18B7F",
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/632787330_759598750539255_993201344050552800_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Hcxv6penRy8Q7kNvwEG5hd3&_nc_oc=AdlJQUli9h2U_v3urASt7CNq9bHliJ2ZH4M2FeWjrjaimCTepwaBdxlWNZkeUAlwXlo&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_Aft0FRwxmk8nBwmT2E4uO9m2U8Iw0mt-ABGCxk_u3rSXMg&oe=69A17014",
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/633378464_893752400029061_4449827511111456952_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jybf-WDuRHQQ7kNvwFzjvlA&_nc_oc=AdnEYdMQHF2vNKqwHkl-tS-IQg84Cdrg0JtGru_yG45-i2_YrTtgJ3ZE5oIezu_5I0c&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_Afv8hcmqfLSVubVWX6ynqavXU7FclONgag1wEY3ayWLGLg&oe=69A1A39B"
+      ],
+      "landing_url": "https://app.gomawartalk.co.kr/koream/content/749",
+      "permanent_image_url": "https://i.ibb.co/yFL6GYGP/8220d9c7.jpg"
+    },
+    {
+      "index": 14,
+      "collected_at": "2026-02-23T02:06:57.798616",
+      "page_name": "RightNow Media KR",
+      "ad_text": [
+        "📢 2026년2월 <AI 코파일럿 시대, 리더의 디지털 전략> 이라는 주제로 이 시대에 교회에 꼭 필요한 디지털 전략 웨비나로 목회자님을 초청합니다. 자칫 번아웃을 격기 쉬운 요즘의 목회 환경 속에서 디지털 도구로 사역의 균형을 잡고 성도의 성숙과 성장을 확장하기 위한 목회 전략을 소개합니다.",
+        "특별히, 2월 웨비나에는 목회데이터연구소 지용근 대표님(한국교회 트렌드 2026저자)의 특별 강연이 진행될 예정입니다.",
+        "라잇나우미디어 활용법 등 모든 궁금한 점을 해소하며, 지난해부터 새롭게 도입한 교육 프로그램(소그룹 퍼실리테이션 과정)을 소개하고 목회에 도움이 되는 여러 디지털 도구를 함께 소개해 드리는 시간으로 구성됩니다!"
+      ],
+      "image_urls": [
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/625158651_2347228302407991_7217682527557492175_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8QaNcp6_7doQ7kNvwG-ru_E&_nc_oc=AdnQ41rmO9Xx3nS5X5Igw8ZbL0XoOA0_mK4hebk0p0lK4gnv7BJqmegU7xvP0_uacXU&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_AftZx1Ho47iNKst5tPwDHhiIpuQxH1LU9tWjicLgxezDoQ&oe=69A1728E",
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/625871020_912963911286259_7733640276135924536_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fSHuyGTX0P8Q7kNvwFWsCB0&_nc_oc=AdnPbj7v4Wiiij8pTtA0j9lBtra4XeYk7WZwbliq0cDODX4dN5_x1CAbmGLv49vNERA&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_AfsT6t4nzq3DgLJ1kC5fWI06vvuLJw4EFD54Xwe8oAXACg&oe=69A19004"
+      ],
+      "landing_url": "https://forms.gle/B5vgNvg6vVFdZZen7",
+      "permanent_image_url": "https://i.ibb.co/bMq0CC4c/Right-Now-Media-KR-c46b3a0c.jpg"
+    },
+    {
+      "index": 15,
+      "collected_at": "2026-02-23T02:06:57.878879",
+      "page_name": "더밀크 The Miilk",
+      "ad_text": [
+        "2026년, 테슬라의 미션이 바뀝니다. 일론 머스크가 말하는 '놀라운 풍요(Amazing Abundance)'는 단순히 물건이 많아지는 것을 의미하지 않습니다. 그것은 인류가 수만 년간 겪어온 '희소성 경제'의 종말을 뜻합니다.",
+        "이번 더밀크 웨비나에서는 이 거대한 담론이 우리의 지갑, 우리 기업의 공장, 그리고 우리의 일자리를 어떻게 바꿀지 집중 분석합니다.",
+        "더밀크 웨비나로 테슬라의 미래, 머스크가 제시한 비전의 실체를 확인하세요!"
+      ],
+      "image_urls": [
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/637744649_1620747345731737_508008598739116552_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HWoMnAD1wiYQ7kNvwHnNDop&_nc_oc=AdkHUW70tdMe2G8OVPv_6FUrFPExXtFT9icqKiYnr1k76rG9ne8mvL8a_04Q5WlbmzE&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_Afva_QcWbxjA8GWnUozAxhtwEskjNFCLJaLgNl91NWDJjQ&oe=69A185E6",
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/634056704_902586189024367_9101432711200114041_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WapMNV_ooE0Q7kNvwEpf8aR&_nc_oc=AdniMJKOn7LZsyCXKMaNimvr8txw0mWjHniFjkdJtG-oHeEwKUulC0a98HRy2zQxteE&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_Afu15Xg7w40zWIbKiqXklwH-WfR3L6Qq4M-K-WONDrrbzA&oe=69A1A20F",
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/634043425_1718062892911701_496336178123819954_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=APx4INb9boEQ7kNvwEkcpSU&_nc_oc=AdmiIboblfkw2bWtEbBUzoOZDNWZygLh_pchRL5iNRyu3Te5bReK7R2parG716xfj9A&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_Afv0fBgy23Fg1cMTFybHukDngpcqEaxhIXUUh4J93nNL1A&oe=69A17555",
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/634672577_1221747093499776_3150213678967304561_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hRN5l0F6af8Q7kNvwG6syHZ&_nc_oc=AdkuY0oVEq3LejH2QCZ6_fJPkQ9rhEjIWECobiYRr5jZXtNjCqwCn4E0t7Fw3qVUS0o&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_Afv1Ph8Axu6I6msoK6viemcRfgS5dB2hLJl3iTVgrgEzXg&oe=69A17C5A",
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/637048778_1249133213839158_240176296389199978_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WaKVpdojEjwQ7kNvwEvzQKu&_nc_oc=AdkgcgNJf8ibL4Ddnj7Xvb6rS16XIK6qXcrTbGjN81F_LZr8noFzZlxhnjbQQ6tK1Xs&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_AfuOfStR02yBkkOgSxUKaXed-cOlstZYuBmpxurUBgB2Kw&oe=69A1794A",
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/636170748_1597544478059805_7189216080737787730_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DmnajkLk8nsQ7kNvwEc6Fh5&_nc_oc=AdkzOSdmSq_dTYm1SlO56l2XKrWQe9txz5Lm4PfVHIreH2uH9Y471RrIOJ11ab4hdBM&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_Aft7VWhnGkIZ3OdWJitNuMExIBSvb8E4FA0YjMTGve2Cyw&oe=69A18393",
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/633473277_25989606100725440_6700107818613121859_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lkVEiHonJakQ7kNvwFp53uz&_nc_oc=Adnb1wAcFXQza1oNKusYGhmXtd9wcRLBDLPMtDrARDUwSaFayZ0dMX5sZoGQwQguJy4&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_AfvpdN9_8KgPrAxU92y4WAjUzk28wZun8fjHPAOOMFoDjg&oe=69A195ED",
+        "https://scontent-ams2-1.xx.fbcdn.net/v/t39.35426-6/634752251_1223511819409773_8062575754107456185_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vko-ApwYPKYQ7kNvwEsVidh&_nc_oc=Adk8TL91a8qtYfeyejii9vRgnPU46xMN1kNZY3kkJDyvH5dV6hmGsMsyNqPsqmPA1yg&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=odYntiU70AlH9auqNAtuQw&oh=00_AfurISsgarLPmDblDCLF6Tk_-JjmEbEByBJX8GN3XL_WYw&oe=69A19BA1"
+      ],
+      "landing_url": "https://themiilk.com/events/77",
+      "permanent_image_url": "https://i.ibb.co/LDKWpQ80/The-Miilk-baba1faf.jpg"
+    }
+  ]
+}
