@@ -1,0 +1,151 @@
+{
+  "collected_at": "2026-02-27T02:03:05.907811",
+  "query": "ETF",
+  "count": 9,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-02-27T02:03:05.172215",
+      "page_name": "직장인의 모든것",
+      "ad_text": [
+        "회사 다녀도 내가 가난했던 그 이유...",
+        "챌린지 1기 등록하고 월급쟁이 부자되자!",
+        "20대 20억 자산가 🐰래빗해빛 튜터🍀와"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-3.xx.fbcdn.net/v/t39.35426-6/600922857_2096156927793411_1969847858612294871_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LkS8cfclge0Q7kNvwGNJf3B&_nc_oc=Admve_Wd9RiblusEy8irFpLERoMyXpzM3aSEJ44Nh5dGIDEikdF9wH3rC-rmB4PEt5M&_nc_zt=14&_nc_ht=scontent-dfw5-3.xx&_nc_gid=wfuSrmZcik4mwsk0_ZilTw&oh=00_AfsZjteWbLOlMBvTJNlX1fgEzHHtA3bT_5Wj__hcLA_zaA&oe=69A6CBC9"
+      ],
+      "landing_url": "https://taling.me/mkt/rabbit_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=rabbit_purchase&utm_content=재밌게1억&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/m5NpHsNG/8e6126ca.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-02-27T02:03:05.228424",
+      "page_name": "KB증권",
+      "ad_text": [
+        "KB증권 2026 연금저축 새해맞이 페-스타",
+        "지금 KB증권 연금저축 이벤트에 참여하면",
+        "최대 200만원 신세계상품권을 드립니다!"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/626963188_1448933893459915_5651629885631627886_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1NmIAe3Un3cQ7kNvwE67d4T&_nc_oc=AdnhHVPXPep81zQDLsnsgmU0bncmLA9y672XFtrvyhGADghjDhIl0MGTXxbig7MTFM8&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=wfuSrmZcik4mwsk0_ZilTw&oh=00_AfsC-EndpjjBw_-Umxsa78o-HdOIfkz1xlj9SZPmdiU45Q&oe=69A6B1DC"
+      ],
+      "landing_url": "https://m-able.app/k16vne",
+      "permanent_image_url": "https://i.ibb.co/mCDZY6GS/KB-df185d37.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-02-27T02:03:05.285259",
+      "page_name": "퇴근할래",
+      "ad_text": [
+        "오직 월급만으로 20대에 20억 만든 래빗해빛과",
+        "‘60일 월급테크 챌린지’ 함께해요! 🐰 💪",
+        "매일 딱 한 번, 재테크 미션을 수행하면"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/599004321_3075030999351058_6284044378428700054_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jNoNRZehXjUQ7kNvwFz9xDq&_nc_oc=AdlIKdnuOSwEj4crOskTbuptI4YgKtGNduXRQISq17TTw6IM46JzVhGupW40G9uWS9o&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=wfuSrmZcik4mwsk0_ZilTw&oh=00_AfsGVtzHRjYe6qZhqiTy8ab4nCLPQgXQpxhht9AFxhV54A&oe=69A6DAB1"
+      ],
+      "landing_url": "https://taling.me/mkt/rabbit_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=rabbit_purchase&utm_content=래빗해빛루틴&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/JWZKsF89/cd32a494.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-02-27T02:03:05.337582",
+      "page_name": "KB증권",
+      "ad_text": [
+        "KB증권 2026 연금저축 순입금 이벤트",
+        "지금 KB증권 연금저축 이벤트에 참여하면",
+        "최대 200만원 신세계상품권을 드립니다!"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/626724715_1360811175814644_6733520912093786993_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uQHcEcOZ39AQ7kNvwFh6xTD&_nc_oc=AdnjFfp7p4xFsO2_uQHQGA8yw00ajUiHx_N-D5hA0QFogTCYwiY14Scv1Sc23rq9LhM&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=wfuSrmZcik4mwsk0_ZilTw&oh=00_AfvH8d8JNZcVD7t_NAXs5K4dvofDRLK0uKe9avlN3Z-saA&oe=69A6B579"
+      ],
+      "landing_url": "https://m-able.app/qnet7t",
+      "permanent_image_url": "https://i.ibb.co/VcDc1kZC/KB-b033c1ec.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-02-27T02:03:05.390974",
+      "page_name": "모햇",
+      "ad_text": [
+        "4060을 위한 재테크, 지금 바로 확인해보세요",
+        "HTTPS://MOHAET.COM/INVESTS?UTM_SOURCE=FB_MONTH&UTM_MEDIUM=0418_CONV_OTHERTARGET&UTM_CAMPAIGN="
+      ],
+      "video_urls": [
+        "https://video-dfw6-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOZTe8elXHMf9pkxpmZ8wVYkOC9UFJo7yq_8A8znx5hJhePaOmp1IM2PNiqqqXM5dCZOKI_K1-gil1lniXcHnRvQXQXNPrjSi3_dJCBVw.mp4?_nc_cat=103&_nc_sid=8bf8fe&_nc_ht=video-dfw6-1.xx.fbcdn.net&_nc_ohc=4sqDiPaAQp8Q7kNvwEDMHaA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTA2ODgzNjg4NDk2MzQ3MSwiYXNzZXRfYWdlX2RheXMiOjIwNCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=wfuSrmZcik4mwsk0_ZilTw&_nc_zt=28&oh=00_Afs9pC9iLjzwj1dTwI0FDgI3VPI0M1gT3GRDnQRtlCsb5g&oe=69A6CBD3"
+      ],
+      "landing_url": "https://mohaet.com/invests?utm_source=fb_month&utm_medium=0418_conv_othertarget&utm_campaign=plus_250806_3_5"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-02-27T02:03:05.440238",
+      "page_name": "재테크는스크루지",
+      "ad_text": [
+        "스크루지가 직접 알려주는 재테크 솔루션💪",
+        "20만원 상당 재테크 템플릿 무료 제공!"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/548210534_1475318613512864_6455853012658869933_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=45Aks5crS6sQ7kNvwGvfvW-&_nc_oc=Adm5dYrAyxQOXJNVb-IOFJLFmdxgoqCPvC5MxV9PigepQSNTwkQw2dH1SPv-5fTjKzc&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=wfuSrmZcik4mwsk0_ZilTw&oh=00_AfviyxoV7u2n2j2D2jyffDQLDgM_EHcujIn51QVXV-KztA&oe=69A6E8E2"
+      ],
+      "landing_url": "https://taling.me/mkt/skluzy_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=skluzy_purchase&utm_content=스크루지루틴&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/KprM9NS6/df33210c.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-02-27T02:03:05.493580",
+      "page_name": "1E1A",
+      "ad_text": [
+        "매일 카톡으로 경제 뉴스를 보내드릴게요!",
+        "경제 용어와 알기 쉬운 예시로 쉽게 이해하는 매일 하나의 주요 경제 뉴스",
+        "💬 언젠가로 미뤄둔 다짐을 오늘의 실천으로,"
+      ],
+      "image_urls": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/619061843_2388501794918215_2599548515014047853_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1ITQifwI2ZwQ7kNvwEjA5Fw&_nc_oc=AdkaMgNMA2mazczfF0b4hlLzshAHfTx6BcI4kgpxUOMmXijRsIloNtJlcvSIsSFsI34&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=wfuSrmZcik4mwsk0_ZilTw&oh=00_AfuLRU2b-xe2Hmhq1zdcsP01r2cLWj7luU5AJY7Xz9fabQ&oe=69A6D87E"
+      ],
+      "landing_url": "https://1day1message.com/shop_view/?idx=20",
+      "permanent_image_url": "https://i.ibb.co/sp5WcGC5/1-E1-A-ecea67e0.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-02-27T02:03:05.531484",
+      "page_name": "한화자산운용",
+      "ad_text": [
+        "한화자산운용 PLUS ETF 순자산 10조원 돌파! 🎉🏆",
+        "*금융투자협회, 2026.02.11기준",
+        "내가 PLUS ETF 순자산 10조원 돌파에 요만큼이라도 지분이 있다! 하는 PLUS ETF의 주주를 찾습니다! #EVENT"
+      ],
+      "image_urls": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/631495074_4250823258568855_7437592071383527647_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=az4nq66D4ZMQ7kNvwGLA1Ir&_nc_oc=AdmAYiLzEO7zOM3WACbk8K5q_7U-wlC3x2Az7bvbkJGR8ldROr4GUYLGQ8VoXB9DO0U&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=wfuSrmZcik4mwsk0_ZilTw&oh=00_AfvD87_acf7VF0Go4OaZ2BkTHes7XMWv0BKRWIYADd-Rkw&oe=69A6C21B",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/631417684_923855877253988_7777014952925124410_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0NWfzXuiyrUQ7kNvwEZqcTc&_nc_oc=Adm9MxQqIyuLV8ah5FDEdQDP-uJC2sXwIDUgdvaIHLeztRqHg_4ie6pEKoHhkte8rFM&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=wfuSrmZcik4mwsk0_ZilTw&oh=00_AftDajLuVA26N5edW4nuXNMcOhKhtd0-AK6BZY_lre8tLQ&oe=69A6DBF6",
+        "https://scontent-dfw5-3.xx.fbcdn.net/v/t39.35426-6/633385307_679468305188649_2901183933063848435_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Hzkbp3WpLwAQ7kNvwF1f2jw&_nc_oc=AdkkeDj7iZ6uOOVO4vWGeBP4qQgbgUvbM-lUVfO5g5R7ZAaVXaEaLCSo6cEty4NEVEQ&_nc_zt=14&_nc_ht=scontent-dfw5-3.xx&_nc_gid=wfuSrmZcik4mwsk0_ZilTw&oh=00_AfvTD7Z8DqjPZ856fkAkASiffdidlM5iDb7NsNStGhJhlg&oe=69A6B7D8",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/633452985_2389509308169104_3709424887916940432_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TYHEEU82Z1oQ7kNvwE3ARJg&_nc_oc=Adk8862JI1jdyN6C9JgbQhjmXIrZXOFLXTQvFf6C1gGPDa-UC-pC0sOBe9JP_p0oMGY&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=wfuSrmZcik4mwsk0_ZilTw&oh=00_AfvjNOJHAq_olwK9jhcm0VGbOu8EhTdP_cgff-pEiCiVww&oe=69A6C536",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/629731505_885120720963181_6497311169827505346_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AY69MDKYIj4Q7kNvwGWDy_i&_nc_oc=Adk8-Nt5wVoBp4X_a9Ah2SUflEobMnli2i3HVPtFrWGhRlOemtnMMynqgWKY6v83_dA&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=wfuSrmZcik4mwsk0_ZilTw&oh=00_Afua0r_YEHo9iVHstvY7H2HQCINFDlmHQAUypREdk-zm8g&oe=69A6D3F6"
+      ],
+      "landing_url": "https://www.instagram.com/hanwha_asset_official/",
+      "permanent_image_url": "https://i.ibb.co/Mx7x2yC6/ba2dc262.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-02-27T02:03:05.657592",
+      "page_name": "한희재 페이지는 현대백화점문화센터과(와) 함께합니다",
+      "ad_text": [
+        "한희재 페이지는 현대백화점문화센터과(와) 함께합니다",
+        "현대백화점 x 재리가 준비한 주린이를 위한 1일 특강 📈",
+        "주식, 도대체 어디서부터 시작해야 할지 막막하셨다면"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/640276331_1226442965805136_3635975920071651924_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ud4NcvLAjDoQ7kNvwH-MhmS&_nc_oc=Adk8-bKxO4wMxGbbZXKxCeaiMH3goEZdX63AwegduQSS8x1yB8Rmd1G0Qugxm-HU4ms&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=wfuSrmZcik4mwsk0_ZilTw&oh=00_AfuryaOatVoU2Lr5JRaI1ATgf7AfsEHmleqUH3op0HYhyw&oe=69A6C081",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/617538131_1170842904938375_216836385610955245_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2Xe0L14gehoQ7kNvwFmtvq6&_nc_oc=AdlE6pKsK8XDojhC_CgvuxMM6KH7gHLQYMFZCS40UnYtOGqZcHLEaT1RSUMDcA-xF2E&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=wfuSrmZcik4mwsk0_ZilTw&oh=00_Afuhbo4LBOdL3nk8U_V_Neo8CtAteEko63PysgRAK-q_NA&oe=69A6BE81",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/641381424_1838505866813122_8327412947936741638_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=spqsWfWsGtEQ7kNvwFmbuzF&_nc_oc=Adnj0VLaJioc7lFWVOgbRHWnig1Dz5JK0XAxISDCnAs3yZnlOCTICYxlPSXeW6rr86Q&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=wfuSrmZcik4mwsk0_ZilTw&oh=00_AfuLa0QrAyrt74o8vQKohQ6BnFIUAMUl9CH5OJyMR-2lzQ&oe=69A6B398",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/637651816_1267462605272959_467327142535269389_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6KdokOv9XnEQ7kNvwHhJnBg&_nc_oc=AdmbMkbvpxIPo_61_QIioQWxdphbs-ONBDH013XAh7yBnQ1WS72PjYK4LgiHSKbt6TU&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=wfuSrmZcik4mwsk0_ZilTw&oh=00_AfuZju2AfZf_3FlmdQo5cRUCwRXzSA6AZdNsLZvcdO0OwQ&oe=69A6D790",
+        "https://scontent-dfw5-3.xx.fbcdn.net/v/t39.35426-6/641550749_1572067424089794_8546101815202583582_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ji2oRNViRMUQ7kNvwHRFY6F&_nc_oc=Adkgtu27LGDpyCNs-izpSCaTV2zwyRRgwTbvRu8Pvl2GsWvUUaZ-lxb_eclQzr9uNl8&_nc_zt=14&_nc_ht=scontent-dfw5-3.xx&_nc_gid=wfuSrmZcik4mwsk0_ZilTw&oh=00_AfudR0vEMUbFtdeknYl-kpmYRQjFueT50evYQiSfT0ykxA&oe=69A6D9EE",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/640441094_892293113561041_6758009594431820153_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-8s7_xxwkrgQ7kNvwFbW27m&_nc_oc=AdlgaGhLlZDhAgBxIFYgro06EUztHbLO1OZDJWr2hcEy4d_lq-Qx0leBLZKMNlYn9EE&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=wfuSrmZcik4mwsk0_ZilTw&oh=00_Aftu6EAwXg79ajgCzON-Op0SceqE7ztDupJJLD37pd8ImQ&oe=69A6BDAE",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/637321839_1567545287661658_3347410511331145436_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7H8Ju3uylasQ7kNvwF7oaT4&_nc_oc=AdmvU59N3xsaR5aRhzmDPpWt_Fgx77dYyADPADZd__ZHfLmG00qhr-FDv1ys1i0ZdvM&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=wfuSrmZcik4mwsk0_ZilTw&oh=00_AfvvDpDDce4OS9No-NAYU6mNjnVYJHpEvrYIBzO9JK_iuA&oe=69A6BBE4",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/639983339_743634981945723_9188190486403646605_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P4tFViDZ4poQ7kNvwE2SYGf&_nc_oc=AdnkuzusFqL_fh4aJR0tOfvsp8OPCeO97tCyAPhznnSqLyxpBg14eNEnUUjU-cgK2sI&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=wfuSrmZcik4mwsk0_ZilTw&oh=00_AfuD9HgNPOUbaF3eKHMgQ946i7tnx1X0Izl46Vj5qsN2aA&oe=69A6C686"
+      ],
+      "landing_url": "https://www.ehyundai.com/mobile/culture/ct_01_01_00_01.do?stCd=ALL&nickNm=재리",
+      "permanent_image_url": "https://i.ibb.co/9HPgVHnb/44714913.jpg"
+    }
+  ]
+}
