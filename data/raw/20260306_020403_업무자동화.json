@@ -1,0 +1,177 @@
+{
+  "collected_at": "2026-03-06T02:04:03.176649",
+  "query": "업무자동화",
+  "count": 10,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-03-06T02:04:01.940806",
+      "page_name": "ITUP 잇업",
+      "ad_text": [
+        "🚨모르면 손해보는 업무 클릭 한 번에 끝내는 방법!",
+        "“반복작업 힘든데, 누가 나 대신 일 안해주나?”",
+        "✅ 90% 국비지원, 수강료 45,000원!"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/624730648_772260428654872_1266569696748611982_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XHeoZSS1bYYQ7kNvwEnM5wx&_nc_oc=Adk9j8AuxjCd5dJTNwL7GL9Mr3SbPXW5kPZo8OpBGS6GSu90qOAsro2z_uERBr5gWq0&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfyDFnHJZxZ4QbOrSmmyaD9hAagbaA-6_TOGwD5MWyI7Rw&oe=69AFECBC"
+      ],
+      "landing_url": "https://itup.co.kr/rv1/k-digital/main/lecture/info?course_uid=726703&education_uid=59764&_C_=57",
+      "permanent_image_url": "https://i.ibb.co/prMYbJwX/ITUP-a0b11f5e.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-03-06T02:04:02.002083",
+      "page_name": "AI 코딩밸리",
+      "ad_text": [
+        "🫢 정신 차려보니, 어느새 AI 고수!",
+        "📢 3월 트리플 이벤트 진행 중 (~3/24)",
+        "바빠지는 3월, 더 큰 혜택과 함께하세요!"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/642392129_1943175552992960_7489363967394574038_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IUzvpX6Nj8wQ7kNvwGlh1eV&_nc_oc=Adn-taspok9jWiyqVyEmz4xI5FdjUihanCrnwgeqr-TWVndscDthgEcIXdWS2t7HJXU&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfwetpcxSG1BUTvZ2mtp2ec8Jjo6jcCtiVERVNa18PPU4g&oe=69B01524"
+      ],
+      "landing_url": "https://www.codingvalley.com/ldm/7",
+      "permanent_image_url": "https://i.ibb.co/Y76d2X9H/AI-6a9eb39d.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-03-06T02:04:02.059681",
+      "page_name": "다우오피스 HR",
+      "ad_text": "HR솔루션 1년 사용료 100% 무료 제공",
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/625201621_1223827385871342_7740550599739656986_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OVtDmPpVgvcQ7kNvwGUeEOH&_nc_oc=AdmN7ynT21ErUEW-M5uGQbmqeXbmbda2jupq805cjMUZHfoKmLm_nsmvepWH9Diai8w&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfxVElXa5xE344B9SaGXj2GiHbPoONQL76FZmOJ2hTUYJg&oe=69B0011C"
+      ],
+      "landing_url": "https://hr.daouoffice.com/tr.jsp?utm_source=meta&utm_medium=cpc&utm_campaign=latent&utm_content=allinone1&target=/2026promotion.jsp",
+      "permanent_image_url": "https://i.ibb.co/27gB9wYp/HR-0fc55350.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-03-06T02:04:02.123500",
+      "page_name": "클라우드튜링",
+      "ad_text": [
+        "(옆으로 넘겨서 스마트한 민원실 풍경 보기 👉)",
+        "**클라우드튜링 AI 챗봇**과 함께라면 현실이 됩니다.",
+        "복잡한 서류 안내부터 운영 시간 문의까지,"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/618776462_866087979665900_6835091631536878566_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=grF9SkJxnwMQ7kNvwEPaBlT&_nc_oc=AdmXSFthItXXya8I_PtH_V1amf97CS9RQWzzwn4lxqelnwC3w_B6Sfx62-H91rBF7ts&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfxYNaCOYX5ZB56zdMCqk8Wdl5OuSC2x1MEPReJD54cuHA&oe=69B01963",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/619666153_2021807331725133_6399260635567496258_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h5w1y8sxZWsQ7kNvwEag9S7&_nc_oc=AdmNV3I3v4sZLpxBhQMtzs6NEONRnfF4OeIXMgjUrbIaQK80fojL763m3WBwkcX2LTw&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfwviQ7M0Y43qdQsRlqimm_SIWKO2LQLH9C5QLTDKrQMmg&oe=69B01682",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/617073001_2071088280394041_3812616013590118569_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x-FB8fC3kqMQ7kNvwGVE30U&_nc_oc=AdlBgXXlE4L5YrBCFPrZtLUzKTm8TLQVbdbSvsLWk0ikCvj9ypUZoG7YMvYJAN8wHzQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfxZVYXGNpfE2sqrfnv0EnEk_KYjp703p0Q1NHHuzFcvzQ&oe=69AFEF03",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/618719784_1892948878250022_7819505683873666916_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-n9qiYh7IEAQ7kNvwHuZ693&_nc_oc=AdmbhDhDS5DdU_MMxuF-qvIS1xXSSy257wdj6BKcFfCEDSmZGLTxa8Q7icOzGpBdU3k&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfwGyZEeU9aniX36MDhVpMPb76L4mHYd-taR115j8b9HUw&oe=69B01EE3",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/616980453_1639091773751789_952562782757375086_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GInrG84Y7PUQ7kNvwGrX2YQ&_nc_oc=AdlYGyoFKwUjUayo5CyfrnUotpZ8FpO9WattSC_62EzVs2CkYn5GWXPAm8UblPRUEio&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfwkDzm7PlaOY8l_ms1AAXs37d0sEMrd6iStwSDbtlUpWg&oe=69AFF99A",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/619264418_1423652129225360_2931076073033158465_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4w3uAs7-gucQ7kNvwEWjYT0&_nc_oc=AdlOFpU1lUssq2UjbQ1THjpXePW5BurqYoGzMYF8o8u5sKsGohwwWreFFvqcYc30hzE&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfxhZuThhpAu9M3ash6GRBlLvERklhZTICYfCvkdQ0RE1A&oe=69AFECA2"
+      ],
+      "landing_url": "https://cloudturing.com/",
+      "permanent_image_url": "https://i.ibb.co/7dWk4BhM/2a7bafae.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-03-06T02:04:02.284326",
+      "page_name": "동아비즈니스리뷰",
+      "ad_text": [
+        "📄 보고서는 늘었는데, 왜 의사결정은 더 느려졌을까요? 🤔",
+        "📊 PPT는 만들었는데, 왜 설득은 통과되지 않을까요?",
+        "안녕하세요, 동아비즈니스리뷰(DBR)입니다."
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/633794463_1427976102207226_4367584133587168798_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IoC141q4lgQQ7kNvwE-O7Jb&_nc_oc=AdkSxJIY18tQir-iOObW5GlNYci5AfvmpBKCDEfjdxb5TdxwRnsXhmeqOODE13WWcDg&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfxuiRn-ph7UEazIzHMV3R357kRzHrEJm1muhIkhEhOUDg&oe=69B01273",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/633143525_1229099072636801_8582206274799006366_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UrQnz5i1gI4Q7kNvwGl0oY9&_nc_oc=AdkduAcmV2E5nE-leOGGJR79Q3Xg-Lrn_TMi51NNuGNSW3yJPYP_7lR_4e-iguoo3Hk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfxngqjoyvFF5KR-25_E09Qr3DJAsGicMxMQ9kjCpdCmiA&oe=69B00D0F",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/629694678_895010683235868_3426908566861621903_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QGmsTl72lJkQ7kNvwHEnNqc&_nc_oc=Adk6oYfDuMQLz37Exy8vGPogFeWhg71k6fRTElKh106_sYTdtshJu0jZfh-_ZKiira8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfyvQPA4HySmw0_-XwT-JbB83rZIJY-YKOxNriU-jA2gGw&oe=69B016CE",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/634222577_2285921838601876_2840836666775173890_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ed0Wx4CX5yMQ7kNvwE0zNpB&_nc_oc=AdmuBDFeNPS54_ZtTurXz3VSBbr3SjTWNpWAMOARzeGqVAMRMBLy6oQmnk-5ysOJbXg&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_Afzd_KosBSJyPRSE16GzQIk0gJL2JelFgU-wSwe9EoOFqg&oe=69AFFDCB",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/632860401_1268307561827862_2568159790260048108_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-ItTk9oPNcAQ7kNvwHIRN0b&_nc_oc=Adk-xzmdiV6ywI30_IxB6MpULNP0HoW7euwaHnB5dooW5bJkkhYI0dMYnsCWpXahwPQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfyEum_SvenU8fRqibfhmIcfh7maOtmU23c3X93DILO98A&oe=69B01FFA",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/633866667_4187705108208494_3508300799592370038_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rKX-ALpIcDUQ7kNvwHbblNp&_nc_oc=AdlyxqpuIQk8YUbhGgNINjIQYt9BH1g5cjk9C663mWOfyTyQ3rVqQMTEDprkQqMoAqk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfxOx1KmJv3CFCgcOigGuWueCJZ4PBBL5QUsYXK9nSlZ7g&oe=69AFED85"
+      ],
+      "landing_url": "https://www.dbredu.com/pubedu/detail/educ_no/292?p_menu_group=2&p_menu_id_sel=pubedu191201061012",
+      "permanent_image_url": "https://i.ibb.co/nTVB3Mb/fcc7b5bb.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-03-06T02:04:02.437612",
+      "page_name": "아이디어캠퍼스",
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/641477207_3286910051482971_6092921774941332784_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=y_o9S_A9O3kQ7kNvwEx-Ajb&_nc_oc=AdmgMzD5B-HWHA4DrCQJpI0zX0NNiwh0VJ6aLin5yhop5pQM6dBkPiMZBcyMDOQdIuo&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfyClzLoTfvgDJvkb8G_0-ji2iyb99SegkxRJ0nDVcA4hA&oe=69AFEE42",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/641737585_4266915863566449_573810271461589432_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PN-BW1NVBGwQ7kNvwG_x_lQ&_nc_oc=Adn3A7nGIe4oCYxpl_f39YPf13rhwYDMV7RBJwzP0GBXij2aRSBH48F854WbXcrj2a4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfyggIF_k1BaMXh0j4tuLD0We_-zwq_O6XycIkEYdsMj7w&oe=69AFF8C8",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/643449975_1817390575500511_3706463914667670992_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vQGtcuTl97cQ7kNvwHqN3na&_nc_oc=Adk44dmTF6gvIQEEVI52m6lV-bHfW2Dk6v2dM1myqmYOv-BOdwcHzN2TqQrLEdx34tk&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfxADEJY81wzjVcP9FxLtLhDTJJXkJHLKLjOIcHkqS3otg&oe=69B0152C",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/641264287_1643134530455991_1991203589170923294_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3WZa8Q2ZQvsQ7kNvwHZHVTL&_nc_oc=AdmPJCs78quAl_zku0ULa54jf1nrQtQOgjCrifxu0MIB5KoxRWSOiY_lNbkvnAyeKnk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfwwekJnMJ29BWokw1NGM5z9S2zzGHDALCZkEvTaLsksDA&oe=69B0045C"
+      ],
+      "landing_url": "https://ideacampus.kr/workAI",
+      "permanent_image_url": "https://i.ibb.co/k2dz7K40/60cd2cda.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-03-06T02:04:02.550720",
+      "page_name": "아이디어캠퍼스",
+      "ad_text": [
+        "AI 없이는 업무가 돌아가지 않는 시대.",
+        "“이론은 아는데, 실제 업무엔 못 쓰고 있다”",
+        "직무에 맞지 않는 AI 교육을 들은 것 입니다."
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/641590490_910216158267268_4628459751115824468_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4iuhm8ng18sQ7kNvwHnqX8A&_nc_oc=Adllz_fRcQPJZ6sXReShi_l1NL8BYfnNu5sZPICT0NGew1yyWP-gD2UzGMcSdqkM1uw&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfwEgGUqqe7Ec0QLYe88zMHadeiA67nuZ_03b-WZWV3vxg&oe=69B022A6",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/641352877_1565005561398216_4741940056846696671_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=g1CuLbYDXb0Q7kNvwHwXcr0&_nc_oc=Admu2O4FR4vyLf5CPHLMi1JNVlf-oDVOwES1gypMFCRjqfNJBIrl7r8ReG4z9PAwP44&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_Afz-yc4UC1PYXmpnuhevllQN4TVgUZ1_gaaiB5h5dtVIbw&oe=69B00820",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/641642318_1651732999159042_3779564931929069117_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bQAfUnK_2WoQ7kNvwFTPv-Z&_nc_oc=AdnnRzmX40oC6KztbT6QUHt69tPQLt8VSfnhMJC-Zn_Nu2_vX0QmkCsLW1IWONBsvlE&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_Afzu7kdgWKjBzkJpKcdWb1yesnUuMxdhqNcJZmD35CWl_w&oe=69B015A6",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/641667964_1463953198845850_5635830469789095720_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vcoR1GxF-DkQ7kNvwFeozvk&_nc_oc=Adnuri88lMEpYCkqwC52WrBUPGXV7tdIrWkTsFPVw3IAJDFYf_VkIATulKp2hJBUMpM&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfwpmlYH8oY4wcKl5T3dxmpp0W4qnU5WFzHrH4Y3GAyP2Q&oe=69B00BEB"
+      ],
+      "landing_url": "https://ideacampus.kr/workAI"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-03-06T02:04:02.660033",
+      "page_name": "아이디어캠퍼스",
+      "ad_text": [
+        "AI 없이는 업무가 돌아가지 않는 시대.",
+        "“이론은 아는데, 실제 업무엔 못 쓰고 있다”",
+        "직무에 맞지 않는 AI 교육을 들은 것 입니다."
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/643308515_4456499601331398_3490016207625514687_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1T__D6eLBRMQ7kNvwEqE0CP&_nc_oc=AdkpSm-85ddZ2BtEduNolQXFVmnHPnpY4bbwO1Lbw3UD4O9vJymYRP_aFkhW2rL7-Ok&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_Afzm8fU0sMcQRr-15bBV6ghMAAGVEyd8uAqSRAdlSfM0QQ&oe=69B01CCA",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/643826147_887152594107929_7248079190852432815_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Xqxag4xOE5UQ7kNvwEc4BdL&_nc_oc=Admr50ENDqDxrhvKWWxUJo8jcvltJRmvwwvWtLeG65-W8qXZuCP6qjxR9nI96HPKS2M&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_Afwg4vR6vHSV5V4Du6stuK-9YGt2BQqGyBGA-Xp-AVS4aw&oe=69B00A53",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/643831918_910357085201383_4687245982032429206_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mLXwZ7rG5vUQ7kNvwEEiBs9&_nc_oc=AdkRyMug2Qr6CfhaGDJkTt7OzBRog5XFmGNOrN9UBugJ7H2mOOUDLGuAGaw_zFzO0B8&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_Afw6QAz0Tj-vceRopx7z3kRLoQjB4BAR7UNBeuag5Wnd3A&oe=69B005B8",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/643808302_1585532566006101_1256575961844943453_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Fh125j2YJZQQ7kNvwEAuRa6&_nc_oc=AdkieTIDr1P4TSieqlGM2C3Ph9cAOJ9HJzg-L30B_l5m6DA-ApU-nuuvluQUdZw4i1Q&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfxOH4XeSnQZJ_M55_O6L7fMSP62cMVyjx1R7Wb5hoxRMA&oe=69B0149D"
+      ],
+      "landing_url": "https://ideacampus.kr/workAI",
+      "permanent_image_url": "https://i.ibb.co/tPDMwZWP/72443762.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-03-06T02:04:02.771817",
+      "page_name": "greencom_cheonan",
+      "ad_text": [
+        "[노력은 AI가, 생색은 내가! 취업 시장의 ‘치트키’ 공개 🚀]",
+        "\"자격증만 따면 취업될 줄 알았는데...\"",
+        "막상 공고를 보니 AI 활용 능력을 요구해서 당황하셨나요? 😅"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/643735722_803599225413487_5309297254104566311_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jd7Nfc7WMJ4Q7kNvwE9Ei5l&_nc_oc=Adl-LwFvv3NgxKfmfRovs3_hicDsyUPRQwl41ehk8aae_CesOFlzAluN_WlhngrpnXM&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfxM-ZSvFZKD_POIgfTtB16zxuDTiFhXkxGruI2NwXxnzg&oe=69B003CB",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/643368193_1231182285807504_6226528209639925278_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h1CA9o3sNLEQ7kNvwHvY2Y8&_nc_oc=Admz0HBgFtt83_01gwBt50XahSMv8nPjytz4KrckcIlCLrIRd0ZXokfgsBy0Hy-XBCI&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfzhgKkciZWZdTPYrbySLVz_X736SMmbc5-wR_op9ue9wA&oe=69B012DE",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/642360505_2128767704334775_8361069468760401477_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NNQGklVzu24Q7kNvwHM_D0m&_nc_oc=AdmECImS3y4raZEonLPSIFVGjZ4o6aSidPduaoLktEXdmhdaGG2q3X0-Y19cLY3ahHo&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfyvInyN1GBl99LBACR-3VvBtz8RkQPemzQs7AszOiXVbQ&oe=69B01F9F",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/641564852_1813340809350991_8764935099574906184_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1C2kigPTPAsQ7kNvwGqv4fu&_nc_oc=Adl4rbfRZWVWpUyk1zyH2TEvt0hRBnpRr2JNKooZZTRDSsUMhYWaJ5AQ_2yOHtJIuGA&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfxOvfRFyOUfFU0Sdqn7RO0hAyDWM7G1eSSo132Sh7Dhmw&oe=69B00E8D",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/641299816_1592393741985080_7769413231583431893_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Smh17TrdHywQ7kNvwGutruI&_nc_oc=Adkg9Vinb4YWwjgZS2BydxcTFrf29xKaIrfymc1LZK9v5bs0pmvfiiss5B-_NfOFitc&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfzrJ_kegb6Z_mK-DI28SVo_cDgUyn3MFsOFN3MNC_VFoA&oe=69B0139B",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/641493512_1249589610597346_6834322007797793903_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=14rXnoqJz7IQ7kNvwHpQsCK&_nc_oc=AdnhvEPiCncaO7J6NYbC2sY5P7HfADoQOQUziVEmg-IA31fr62dU6q9uY3jKLRt8b6E&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfxiYa02U5JDjNvLQQq7zPFk7Mx_0_dUYFJHNAd_Yc0HjQ&oe=69AFF79E"
+      ],
+      "landing_url": "https://www.instagram.com/_u/greencom_cheonan",
+      "permanent_image_url": "https://i.ibb.co/YJJgqLb/greencom-cheonan-9173d4af.jpg"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-03-06T02:04:02.933569",
+      "page_name": "용산 청년지음",
+      "ad_text": [
+        "[커리어 플러스] 생성형 AI & 프롬프트 엔지니어링",
+        "요즘 가장 뜨거운 생성형 AI 트렌드🔥",
+        "하지만 막상 어떻게 활용해야 할지 막막한 청년들을 위해"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/642392330_939131292403866_2351424666792808856_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oOuTXyjKkSUQ7kNvwGS-kO_&_nc_oc=AdlU3F6zKgj_rKxOX-X3RRdWqDcdBT8ZKfVNKxHDCjVdgy4eZxcXoopVolgiwswMvsk&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfwVmgY16Z_cD9x56_NlEyLUisJgDjrjZMpDKCPHk-0xtg&oe=69B011B5",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/642409164_902755866013255_597460684823330161_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GhM6a3qXNCsQ7kNvwFMwAs5&_nc_oc=AdkPveNPyb_sgoVbQq5U5zUjuT3L7o4l0CScbc7tO6dAUCR8XB-EpWPk0i-Ttv76Qr0&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfzOSyam9MlhRyiiZwodAKkzlgWbnrx6opH5CZRxtM_YVw&oe=69AFF458",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/642827345_937070388808869_6805024413103675998_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yOjpiHYFa0IQ7kNvwH-qqP2&_nc_oc=AdljzXIWcQIdI3D1uOPDkd9ULV7mn9QYXF1BX4qm2HvAUgx3_Oh9koi1r_zhoHsY-Aw&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfznJtSkGnNMFTeIFgYUU26fa2niB9RUsxZ2GVI6QPDBiw&oe=69B01689",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/641482935_2800468226962576_6300625972150431748_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KLOqlzLLgeQQ7kNvwHX1auW&_nc_oc=AdlEhkVsxx0Wo929muii3tBZKQc3uvSQMrtgDjezRKzaDMHc99tSUb_UsC3Ww8SSQlM&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_Afy6v9JaXKSvDkSYDjJEKHzu7Ra1eZWa9aLW68bVFXekWA&oe=69B00261",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/641341143_794465129749005_1274877950091520221_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hI1XZcHpYkIQ7kNvwFMdJmU&_nc_oc=AdlofSzooTz0PgoeybG1061WwZUwz2LIrqez-PkBdNHblVIK6M4jc-o4AY8p9GX_a4o&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_Afw7Kcu-rvH_LvbNMLN6HDSQSfeK7BlF01ws8dYDEbh3Pw&oe=69B00CE7",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/641450946_25491792940498453_5383753337617034671_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lDMoYbmQZesQ7kNvwEc8cqS&_nc_oc=AdnVPpJH2LhaZN9JZiLTFpvm2cmB84wOOq04uiW3zaeDjTpRNazW-gtPTwyNfsw3QQw&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=oeWJePcYbx2_F78T4MPXyQ&_nc_ss=8&oh=00_AfzelGd7hrvlEZe3aQJYMxLYW0I2YglIucbq0CvlzjaH4g&oe=69AFF33D"
+      ],
+      "landing_url": "https://miniintern.com/event/3101",
+      "permanent_image_url": "https://i.ibb.co/tT2b5Cbd/5a08198e.jpg"
+    }
+  ]
+}

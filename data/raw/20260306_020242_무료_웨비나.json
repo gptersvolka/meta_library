@@ -1,0 +1,185 @@
+{
+  "collected_at": "2026-03-06T02:02:42.405311",
+  "query": "무료 웨비나",
+  "count": 12,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-03-06T02:02:41.633209",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "✨ 국제학교 자녀분의 코앞으로 다가온 미국 명문대학 입시 준비…",
+        "미국 입시에서 Common App 작성은 곧 시간 싸움!⏰⏰",
+        "꿈의 명문대 입학사정관의 눈을 단번에 사로잡을👀"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/544995989_1311938777240584_7643198229873328322_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=i903anap4ssQ7kNvwF_8bA_&_nc_oc=AdlKpib-MZzF0F79fnA4oFzjtB5VwGPCqJK9Fo931lZ8CHCTziF9np_NCzPmx1SuPps&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=pB4cKhJqTCDmF_e6_2S-rg&_nc_ss=8&oh=00_Afx1QAzz0o5RybnbWJxt3V58LFDMGdfDy-7BUVc0KKx3iw&oe=69AFEDDD"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/resources/webinars-workshops/",
+      "permanent_image_url": "https://i.ibb.co/yBXQQWZm/Crimson-Education-183d965c.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-03-06T02:02:41.692709",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "✨ 국제학교 자녀분의 코앞으로 다가온 미국 명문대학 입시 준비…",
+        "미국 입시에서 Common App 작성은 곧 시간 싸움!⏰⏰",
+        "꿈의 명문대 입학사정관의 눈을 단번에 사로잡을👀"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/544498933_1686715765330737_9216432937402814786_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SX6t57T02qkQ7kNvwEjdPQD&_nc_oc=AdnCHMzF4z-3dzEu_TJoxklUDhFK2ey5pHv2OeqqY94NDIba-iXd8nE4QV10HpAbeA0&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=pB4cKhJqTCDmF_e6_2S-rg&_nc_ss=8&oh=00_AfxsKS2xi9aKBsNaEQxlJk4pT0PZylmPUnxMIOK2ajAZCg&oe=69B003B8"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/resources/webinars-workshops/"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-03-06T02:02:41.750697",
+      "page_name": "ibexmedicalsystems",
+      "ad_text": [
+        "일정 : 2026년 03월 12일 (목)",
+        "시간 : 19시 00분 ~ 20시 00분",
+        "장소 : 아이벡스 서울사무소(서울 송파구)"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/646323243_1471483271010665_2732898208243417011_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TmMtBzyc3tsQ7kNvwHKlcKr&_nc_oc=AdnBqfRxUPsfzBjJQVP9q9tnwQUdwlp3Vq70Bck1gb-kimGHFkSiv0LDfF7TWszTO84&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=pB4cKhJqTCDmF_e6_2S-rg&_nc_ss=8&oh=00_Afzm4GSDR5M9OV_fSZL7_5ZLt5xkEW9rYqmibMl_Y0VC5A&oe=69AFF29D"
+      ],
+      "landing_url": "https://form.naver.com/response/IvQzLjRb9YNR1qf-PnZqjA",
+      "permanent_image_url": "https://i.ibb.co/LBk3GQj/ibexmedicalsystems-08d051e7.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-03-06T02:02:41.810077",
+      "page_name": "SMART TECH KOREA",
+      "ad_text": [
+        "AI 도입, 어디서부터 시작해야 할지 막막하셨나요?",
+        "피지컬 AI 트렌드부터 데이터 설계 전략,",
+        "우리 비즈니스에 적용할 수 있는 AX 전략과 사례를"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/641489593_902374599380212_7095859165316787561_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cMJzvZ41jkcQ7kNvwEX1MrT&_nc_oc=Adm51aWN_ShCm5cFd_0U1CqEwLWLNAog56xfMokIRgvyFwgt2PZ8ND6ikMf7-oiUXKU&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=pB4cKhJqTCDmF_e6_2S-rg&_nc_ss=8&oh=00_AfwpWGYc5lw7-FDlkl71f0TrMgpt_H9tpVItbvOPjehq8Q&oe=69B006FE"
+      ],
+      "landing_url": "https://smarttechkorea.com/webinar",
+      "permanent_image_url": "https://i.ibb.co/6JWSV8XK/SMART-TECH-KOREA-c40b62af.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-03-06T02:02:41.868893",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "무료 웨비나) ✨커먼앱 원서 작성 전략으로 막판 뒤집기!",
+        "💎 부족한 스펙으로 합격을 만들어내려면?",
+        "올해 스탠포드 합격을 벌써 만들어낸 미국 입시 전문가로부터"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/634682628_1470262401120980_9093313718994386189_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WeICEC6q18QQ7kNvwGAKNzb&_nc_oc=Adke8pixEzGGAMo_xQKm9V7dY4ZaE5Brow9u9Il7p0VGuIKtqTlOXVi9B_rLT_nMJoc&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=pB4cKhJqTCDmF_e6_2S-rg&_nc_ss=8&oh=00_Afw63GuOmMYrcWeXgR3YwGW_YiXFamUazPe8Zz4beAFKDw&oe=69AFF51A"
+      ],
+      "landing_url": "http://fb.me/",
+      "permanent_image_url": "https://i.ibb.co/7xszHq8D/Crimson-Education-0f15e960.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-03-06T02:02:41.927092",
+      "page_name": "비즈토스 Biztoss",
+      "ad_text": [
+        "상세페이지 제작, 소싱처 확보, 리뷰 쌓기까지... 이 모든 과정을 건너뛰고 바로 운영에 집중할 수 있습니다. 자본을 효율적으로 투여해 '수익 시스템'을 확보하는 스마트한 창업, 비즈토스 웨비나에서 확인하세요.",
+        "HTTPS://EVENT-US.KR/BIZTOSS/EVENT/121094",
+        "월급 외 수익 200만 원, 현실적으로 가능할까?"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/647763534_2011343196092328_8728362333655888137_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DjJ4BMv0O8AQ7kNvwG9uP0C&_nc_oc=AdmJ3SdHhruVK93Q4yc7edj2AIfVjUFguJ4K8eLMmM6gAb9wuKszOaKbr5VR5nJOZLA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=pB4cKhJqTCDmF_e6_2S-rg&_nc_ss=8&oh=00_Afw9gnJSuaaG1Apdfk16riIX5QJ6FI-apwe0yi2Zt0H1SA&oe=69B007DC"
+      ],
+      "landing_url": "https://event-us.kr/biztoss/event/121094?utm_source=meta&utm_medium=paid&utm_campaign=webinar_meta&utm_content=ad_web_a&utm_term=buyer",
+      "permanent_image_url": "https://i.ibb.co/0pWynr91/Biztoss-36e04aa5.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-03-06T02:02:41.984235",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "무료 웨비나) ✨커먼앱 원서 작성 전략으로 막판 뒤집기!",
+        "💎 부족한 스펙으로 합격을 만들어내려면?",
+        "올해 스탠포드 합격을 벌써 만들어낸 미국 입시 전문가로부터"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/636647765_944375964687666_2133218467901664129_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jEfgoZY_M4sQ7kNvwFi4d23&_nc_oc=AdltstynXyvCF-euf3btuZeBosx0_tbnCh8AQ1C7qWbAQfAfWhSV8y3hhDU-VB5PQDs&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=pB4cKhJqTCDmF_e6_2S-rg&_nc_ss=8&oh=00_Afyk_vtpAMldGhOVYGktUW9O-rnJmqslBYpwPg5FB--iBg&oe=69AFF879"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-mar-18-application-tips-and-timeline-for-2026-applicants"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-03-06T02:02:42.040869",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "무료 웨비나) ✨커먼앱 원서 작성 전략으로 막판 뒤집기!",
+        "💎 부족한 스펙으로 합격을 만들어내려면?",
+        "올해 스탠포드 합격을 벌써 만들어낸 미국 입시 전문가로부터"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/638143006_1858038131575965_5156056201367607379_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rCWUjhKIwCYQ7kNvwGmYXP9&_nc_oc=AdnGWz8wdwHfcw9Qf3HJ24ijWMwmya1KuG9XhuFfGbv8ewLkbZLZmk27zd09MCbczZk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=pB4cKhJqTCDmF_e6_2S-rg&_nc_ss=8&oh=00_AfyjDPoELghTc4xWtPeux5dVml2k3yKEejA-NKYZIT8w_Q&oe=69B01411"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-mar-18-application-tips-and-timeline-for-2026-applicants",
+      "permanent_image_url": "https://i.ibb.co/3y4qm4dC/Crimson-Education-67a2b63a.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-03-06T02:02:42.100356",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "하버드, 예일, 스탠포드 같은 탑 대학교에",
+        "합격한 한국 학생들은 어떻게 준비를 했을까요?",
+        "이번 웨비나에서 합격한 한국 학생 커먼앱 공개 및 분석을 진행합니다."
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/635714704_902846055999743_7622642516237150952_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5rwdUrh1xsMQ7kNvwEGRe_u&_nc_oc=Adkf5xUhFYZLNVXtw4ZV_Sk0pPEabaHCptYM_GXZbadJhdhYSQNUGQ3jajVCX36DY0U&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=pB4cKhJqTCDmF_e6_2S-rg&_nc_ss=8&oh=00_Afx2eXgWb6NmP-kbmdz8tUK3ky-YJEhOqi69a3XopWQxmA&oe=69B00E71"
+      ],
+      "landing_url": "http://fb.me/",
+      "permanent_image_url": "https://i.ibb.co/m5znb095/Crimson-Education-6891818e.jpg"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-03-06T02:02:42.154343",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "하버드, 예일, 스탠포드 같은 탑 대학교에",
+        "합격한 한국 학생들은 어떻게 준비를 했을까요?",
+        "이번 웨비나에서 합격한 한국 학생 커먼앱 공개 및 분석을 진행합니다."
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/639684771_1466133158466011_5082596693535878284_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hOeylG4bkQwQ7kNvwFbX4VW&_nc_oc=Adlity2aC2biJTs7JjgXob4Shef_i-VWOKi_XR85fKem9wg83pSEXhgOVBAzLDT1qdo&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=pB4cKhJqTCDmF_e6_2S-rg&_nc_ss=8&oh=00_AfwisYO_h8krZzK2A-lHCYsJVZEOVJZ_BfUmJAn2kcYlXw&oe=69B01E3C"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-march-11-successful-korean-common-app-showcases"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-03-06T02:02:42.208336",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "하버드, 예일, 스탠포드 같은 탑 대학교에",
+        "합격한 한국 학생들은 어떻게 준비를 했을까요?",
+        "이번 웨비나에서 합격한 한국 학생 커먼앱 공개 및 분석을 진행합니다."
+      ],
+      "video_urls": [
+        "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPkQQ3get4Mw2gTgHELfUCjbK4SL4TJXdC4rKmjl7deLKQ0a1KhunUdZzF1EoBL35S-O-1uQMg4qTkDaEgt6Rjm3tenEHTRlMrT8WHhwg.mp4?_nc_cat=103&_nc_sid=8bf8fe&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=7TEUfalgfA8Q7kNvwEOZlZG&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6ODQzNDAzMzg1NDAxNjMxLCJhc3NldF9hZ2VfZGF5cyI6MjIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=pB4cKhJqTCDmF_e6_2S-rg&_nc_ss=8&_nc_zt=28&oh=00_AfwjYnpJV4OJwfHBJo-UsEA1Ya7968PK3M4VswZ_e0ooUw&oe=69AFFDDB"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-march-11-successful-korean-common-app-showcases"
+    },
+    {
+      "index": 11,
+      "collected_at": "2026-03-06T02:02:42.256106",
+      "page_name": "ibea.official",
+      "ad_text": [
+        "임신 중 신체 변화가 왁싱 반응에 어떤 영향을 미치는지",
+        "해부생리학적 관점에서 살펴보는 이론 중심 웨비나입니다.",
+        "통증 반응의 차이, 출혈·홍반 반응, 색소 변화 등"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/643995948_1444251647089227_3174471463331037095_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xmjDvK_2JSsQ7kNvwF5FhN6&_nc_oc=Adnik5j38trWB1tinHogE91Aeh6moYQM1Y5a52c794Yo6awLmpkvJti82qVi1_2_vo0&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=pB4cKhJqTCDmF_e6_2S-rg&_nc_ss=8&oh=00_AfxLYl4DI6aQTsHAu5CSQuQMPT3vsjE9lZwC6siEX1P4Jg&oe=69AFEC7B",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/645226019_920448897255247_6109606983016536266_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4lUVvW5-2IkQ7kNvwHf_PAZ&_nc_oc=AdkDvFabOocfQ5g7WTDPpnuEwXRFUAO7-zgdwB67Fige3OjdSYO4opLPVG_VcStVn_k&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=pB4cKhJqTCDmF_e6_2S-rg&_nc_ss=8&oh=00_AfyZI36KQYr_CX7F3mpGIKrWrX4qt3yf5KmLRe2TXv7U0A&oe=69B01F63"
+      ],
+      "landing_url": "https://www.instagram.com/_u/ibea.official",
+      "permanent_image_url": "https://i.ibb.co/XxSNMYGX/ibea-official-09931bac.jpg"
+    }
+  ]
+}
