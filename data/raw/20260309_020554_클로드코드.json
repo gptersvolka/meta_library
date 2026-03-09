@@ -1,0 +1,103 @@
+{
+  "collected_at": "2026-03-09T02:05:54.240350",
+  "query": "클로드코드",
+  "count": 5,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-03-09T02:05:53.543644",
+      "page_name": "AI 코딩밸리",
+      "ad_text": [
+        "이제 그 속도, AI 코딩밸리로 따라잡으세요",
+        "📢 3월 트리플 이벤트 진행 중 (~3/24)",
+        "바빠지는 3월, 더 큰 혜택과 함께하세요!"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/646806062_1962785481051195_5913327346738126725_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-EdKowx_mV8Q7kNvwHUgjX4&_nc_oc=Adn9JjQNgxTKG0Zvq5Qa06br9G0XdnqY-7GLkfTW-_U0OvG_UhlsxSy9rH7z2tEjICQ&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&oh=00_Afy6de0nxdFUUnq9_gQLYMR_ojdN2bvFnSyWwIq0wMBd_g&oe=69B3E653"
+      ],
+      "landing_url": "https://www.codingvalley.com/ldm/7",
+      "permanent_image_url": "https://i.ibb.co/MwhJZ4N/AI-1f36195b.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-03-09T02:05:53.610244",
+      "page_name": "패스트캠퍼스",
+      "ad_text": "비전공 디자이너로 시작해 3개월 만에 수익화까지!",
+      "image_urls": [
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/628369974_1438337081137405_1215483374332515972_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xbppn52gXiQQ7kNvwH7iot0&_nc_oc=AdnSUnpRP8efQVPRFCGiYKiiMZ1ClgfEj5b8zGPCYsiWWKGh1WaqLNqvxqaIaWO4QKo&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&oh=00_AfxZHS3JM05pEFUn4ZuveD-YmEdpn92k_OKZrzlML-BAMA&oe=69B3FE2F",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/627856724_2203017593568811_5083550391881922127_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=z9bvQnBBwF4Q7kNvwE-PSaU&_nc_oc=AdlhXVs8wYqC7S7G8fVA-gt-h7G5i-afxe79z42XoIH7AFGSOPcxCiXC15EoLn3omP8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&oh=00_AfzSvpQAMeKULIzQFvGE3sQO2x_dG7OlyI0WohegM6Gn_g&oe=69B412C8",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/629519563_861665120201776_2933193866020181751_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qYM5UB-lttkQ7kNvwHTwmL8&_nc_oc=AdndroLqhtpXW4Ocbxbay9ZNzQZH2oydtLO7IGR2MoJR1Tf8LV09vv8d7dqL9Echjmo&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&oh=00_AfwTksLiKlNIcDLxh5jTXcwz6_ASsPOd04AjwI2gd2b6rw&oe=69B41884",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/627861820_803573342752989_8317466520335575459_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hut2npbnFl8Q7kNvwEPNha3&_nc_oc=AdlwTlBckJoDCczKhf-I9GK12aqsFocd2yAljFu5kT5JQ5MRnb2m9ecGsuh1gHKx6i8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&oh=00_AfyN5y4hu05ukk3Lfi3pp5Qy5Zmg6o-lZ0d2W23lqd39KA&oe=69B3EFF1",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/629440771_1587898665692060_2738060325435261092_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FO32qWr3Ke0Q7kNvwFHFfP9&_nc_oc=AdnW2Wct56ud8WK5_52d_xS4Kh4Cjv3CPJmoOhifSEfmslpj6R86R5DyN2EqrsMREuk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&oh=00_AfwrreBQPULa2WurivzOC_L09JH7yTwAvdUxkn6zRxqjTw&oe=69B4023E"
+      ],
+      "video_urls": [
+        "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNmdj3dEIooLPdwXv711yq7ir86bphqF_-V75KNW-fwO28C7BBIHHUY--QluthWexT8SeAM8qj4DheLCNocqifMyN6iC2cTL0oId2PQXQ.mp4?_nc_cat=108&_nc_sid=8bf8fe&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=FWcdjbZleYwQ7kNvwGGCERs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU2NTExNTc1NDczODgxOSwiYXNzZXRfYWdlX2RheXMiOjMxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&_nc_zt=28&oh=00_AfycWYIvOsDAyMDVbY8nbe3NXTY-RDd-EPY1q19oUc__xg&oe=69B400BA"
+      ],
+      "landing_url": "https://fastcampus.co.kr/biz_online_gwonvibe",
+      "permanent_image_url": "https://i.ibb.co/mr9PPKkD/06b8ecc0.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-03-09T02:05:53.762188",
+      "page_name": "수백만원 쏟아부어 배운 클로드 코드 - 비개발자편",
+      "ad_text": [
+        "수백만원 쏟아부어 배운 클로드 코드 - 비개발자편",
+        "반복 업무에 하루 3시간 쓰는 직장인을 위한",
+        "Claude Code 프리뷰 테스트용 출시 직후부터 지금까지."
+      ],
+      "image_urls": [
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/647065455_1225077006402906_1320750378647169863_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fMD4nsnArEsQ7kNvwE_VX-6&_nc_oc=Adm0yw1aE_m3c3-73I-j_DsyqwzqfIoP1MuGErHBMnFQC6kxJ17SQYqyFcL3uFCWE3o&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&oh=00_Afw1Hq4TlUBdaFEfO-fYTGfoxbEvc4SHN_uhoUERzUSDsA&oe=69B3EEA5",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/648248446_1901855757359058_4761053420004592963_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Vit1egOXqYcQ7kNvwHsSakU&_nc_oc=Adk7Qoou8-ZUa3kXtugCE4TktoshVObW7SGV_RTDEB3lZzfD8GsvZR5_Pf-_IpUPQsg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&oh=00_AfzrdLmGZAXVe8U-zWEBHHC-etiCoIjuORYuxcMJGjCB-g&oe=69B3E34F",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/649258960_1950985195778018_949207386639220090_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A5WTYF-kV98Q7kNvwGavmxz&_nc_oc=Adl6DjRKzFCfQdMQ_PcwUxZ-JX9KV91QQkFD3_PsN4_JWeIf8NwhrweLP7d8RrTc7vU&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&oh=00_AfyMxdW4CpjYOktZwdXcMiYHZEEruLjU0lN_45D3vReN9A&oe=69B403E2",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/647161196_1646322053212243_7057634693161809413_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qgdJtsiqmlAQ7kNvwECGsky&_nc_oc=AdmTzOm0Q0-9DpZzCy74kl9KWeCkeXuUEGfN55RfpMMSGMc-OMGeHXbIomPfnQPX9rQ&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&oh=00_AfyXZifU-D1Ad5IHJxE6UolrKpppTs2k4ZJ6f_3MsWVpUQ&oe=69B3E398"
+      ],
+      "landing_url": "https://www.latpeed.com/products/RFVLW",
+      "permanent_image_url": "https://i.ibb.co/Hp3S4yw1/81759b93.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-03-09T02:05:53.879776",
+      "page_name": "수백만원 쏟아부어 배운 클로드 코드 - 비개발자편",
+      "ad_text": [
+        "수백만원 쏟아부어 배운 클로드 코드 - 비개발자편",
+        "반복 업무에 하루 3시간 쓰는 직장인을 위한",
+        "Claude Code 프리뷰 테스트용 출시 직후부터 지금까지."
+      ],
+      "image_urls": [
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/648289738_3877422632560939_3496851663738086438_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=E3_xoDQx3moQ7kNvwE4eUI-&_nc_oc=AdlYNyIEw-3nNpYgil3Lipj0UplJRe7satZH1JXGfQqGYtpTvziSXXtFEtBgwifTHpI&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&oh=00_AfxE4tQOx7PmIGwE7B6BlrhQ9BbUtcbLsdoO7Ynnj9czYw&oe=69B402E5",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/649113970_1461813428861691_2685631021382869543_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7eDOJRh4Z9oQ7kNvwGp7TUa&_nc_oc=Adn6zipJXjo3q2hjw6WdbcyqNW4sBdyFLgbzNApXvGZamYpZQoQcc8qxl2xA9gy4ROc&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&oh=00_AfysMb6McRbd6kLwO0YKSgSuQEm0D_gStW2-nkM35zMrnw&oe=69B40DC8",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/649278042_1463719572171929_9118249832098415637_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7gk0GXBFQLQQ7kNvwEOZbWd&_nc_oc=Adlyy_ePLob6VC9ubbsoyvS2VSdiBwXsBFvEi6bmFXf_ddu7-iF7zg-3mXnXgSJMzo0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&oh=00_Afz27uGITV_Rheu14aP57KAKsoREjccASGJ5sKOWxYqoBA&oe=69B3EA7D",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/647547124_1488451839544570_2259890120038720271_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TwiHePiN-20Q7kNvwE8OxfW&_nc_oc=AdnaGOdQ2_5YAZGVfgYp5X5sQF3JclPsO3_o_4voDQR2ogyPoichugFj0T5Ds4NSMxc&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&oh=00_Afy1Il-mqYKNAe7rtDZN8g51oD_xyNl-DP3U2aVOuaNRww&oe=69B3F356"
+      ],
+      "landing_url": "https://www.latpeed.com/products/RFVLW",
+      "permanent_image_url": "https://i.ibb.co/xqZ66j4M/2486f46b.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-03-09T02:05:53.986166",
+      "page_name": "패스트캠퍼스",
+      "ad_text": [
+        "상세페이지, 광고분석, 재고관리, CS...",
+        "언제까지 혼자서 밤새며 작업하실 건가요?",
+        "대행사 비용은 아깝고, 직접 하기는 벅찬 분들을 위해"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/646866015_2245359125992214_1466716916411472863_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MzEItTKBMTIQ7kNvwGYOu5l&_nc_oc=Adl9bQu66fWi9E7-ZeZ5UjeyiRMnS9H7OnuRkDVvBTbe8M_NZKpsv_Owwwz7ToYeh14&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&oh=00_AfyAcFWFI7HySXE2UCGOiZ5-AV4PYebPgo2uzW9rTGm8Bw&oe=69B3FDDB",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/647204419_1973008780269470_1970800066741751097_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zNWhYJRiLKEQ7kNvwE6CA3j&_nc_oc=AdnARrIM3l9pSkC2HjS0ptmIbPMosUerJh9jj2ltl_d1YED9XRWR6c1uSkW3f9g8XgM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&oh=00_Afzs7BWDJu9gJpXkw5hKPKoZDMpHuembSgWFDvOJeM_SWQ&oe=69B40735",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/647079720_1251036830330104_5917618470272302817_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=l7uHXXrpmhcQ7kNvwEU_5bS&_nc_oc=AdmJXA9osaXrUL23Jypk4IoUn9EXVGemAJPQ0an7aQam2Ehxjtgk0KAudD9eAOfIQ4o&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&oh=00_AfzB_MDJX3-buRBWWWz4xcyhXvXST-z9HQbjvutq65UbAw&oe=69B3E6D2",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/647134732_2607456646322435_4450825932597288417_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nrpwRabVIacQ7kNvwEQqgQg&_nc_oc=Adno3r_4l5qSqq3av1bsR99LegpTNmS3hPsiGTCL1Ql5K2_oGv3AJMcJdnAUcYxH5GI&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&oh=00_Afz68Fo-71KhYiQyPcKNq-7kfHuBWgYp4ASTJztg5sfxUg&oe=69B4109B"
+      ],
+      "video_urls": [
+        "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOug99LXmI6euRhdbrTN1Tne9j3QNB7L94ofk6i309ku0V9VEhUCRwmJ12o2CqIdQa0MWz_3PZ_jgKGQy-hH-9N0AVr2PUWrBKOR5ONsA.mp4?_nc_cat=111&_nc_sid=8bf8fe&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=8sW5lbc3ac8Q7kNvwHhbnGO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTMyMjE4NjQ1OTI5MTkyLCJhc3NldF9hZ2VfZGF5cyI6MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&_nc_zt=28&oh=00_Afy2ltFwSwwwn-tPNtMcIz4RVDgnHyL4CywvTqy3O8qnNw&oe=69B40F23",
+        "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMki5bQSdUqtxHWh4PQfnzCo2dZddwemPjG2LBR-Xw8PtzAPjrvufJ1_Fj4xxL4jDHokGlrMRqVcUAUZxWizfK_bjuE9TZTaJV-eYO8tw.mp4?_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=0CjVEbP7q2gQ7kNvwE6maA6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTU2NzMwMDk2OTUxMjM1LCJhc3NldF9hZ2VfZGF5cyI6MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&_nc_zt=28&oh=00_AfxEfDHGy54LZ_BQm0CLKxxyvGwftgVJYSd_tfZsN4xV3Q&oe=69B41935",
+        "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPC2zLky434GpNoLt6YOr198x0gHnY3Mq8cY1r7SbR4rOXP8AKREcwFdptvMOoUdelXJzzC-st1LMHdJKjME_K24MtVrY285okHFdWwJQ.mp4?_nc_cat=108&_nc_sid=8bf8fe&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=YLVRfmAAJ-QQ7kNvwFzjz9u&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTI1MTI5NjY3MzA5NTk5MywiYXNzZXRfYWdlX2RheXMiOjIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&_nc_zt=28&oh=00_Afwa0k1nf_Pg0T3McJTkKXzGO-q-hN9o8gD_tn-jG5B4cw&oe=69B3EFCE",
+        "https://video-ord5-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQPPH2zxPM7hymqwwY-qWd3XdsqYzOiTamlYy9IV3ygo59eWVFYMmL9ZK0xi8u80CWX_Itr3qjL9u4d3eOpdpcAgbQbYuHl7rSBcb8CVvg.mp4?_nc_cat=106&_nc_sid=8bf8fe&_nc_ht=video-ord5-3.xx.fbcdn.net&_nc_ohc=3tADBev-DMoQ7kNvwHmBZie&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjY1ODkyMzMyNDczNjk0ODMsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&_nc_zt=28&oh=00_Afy5l2TEppKhKww2R5gtrksuDJ6tnuVX6tIqTnDM6hBgyA&oe=69B41218",
+        "https://video-ord5-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQP_tV2duFfd6HcJd3zJE6FZmWr3qFu_HY4fQLuDyfp9204e0YVRsnhwwJ6Ls4F8c7jSnkJZuwNZeuyKJavamVeWGn0IqqdTCwjbO2dwJA.mp4?_nc_cat=107&_nc_sid=8bf8fe&_nc_ht=video-ord5-3.xx.fbcdn.net&_nc_ohc=F0xfNeeVKl8Q7kNvwEKyj4f&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTAzNjQ5MTk1OTg5MjgyLCJhc3NldF9hZ2VfZGF5cyI6MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&_nc_zt=28&oh=00_AfzjxaEHSd5dzH4-o3rHP3iq0DZ9p5ZToqoO5k7irl04dg&oe=69B3FB5F",
+        "https://video-ord5-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQNFiDDJdI8BICrio2u04pHgo3WIeGmLOLTalD3JMBl36YevXYJwGEQc5wkVdLQx5NzJ4ojgyThT_AAcCqJnEGUkZol0FDnyVeEru34Q7Q.mp4?_nc_cat=100&_nc_sid=8bf8fe&_nc_ht=video-ord5-3.xx.fbcdn.net&_nc_ohc=7DgSSQ8uYBQQ7kNvwEJGjNq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTI4NDI2OTk4NjkyNTMxMiwiYXNzZXRfYWdlX2RheXMiOjIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=izZ26XvQ9gIEr3S1av0W8w&_nc_ss=8&_nc_zt=28&oh=00_Afw9NmgfaQquI4gEfmll_fmYy4GD7YfpReCt_RpcmIjEpg&oe=69B3E1D6"
+      ],
+      "landing_url": "https://fastcampus.co.kr/dgn_online_antigravity",
+      "permanent_image_url": "https://i.ibb.co/xKS45Qfy/4f4f8c1d.jpg"
+    }
+  ]
+}
