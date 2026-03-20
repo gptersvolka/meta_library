@@ -1,0 +1,260 @@
+{
+  "collected_at": "2026-03-20T02:03:01.386327",
+  "query": "무료 웨비나",
+  "count": 16,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-03-20T02:03:00.128664",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "✨ 국제학교 자녀분의 코앞으로 다가온 미국 명문대학 입시 준비…",
+        "미국 입시에서 Common App 작성은 곧 시간 싸움!⏰⏰",
+        "꿈의 명문대 입학사정관의 눈을 단번에 사로잡을👀"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/544995989_1311938777240584_7643198229873328322_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rn5lEbg0ZQIQ7kNvwHSclsW&_nc_oc=Adoo0EYvJn2PYuLPZECO56f-0-QbJ3X98a8kr81ZwBYuGoPTAaR0fekhOgg7pyoADSg&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_AfwXnWeZ9UQoS0ztd5rOsKu9Az1P_o1pNmWieN-MCACIGw&oe=69C262DD"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/resources/webinars-workshops/",
+      "permanent_image_url": "https://i.ibb.co/WpM9rNGN/Crimson-Education-183d965c.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-03-20T02:03:00.183754",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "✨ 국제학교 자녀분의 코앞으로 다가온 미국 명문대학 입시 준비…",
+        "미국 입시에서 Common App 작성은 곧 시간 싸움!⏰⏰",
+        "꿈의 명문대 입학사정관의 눈을 단번에 사로잡을👀"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/544498933_1686715765330737_9216432937402814786_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rxjqeLLTxGQQ7kNvwFvP2Ke&_nc_oc=AdoCuAPhhSAMbsbTr3Zc9HLv2Kd9SPEFs_KyFde-Rv-8n0wAEcCSCBJ1SMxpVsj3b6Q&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_AfzSZCLU-MoH7loj49Ca8vgiLXrvPn216wi4L5JQ8jTGxA&oe=69C278B8"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/resources/webinars-workshops/"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-03-20T02:03:00.237997",
+      "page_name": "에이블런",
+      "ad_text": [
+        "AI 교육 전문기업 에이블런과 AI 솔루션 기업 뤼튼이 함께 전 국민 AI리터러시 역량 강화를 목표로, 1인당 200,000원 상당의 <모두를 위한 AI리터러시 교육>을 수강할 수 있는 'AI 교육 바우처'를 지원합니다.",
+        "- 우선선발: 고령층(만 55세 이상), 소상공인(예비/기창업자 포함), 취업준비생, 장애인, 초·중·고 학생, 새터민",
+        "[에이블런x뤼튼] AI교육 바우처 배포를 시작합니다."
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/649848162_2108490413250977_5050909391615029584_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qKlNno1PF20Q7kNvwH8FNBl&_nc_oc=AdpVoAqVsrzEise6Q1w876gaj1kg1VBCOtq9ru9DYTYP5zS7ZFrzK2nCqFuOLBF8aGM&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_AfzfKHXDqYIS1kibQnTomWWmyYI58IqfWtQuTtoPNn9M0g&oe=69C26F77"
+      ],
+      "landing_url": "https://ablearn.kr/aiog?utm_source=ablearn&utm_medium=meta&utm_campaign=webinar&utm_content=aiog-260326",
+      "permanent_image_url": "https://i.ibb.co/vxg7DT7x/52871865.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-03-20T02:03:00.290953",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "“엄마, 나는 뭘 좋아하는지 모르겠어요” 아이를 이끌어 줄 수 있는 유일한 시기!",
+        "다양한 분야에 직접 부딪혀보고, 좋아하는 것과 잘하는 것을",
+        "고등학교에 올라가서 \"뭘 좋아하는지 모르겠어요\" 라고 말하면 이미 늦습니다."
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/650767153_1609546930338823_5119984517534390675_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=T1r0pnlMpYwQ7kNvwEWoCUW&_nc_oc=AdrUWNxLpPMSP9jjUaYc0IggvhKzWzvtQS_JqEjhyyYglCfN5HIa9LFTsPUV1HRQN0A&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_Afxbmzj_RIVVo9MNnbfFtmP5BsXOOTDLyRQIE3q_aZUpGw&oe=69C282FA"
+      ],
+      "landing_url": "http://fb.me/",
+      "permanent_image_url": "https://i.ibb.co/mrzrPR9P/Crimson-Education-a40e977e.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-03-20T02:03:00.343073",
+      "page_name": "CONC. Farmers",
+      "ad_text": [
+        "광고비는 계속 쓰는데, 매출은 제자리걸음인가요? 한 달 만에 월 매출 10억에서 40억을 만든 실전 마케터의 '위닝 콘텐츠' 공식을 공개합니다. 매번 똑같은 구도, 뻔한 모델은 이제 그만! 자고 일어나면 1억 매출 터지는 킬러 포맷 7가지를 무료로 하드털이 해드립니다.",
+        "자고 일어나면 1억 매출? 킬러 콘텐츠 포맷 하드털이 🚀"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/646379387_1640988037076346_1168307561097658963_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VcOPvUaMVigQ7kNvwHIHKNa&_nc_oc=AdqQ8iZzbkmRIQGl4hbRXK4Pzowjy_aXE5AdJXcZl0hEA-aoyKRfLjujOrR3c2ufC_k&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_Afw6XPG9lQwwoWZbfO969Sti1VHyWJjPwDWMgWrcqHTbyA&oe=69C27FD6"
+      ],
+      "landing_url": "https://forms.ccfmedu.co.kr/r/WOARrR",
+      "permanent_image_url": "https://i.ibb.co/BHzjjZdh/CONC-Farmers-b8567545.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-03-20T02:03:00.395310",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "“HRer는 경영자가 되던지, CHRO가 되어야 한다.”",
+        "기업 성장을 이끌어 온 前 이랜드 CHO 전준수 대표가�",
+        "AI 시대 HR의 역할 변화를 직접 이야기합니다."
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/649218553_1491789862671982_8267253363548195303_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pZ58iMe20AMQ7kNvwEzQWmw&_nc_oc=AdqCQ7U8NCyHuF_vmHmugp_M_QWcxv4vf7VhWW8uoSjRKGtGvPK2kKJnMGiJsFCVhn0&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_AfwjzJZOusGDzh18dQsqv57isgqYvy-O9WU7fvl3zrmBGA&oe=69C2723C"
+      ],
+      "landing_url": "https://ringle.recatch.cc/workflows/jtmleptbdr?utm_source=fbinsta&utm_medium=paid_social&utm_campaign=b2b-webinar-260321&utm_content=tools",
+      "permanent_image_url": "https://i.ibb.co/wNrzCnrz/1-1-e9fb1fdf.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-03-20T02:03:00.448170",
+      "page_name": "스쿨플랫",
+      "ad_text": [
+        "🏆'대한민국 수학교육상' 수상자의 비법 대공개",
+        "🏫현직 학교 선생님께 듣는 무료 웨비나"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/651765721_953356630424790_3440611751447059986_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ka88PwAtwI0Q7kNvwGZjHBU&_nc_oc=Ado9-Pe8sRQZkxzscS9HiiIJpm7pheXDHTonwaq7vxcfEGsc5IzHO3wlS9AmjzYeBks&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_Afwt2xBJKME8yc2kssM9QBo9FtP1ZAGrPQ9d0TFLicMDeg&oe=69C27C58"
+      ],
+      "landing_url": "https://freewheelin.notion.site/4-319feddce671809b97c7fd3a3acb8ddd",
+      "permanent_image_url": "https://i.ibb.co/zh5ktqCB/e86eb484.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-03-20T02:03:00.498901",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "“엄마, 나는 뭘 좋아하는지 모르겠어요” 아이를 이끌어 줄 수 있는 유일한 시기!",
+        "다양한 분야에 직접 부딪혀보고, 좋아하는 것과 잘하는 것을",
+        "고등학교에 올라가서 \"뭘 좋아하는지 모르겠어요\" 라고 말하면 이미 늦습니다."
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/651200756_1543550403387443_1289594552827103912_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-aF6rUH0WkUQ7kNvwFe-xU5&_nc_oc=Adqcwsm3KjErz4LFvmKTl6ebwa3XZdv1isM-3KKfYh4I6O4JywA_I4SLTt0ikrNnWD4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_AfyqCeMv4M-pU2WNK3mg28FaODX1pOWQdEjJ-6gx5yoKlA&oe=69C268FA"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-april-15-rise-what-middle-schooler-should-do-in-summer"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-03-20T02:03:00.547108",
+      "page_name": "에이블런",
+      "ad_text": [
+        "AI 교육 전문기업 에이블런과 AI 솔루션 기업 뤼튼이 함께 전 국민 AI리터러시 역량 강화를 목표로, 1인당 200,000원 상당의 <모두를 위한 AI리터러시 교육>을 수강할 수 있는 'AI 교육 바우처'를 지원합니다.",
+        "- 우선선발: 고령층(만 55세 이상), 소상공인(예비/기창업자 포함), 취업준비생, 장애인, 초·중·고 학생, 새터민",
+        "[에이블런x뤼튼] AI교육 바우처 배포를 시작합니다."
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/651192590_1848586199134100_6344703081029893971_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PHZvNS-z0CkQ7kNvwFqjvWO&_nc_oc=AdroBNRlneD3JOlZxirSiWInnHDqCsdvTW5TYirOcRwZPU9K7keUKCDql3fu63vsLOw&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_AfxmkOLFsJVhZnEQEam6qtG0vsHXKrL0GGPMVMJIJJg1jg&oe=69C2761E"
+      ],
+      "landing_url": "https://ablearn.kr/aiog?utm_source=ablearn&utm_medium=meta&utm_campaign=webinar&utm_content=aiog-260326"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-03-20T02:03:00.630909",
+      "page_name": "RightNow Media KR",
+      "ad_text": [
+        "📢 안녕하세요 '목회 서포트'와 '소그룹'에 진심인 라잇나우미디어입니다!",
+        "3월 <AI 코파일럿 시대, 디지털 목회 전략> 웨비나로 목회자님을 초청합니다. 자칫 번아웃을 겪기 쉬운 요즘의 목회 환경 속에서 디지털 도구로 사역의 균형을 잡고 성도의 성숙과 성장을 확장하기 위한 목회 전략을 소개합니다.",
+        "특별히 3월 웨비나에는 한국소그룹목회연구원 대표이신 이상화 목사님(서현교회 담임)을 모시고 건강한 소그룹을 세우기 위한 주제 강연이 진행됩니다."
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/650185854_1476736697141266_8258785925443363299_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7U4xJpTwdXAQ7kNvwFhGBUB&_nc_oc=Adokz_yY0J6wQ7TGVOp4B4AJV4Umh3gvOEj0iNjT_A7renZc__3bOwaQXyojafJG5nQ&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_Afw_7Yhjfeq-ldGdO48we9b7KFcfHkMdvXOcyMVPr3bVjQ&oe=69C27247",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/649554875_1562366665060075_4986371822323225499_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kXTa4fDgI88Q7kNvwH2hIBC&_nc_oc=AdplpI723rkT5x1V2YutnHxP6Z79VZPPDXC4_Hk4FVD2E-2VLXtYpG3EEAPJ7vrfiGg&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_Afz4Of2samco986eiVSCoyio4Ti_ccTd2u3QePkhwrvbzw&oe=69C28E47"
+      ],
+      "landing_url": "https://forms.gle/yWK8FrHCivQSaf1z8",
+      "permanent_image_url": "https://i.ibb.co/0jCM50SL/Right-Now-Media-KR-a7073b3b.jpg"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-03-20T02:03:00.698545",
+      "page_name": "RightNow Media KR",
+      "ad_text": [
+        "📢 안녕하세요 '목회 서포트'와 '소그룹'에 진심인 라잇나우미디어입니다!",
+        "3월 <AI 코파일럿 시대, 디지털 목회 전략> 웨비나로 목회자님을 초청합니다. 자칫 번아웃을 겪기 쉬운 요즘의 목회 환경 속에서 디지털 도구로 사역의 균형을 잡고 성도의 성숙과 성장을 확장하기 위한 목회 전략을 소개합니다.",
+        "특별히 3월 웨비나에는 👩‍👦‍👦한국소그룹목회연구원 대표이신 이상화 목사님(서현교회 담임)을 모시고 건강한 소그룹을 세우기 위한 주제 강연이 진행됩니다."
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/649709415_971372015220289_6122451164076718010_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9eGHqo5-SSMQ7kNvwE1M1a3&_nc_oc=Adq3_-turMdtO4-5v0lmjn8NkzQNLEsHZWCpv5cFO5M2DUUwfnLQsY5jEu-sCvdiyDI&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_AfzTcgaf8_L5zyqZioOtCF01ZQ85krfdS7EdPmWjeBSCJg&oe=69C27E08",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/649214028_1577950296649922_6524807922881567355_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UA3QaTxJD5YQ7kNvwFVaCjI&_nc_oc=AdrxUNkrL49QNBhurCzDFXwohJtNXYp4eaChBVgNJqYV-tKCVeWpEfTvQwqNk-bBNfc&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_AfzY9GRX1N2D13fXH7hUtF4P9sDhVmnxlOVBfMS1ExuWtw&oe=69C28F06"
+      ],
+      "landing_url": "https://forms.gle/yWK8FrHCivQSaf1z8"
+    },
+    {
+      "index": 11,
+      "collected_at": "2026-03-20T02:03:00.772048",
+      "page_name": "3M",
+      "ad_text": [
+        "안전그네와 죔줄만으로 고소작업이 충분할까요??",
+        "지원금은 정부에서! 안전대 부착설비는 3M에서 쏩니다!",
+        "등록자 한정 무료 체험 / 구매 시 추가할인 / 전문가 현장 컨설팅"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/649299531_1160033852760266_876790644591484502_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dmxW90g4EGkQ7kNvwFH93XO&_nc_oc=AdoGtKkOI23IqCxj8fsOJ2bGW4zH2VSQBN0UHjMLlhi2tyaX2pDGidI4ymaHgbRQ0_k&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_AfxjSocxQ-OEFHiPhMOpg5478jeQ3ynZ7DxDxK5g2x60SA&oe=69C2899C",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/650206273_959648643164625_6873716819678775249_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ypn-rTRzymUQ7kNvwEEbfFj&_nc_oc=AdpJOzI9_rKr_i4Y_VLrBQBZKpFNpLzB_TpZ2wOFM7YZYAZKoHfLMrG2r5ulFMDaN3A&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_Afz8kBtDX7nS_KzUdFIv5QOeDU0H9qUjYZsgk0n4rrOu1A&oe=69C274F1",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/650534214_1344346727565494_8947302184951267129_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GlQQttNyFuAQ7kNvwGiuB6d&_nc_oc=Ado_PLDV62K5Aj44NK8tm3frlg-IixJHSOjvYQ1pj3m7g1XJdbpYrvxdy_B8snd38V8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_AfxKUCopRMX-dVCtSWlcFt97HeMlP4AoExBKtadk2zPH0g&oe=69C28015",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/650407894_2018222272455471_7621419794246029551_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OFt2J2iYqaIQ7kNvwHmDT3k&_nc_oc=AdobfxG9WHpGy1lPiFLWuVTbdsmLyr7cTOi_FmMqJZTPibmOkjBc-ymBYIlQ1ETk2H8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_Afy-SFg0qXiLV3pj_mWJixd7vjBGmPO9-UI9bWZXWd-EKA&oe=69C26C92",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/649837538_939434398579614_6463421265069687184_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ssy1x9txfyEQ7kNvwEaTnRu&_nc_oc=Ado6mECn9Uuj8SYBhPgsDPdrC7IEc5KvcwuNhTM-ovZ6zrPzsi5ggQg5bpzOKeurHqs&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_Afze6exbpQ5TkD_ETNsNujmZXj4Bv5JWioPBtBFx0T2_Aw&oe=69C277EC",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/651213404_2015483802686151_2327004548624595829_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CbOPvJ7hFfEQ7kNvwHXBOul&_nc_oc=Adp5A6-sST6JLsYlycRzE2WW3-voRW421ciKw8gzQ8EBZC_Zn1GiP1u2NR9HhNzBJhY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_AfzlK1mWkWokdEA0o9V98tucjhIz6yHnytKwY2ZXpnBzNw&oe=69C280D3"
+      ],
+      "landing_url": "https://engage.3m.com/kr_anchorage_consult?utm_term=sibg-psd-na-ko_kr-lead-a_a_o_ANCHORAGEWEB-psm-ig-pfx-register-carouselv1-mar26-862715",
+      "permanent_image_url": "https://i.ibb.co/SXXM3wwL/3-M-c6806bb4.jpg"
+    },
+    {
+      "index": 12,
+      "collected_at": "2026-03-20T02:03:00.907798",
+      "page_name": "땡스카본",
+      "ad_text": [
+        "생물다양성 공시, 이제는 단순히 \"나무를 심었다\"는 선언을 넘어 현장 실측과 '숫자' 기반의 데이터로 증명해야 하는 시대가 되었습니다. 위성 리모트 센싱과 AI 기반의 현장 데이터를 결합한 혁신적인 기술은 기업이 마주한 공시의 벽을 넘고 차별화된 성과를 만들어내는 핵심 열쇠입니다.",
+        "이번 웨비나에서는 GRI 101부터 TNFD까지, 현장 데이터가 왜 중요해졌는지, 그리고 최첨단 기술이 어떻게 현실적이고 신뢰성 있는 대응 전략을 가능하게 하는지 심도 있게 다룹니다.",
+        "✔ 국내외 생물다양성 공시 및 규제 동향 분석"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/651193103_1465017858590848_5301705667244072766_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gQknAZytAJIQ7kNvwEK-i3v&_nc_oc=Adrt9YtofXNoVbXUcPSOVqjb3RlwYD5ngTfKuGEMEMhRwA0LR1JDTFkrfmAy57I9wlk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_AfyXU3k4-fZQJpbCm32aB9CXYgpbbIl8SlHs-Vsu-uWcIg&oe=69C26D92",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/651166921_918120691146051_2665890381564432519_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yuM6xVy1cPEQ7kNvwFyWEWw&_nc_oc=AdoK9cyjb72pSPL9iA_ChMdiMmhUXkY60A6AMrVMYX-DyFb_w7BtjascoERKJcLpPF8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_Afz22ZQYVxv1HeiigxAPXDwWGZu2OCzZX7iO2-FbBQLnAw&oe=69C28DA7"
+      ],
+      "landing_url": "http://instagram.com/thankscarbon",
+      "permanent_image_url": "https://i.ibb.co/fdRtz7Fr/3f1fbf44.jpg"
+    },
+    {
+      "index": 13,
+      "collected_at": "2026-03-20T02:03:00.976518",
+      "page_name": "E4ds Lounge",
+      "ad_text": [
+        "👉 무료 기술 웨비나 | 설계자를 위한 최신 기술 인사이트",
+        "고급 엔지니어 교육을 지금 바로 등록하세요!"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/651432947_1226286076357560_5892663919970339957_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C6m06Ql0eBQQ7kNvwFdgicN&_nc_oc=AdoBtx9G9D3uNIOYRrLeKxlmgsF1f2hD77pTpTs8teDU8S22o2L-nMVuP3Gyi2EC87w&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_AfyO9qVtlxwyUcAf1pUpr4FsQIkX_VFh4Ns6b0Z83lwKwA&oe=69C27FF2",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/650910651_1506468280911985_8837924143768944132_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qXk6muMFkBYQ7kNvwFItVJB&_nc_oc=AdpRWREH3ddZXQGgEkN2w7uEY5ubhl6zYh5tUQfmZQO_-QPc9OTsEshNzThXd920Kj4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_AfwLFWeLQUog9Bxs8SESWl7sqf9sy29fb-oOGbRE6fMGRA&oe=69C261EF",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/651556499_914831654621640_7653207286059526229_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9pe11kJqrmAQ7kNvwFGE_0F&_nc_oc=AdqUQOrmyuN37Uv1Jed_43p6YT-_jenSz5qdENqQLKErW8-xE5kvHH2vIdkot_uYad8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_AfxxPziEs2jZbrYp2mqP3PPbjI4Qj-q9c_htv7xUiDtxOQ&oe=69C2657D",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/650879738_940615715180506_5113021745611076580_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7szbYnFvELMQ7kNvwFrTk7d&_nc_oc=AdrOfCB221Wsj6iHLzazJp5eXNYv72TcuEzNbJse08ZEw5DmtsuZWCnOPr_8V649Nm8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_AfwQR61wyk_oPtkB5bUQNsH-oKNbp51MkedinT5n9_dvyQ&oe=69C2616D",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/651542083_1478431347239927_1816157881471546679_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=g6kKlQBuU88Q7kNvwEsR-pP&_nc_oc=AdonOh7235Qq-K3A417Qr8rZDUUaQDNWtDrlbAkpbBNXu4eJZcn0p2JvRgDubniwfUA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_Afwghpq9V431ucVxE3UpJjbLLr1NK4RCAGyitb8W1eRVUQ&oe=69C279C0",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/650558602_1845385332778374_6055040234423431110_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6A2m2eVXvwUQ7kNvwHnfv0R&_nc_oc=AdppKMZnZqzoTYWtL0ziRIdGe2zMAiqPMlAcN6va-tT3zpfxWvGCCGVRnoXVE1DEo40&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_AfwtfSslgvTJs9Nh3ZI28c0UN6Oz6mpzSfTWmACo1s_xgg&oe=69C28CF7"
+      ],
+      "landing_url": "https://www.e4ds.com/webinar_detail.asp?idx=973",
+      "permanent_image_url": "https://i.ibb.co/vSdLSkM/E4ds-Lounge-c92d99cb.jpg"
+    },
+    {
+      "index": 14,
+      "collected_at": "2026-03-20T02:03:01.109596",
+      "page_name": "ibea.official",
+      "ad_text": [
+        "임신 중 신체 변화가 왁싱 반응에 어떤 영향을 미치는지",
+        "해부생리학적 관점에서 살펴보는 이론 중심 웨비나입니다.",
+        "통증 반응의 차이, 출혈·홍반 반응, 색소 변화 등"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/651395911_1247016380345227_6640227739294008583_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DWRr6xF5EAYQ7kNvwHyLFAS&_nc_oc=Adod6z-G2diZw3x5oSc88Uq7pcqdB3CnHm7DA4cCBXM9HVREpJwLIX-41oifcEuWljA&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_AfzPx72UqRmhMuuIFVLXVwM4rYlhwYwAx1BufHRKZo7W9g&oe=69C288EB",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/653701126_1769654057720638_1887478634889141255_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ALNruvY--AoQ7kNvwHHwUBV&_nc_oc=AdrJKLabseWcgxU7F84GZuytqXlKQqlTgZ93dk_ZFzfdBmJwicRTqm-SzgpGkzVkJ1A&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_AfxPW8WFAcVissxbSNDlT4BdpDkCRrV1jUBkzjtvSctv-Q&oe=69C283FE"
+      ],
+      "landing_url": "https://www.instagram.com/_u/ibea.official",
+      "permanent_image_url": "https://i.ibb.co/4wPqwC0q/ibea-official-b8516d0d.jpg"
+    },
+    {
+      "index": 15,
+      "collected_at": "2026-03-20T02:03:01.178650",
+      "page_name": "Change The Class",
+      "ad_text": [
+        "아이들도 선생님도 모두 홀릭되는 AI 수학 수업의 비결을 공개합니다!❤️",
+        "수준별 맞춤 문항으로 소외되는 학생 없는 수업!",
+        "선생님은 코칭에만 집중할 수 있도록 돕는 매쓰홀릭T의 실전 활용법을 전수해 드립니다."
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/651779136_1577809460176591_5237077651012111944_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BaWRKrfSekMQ7kNvwGvZgvv&_nc_oc=AdrWcLjx6qhexQdVZjiAqSWO7yV60ahSr0hTLdWVQgmyWPXY7mtBWPPnRZlrshwqJJQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_AfzlgNlFDHmP12cBiiLntlbvoG5w9Aw1E1kjklJoz6SkkQ&oe=69C266E6",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/654280836_1301422681798677_705398181878065766_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YAnCQyw4ZnQQ7kNvwE0_UcM&_nc_oc=Adq_jCEI9PJ8AYn6p3GfKbKj-6SW-t-3usyX5-u-LC9B5l1imVH0cIVTZZYVTCM4ijM&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_Afy-uJGzaokdsMhWiyYxi-QPaKHo8sCkHd_diumsiFxe0Q&oe=69C2806B",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/651259106_814447481083645_3460507451876873247_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZCv4H8kj0gUQ7kNvwF5lmq6&_nc_oc=AdrEKQAubCNA2TDqo1rFlHryShqN86ofSpDEWX1V06BQfLunWgE4ww3MTjrnjbivz8s&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_Afxu7zAEiLzjk43QeIEn42oslMHRmvGyrIaUGQF3CYLhyQ&oe=69C2828D",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/653008445_1850751195641292_5438712880987076546_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5RqCswoPeMgQ7kNvwFbbUNq&_nc_oc=AdrhmVrHEobowXr_kZteHujl1XH-RsPitnHXXtjGrT35OUuQp54t2D8BUQ42ixFcYjs&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_AfzMZnuidPuXYZYg_IMNzK_1iZ8_1PRFjk41cXDytNwdFA&oe=69C28F64",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/651411171_1301224005195205_8458416081707397594_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3SKTovmDPW4Q7kNvwGbgF9C&_nc_oc=Adp_OO6GbcTXdL7yTheT__XPHYkvQDyvLS0v2btb_4OyEHB4M3qGLelI__xmr4AgSUA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_AfwoVw8UNoCDS7d5LDivxfTDSd8t25SnNdjzXviVN_3XXA&oe=69C288B8",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/651812054_4310699105838348_8643009515630303890_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SvAh8h_XKNUQ7kNvwFgjnDw&_nc_oc=AdoKmylv7HNj9FqiTHv38Mie8yPoJ3qvIGCdpBBtBXEmClN7qA1DSefWx9JvEINY1tY&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=MvQ-gsBFBd9NGbEE7xKDnw&_nc_ss=7a30f&oh=00_AfyJ2CTWYllYSXXQGD8Za7bOGykWqOWtozt33MZ0cAoS9g&oe=69C26686"
+      ],
+      "landing_url": "https://chathess.teacherville.co.kr/page/webinar_view?seq=941&utm_source=meta&utm_medium=paid_social&utm_campaign=2603_webinar&utm_content=mathholic_webinar&utm_term=260316",
+      "permanent_image_url": "https://i.ibb.co/Y7Vq3gkR/Change-The-Class-739447ee.jpg"
+    }
+  ]
+}
