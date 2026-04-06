@@ -1,0 +1,250 @@
+{
+  "collected_at": "2026-04-06T02:28:02.322900",
+  "query": "ai 교육",
+  "count": 14,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-04-06T02:28:00.852406",
+      "page_name": "인프런 - 기술을 배우고 나눠요.",
+      "ad_text": [
+        "인프런 비즈니스 구독 서비스 OPEN! 🔥",
+        "구독 서비스 도입으로 2025 하반기 교육, 한 번에 정리하실 교육 담당자를 찾습니다.",
+        "📌 기업 규모에 맞는 정산 방식, 예측 가능한 예산으로 간편하게 구독"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/514671085_1231853575091324_6239890698465867443_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5xHMHW8p4AwQ7kNvwEdejGn&_nc_oc=AdoYdSZO9aN2p1q2DzfBi5tENDVhY_-gXQt6ACVAdIB6IMhPNUy37D1ghoZV1eRI2EA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af0-odjRU1a2LBLPj2zhaQQh3yY2y2EJNTWZBLwIw5MN6g&oe=69D8E604"
+      ],
+      "landing_url": "https://www.inflearn.com/tag-curation/common_tag/biz-subscription-intro?utm_source=facebook&utm_medium=display&utm_campaign=traffic_b2b_subscription2507&utm_content=_etc_all&utm_term=_250701_v4",
+      "permanent_image_url": "https://i.ibb.co/1GDMdJcF/505f7520.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-04-06T02:28:00.905835",
+      "page_name": "한국gpt협회",
+      "ad_text": [
+        "엄청난 프로젝트 비용, AI가 1000원으로 대체? GPT & AI가 여러분의 업무를 혁신적으로 바꿔드립니다.",
+        "HTTPS://GPTKOREACLASS.COM",
+        "텍스트 이미지 영상을 한번에 AI 올인원"
+      ],
+      "video_urls": [
+        "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMSVlkJC0g2dP-jNPyHF3jQAJ_DK0bAgN7HIe5e5erHNXpCuJroh2TDWcm81EdIFyAiQNzJaz6CsrKcx-SIB1ot.mp4?strext=1&_nc_cat=104&_nc_sid=8bf8fe&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=3Txd0vqF2JEQ7kNvwHvlNPb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNjQwLmFzaWNfaHExX3NkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo3NDk0NDQ3NzQ4MjMyNTgsImFzc2V0X2FnZV9kYXlzIjoxNDYsInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjozMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&_nc_zt=28&oh=00_Af11Jb71VQfLx4W3GEri5JoGvKtBqDEetpJB6RDC4xf4bg&oe=69D8E91E"
+      ],
+      "landing_url": "https://gptkoreaclass.com/courses/gpt-ai-standard/"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-04-06T02:28:00.948515",
+      "page_name": "가상융합기술 아카데미",
+      "ad_text": [
+        "2026년 가상융합기술아카데미 5기 모집",
+        "HTTPS://MTVS.KR/USER/CUSTOM/EDU/INFO/4",
+        "2026년 가상융합기술아카데미 5기 차세대 가상융합시대를 열어갈 청년인재 모집!"
+      ],
+      "image_urls": [
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/659122598_961074793033646_9031768756560863359_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FU0hB-B5SYEQ7kNvwFCpKtj&_nc_oc=Adowm3Nb0rhdU0F0Ou1Bi0zEQNXxX4dKWl2kXLZVqBglFRfPcWCzVYekLxWVnOA27CY&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af312H3W6mMCGdNZ3xxham4jmbMlAvlMgKeLlOqNlGQpPg&oe=69D9001A"
+      ],
+      "landing_url": "https://mtvs.kr/user/custom/edu/info/4",
+      "permanent_image_url": "https://i.ibb.co/fJJPg4b/a084a2fb.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-04-06T02:28:00.995731",
+      "page_name": "SBS아카데미컴퓨터아트학원",
+      "ad_text": "오직 성남시에서만 수강료부터 응시료까지",
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/585297222_10029649160493586_3215731070416006089_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AOMuu65hXp4Q7kNvwHOAUUi&_nc_oc=AdqaMSnZ9z47wS-Fbc4pL1Uyebb1AH2IBVu921q1bCBppfEZ3agsupa_4vQnAwh5gMc&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af3t3oJPOCBKu_UUPO0kMWKmbgeeBr9rfqSqqIBmebaqUQ&oe=69D901EC",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/583839511_1214147750821373_143590558827574417_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_r3BknqUsoIQ7kNvwFBek-e&_nc_oc=AdqY9HUZqJ5TfubNBc90yWz_USta25gXHr68GFo5AWbOfVMB92xMQa9QaCBT9QvAaGM&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af0pB3G6CRXVFjsl5cIl0YrjaVRfrJZQcTAZB5eSpX9Jvg&oe=69D8FF7D",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/585289907_1749533579535453_6395677796913990522_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VgaEkRlpaHoQ7kNvwHvQUZy&_nc_oc=AdrethIi2i7_r4zl-CIhk4i7NLRPpkhFaUGgXY0j1udQ0lDOxSVMJGHudqYw0eUaMeQ&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af0C5ozLlE_1aZ9xI-opMLKWVJUX4aPqzi6vpyJwflKtIg&oe=69D8EEFB",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/584721710_1515598606418336_3470282280901373870_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NW-diBSxLNoQ7kNvwFHJUCI&_nc_oc=AdoEdHssTbI5BNcwlO3NUk3oDsjL7zDRq-jr6-UOJIhHPN8w-cPQsH2Hpyuptlm47C0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af11_6NUVQ53fsMkhXOyWNOpEAaAWDVGzt-hrFIwIkdq0Q&oe=69D8FCE4"
+      ],
+      "landing_url": "http://fb.me/",
+      "permanent_image_url": "https://i.ibb.co/RpFrssqK/SBS-49cde3a5.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-04-06T02:28:01.092512",
+      "page_name": "SBS아카데미컴퓨터아트학원",
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/578591305_2730264230651109_7423597657103202673_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FyZa_z05vicQ7kNvwGHk5Bw&_nc_oc=AdopnK2OLakyrjMkEqqSR39FZeK5IDTjF5yz4ZePgd5KYMKwPwGyyh1JRZN3XM7wQAI&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af3QlAruZVDcFATkcxIgBmfg8BtfrWaVAB0MLLXLEw_csg&oe=69D8DAC3",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/579301652_686398290868988_8946919248162784216_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kJ1E_HS3qCUQ7kNvwG9R5sR&_nc_oc=AdqtfBYVI7pJILVEqdhgOlP5MM8NSotG810EsEFygV6lrYQPQjmrGnCnr6oWyn0Dy4A&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af3aAkXPln0aqTcdP9ZVXT-c8yNKLAXwjJHllwbLvAHkdA&oe=69D902C4",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/580427032_834981505556420_2435074850791763712_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IEcsf7x0WgwQ7kNvwFW5zYw&_nc_oc=AdobtKfaCmboK47ghEFxzaFOdEdKO19fZpOahKqXEFIpYEbIhrJfZi1_LA6-3qvKWGg&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af3MEIDjxzY3lwdny_W0EQ_MQg8s_L_wwBI4St82Qn5RuQ&oe=69D8E26E",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/579822422_4210826999195167_1955041489915001064_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nJBvv4zwsZoQ7kNvwGQc0bP&_nc_oc=AdrHwUaDuY2pc3w-9DugNg5pW3ZffiZeuUMY45lyzIb6udHaMbYDyAWPrnNFetcaPe0&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af3gMLYHtiT3l20g41lLdqUYydxF7D0_Kw2VkDTi-2tQqw&oe=69D8D50A"
+      ],
+      "landing_url": "http://fb.me/",
+      "permanent_image_url": "https://i.ibb.co/HfcgFMMx/SBS-b559c7b2.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-04-06T02:28:01.188482",
+      "page_name": "라이즈 비라이프센터",
+      "ad_text": [
+        "📍 내 커리어가 다시 켜지는 곳, 직업·평생교육 거점센터(B-LiFE)OPEN! ✨",
+        "\"부산에서 배우고, 부산을 이끌다!“🌊",
+        "드디어 덕천지하상가 E구역에 [B-LiFE 거점센터]를 오픈합니다. 🎉"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/631690427_835209429543607_3325093552869726215_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ExF9vrQZP1wQ7kNvwHhuiau&_nc_oc=AdqiFeURH8xLjT-rtpmaJ06gW_ENQTDZoQudXjoncJUXxf0GpiZJiFdYo5uxOdr4-iM&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af32y-1lD5KqGZiEw1JFU1qSthtEWbTUH4eTc-HunvE16A&oe=69D907E9",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/633611833_900119695712838_4792236025950395330_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7GVfkGEP_msQ7kNvwFcdNXt&_nc_oc=AdpKtIRLxsS-HdArhrW6JWnuaGlvpAsUZ0mqxT6a3F7ovKn4KePzkOjq4F8vQ2kI_hM&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af3z-UsRkbNEQv8pOlZTwxFh5aoVYy1hztDF8_gmOedMqA&oe=69D8D132",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/631152311_910785901681877_3598263064697206875_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Sg3gxKQ8XGsQ7kNvwH9s26B&_nc_oc=AdqOPOyJEnj8iEAr8OsqSNyrmhkCRiSUH9L0QF7D6IgoI5UKWJRgET5hzNrVWL6inSE&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af3vIxEZQ1C_8hvUSNfOF6-BOXqjnXjPYuLc-2us5Ipjzg&oe=69D8F449",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/633073614_962964386159047_2875497460033586100_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4cMhLpuI2hsQ7kNvwEvucYg&_nc_oc=AdrhUCY-CZfWRRniBkmyBzmQ8jUIQiUJnobANfBdkEINUR0NXdAJn7_sRFGMj9NYC8M&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af35Cc91APyYmOQayedgInkuVLi19WdD9wN5tkWKhdNLbg&oe=69D8E586",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/631495277_2318133535337848_5104448611865881760_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZpPu4NBpsdwQ7kNvwGAB8M_&_nc_oc=Adonz6yCCAIAsr5rG3iK64BPrY0UnMPPXVIChU43kV8JITRn3B28YZf0dAujhGIS22s&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af3qppR01QP966szVSkfcxnmMam5FJlRPWXYnQbt5ta_eA&oe=69D8ECA8",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/634075293_2364600710630266_803166131357350283_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-RQVCkzsyvcQ7kNvwHtGJfV&_nc_oc=AdrhfjaN_7_KVtLvgq3wird6okeGhKnuMbfBGLPJ19EbXHSe-fPAKJfoqYET00KGIYk&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af2FsBsBAMNRXzUHndqdz204Cm727oRG409GjE8Y1hC3aQ&oe=69D8DB9B"
+      ],
+      "permanent_image_url": "https://i.ibb.co/PGgM1LwT/0fbdab70.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-04-06T02:28:01.292032",
+      "page_name": "에이콘아카데미 홍대학원",
+      "ad_text": [
+        "30명 소수정예 선발(정원 모집시 조기마감)",
+        "✔ 최대 90만원 지원(국민취업지원제도 참여시)",
+        "✔ 26년 4월 28일 개강 / 120일_총960시간(한화에어로스페이스 스마트데이터분석과정)8기"
+      ],
+      "image_urls": [
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/642822134_1648226449700037_8149118996857863377_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6EflOFF9eyEQ7kNvwFG0gwP&_nc_oc=Adq0_AkqfyN4NRcNu4vNxG7S7KjoOkh_TNyJcF2O8PQ5k-8rDTQiL0lcELbwnB50oio&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af0RpnXe3iN2gUSYgWuMS_SFK6qStPzfI32Ofob6L5HqzA&oe=69D8F5EC",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/616166038_1844097956306400_4403226548286275067_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wpT1zbP6niAQ7kNvwGDKDOg&_nc_oc=Ado6WmCoKm-OM1GJyjLeHrw6WgNS6U5h5fLVnSha07gP_U5QjXGEpyGwRGaXSF0pl8Q&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af0JL5tZY0yVm7KMuCKqpTo1-IeTeQYj-3Ong09Qndfh3g&oe=69D8F398",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/642237435_26105670582394104_1246768356292128566_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Z3YBqKkVAaQQ7kNvwHQZgno&_nc_oc=Adpg58IfxfAOA1Ls6Ozzaw_0f0l2kOW-Hj4MpD80Klco5BYMayUfUf2NcLJhOkpDhIk&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af37RWNVjKO0Ylv8jjY3Kki6J4PksTnI28nTxES1m6uelg&oe=69D8F47C",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/640341283_3800592533575394_7267252724124659068_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Djfky_0iZQwQ7kNvwFFg_MX&_nc_oc=Adr9I9qW56-Y46zZm-MxwCpT3quM69KtbwNAUFaNsstmy_fFyfwbcipfKCf0zJH5SHc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af2cskWTHEeAWBkGSVSRB0ShdTJNYeLChTJCkfnNfstwrA&oe=69D8FDAF",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/639214386_819154527860238_136827812427279168_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JowvtUmJjRUQ7kNvwGb54Q6&_nc_oc=Adopzw6dP07ML6kPpsT7jnlkImnrwYsJ1g85br61OttkPskCwxZRgQs3EfPK8T0tGWY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af3yxnBgeDxUd_HR2d1F_gxzJ0vKtHXeuzu2_zwZBHGcRg&oe=69D8F75E",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/642342109_922377086869715_471581041644172998_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=z0ySh-B4SE4Q7kNvwF4tRzZ&_nc_oc=AdokCnlRAhbpLyaXheuigHfLQ5VHEy7aOhtpNOd4kXvlgipavKWoL4rM-DNTSC3oyVE&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af3RYijUfLZrTf6hHctRyH_KvFKCzPr557SVFXucD3g6EA&oe=69D8DC0D",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/641633788_2409927606106186_1298109934672592241_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WF3y_4mhlX0Q7kNvwEvoU9O&_nc_oc=AdozKENI7XQj8LWik8yG-KT5v_WYzPYOzx-6fIviK_igNd65ru1mpS-YdueKt8wiQFU&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af0y3yNjnN76NeAObSVrku2KP00l-nNuXG9lVAUyRKT8ww&oe=69D8EB2C"
+      ],
+      "landing_url": "https://www.hanwha-academy.kr/",
+      "permanent_image_url": "https://i.ibb.co/Fbrp9MJ5/fd950254.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-04-06T02:28:01.434627",
+      "page_name": "솔데스크",
+      "ad_text": [
+        "🇯🇵 일본 IT 취업, 지금은 ‘IT’가 대세!",
+        "교육듣고 일본 대기업 \"캐논\" 면접기회까지",
+        "#일본취업 #IT취업 #클라우드교육 #가비아 #솔데스크"
+      ],
+      "image_urls": [
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/649692488_1153603053416362_5598749665596924136_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9d0D47U29VYQ7kNvwH95XG_&_nc_oc=Adq9xOiqkCZgUZ_r-aoG9Q89xpyjuJCZqt9WayLC1BwTQuHrhi8QHlpDScjG6amNrrk&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af2P-OHlkON3zD0j6d0iuRGJYybn8dWyXd1dO8rAcvLxmg&oe=69D8E52B",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/650159262_1219095203764232_6897746851570531873_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LJGtSR0UhbMQ7kNvwFeSOGk&_nc_oc=Ado8ftrzqKTOU4JM_UI9dUxq2oD-V3hJcY29-roZgVMi9b00AKbFQqpDxcJT4KJaK9k&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af270TXJQuMMW8Go76Wns0b8sxYO27W6X1F7E1pL1qNCQQ&oe=69D8D209",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/648888820_1249460136683677_8459445240506541291_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VHNT2SjYKAgQ7kNvwHASOwg&_nc_oc=Adrm9PA8WGh1IaD9VTtgOxJ_tQ9bHzm32IvGpcTo04yB6DfUyl-4etXQ-s0DUDKZjZQ&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af3zYs7g1inesZQngBsN0K6-cUf9Q9Ji5z9CllhSzaBprg&oe=69D908A4",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/649776715_4128739307388074_5159199136785217329_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=M6MdblpAEpAQ7kNvwHXLxFI&_nc_oc=AdoGTLys5UQHiuEX7wH02ZmvhSQ_13dq-Z7twRt0FFLXdnALcrKkvKtIUmdMPvNKw5k&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af3ORvJZYSTN51thjsFP3hotQ3l4eJXffCNN_WDtohrpog&oe=69D8D82B",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/650027449_1653215989433451_8704044338172342169_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=syTri7zeZa0Q7kNvwEJPFH-&_nc_oc=Adok6_uh60xSwfejVYTKn2WUggFuNI2Od-kdwwVGduXqA00ALJ8AeQaC5pMfX-mupSw&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af0qrM48JF9-cPj83Pb8jRi8KaVUZgOqArKtdLDMI1ru2A&oe=69D8DD29",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/648958015_1256833379162288_4534399401267248355_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0s0q2cpPqMAQ7kNvwGt_os6&_nc_oc=Adq0j3YmzCPAVvqmAjArJrUER0bncuGu2M1s649LwIWrthhMO22NBeFQHdgO-5vUaa0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af3IrVIomrzm9m7KLiHet5R5oWrM74GfQPTvstq0o5XdXw&oe=69D8D4FF",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/649718050_1473169534224703_5830135100769647453_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=K40pwPtOK08Q7kNvwEn7EPQ&_nc_oc=AdpdFFeu4MXdpKyBjJIm32-xYw6oO6t76bd4B48B7usemhDCRiTx0CQcAA1GLA5XNgU&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af2NmC43KukvkxNiGf1K5kFUJq-eaFObNKTL9ezxp2lPNQ&oe=69D8ECB6"
+      ],
+      "landing_url": "https://forms.gle/7d7fh5JtZfMnydXL9",
+      "permanent_image_url": "https://i.ibb.co/vxKGfh3p/e2ba15d7.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-04-06T02:28:01.581034",
+      "page_name": "국비의모든것",
+      "image_urls": [
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/651225906_1086225427897291_4187905044860600862_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=y0u-PHOcerIQ7kNvwE_OiCg&_nc_oc=Adrb5N1h3yw4wbHClWyFeH5Tr-wZeCAIOi7dD0uJp9uomB5og1ZICFsxswPeNuRsNcg&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af2m1UC7dJEr7pQL2PHM8KifszwY6GUvrd54Bc2WJKqInw&oe=69D9002D",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/650487798_811151652026792_3335592177059407195_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ITzyypmcKKkQ7kNvwGb4gIT&_nc_oc=AdrwzpfwjSPf9PSV9pzMZyrHvV2-lb0J8412KypOnMPYVQ0Fz0F0i-3HU39YIwrgg_k&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af1urxZojwjz1P1yqvC51oqfZo0GGW6TP8R5ntwPwD2dPg&oe=69D8E5BA",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/651205252_1239292708338746_2219943658725854410_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1pr-3Atv81wQ7kNvwG3uZ_8&_nc_oc=Adpq_mWE5e_Wevefw9_HLIlSn-AhOTfxQE3n5iRVNq9AiYJ_wjIF0x5Y6WjS2ME3rZI&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af0OgShoWAEMHprAppJQD3RmgWDe_o2s_WwbXHLZcyrrFQ&oe=69D9010B",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/650709214_1569718601495163_4511945637969189638_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mZzIA6x9-voQ7kNvwGYAz0H&_nc_oc=AdoJTg0X3FdqI0H_6cLLkzkM1uPhHOpEhu1mlLLMPc5ImfH6B6oE45R9KKZ7poKL86U&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af21r-bEEo-edf9l5erHDb8XBgErgqbFSHJ_q-onhjt89w&oe=69D8D446"
+      ],
+      "landing_url": "http://fb.me/",
+      "permanent_image_url": "https://i.ibb.co/DPnCpTKs/a171592b.jpg"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-04-06T02:28:01.675491",
+      "page_name": "에이콘아카데미 홍대학원",
+      "ad_text": [
+        "30명 소수정예 선발(정원 모집시 조기마감)",
+        "✔ 최대 90만원 지원(국민취업지원제도 참여시)",
+        "✔ 26년 4월 28일 개강 / 120일_총960시간(한화에어로스페이스 스마트데이터분석과정)8기"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/655353711_1557056512060164_4796159865507154849_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6EaTyP3b7KUQ7kNvwHEGhZV&_nc_oc=AdpwGtOVjunLNq8XvELoiRca9Oyh3_cjuy6CugMEYWJu9CwEWLJEqy7KPqxadZDMJPA&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af1jhB7G1NFWUWYxcoXB71FY_BE16iyCHee1C4IpZDPFSg&oe=69D8EE43",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/655729658_1625164058568113_9096614119502774174_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o10T-UQM4lIQ7kNvwEp3saL&_nc_oc=AdpOdpHmCg6zj0wHcC-hKSPnIHPlORC4bDXTrfgDqA1EX7FAaELy_kdqGS7gJLRxMeg&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af1SYeeMkTLjW7VwIhVELGrmOlrtlCk8fF_s0CLrVIrx3A&oe=69D8F993",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/655838714_26454457434148410_105696060210074018_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6Y7eu_1Tfg8Q7kNvwG52Rpc&_nc_oc=AdojjJjne5O67aC1nYi5kcefLz0Eb6WmebKXYAkk9nrAXJ1F9wio1j_8n9Dt_XjcXHg&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af0SoAFZ8GbhfmDkOLCwNb_Hqzc_1n3AU2v6oA6T1GAB2A&oe=69D8FAF7",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/656091820_826704313052925_4542684400797449279_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=spdew5IbOeMQ7kNvwEKQFu5&_nc_oc=Adr1pNi96YbG6bEe35ik7N-UXEGwHTONLKwc_LpKy0MJ9A6r9GfF-FObDX3l1N5C0U0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af3mIgOkOCz2y0nt5bwWZt7TMofPVKwv8LC8xe0zic5oQA&oe=69D8E691",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/653397331_1447108737149023_8952566670303964706_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Xq0HdD7ZSlsQ7kNvwHVyfvV&_nc_oc=AdrHZTHGBZdCEFKWEYIZV5mGJQJbEBEnqw9DAf5zBRQS0dc3t861p8rglkHLrjiM6dA&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af0gChPHFvGj6joXF71Fb6ySTF281844K6TP1JQV_MTX5Q&oe=69D8F539",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/655006047_1399209488896620_4746245747327000217_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iFKqE3yTXwEQ7kNvwFF1WS0&_nc_oc=AdoR3vqOU3cuOfdJMSvZn0IMUSG01vuX5HjaYSIDVL-9gSWIJbJxWQRSmpVGAeQpXsI&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af3Vlwo0MD7xsZ8UHwp_wj4c4FRyI0E9YywezKmelKChwg&oe=69D8D7BE",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/654816915_3195264670677036_4062762922170733185_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=b3PjV3luVssQ7kNvwF44oXD&_nc_oc=AdqVRZp8ZxoVmfvYsM5w-YSugktZwYX-miCNHdsez_IMPv-ElELYgSrucBdV9bQLvos&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af1TOqNuSkia0YFpfHHEjXP2l_wNB_l4-gue20ftJhlJoA&oe=69D8F511"
+      ],
+      "landing_url": "https://www.hanwha-academy.kr/",
+      "permanent_image_url": "https://i.ibb.co/6RmtdKK5/3602892e.jpg"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-04-06T02:28:01.819254",
+      "page_name": "솔데스크",
+      "ad_text": [
+        "🇯🇵 일본 IT 취업, 지금은 ‘IT’가 대세!",
+        "단순 개발 스킬보다 실무역량을 갖춘 인재가",
+        "일본 주요 IT기업에서 가장 주목받고 있습니다."
+      ],
+      "image_urls": [
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/621178393_1139584648079320_8333570995123176615_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vLcrOCqygvoQ7kNvwFWjLBO&_nc_oc=AdpIEdXYxJ9hgcHc59ptWzPHIUBTr0QrnApSj7vfqVYbmY-BlMIR_XVjcgHjkkU-C_0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af38UGNazZ5k6uz5oSqRnW7jjSyeQzm2I0sIMFiXRwPESg&oe=69D8DFF1",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/619148500_1194505016210846_3838186853263617145_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SrEnaYaBrSMQ7kNvwFbRdaU&_nc_oc=AdrNKDaQYRR9L-3YwGKed1t1RezcddJ3gW5-qaJw8e0loKwT1oRc_5wxY3ycaI_5-yo&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af10IVCtWZ0L9DnYN6imr9B9OktK8LcpsxQPd0X-I2Y0AQ&oe=69D8EDD6",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/619825764_2124427931707484_7359877843186773116_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZKT_KBbiNgkQ7kNvwGn1t-_&_nc_oc=AdrjMkEmis0wWgKRxvBYMnbTnwWRlyBUcIiXp2kUyesF0r96jrhmTLzaEr-9KVD4DzE&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af3HFf4e-wYLxLOAYYb0sxC0dnJLL_IOV69M0G0cmAN5Kg&oe=69D8DB41",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/619228208_869309842572810_6001664504991924700_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xXY2Wgsh-ucQ7kNvwHtDkUQ&_nc_oc=AdrmZpOTTxmfSv7GJwY0MkxgE8mYbSVFeQdBJrhknT_EtW2dAYn0pPRN6jgZNeSIm0U&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af07TRThdlrxIlquxsBYxoXxGwr8MBFEb-fWC8T4OExFug&oe=69D8D92A",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/619339310_892638516499697_7704418312129394783_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KIPEU9Vxc44Q7kNvwFEiRod&_nc_oc=Adr8ExCpsjpesTPrilgtQghTT1KJa57_32cMm2aSutyLOLfzWofNTkpgj2EnGOOZvSo&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af2vAYgyAppxXvNKArQtiiT59cp1QsQW7ehIyUYSDokC8A&oe=69D8E970",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/619743282_1914112669180023_8599926805279342821_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=quW3QUCvVK4Q7kNvwGFFlFM&_nc_oc=AdqYI-5edwBQCDMywJgji4EJntAAcsifF8S-o8Nk67lXng3WahMc-GpjPCVkqd1Lcto&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af2Cq90m1MceEEnGY3V-_xFb7yni1Zt2IN47tid3jJZa3w&oe=69D8DCD7"
+      ],
+      "landing_url": "https://forms.gle/7d7fh5JtZfMnydXL9",
+      "permanent_image_url": "https://i.ibb.co/67PYVshG/c6eb2840.jpg"
+    },
+    {
+      "index": 11,
+      "collected_at": "2026-04-06T02:28:01.941630",
+      "page_name": "nambuwomanup",
+      "ad_text": [
+        "NAMBU.SEOULWOMANUP.OR.KR",
+        "취업 전부터 특허 전문 인력이 되는 지름길! (훈련참여수당+교통비 지원)🚀",
+        "취업 전에 이미 특허 전문 인력으로 인정받는 방법, 알고 계신가요? 단 3개월, 실무 중심 커리큘럼으로, 특허, R&D 분석 분야에서 바로 활용 가능한 전문 역량을 쌓을 수 있다면? 🎤 한국특허전략개발원 전문위원 및 현직 변리사 직강까지 서울시와 성평등가족부가 지원하는 [청년여성 특허분석 전문사무인력 교육]에서 특허개론, R&D 실무 이해, R&D 분석 실습과 프로젝트까지, 취업에 바로 쓰는 포트폴리오를 완성해보세요. 🎁 오직 수강생만을 위한 지원 혜택 😎 훈련생 맞춤 상담 + 특허 분야 취업 지원 📕 교재 제공 + 특허분석 포트폴리오 제작 지원 🏫 한국특허전략개발원 전문위원 + 현직 변리사 직강 💰 훈련참여촉진수당 + 교통비 최대 31.5만원 지급 🎈 새일여성인턴 취업 연계 사업 우선 참여 📍 이런 분께 강력 추천합니다! - 특허, 지식재산, R&D 분야 취업을 준비 중인 청년여성 - 단기간에 실무 경험 + 포트폴리오를 동시에 만들고 싶은 취준생 - 전문 분석 직무로 커리어 전환을 원하는 이공계 학생 📅 교육 상세 정보 기간: 4월 29일(수) ~ 7월 1일(수) 시간: 월~목 14:00 ~ 18:00 (총 132시간) 장소: 남부여성발전센터 (금천구) 📩 지금 바로 신청하세요! 접수 방법: 이메일 접수 (nambujob@seoulwomanup.or.kr) 문의: 남부새일센터 02-802-0185 (취업팀 1번) #남부여성발전센터 #특허교육 #국비지원 #여성취업 #자기계발 #취준생 #프로젝트 #포트폴리오 #지식재산 #특허분석 #특허 #AI활용 #2026년교육"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/648081422_1304296378207928_5134871069753358703_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oFGyOUr7CZwQ7kNvwGjGJ5Y&_nc_oc=AdpNfZWuynwPpXcO3WaW2F9ntwG4NT_MluDTBEiF0soPK5eUjhHWSTMuvwjfGsYyPWA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af3ynBbPmCxhMuEPtQd1YbwuiQoIVjp4ei1LWx7dBRf6CQ&oe=69D9073F",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/646344504_1986094872005799_3962925512356601050_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=auk_kbQWQ9AQ7kNvwFth0RU&_nc_oc=Adpm7WGI8QhMoGof7W2Hm4gUmx49voKMaVKYFP36OtRn0fElpjWWR9nqxxxWBTSuiI8&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af0STnM0A3bE_Eldgnj7Hp1JYh58IKItRg28V-8i9E6_PA&oe=69D8E12E",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/647306466_1388932099649601_8604782512878605809_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RgxqVcPrcJMQ7kNvwFfiTB4&_nc_oc=AdpV-dTZfL_K8-CnzCwM4fibdRE01OfM4nxA8DYFuWGz_Hh4OBb3OPwlh4LiR3TmV6c&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af1yoXIl_ckenN-tKTkwdoYDpsRNAy-q2FgJm9SQEorH_g&oe=69D8F489"
+      ],
+      "landing_url": "https://nambu.seoulwomanup.or.kr/nambu/edu/selectEduProgram.do?sch_class_code=C100158086&returnUrl=/nambu/edu/selectPageListEduProgram.do&edust=&manage_code=&form_code=&organ_code=04&priority_flag=&sch_course_code=06&sch_domain_code=&sch_group_code=&sch_edust=&sch_edu_fee=&sch_dayofweek=&sch_time_from=&sch_time_to=&sch_lecturer=&sch_class_name=특허분석&currentPage=1",
+      "permanent_image_url": "https://i.ibb.co/HLQwtdBZ/nambuwomanup-ba8d64ae.jpg"
+    },
+    {
+      "index": 12,
+      "collected_at": "2026-04-06T02:28:02.018074",
+      "page_name": "tjoeunjj",
+      "ad_text": [
+        "✨ 2026 고교위탁 일반고 특화과정 가접수 진행 중!",
+        "영상디지털 콘텐츠 분야로 진로 고민 중이라면 꼭 확인하세요.",
+        "영상·유튜브·시각디자인·웹·AI·자격증까지"
+      ],
+      "image_urls": [
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/588419191_4304963636448310_2540408622263485727_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mK0SZMHp9RcQ7kNvwF8muvr&_nc_oc=Ado15NeDg9T8ptqlgQcbVpD-YnlE9jOt4JAepU7Hj8WjeR4r2N552D7XwutlQBBGfsw&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af3KlZVMS1xykn0bzU-KX249-rXuMdyILZfyWPtx51Dglg&oe=69D8E501",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/588014906_716667234366841_5294846953249428030_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dShgTvE1Z7UQ7kNvwHvVLGD&_nc_oc=Adr079tFUgvFO7xXwRdaioH3YVbySa_e5iRcoj9eNIobWyxell8cIVXAlN8m0Yqu-bk&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af1TlzbhYhZj93BOlA209ENuLi-7VMCxhPDDoluGp06mLQ&oe=69D8E8DB",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/588029794_25769939782614314_5547936138065761653_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aRqrsj8lFYEQ7kNvwH5htZG&_nc_oc=Adpd6VMdud5Dtq-uhNCVZFD6XXAtsqBGyzyB0dBcD6HGs61ljsDS1JHOiOCIvg1VSyE&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af37LILSCTMpoULzrd26FXWytKV3-eem_u2eteUScpp8XA&oe=69D90063",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/589363888_698035483362279_6362860455770136836_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0c5ZJ4BhuBYQ7kNvwEp1VX9&_nc_oc=AdpI2AQfAD7SzDamTqeFgarsIG7r_cl8zSteeB3DR4-Ee0uQj7zajw1ZUAg5YgJvbtM&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af16APnppZmblV5SgcXf7lPDU5Lx9vIHmZ3ne6g97HnIDQ&oe=69D8E067",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/588470880_24536626002679008_4483426897897973485_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qZQIOAEQd_wQ7kNvwFl837w&_nc_oc=Adqo3tRcgjbl_J1JiJwhqRBrKFGpo5Zl8bil0fPdIOkZgjDARFlVAm_Q2GdL5ostfrA&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af2Vp-NIcC3yy-hSXiLGgORTo7uXgEYgC1zng7rXOIQG7Q&oe=69D8D17F",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/587726029_1522607752308834_2679332328458730288_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m7iDfb05ZvgQ7kNvwGr6zvX&_nc_oc=AdqAupHvBgO13qnkDH4wvy2R3r8xs_8gM25Pkzzit4cRsX9Y5RUyZsOHelUqC6SG0wQ&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af01vEbPpkwKsC74JWrC6GnPdGrogNKJ1fqmhsgK5hRzUQ&oe=69D8FD93"
+      ],
+      "landing_url": "https://www.instagram.com/_u/tjoeunjj",
+      "permanent_image_url": "https://i.ibb.co/mMQVRgC/tjoeunjj-305c9e61.jpg"
+    },
+    {
+      "index": 13,
+      "collected_at": "2026-04-06T02:28:02.146354",
+      "page_name": "RO:SE - Review Of Social Economy",
+      "ad_text": [
+        "RO:SE - Review Of Social Economy",
+        "AI로 배우는 디지털 마케팅 실무 과정 💻✨",
+        "✔ AI 콘텐츠 제작 · SNS 마케팅 · 스마트스토어 실습"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/638422599_856336470747697_6356411064180296397_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nkekCjrL-SoQ7kNvwGonlUn&_nc_oc=Adp-0deKMg2U6X9nee4yelH3fulO9RTlfqm78ZLI_Xv3tYsHMDYAKFbvr7LqySKA8Ig&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af0gQTKxlkZ0ibPlJcxLb_Mouko59zwjJQ1PaV80qVdr_A&oe=69D907C8",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/641412985_1987876602606049_7759386764137156677_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=roV7NMJG8sMQ7kNvwGKWyex&_nc_oc=AdrRv_iM4xKc5nomV_6bXmkgJm2WzuZDlCTmhcEo5LhVT8A8QleoOb83X4mYdxa67Vg&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af3wyU9nI3QExE9wVna1NhoJGBVZBOgxsz_hsDTXfAZKJA&oe=69D8E3D1",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/628542839_1590145475572986_7396545603563171214_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UJ-ZkiEJ3wIQ7kNvwHbpmH7&_nc_oc=AdpLZt4YLKmDxlq2Zds4Om1yiqw-EYCzCGFE3MHFzC9UmX83Mfvi4wE-GfMD1eJ1PSg&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af2-EF6zuSAvT8JW-Zghzy0L0yq6dF5UORrzyg4WbaJtdg&oe=69D8F349",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/639994035_5089210021331172_3838492144830117498_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=D3y5HAbVehUQ7kNvwFJRQxz&_nc_oc=AdpSctIEjgIosNiQigRkyFoAsQbujRGLYdbOf6DFuCKYh3e2uh1CFucuhS4zBxG2q8M&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af3bn3a4spPNk31sRKNrTLBWj49xesiFQH8IlazT973qJA&oe=69D8D88E",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/641000274_1928691941108336_2619608453655367217_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eBcSzyTeI9wQ7kNvwESZr-f&_nc_oc=AdpHHFWXJYRPuCihQ9P6UytWoeNqHy1cOExBpSWIzStqctAFPqmE2hynOt6hzKYk96M&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af2Mnp3-cu9xtEujkEpg5vSb7Htsr6UlgPBIO6_DZT7Ajg&oe=69D8D3D5",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/638394463_1797135317646627_4601752022972170620_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8T4SBIKfLoIQ7kNvwGZhHvk&_nc_oc=AdpfjGwomJ7RY6dPhKS2d20Clq06nxILknN7oI9Xll0Z8pzA9aYBPBMBRqAL80R1HEU&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bbYW5m348-1hzrmebOF92w&_nc_ss=7a389&oh=00_Af3unakA4Y9_KQo5w-f0JDysmvfuwk_GhveiPEukU2Rcvw&oe=69D904B9"
+      ],
+      "permanent_image_url": "https://i.ibb.co/cKSyFPv1/RO-SE-Review-Of-So-b819653b.jpg"
+    }
+  ]
+}
