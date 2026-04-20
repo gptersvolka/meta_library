@@ -1,0 +1,206 @@
+{
+  "collected_at": "2026-04-20T02:37:46.757002",
+  "query": "무료 웨비나",
+  "count": 13,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-04-20T02:37:45.922779",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "✨ 국제학교 자녀분의 코앞으로 다가온 미국 명문대학 입시 준비…",
+        "미국 입시에서 Common App 작성은 곧 시간 싸움!⏰⏰",
+        "꿈의 명문대 입학사정관의 눈을 단번에 사로잡을👀"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/544995989_1311938777240584_7643198229873328322_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eaPs21N6PiAQ7kNvwFFIkxR&_nc_oc=Ado6GURaR0jTIKYtKhhG30BVgx2AYVAl4aBq2uyhTK1oiAc40NNH_XgAgx7FNR_Y3b4&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=M5BI0owsAPyjyZhV0uNtUw&_nc_ss=7a389&oh=00_Af2YmeISpDY9oLek520OXx0bCFV0b4iQbsuA3iAe9PlZYg&oe=69EB799D"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/resources/webinars-workshops/",
+      "permanent_image_url": "https://i.ibb.co/prZ3SDkC/Crimson-Education-183d965c.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-04-20T02:37:45.977848",
+      "page_name": "원티드 wanted",
+      "ad_text": [
+        "한국에서 3~4년 경력, 일본어는 중급.",
+        "①일본 HR전문 기업 LAPRAS 인사이트",
+        "💎선착순 이력서 첨삭 혜택 (4/20까지)"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/672680349_2738937659795328_3675610217663070224_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3rOIiBWxAqcQ7kNvwHjsvLc&_nc_oc=Adrg1qcNrvXMTEd0Jq2EEdhRmhyrvB4Di0Yw51_5HMwAe8MuqaPq6rduW6mZpLe58uA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=M5BI0owsAPyjyZhV0uNtUw&_nc_ss=7a389&oh=00_Af09CAmDHTBYUo9bbrTNBpxef-b1U-7HikNEXi1b1BHPaw&oe=69EB663A"
+      ],
+      "landing_url": "https://event.wanted.co.kr/work_in_japan",
+      "permanent_image_url": "https://i.ibb.co/TxvPnSLV/wanted-639d4b9e.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-04-20T02:37:46.030812",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "✨ 국제학교 자녀분의 코앞으로 다가온 미국 명문대학 입시 준비…",
+        "미국 입시에서 Common App 작성은 곧 시간 싸움!⏰⏰",
+        "꿈의 명문대 입학사정관의 눈을 단번에 사로잡을👀"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/544498933_1686715765330737_9216432937402814786_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eFKuvgBRLrYQ7kNvwH2DOXb&_nc_oc=AdoWGcLdNWVBfvNudaVdlSnhTZ3865QYHCBUIo6WPuVPBC8_EENiki0VSlYQiEKndNA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=M5BI0owsAPyjyZhV0uNtUw&_nc_ss=7a389&oh=00_Af2eKuj4SYq1X4RuprkhKOJY3-Kwl_vNow4K7H5WfjAbjg&oe=69EB5738"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/resources/webinars-workshops/"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-04-20T02:37:46.083248",
+      "page_name": "Omada Korea",
+      "ad_text": [
+        "☀️ 전기 없는 현장, 보안은 어떻게 하세요?",
+        "태양광 CCTV 구축, 전문가가 무료 웨비나로 알려드립니다!",
+        "전원 공급부터 네트워크 연결, 실제 사례까지 한 번에 정리해드립니다."
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/670342915_26733213579646017_211075099272648497_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ecuY7Sm4chwQ7kNvwERcX5z&_nc_oc=AdpRQ_dQvWSfMfK7lBNNS8clZL9I-gdcFzuAsPr0XEuDAw09L9XbQHPagATyX4Uit5U&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=M5BI0owsAPyjyZhV0uNtUw&_nc_ss=7a389&oh=00_Af3WTWta3bJpAmPj21BwLE5b9f4wCBcuTrtRHUMD4fEolg&oe=69EB5C42"
+      ],
+      "landing_url": "https://docs.google.com/forms/d/e/1FAIpQLSdg6rXJPJc3648cuz-d4RzH_G460EmRkfIMkfaTpE3rcPg1yw/viewform",
+      "permanent_image_url": "https://i.ibb.co/LzK2fbDZ/Omada-Korea-cb678758.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-04-20T02:37:46.140322",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "[무료] 웨비나 요약 자료 + 45분 핵심 영상 제공",
+        "HTTPS://RINGLE.RECATCH.CC/WORKFLOWS/SSIFCYJXAK",
+        "[무료] AI 시대의 채용 방식 변화 (VOD+PDF 제공)"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/668476442_2182887952474653_6317753487401370898_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eN00z1NSx4IQ7kNvwHvb_6i&_nc_oc=AdpRblg6idTuZIDKJUzxZMTSFmhwsVzFEbys4RbHteEiWyGSzUlA4kO4M5jLsE8pZWA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=M5BI0owsAPyjyZhV0uNtUw&_nc_ss=7a389&oh=00_Af3TWilpxa1MP5moMCRO5Eh72l7JaD4FlkO0r_zO-_9UcA&oe=69EB7278"
+      ],
+      "landing_url": "https://ringle.recatch.cc/workflows/ssifcyjxak?utm_source=fbinsta&utm_medium=paid_social&utm_campaign=b2b-webinar-260423&utm_content=type_a_01",
+      "permanent_image_url": "https://i.ibb.co/MxTPPJNf/1-1-742f7dc8.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-04-20T02:37:46.192759",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "혹시 어떤 썸머 캠프, SAT 여름 특강을 선택할지 고민하고 있나요?",
+        "스탠포드 합격자들은 '나만의 프로젝트'에 집중했습니다.",
+        "남들이 다 하는 여름캠프보다 한 가지에 집중하는 비교과 활동!"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/656865411_1457291589221434_8595785482406163036_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=V0A_i4xaRWIQ7kNvwFHGkB0&_nc_oc=AdqYARTqFaYS5rDWRAzbsGAYdKelPhI7Rn766j67UXxyaQSvsRTr69pIYH7L4P8rqps&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=M5BI0owsAPyjyZhV0uNtUw&_nc_ss=7a389&oh=00_Af0Q1ghDeD1JmOFrUw3RVsFCR7BbQh3klMkqiREPQW3D0g&oe=69EB7CEE"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-april-22-what-you-must-do-other-than-summer-programs",
+      "permanent_image_url": "https://i.ibb.co/XkyZPRBD/Crimson-Education-f960038f.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-04-20T02:37:46.244765",
+      "page_name": "Telta",
+      "ad_text": [
+        "AI 툴을 받고도 어디에 써야 할지 모릅니다.",
+        "국내 기업 데이터로 직접 확인해 보세요.",
+        "[무료 웨비나] 텔타 4월 웨비나 신청"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/673128974_26664553723139290_4429373515995861133_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n0SRCL3wm88Q7kNvwGcsARK&_nc_oc=AdpMnMk_ds5PuiD6KKvADhtKDGL9WoCONn4Fl2d9xo85Vp72ZAJ5HjUR0Ha8-pTzE68&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=M5BI0owsAPyjyZhV0uNtUw&_nc_ss=7a389&oh=00_Af2s8Ivqq8iqVM2owhDvijJm7_FNIU2d5jmI6-Lwpa9t2Q&oe=69EB7959"
+      ],
+      "landing_url": "https://www.telta.ai/blog/webinar-2604?utm_source=meta&utm_medium=paid&utm_campaign=webinar-2604&utm_term=assessment&utm_content=interesting",
+      "permanent_image_url": "https://i.ibb.co/twbmcfBf/Telta-cf54b0d0.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-04-20T02:37:46.297289",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "\"채용 비용 73% 절감, 오퍼 수락률 90%의 비결\"",
+        "📌 라이브 참석이 어려우셔도 괜찮습니다.",
+        "신청만 해도 ‘강연 PDF + 다시보기 VOD’ 100% 증정!"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/669117045_808966935603796_9122415307931741421_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JBp4BOTl1rEQ7kNvwFB8Hok&_nc_oc=AdqAJJGnXimpt6b6jI7qQRklvaQ49VEI-ael7Oz_RJMWh_AH2Y75ijHjfBZ0-f5Wezk&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=M5BI0owsAPyjyZhV0uNtUw&_nc_ss=7a389&oh=00_Af2fqHMWzyNOqWVtxIC9wVpnuib6cn5Y2_FbAyr6Eu8OyA&oe=69EB73DA"
+      ],
+      "landing_url": "https://ringle.recatch.cc/workflows/ssifcyjxak?utm_source=fbinsta&utm_medium=paid_social&utm_campaign=b2b-webinar-260423&utm_content=type_a_06",
+      "permanent_image_url": "https://i.ibb.co/zVLC4q2x/1-1-85a60b45.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-04-20T02:37:46.348073",
+      "page_name": "원티드 wanted",
+      "ad_text": [
+        "한국에서 3~4년 경력, 일본어는 중급.",
+        "①일본 HR전문 기업 LAPRAS 인사이트",
+        "💎선착순 이력서 첨삭 혜택 (4/20까지)"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/671665084_949316501052427_5445786486232470674_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=u-c1jwUkvyQQ7kNvwG7FoqU&_nc_oc=AdoYD6VJseySjLa20w068cGM-YK2LxncrvyZMejqLScmKaHgsr_41S1r0Eg1gRNkkvw&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=M5BI0owsAPyjyZhV0uNtUw&_nc_ss=7a389&oh=00_Af2j_k6nqjNg830DvybSLAf_EJdwbkMlqNcApp7L0ZSAsw&oe=69EB5758"
+      ],
+      "landing_url": "https://event.wanted.co.kr/work_in_japan",
+      "permanent_image_url": "https://i.ibb.co/zWRM4ssP/wanted-9a9489c2.jpg"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-04-20T02:37:46.397256",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "올해 vs. 내년 미국 입시, 그대로인 부분과 바뀌는 부분은?🔍",
+        "대학별 지원 트렌드, AP 점수 기재 변화, 옵셔널 비디오 제출까지",
+        "미국 대학 입시는 앞으로 어떻게 바뀔까요?🧐"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/667764866_1521405432882509_2598434732936226127_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=f1BBTCct8GcQ7kNvwHIRSzS&_nc_oc=AdpfaZ4cqPAUbcHpv3KuRZgN-xphnEvvymZ1en8hiYYbsJ4Xdr6ATP4AkidwAGxwgcM&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=M5BI0owsAPyjyZhV0uNtUw&_nc_ss=7a389&oh=00_Af0MdjA4mee2-ZrFxR1JaA-Y_NWjwMXfsNZgz-s2nesXEQ&oe=69EB7A07"
+      ],
+      "landing_url": "http://fb.me/",
+      "permanent_image_url": "https://i.ibb.co/ksR1SsRQ/Crimson-Education-64625505.jpg"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-04-20T02:37:46.447541",
+      "page_name": "RightNow Media KR",
+      "ad_text": [
+        "4월 <AI 코파일럿 시대, 리더의 디지털 전략> 이라는 주제로 이 시대에 교회에 꼭 필요한 디지털 전략 웨비나로 목회자님을 초청합니다. 자칫 번아웃을 겪기 쉬운 요즘의 목회 환경 속에서 디지털 도구로 사역의 균형을 잡고 성도의 성숙과 성장을 확장하기 위한 목회 전략을 소개합니다.",
+        "특별히 4월 웨비나에는 Acts(아신대학교) 이수인 교수님의 '교회와 성도의 미디어 리터러시(미디어 문해력)' 특강이 진행됩니다.  미디어 문해력의 중요성을 알지만 교회에서의 적용점과 성도를 어떻게 도울 수 있을지 고민하신다면 이 특강을 놓치지 마세요!!",
+        "라잇나우미디어 활용법 등 모든 궁금한 점을 해소하며, 지난해부터 새롭게 도입한 교육 프로그램(소그룹 퍼실리테이션 과정)을 소개하고 목회에 도움이 되는 여러 디지털 도구를 함께 소개해 드리는 시간으로 구성됩니다!"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/660295106_1463417035581684_7311286824726982205_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_OVpb7FatdMQ7kNvwEoBkjD&_nc_oc=AdrBzmyKX4b19RRlHkj3h1AoUGZUIIG_QRDHKrgzJYo7zdL08NtssIgrLaok8O-8eF0&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=M5BI0owsAPyjyZhV0uNtUw&_nc_ss=7a389&oh=00_Af3g1zHvQWdXASgglOuQymZAyL0n696YbTWM5Nv8Zhya1A&oe=69EB5579",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/659052423_3450808478417762_8613947101663608201_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DaLdC3Y7shoQ7kNvwEy4LDM&_nc_oc=AdpMin1Jozv_n2X0AspgXjY8bdEJwLZVkCrnFMFaidCFO1Mw6z94mzLiFYABYUqR4vg&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=M5BI0owsAPyjyZhV0uNtUw&_nc_ss=7a389&oh=00_Af2ZygLu0T6qOCQCcH9AbxqSnTtAlKjP0OuswzQyiuLwAA&oe=69EB4ED1"
+      ],
+      "landing_url": "https://forms.gle/Apm9GD5WAL52onte7",
+      "permanent_image_url": "https://i.ibb.co/SwnWZtL9/Right-Now-Media-KR-89492ce3.jpg"
+    },
+    {
+      "index": 11,
+      "collected_at": "2026-04-20T02:37:46.519620",
+      "page_name": "코코스유학원",
+      "ad_text": [
+        "고민하는 사이 학비는 또 오릅니다. 📈",
+        "✅ 호주 대학교 최대 110만 원 장학금",
+        "✅ 호주 어학원 최저 주 10만 원 대 (전 지역 최저가 보장)"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/659816310_992508559770517_3469757030463609539_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AN6hWqPQKlUQ7kNvwFu1HUH&_nc_oc=AdqfXSkfdwkUDW5HMyESAptpGp2hAWlS30qTeAViDYt3EoyTeJ_zo22tpb3mKesuvIE&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=M5BI0owsAPyjyZhV0uNtUw&_nc_ss=7a389&oh=00_Af3mUlbNBDeoTqqrC1ItoYsuc5RLM7rqkUdCp6N-Fn7JhQ&oe=69EB5D32",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/660283741_1574157440364330_611935714635905191_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jOUu4awafh8Q7kNvwGgGO-i&_nc_oc=AdqR0oU69uLwJIMazLJT7m8QOrtmHHRTp7rJ5ID9n9FH6r6gjrxUDrmqwl3FeVIiQF0&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=M5BI0owsAPyjyZhV0uNtUw&_nc_ss=7a389&oh=00_Af16kGbRo45QtHduLBlggRUyl27170nbdtI2PFYvhHSHew&oe=69EB6904"
+      ],
+      "landing_url": "http://kokosaustralia.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=sydney_kr&utm_term=offshore_expo_2026&utm_content=expo_b11",
+      "permanent_image_url": "https://i.ibb.co/WQcxNQn/f4f05ec2.jpg"
+    },
+    {
+      "index": 12,
+      "collected_at": "2026-04-20T02:37:46.590290",
+      "page_name": "모두싸인",
+      "ad_text": [
+        "B2B 영업 현장에서 즉시 매출로 이어지는",
+        "실전 세일즈 전략을 단 90분 안에 공개합니다!"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/672324900_1648128146337720_7423316102973483442_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6uHXygMIJrwQ7kNvwFns8Yg&_nc_oc=Adpaxq4hTOlOslc_Iuqj5KYl8N2Z9EGDUHPnHLYOf4uVAId5pJ0rpnMwDq1Lk2lW3jI&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=M5BI0owsAPyjyZhV0uNtUw&_nc_ss=7a389&oh=00_Af07behSaRm_nSFHEvZaoj2hx_ar-0fY2W_RgOv9OjOO-A&oe=69EB750D",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/671630157_1289174079807095_3022999982851057451_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ITOBmAphI1UQ7kNvwE-b6pp&_nc_oc=AdpgT5NlgANgkibBOKkn-rPMz70rcKytlrixM8Am-muSEK7L_sa8D10Eik4wcble8yI&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=M5BI0owsAPyjyZhV0uNtUw&_nc_ss=7a389&oh=00_Af2pzeDatZOx8dXxKaXp9pYWRA-DuV8UxKrbfFBHs3wm1Q&oe=69EB4A65",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/673435768_1604129194037627_4994878115517672025_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_m1hJRAb5lEQ7kNvwHTP1SI&_nc_oc=AdrKRTUMsmmYNi8eU_IAHuoqFiL0D8VW0cz9DwnUuCLLStvxhi_fyv_sVgYhgpSCIQE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=M5BI0owsAPyjyZhV0uNtUw&_nc_ss=7a389&oh=00_Af0WDvRwQlSBjikW9p-UtClc3hh-PRDUNf0kQGC5uY5aFQ&oe=69EB573E",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/672667978_1273362724908574_1823622057312579765_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aNfzse6ELXwQ7kNvwHx0lHt&_nc_oc=AdowM5NfqRmM2g1T2o11EPltT90xHibQ_AoKxl0IZ3Sl-uv_lYzbCwFwIxrPUAoHRj8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=M5BI0owsAPyjyZhV0uNtUw&_nc_ss=7a389&oh=00_Af1JVXwnfvw0eFMD6fEooMxWqEEe0UfXoyKcDmQiG7Cz6g&oe=69EB6E36"
+      ],
+      "landing_url": "https://blog.modusign.co.kr/uncategorized/b2b-sales-revenue-masterclass-webinar_da",
+      "permanent_image_url": "https://i.ibb.co/7NtwkdPV/b495ac60.jpg"
+    }
+  ]
+}
