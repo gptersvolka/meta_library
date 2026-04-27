@@ -1,0 +1,178 @@
+{
+  "collected_at": "2026-04-27T02:44:59.252369",
+  "query": "ETF",
+  "count": 12,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-04-27T02:44:58.602530",
+      "page_name": "Firstrade",
+      "ad_text": [
+        "광고 • Paid for by Firstrade Securities Inc.",
+        "轉移部分或全部資產到Firstrade皆可享有最高$250轉戶補貼！美股交易無手續費、無期權合約費。立即加入Firstrade，將美股投資產品一網打盡。",
+        "限時優惠：轉戶到Firstrade，最高可獲得$250美金補貼！"
+      ],
+      "video_urls": [
+        "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOkfwNm1I59of9afXpPLaQdLXbQjPIebADwE7-1vz02bOagYP7O6LJzMt6zRnAHawKx3LgRF-GHYBgYzOEIVOo.mp4?_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=TZeulzsuKD4Q7kNvwEfAXLk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTIyMzEyNTQ1MTY1OTU2OSwiYXNzZXRfYWdlX2RheXMiOjExMjUsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=kGx5x8tPuYmFVT3dlFBxqg&_nc_ss=79289&_nc_zt=28&oh=00_Af28oFCmC40BBzxa8veYXLLZ4sDdqlgfIpAHllAT5p5peA&oe=69F493A9"
+      ],
+      "landing_url": "https://promo.firstrade.com/zh-tw/intl/xfer250?utm_source=paidsocialch&utm_medium=facebook&utm_campaign={{campaign.name}}&utm_content=xfer250tw"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-04-27T02:44:58.649780",
+      "page_name": "iHerb.com Spanish",
+      "ad_text": [
+        "✨ Tu bienestar, sin compromisos.",
+        "Encuentra miles de productos de marcas 100% auténticas — siempre frescos y listos para enviar.",
+        "Con iHerb, lo que pides es exactamente lo que recibes. 🎯"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/648714689_1215054370365169_2518813852573411283_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vCKfFQugFHIQ7kNvwHehOCF&_nc_oc=AdogwpaSFOlXIQrvzIYiT-gH7yMJ7l-2FJe5KHZtZHnI2Mhb035MYdiHozmTRZZUXgI&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=kGx5x8tPuYmFVT3dlFBxqg&_nc_ss=79289&oh=00_Af2PGKilwudwPIpc7KbA1EY1RB_ykUUE0zNPk9_KjY6-TQ&oe=69F4A65C"
+      ],
+      "landing_url": "https://www.iherb.com/",
+      "permanent_image_url": "https://i.ibb.co/JRHpcjPt/i-Herb-com-Spanish-84b94165.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-04-27T02:44:58.700666",
+      "page_name": "직장인의 모든것",
+      "ad_text": [
+        "회사 다녀도 내가 가난했던 그 이유...",
+        "챌린지 1기 등록하고 월급쟁이 부자되자!",
+        "20대 20억 자산가 🐰래빗해빛 튜터🍀와"
+      ],
+      "image_urls": [
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/600922857_2096156927793411_1969847858612294871_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yeFBJXrDL4oQ7kNvwEck3Yr&_nc_oc=Adocj4pTnaeqgBCbSw5dDCgSPvV44O6hSHcq8DWCLJQr_bL22r_kpnwPZC9HJWGcSTc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=kGx5x8tPuYmFVT3dlFBxqg&_nc_ss=79289&oh=00_Af25Fw1P4HZ_j66OUaGBQvxq77cIn50sMZrbP18MC1kAqA&oe=69F49449"
+      ],
+      "landing_url": "https://taling.me/mkt/rabbit_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=rabbit_purchase&utm_content=재밌게1억&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/rGkKWXZF/8e6126ca.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-04-27T02:44:58.751744",
+      "page_name": "퇴근할래",
+      "ad_text": [
+        "오직 월급만으로 20대에 20억 만든 래빗해빛과",
+        "‘60일 월급테크 챌린지’ 함께해요! 🐰 💪",
+        "매일 딱 한 번, 재테크 미션을 수행하면"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/599004321_3075030999351058_6284044378428700054_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h7C4Z5wkegkQ7kNvwF9RrYC&_nc_oc=Ado4pvHNN641uh3QR6mXLQ1WlTTaqE04rcAFEOseOfDZsBWRtpktUMiouDBg_r9iQUQ&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=kGx5x8tPuYmFVT3dlFBxqg&_nc_ss=79289&oh=00_Af043xIcmyetxLdW4M6YU_9YqeTjhwBnX332tEcGjCn8Kw&oe=69F4A331"
+      ],
+      "landing_url": "https://taling.me/mkt/rabbit_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=rabbit_purchase&utm_content=래빗해빛루틴&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/bR7Y4Kqd/cd32a494.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-04-27T02:44:58.802260",
+      "page_name": "Firstrade",
+      "ad_text": [
+        "转移部分或全部资产到Firstrade皆可享有最高$250转户补贴！美股交易无手续费、无期权合约费。立即加入Firstrade，将美股投资产品一网打尽。",
+        "限时优惠：转户到Firstrade，最高可获得$250美金补贴！",
+        "加入Firstrade，享受无期权合约费、网上交易（包括股票，ETF和共同基金）无佣金，还可投资债券与CD。无账户闲置费或维护费！"
+      ],
+      "video_urls": [
+        "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPtG2Mb6oErtXaMuOIk8jvbAwHbf9xsh7JHF3ZsiLlWnkmPF1m2ebUshVB-hsdPibvp8lfTTQHIG87PbzbSyaM.mp4?_nc_cat=103&_nc_sid=8bf8fe&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=I_VFoXqBm98Q7kNvwFpYT6B&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjE3Njc2NzY3NjA0MTc5LCJhc3NldF9hZ2VfZGF5cyI6MTEyNSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=kGx5x8tPuYmFVT3dlFBxqg&_nc_ss=79289&_nc_zt=28&oh=00_Af1R6jUjaj4fCjBAmn2TxJjyE5v3FlVo6fZN3vFQFI0DEw&oe=69F4B46F"
+      ],
+      "landing_url": "https://promo.firstrade.com/zh-cn/intl/xfer250?utm_source=paidsocialch&utm_medium=facebook&utm_campaign={{campaign.name}}&utm_content=xfer250cn"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-04-27T02:44:58.847149",
+      "page_name": "미래에셋자산운용",
+      "ad_text": [
+        "미래에셋 그룹이 투자한! 스페이스X 상장 임박⏰",
+        "이미 시작된 우주 투자 시대, 선택은 미래에셋!",
+        "순.수.우.주.만 담은 TIGER 미국우주테크 ETF로 놓치기 전에 올라 타세요👨‍🚀"
+      ],
+      "image_urls": [
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/669750711_2154298658670940_2424570470893094102_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8s1ITg_P6F8Q7kNvwEDDLNC&_nc_oc=AdoxWvz0DS1O40TbxUUqIK_WsoIexruCMCYPeN_jtUQ1OgwhUmnhdMMqXUoqZSZTLrM&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=kGx5x8tPuYmFVT3dlFBxqg&_nc_ss=79289&oh=00_Af1xo0eYwK-N-P3cGCDwJoKVSeVeB4Rpis-ZHuCVlUXvhA&oe=69F48844"
+      ],
+      "landing_url": "https://investments.miraeasset.com/tigeretf/ko/insight/etf-insight/view.do?listCnt=8&pageIndex=1&detailsKey=670&q=",
+      "permanent_image_url": "https://i.ibb.co/fVQYhB29/9870117f.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-04-27T02:44:58.896929",
+      "page_name": "재테크는스크루지",
+      "ad_text": [
+        "스크루지가 직접 알려주는 재테크 솔루션💪",
+        "20만원 상당 재테크 템플릿 무료 제공!"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/548210534_1475318613512864_6455853012658869933_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QIxUYFzYz7gQ7kNvwHFZi3s&_nc_oc=Adr8nnRhTYLBgGm5ld7rp1OmuGlxOZN6359Jo3emVK__JzU9HBmfa5BDp_8T1XUWKCo&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=kGx5x8tPuYmFVT3dlFBxqg&_nc_ss=79289&oh=00_Af2Qgj51R2hxRD9iIW6t-w5UZFJn851feNzni0cuZBy30w&oe=69F4B162"
+      ],
+      "landing_url": "https://taling.me/mkt/skluzy_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=skluzy_purchase&utm_content=스크루지루틴&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/KctnLfxP/df33210c.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-04-27T02:44:58.948010",
+      "page_name": "미래에셋자산운용",
+      "ad_text": [
+        "지금부터 슈퍼사이클! 반도체 투자도 월배당으로",
+        "반도체 성장에 투자하면서 매달 현금 흐름까지!",
+        "TIGER 반도체TOP10커버드콜액티브 ETF로 투자를 한 단계 업그레이드하세요😎"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/672677203_2004315476814338_6072439096891899146_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sos4c7nJsH4Q7kNvwGAW1Op&_nc_oc=AdogWWHBGTes2u-WAlG_B53P0EITZa2hFU0Gp-IR_9uydxgH6GqLaYfGTJ6sdNvrvVg&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=kGx5x8tPuYmFVT3dlFBxqg&_nc_ss=79289&oh=00_Af0JCULf_DpI2xPDnDEe6leMzQhmbkCIkOxcGl9epjV3Fg&oe=69F49134"
+      ],
+      "landing_url": "https://investments.miraeasset.com/tigeretf/ko/insight/etf-insight/view.do?listCnt=8&pageIndex=1&detailsKey=678&q",
+      "permanent_image_url": "https://i.ibb.co/BK3ZKHwK/b9b6063f.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-04-27T02:44:58.995980",
+      "page_name": "미래에셋자산운용",
+      "ad_text": [
+        "미래에셋 그룹이 투자한! 스페이스X 상장 임박⏰",
+        "이미 시작된 우주 투자 시대, 선택은 미래에셋!",
+        "순.수.우.주.만 담은 TIGER 미국우주테크 ETF로 놓치기 전에 올라 타세요👨‍🚀"
+      ],
+      "image_urls": [
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/668199074_1607990117099070_4688701023057356828_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k1Og3rK3TKcQ7kNvwGCIsUl&_nc_oc=AdpxNqYBFp9f5kKQMK2crx8eTrPxKsA3U9siiu2wTwpoHGmqwnEPsTZ8f4D9foy3eII&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=kGx5x8tPuYmFVT3dlFBxqg&_nc_ss=79289&oh=00_Af3PQ0HbznSIh4VMbfdxazzSZH5QNeTnpkHqTYW1_xLwsA&oe=69F4A4BC"
+      ],
+      "landing_url": "https://investments.miraeasset.com/tigeretf/ko/insight/etf-insight/view.do?listCnt=8&pageIndex=1&detailsKey=670&q="
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-04-27T02:44:59.043747",
+      "page_name": "미래에셋자산운용",
+      "ad_text": [
+        "지금부터 슈퍼사이클! 반도체 투자도 월배당으로",
+        "반도체 성장에 투자하면서 매달 현금 흐름까지!",
+        "TIGER 반도체TOP10커버드콜액티브 ETF로 투자를 한 단계 업그레이드하세요😎"
+      ],
+      "image_urls": [
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/672169004_4512909745619171_2786309745714172678_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YMLQhS0Mnw0Q7kNvwFx865J&_nc_oc=AdpNaU5OyL6r1ZwBpsP0O5fBlFv-a62XzBpLQ1f7m-nupnlKfQStJmkr8YtG958jvoY&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=kGx5x8tPuYmFVT3dlFBxqg&_nc_ss=79289&oh=00_Af369vEQwuE5aOnO6JdWVlOUwP8anyX-ht9IG9fgLAJX5g&oe=69F4A3B4"
+      ],
+      "landing_url": "https://investments.miraeasset.com/tigeretf/ko/insight/etf-insight/view.do?listCnt=8&pageIndex=1&detailsKey=678&q"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-04-27T02:44:59.091542",
+      "page_name": "모햇",
+      "ad_text": "4060을 위한 재테크, 지금 바로 확인해보세요",
+      "video_urls": [
+        "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQO-8nxBpPfhhixYbmS4M8pYn_S6OWzV3NKUlXEcGAfNGMg-QGxoa4sUzYianNVQmBDLRLwIQvU3Whtvc4Bf9WlcPKHKHz-JAJuPzBzsGA.mp4?_nc_cat=106&_nc_sid=8bf8fe&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=7XuCQYmDhLEQ7kNvwGunmbG&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTY5OTA1MTMyMTEyOTkxMiwiYXNzZXRfYWdlX2RheXMiOjEyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=kGx5x8tPuYmFVT3dlFBxqg&_nc_ss=79289&_nc_zt=28&oh=00_Af31TbSyM70FL6qfI_HRJCZB3wOImN1KnVfCfg1Btw19_w&oe=69F4A5B0"
+      ],
+      "landing_url": "https://mohaet.com/invests?tab=detail&utm_source=meta&utm_medium=mohaet_detail&utm_campaign=260414_4060_business_vid01"
+    },
+    {
+      "index": 11,
+      "collected_at": "2026-04-27T02:44:59.133929",
+      "page_name": "미래에셋자산운용",
+      "ad_text": [
+        "미래에셋 그룹이 투자한! 스페이스X 상장 임박⏰",
+        "이미 시작된 우주 투자 시대, 선택은 미래에셋!",
+        "순.수.우.주.만 담은 TIGER 미국우주테크 ETF로 놓치기 전에 올라 타세요👨‍🚀"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/671958265_927821466764470_5852490292196228035_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QXMHyrleMhEQ7kNvwF-FdzK&_nc_oc=Ado4zwd0PZusD5RKjxcalRYYldcXoIx53cK1F-GTThXFTOYZTMADmCPVhuKHcr4hb0k&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=kGx5x8tPuYmFVT3dlFBxqg&_nc_ss=79289&oh=00_Af3YzeGJH8iu_9laUBNHClzekk2OankGtRWykfFqgrv1yA&oe=69F4A99B"
+      ],
+      "landing_url": "https://investments.miraeasset.com/tigeretf/ko/insight/etf-insight/view.do?listCnt=8&pageIndex=1&detailsKey=670&q=",
+      "permanent_image_url": "https://i.ibb.co/yJ6ydLj/e9d35932.jpg"
+    }
+  ]
+}

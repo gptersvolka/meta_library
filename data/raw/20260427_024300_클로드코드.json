@@ -1,0 +1,91 @@
+{
+  "collected_at": "2026-04-27T02:43:00.136045",
+  "query": "클로드코드",
+  "count": 5,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-04-27T02:42:59.605425",
+      "page_name": "AI 코딩밸리",
+      "ad_text": [
+        "🔥 직장인 업무시간 단축해주는 필수 AI툴",
+        "하나라도 안쓰고 있다면, 어서 배우세요!",
+        "📢 4월, AI 공부하기 가장 좋은 계절!"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/667334051_973140651947071_4126767641269455395_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_YmAGQGJhkQQ7kNvwFhGhzQ&_nc_oc=AdpM9vhoxS3iChWoBSqo-y55qsv__N1iBTovU-8OqqJTKZKLsd5HAsys-vlURkYsTtY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bnkNGt-fCDDgenXoWg4xYQ&_nc_ss=79289&oh=00_Af0OsxNnqYNeuGtZccURrCS0bkJ3sXnGnNt8RHYzVq34LA&oe=69F4AC7E"
+      ],
+      "landing_url": "https://www.codingvalley.com/ldm/7",
+      "permanent_image_url": "https://i.ibb.co/gXmYwL0/AI-7cd86e7d.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-04-27T02:42:59.660121",
+      "page_name": "AI 코딩밸리",
+      "ad_text": [
+        "😎AI 트렌드 바뀔 때마다 수십만원 강의 결제?",
+        "AI 코딩밸리는 월 2만원대로 무제한 수강가능!",
+        "📢 4월, AI 공부하기 가장 좋은 계절!"
+      ],
+      "image_urls": [
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/666635527_2365372473927495_2468968008290499779_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PswjEerkwVsQ7kNvwGmt5uK&_nc_oc=AdqjsazTseahMAkuvANbLTmHo6FXa8UnxwS-H06aO7kZ5o94mJpT4eCo0-pCpQ00fAQ&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bnkNGt-fCDDgenXoWg4xYQ&_nc_ss=79289&oh=00_Af16pOA5xfPtfRVQ0mFl0SinMoZQYB5ZO_UD2cXiYNrM9g&oe=69F49F9A"
+      ],
+      "landing_url": "https://www.codingvalley.com/ldm/7",
+      "permanent_image_url": "https://i.ibb.co/67vbSvSq/AI-934ccc27.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-04-27T02:42:59.712832",
+      "page_name": "AI 코딩밸리",
+      "ad_text": [
+        "😎아직도 AI한테 시키세요? 이제 스스로 일하게 하세요!",
+        "AI 코딩밸리에서 에이전틱 AI 배우고 미친 효율 경험하세요!",
+        "📢 4월, AI 공부하기 가장 좋은 계절!"
+      ],
+      "image_urls": [
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/678279118_2363996417444065_8536822116451703694_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aBw-fzlJXTYQ7kNvwHng3Xh&_nc_oc=AdqprmvjDwIiTlT3tCPUmsPGSSsOIDMlOIXaXHnnX0Lgk14cAKxWkUA1tgzUm_a5wAE&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bnkNGt-fCDDgenXoWg4xYQ&_nc_ss=79289&oh=00_Af0i81XPKV1OmkPhCz2ltZ9sHU8CTDLQi1uhDieWxvi5WQ&oe=69F48556"
+      ],
+      "landing_url": "https://www.codingvalley.com/ldm/7",
+      "permanent_image_url": "https://i.ibb.co/jkw2G1xr/AI-773c0566.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-04-27T02:42:59.767111",
+      "page_name": "AI 코딩밸리",
+      "ad_text": [
+        "😎아직도 AI한테 시키세요? 이제 스스로 일하게 하세요!",
+        "AI 코딩밸리에서 에이전틱 AI 배우고 미친 효율 경험하세요!",
+        "📢 4월, AI 공부하기 가장 좋은 계절!"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/679127065_1428275062645176_1991216343487877109_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qeNC41CQ1XwQ7kNvwF6BX9q&_nc_oc=Adr83LnV9dgM9K8uS-3Juxp-UDGfAOOeBODgmDLSdpk2YqOFpypy1I4SFPbqU9PeL5w&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bnkNGt-fCDDgenXoWg4xYQ&_nc_ss=79289&oh=00_Af2c7VhX3lhEJrJ2cIohBObRJ-s4kwxqAJGZs8vRn-xdzA&oe=69F4B538"
+      ],
+      "landing_url": "https://www.codingvalley.com/ldm/7"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-04-27T02:42:59.817629",
+      "page_name": "짐코딩 클럽",
+      "ad_text": [
+        "📝 AI 시대에 나만의 서비스를 만들고 싶은 비개발자",
+        "📝 Cursor 쓰다 Claude Code로 정착한 비전공자",
+        "‘개발자만의 영역’은 이미 지난 얘기입니다."
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/679442006_911805965224969_3492458665626612444_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mNqsymHuqBgQ7kNvwEvgJkb&_nc_oc=AdqwkgNoc5hzjNMdSE7jWjE0Y1AQVbpGOcU5okXJun5WQuZH1NyLffcZhqckQSco3gc&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bnkNGt-fCDDgenXoWg4xYQ&_nc_ss=79289&oh=00_Af0LIe7yDY0aqfrDmLsAIxDbosp-hiqpJgmuP2p_ZYjMGw&oe=69F4A53C",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/678321947_1736853594387230_297158125788488166_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kHz3RzZG3gMQ7kNvwHRpIXo&_nc_oc=AdoeQDOWyWYn4LG6AFXvubYOdi6l5CAmnNGTTFyagg-SRE26nmxIo8wOOaYW8_q4xzg&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bnkNGt-fCDDgenXoWg4xYQ&_nc_ss=79289&oh=00_Af1ttWK1yAM7FDXplwfk4xH1LsbQUemsGmh5aSd-dx4y9Q&oe=69F48582",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/679510175_2157734291715789_6987460496305159394_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mI2HGdy81KcQ7kNvwHlbpuH&_nc_oc=AdoquE6nen0OT6tF_xYxv6oAkG0s4wHF0uBsnPqmrPWt3lv9sNTw7BQb3n0t5Ad7Fxs&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bnkNGt-fCDDgenXoWg4xYQ&_nc_ss=79289&oh=00_Af2HtWJEviy_EWmZuct94Psx_wK7WqcHZDgbcaydTrtfeg&oe=69F48D7A",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/679657164_1298260088907464_6967552303602086947_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5kiMy3tVbzsQ7kNvwHV4zo2&_nc_oc=Adoz0C-CIm05cxyE5XEXS9M4091sdTJ6aIrvpTAVFhque9E3_Lvqm4IInuunXFczdPs&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bnkNGt-fCDDgenXoWg4xYQ&_nc_ss=79289&oh=00_Af1PQyePOgXFzU6MzT0zY1vcajQ5G60Fb296QdzsfrWA5w&oe=69F4B383",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/679609060_1219117066753885_6887498530211267148_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7Y63blra5egQ7kNvwHTRmwX&_nc_oc=AdpPQU1yEIQy7KiLaRRP8l3r6Z9iv_joYZFlvljDiTa2TWk9twn1a1861wUvYu83tsk&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bnkNGt-fCDDgenXoWg4xYQ&_nc_ss=79289&oh=00_Af2jBF1TC_yv3Qz1odYdhqpwRxsQnAQpdLpE1S5Y7Zl88g&oe=69F48740",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/679037631_1458070265395340_6902956221859361199_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FLW3mYN771gQ7kNvwFibbTv&_nc_oc=AdrcHi937Yyo0Jb0YqVI6wJHQAl7ZoXv4vK1LlLI8nQ-CPmjETTDOHd8zBDqT3hu1B4&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bnkNGt-fCDDgenXoWg4xYQ&_nc_ss=79289&oh=00_Af0Iz4G5UDiww460AFa1p3P_SQz6B0fMduHdW2Ts1a5Wfw&oe=69F4B779",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/679609060_1507155937725675_4720890611212523653_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=T7PK-WxRny0Q7kNvwEgcDts&_nc_oc=AdpekCU_O8yK4ausjIqh_5pvX5-tmOnsDojAREI8Ie-t_lRYvR_pcPHEw6Lmdr8BuXc&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=bnkNGt-fCDDgenXoWg4xYQ&_nc_ss=79289&oh=00_Af0wtJ69Ow0W5kWbQ3ylrF1xlU3NynxUzCKli4HxtOSACQ&oe=69F4A491",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/679839181_1880494535946013_5607574509102490840_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yL13uKJlOHMQ7kNvwEFKl1H&_nc_oc=AdrjmNdJzBDpl6o3KPAMAlTsnnkQt5dyQYRLEAI4uhMLpmdTmw6PXBZCb-NvNHxBQUk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bnkNGt-fCDDgenXoWg4xYQ&_nc_ss=79289&oh=00_Af348Gw9dkHwGsJqNJwA3YfrTtt2SDlb9zOsZKeFgk1hhQ&oe=69F49504",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/679070416_986365581003415_665510613575256329_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DoC5eIfSbhQQ7kNvwFGqN5x&_nc_oc=AdrRxb63neEo8PL92WVf5K0qSdyYevAHJm2VStPWysZrDMEjAEs0ZUBm4MXKrzp1ijs&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=bnkNGt-fCDDgenXoWg4xYQ&_nc_ss=79289&oh=00_Af2b3ImETIofuy0DBfmQszL2Fz_LwNQPZ6zwJgzRLVnFIw&oe=69F4B446",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/679001171_3119774988212254_8283847428643497586_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pgwahMMsqxEQ7kNvwEvMJgE&_nc_oc=AdoF6pgHeYxWjqLHU3MSs5AzPZgJ1XHyDXJPZh0HU65BlIEAULC0TYtL_PhxCPfh9tc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bnkNGt-fCDDgenXoWg4xYQ&_nc_ss=79289&oh=00_Af1zznYxYU_YsMulQ0T7RcBrJYPfdWe2szt6m0oWyAtwug&oe=69F4938D"
+      ],
+      "landing_url": "https://gymcoding.co/vip",
+      "permanent_image_url": "https://i.ibb.co/CK69gwQ9/812627c5.jpg"
+    }
+  ]
+}
