@@ -1,0 +1,216 @@
+{
+  "collected_at": "2026-05-04T02:50:46.820367",
+  "query": "ETF",
+  "count": 13,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-05-04T02:50:45.860207",
+      "page_name": "Firstrade",
+      "ad_text": [
+        "광고 • Paid for by Firstrade Securities Inc.",
+        "轉移部分或全部資產到Firstrade皆可享有最高$250轉戶補貼！美股交易無手續費、無期權合約費。立即加入Firstrade，將美股投資產品一網打盡。",
+        "限時優惠：轉戶到Firstrade，最高可獲得$250美金補貼！"
+      ],
+      "video_urls": [
+        "https://video-dfw6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOkfwNm1I59of9afXpPLaQdLXbQjPIebADwE7-1vz02bOagYP7O6LJzMt6zRnAHawKx3LgRF-GHYBgYzOEIVOo.mp4?_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=video-dfw6-1.xx.fbcdn.net&_nc_ohc=-okjWgPko4EQ7kNvwEBmckJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTIyMzEyNTQ1MTY1OTU2OSwiYXNzZXRfYWdlX2RheXMiOjExMzIsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&_nc_zt=28&oh=00_Af5yeQ8HHia8PU7UIKfS2iFawgdORUf283ZHE8mGv6VM_w&oe=69FDCE29"
+      ],
+      "landing_url": "https://promo.firstrade.com/zh-tw/intl/xfer250?utm_source=paidsocialch&utm_medium=facebook&utm_campaign={{campaign.name}}&utm_content=xfer250tw"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-05-04T02:50:45.909694",
+      "page_name": "iHerb.com Spanish",
+      "ad_text": [
+        "✨ Tu bienestar, sin compromisos.",
+        "Encuentra miles de productos de marcas 100% auténticas — siempre frescos y listos para enviar.",
+        "Con iHerb, lo que pides es exactamente lo que recibes. 🎯"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/648714689_1215054370365169_2518813852573411283_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=d_3SKaPjbGEQ7kNvwHXZL4a&_nc_oc=AdqDASEwXGoX_md8ym7CNE7MnGSKPe1jeIEi2q0ZRCOAjqlHiRbCA4NUwX96D9SWhJ4&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af5gBeMjQ-WFmwpIoV22bYlhWUwZRgKfRhNn_t8oLAO6WQ&oe=69FDE0DC"
+      ],
+      "landing_url": "https://www.iherb.com/",
+      "permanent_image_url": "https://i.ibb.co/XfCvkDWq/i-Herb-com-Spanish-84b94165.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-05-04T02:50:45.961491",
+      "page_name": "직장인의 모든것",
+      "ad_text": [
+        "회사 다녀도 내가 가난했던 그 이유...",
+        "챌린지 1기 등록하고 월급쟁이 부자되자!",
+        "20대 20억 자산가 🐰래빗해빛 튜터🍀와"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/600922857_2096156927793411_1969847858612294871_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ALeGPaXSYHAQ7kNvwGgzEzZ&_nc_oc=AdqA_zgNi69pCs9wi9Sf4s76HkHTEa99AEVSZf5fUJ5FpxoHGmwS5y9kYEnc5I_IyQM&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af7Im6WpbbpDCeeHQRTERq6uZRKFdAbvzydIxxRLVDhwaw&oe=69FDCEC9"
+      ],
+      "landing_url": "https://taling.me/mkt/rabbit_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=rabbit_purchase&utm_content=재밌게1억&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/wFyVHr6q/8e6126ca.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-05-04T02:50:46.012274",
+      "page_name": "퇴근할래",
+      "ad_text": [
+        "오직 월급만으로 20대에 20억 만든 래빗해빛과",
+        "‘60일 월급테크 챌린지’ 함께해요! 🐰 💪",
+        "매일 딱 한 번, 재테크 미션을 수행하면"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/599004321_3075030999351058_6284044378428700054_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0qUfaFYMIVMQ7kNvwFnjKWj&_nc_oc=AdokOey_LlgKGvUafcsDYLM2R5ANJHWAieYkv1xGXTpJEaMJyWHCjzhIV5z8kqX5bZM&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af5LPCGKvyL2oc60o6sZMTQVEn0_WEW7pIHvU0jByyP46g&oe=69FDDDB1"
+      ],
+      "landing_url": "https://taling.me/mkt/rabbit_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=rabbit_purchase&utm_content=래빗해빛루틴&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/hFYHcthR/cd32a494.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-05-04T02:50:46.063193",
+      "page_name": "Kodex ETF",
+      "ad_text": [
+        "[댓글 EVENT] 국장 투자, 무엇을 담아야 할까요?🤔",
+        "연초 대비 순자산총액 최대 약 5배 증가!",
+        "시장 흐름에 따라 자금이 집중되는 KODEX 대표지수 ETF"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/676779746_2749051895474367_1552555199731793803_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WE4SHOjLUUIQ7kNvwGJeZE2&_nc_oc=AdruWzH1l2ZymmhGM_ucxLouVucDUm67gt44ftkdWCyT3M4rkyhO4d1HaBJjBm4PU9M&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af5xTTuN9zARIawrPZSpeECZC-R9-CZ1Ubabi5AjaDBa8Q&oe=69FDF31B",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/675027351_969222802724725_4393625737957403299_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zfO5saMMOIEQ7kNvwHfG5_x&_nc_oc=AdolmvThHhDHLii9pNPfp7js8YMklB3RNk9w18yp6gb21xT3qQJVBOQgHw2f32BamrY&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af7FhEOS_r-3cEcWuUvySNDlUmdVfWZhtxuMYOFLPOwa7Q&oe=69FDEB1B"
+      ],
+      "landing_url": "https://www.instagram.com/samsung.kodex/",
+      "permanent_image_url": "https://i.ibb.co/gZXyC31J/Kodex-ETF-b3e58fa8.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-05-04T02:50:46.130356",
+      "page_name": "Kodex ETF",
+      "ad_text": [
+        "🏆 4월 2주차 KODEX 개인순매수 & 월배당 ETF TOP5 순위 도착!",
+        "최근 가장 많이 선택한 KODEX ETF를 확인해보세요! 👀",
+        "· KODEX 200타겟위클리커버드콜 ETF | 합성총보수 연 0.4228% (운용 : 0.359%, 판매 : 0.001%, 신탁 : 0.02%, 사무 : 0.01%, 기타비용 : 0.0328%) | 위험등급 1등급 (매우 높은 위험) | 직전회계연도 기준 증권거래비용 0.1015% 발생"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/669842821_942818415308181_3099457592086970796_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qc11Xf7gio8Q7kNvwGIyidN&_nc_oc=Adrda_gxlfNLv6WHcbw48C71AOt4QREvAhCWXE17Q1gtUSM3M1vCmB4ks1bwA9IFV3M&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af5zI3Us0v5MISHzE_IP0igBAMExwzc-QWtJ1wVhGG_A7Q&oe=69FDCB4B",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/669742656_1278562377698592_2467647996942839300_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lAQQaH9ebyYQ7kNvwGixcy1&_nc_oc=AdqMFRc2fedlaZvVtNlR5B45T6u-WgRQAhqTDk3mOA5D5oyaNfYdP5ng8zZXmbqiyU4&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af5kmAfJTWQdjTvad31IudJ7mGgUluT8brf7_qhEYmo46g&oe=69FDD2C2"
+      ],
+      "landing_url": "https://www.samsungfund.com/etf/product/list.do?utm_medium=social_da&utm_source=meta&utm_campaign=_d2&utm_content=42ETF_TOP5_1",
+      "permanent_image_url": "https://i.ibb.co/XrJdhDWQ/Kodex-ETF-4d55a1f4.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-05-04T02:50:46.197010",
+      "page_name": "Kodex ETF",
+      "ad_text": [
+        "🏆 4월 3주차 KODEX 개인순매수 & 월배당 ETF TOP5 순위 도착!",
+        "최근 가장 많이 선택한 KODEX ETF를 확인해보세요! 👀",
+        "· KODEX 미국나스닥100 ETF | 합성총보수 연 0.1003% (운용 : 0.0001%, 판매 : 0.001%, 신탁 : 0.005%, 일반사무 : 0.0001%, 기타비용 : 0.0941%) | 위험등급 2등급 (높은 위험) | 직전회계연도 기준 증권거래비용 0.0558% 발생"
+      ],
+      "image_urls": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/675075491_1008395221752664_1282875870188551850_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Onq7jdxqvuQQ7kNvwEYUVAt&_nc_oc=AdqD91Th2L2PPrp9eqbMy44AifCZzoo1zncFp2vi95P6A5UvLViY8L-s_eqFvhc9uqA&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af6eU7-pjeHT8yyKrkcHeDkT_cXHE-DU3aizNMqqsmWKHg&oe=69FDE071",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/675332645_1519531666181716_946352521839958528_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eds1RGP5DUAQ7kNvwGm7UpF&_nc_oc=AdoLBGTCmarzwdS5OX1478PUIr1Xqn6El1kN8WoxdxyTGPGsfUJqD9FFnK9U-WvRYWI&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af6treb1FqJD3pqcoKfWXMpDAb_cU8JkeISuUwOAyDWFZw&oe=69FDC117"
+      ],
+      "landing_url": "https://www.samsungfund.com/etf/product/list.do?utm_medium=social_da&utm_source=meta&utm_campaign=_d2&utm_content=43ETF_TOP5_1",
+      "permanent_image_url": "https://i.ibb.co/mrFW1KvY/Kodex-ETF-731a6054.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-05-04T02:50:46.263792",
+      "page_name": "Kodex ETF",
+      "ad_text": [
+        "정부의 지원 아래 민간 기업이 주도하는",
+        "우주항공 산업 순도 100% 기업에 투자하는",
+        "✨ KODEX 미국우주항공 ETF✨ 에 주목하세요!"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/679155724_2046603092946148_6734124113432236041_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4a9V9RvXSysQ7kNvwHWsiaL&_nc_oc=AdqLA-CTjJ99s19ZNnk3PRxn4wb-2ofDYeIGBs17Lm7rqoXATzctcdle8Afiq_Glh5E&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af4Pf8SbspXdNCZoIQnfxYrTN-AUzTtAogHwvcVTbB1nbA&oe=69FDF1D3",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/678393602_1474342607465513_3170059728141120792_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NydKGEobPGgQ7kNvwF7Qxwb&_nc_oc=AdqxwHdF-yrPIwLtlE91qSujV4FJbN-fowY58SxJV0X8lnjNB7776Tfk-9t1Snah364&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af5qOb_uwWwm5vZUPOh0j_DDp8zT2T0L2LHPtwuJnvElJg&oe=69FDE0BC"
+      ],
+      "landing_url": "https://www.samsungfund.com/etf/product/view.do?id=2ETFU4&utm_medium=social_da&utm_source=meta&utm_campaign=_d2&utm_content=0167Z0_1",
+      "permanent_image_url": "https://i.ibb.co/Dfg6Xvyx/Kodex-ETF-ecb34804.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-05-04T02:50:46.330545",
+      "page_name": "Kodex ETF",
+      "ad_text": [
+        "📊삼성자산운용이 제안하는 투자법 3가지",
+        "이 금융상품은 예금자보호법에 따라 보호되지 않습니다. | 투자 전 설명 청취ㅣ가입 전 (간이)투자 설명서 및 집합투자규약 필독ㅣ 자산가격 변동, 환율 변동, 신용등급 하락 등에 따른 원금손실(0~100%) 발생 가능 및 투자자 귀속 | 과세기준 및 방법 향후 변동 가능 |ETF 거래수수료, 증권거래비용,기타비용 등 별도 발생 가능 |연금 외 수령시 세액공제 받은 납입원금 및 수익에 대해 기타소득세(16.5%) 부과 | 중도해지시 또는 국세청 부적격 통보시 과세특례 세액 추정 | 삼성자산운용 준법감시인 심사필 제2026-701호(2026.04.21~2027.04.20)",
+        "#삼성자산운용 #KODEXETF #KODEX #ETF #투자방법"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/672688113_979962671221510_8407620083392809874_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Mbr7Ht_Kd7MQ7kNvwG_b07_&_nc_oc=AdrctXoqsYT-LA28LOh7Ale3H0VdXXJpLMOXzaGfoHDupUa3KgwYYjhZjfmY9Cf1MzQ&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af5yaHNPEaLOi8F0z2UIIsqLCDrLA5hwnxfArlIeFZbO3g&oe=69FDE8E2",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/678296423_832370769295007_1430033141351536663_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cimY4KCn9M8Q7kNvwGf6Nwn&_nc_oc=AdrfPndEo3OfQ7rLpYxlnMtLcQ7lcJmlze693gHAx8MSOzjn_e-qWrW13N9pBkyD-wc&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af7SIpejoTLOk4OvAnDf9RCWx-L3IPZRNiN3i2jFwtCGxQ&oe=69FDE1E4",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/675226689_1347131277261421_1393305746294531293_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0P9UPdfEjPcQ7kNvwFgkRzO&_nc_oc=AdqWYsuGsa1C7Xv_3d97UKujqF9VFEPwRXunAEGpMJ3bM2cdP-HsCJc0bYfrSB4wah4&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af4QoZOVb3FRsMiqRLlrrkMK-nmYHCLOJRO1b216KB2g7g&oe=69FDDA06",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/674178185_1445801023694305_7239637956865447765_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wYZmdue6UkoQ7kNvwH51LOk&_nc_oc=Adogai_3qhSjYiG71fCv9_fHPVpMv-4RCZrKGSyPj-QxD3Z9LlVJ6eFEQAj6PJqhxkU&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af57LcJ1i2LEbzZ-QuC8pNvFlqzjeUVtoXmN0eXmk1Qn1w&oe=69FDF2DC"
+      ],
+      "landing_url": "https://www.samsungfund.com/etf/main.do?utm_medium=social_da&utm_source=meta&utm_campaign=_d2&utm_content=kodex3-1_1",
+      "permanent_image_url": "https://i.ibb.co/YF3NfkNy/Kodex-ETF-8d3b1f64.jpg"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-05-04T02:50:46.431108",
+      "page_name": "Kodex ETF",
+      "ad_text": [
+        "🔋 전기차 수요 둔화를 넘어, 다시 뛰는 K-배터리",
+        "✔️ESS 중심 2차 전지 수요 확대 추세",
+        "▶️ 이 흐름에 주목해야 할 투자 방법"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/679287748_948037024815339_503755992968302788_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R9xHbKENWRUQ7kNvwGS_iNg&_nc_oc=Adr0zFsWna3JVS907BVz62UAUgBPy6nW2LTGaWKJ8H6SQZEP22D5wMA4G8BSoLArJfk&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af5GyUsYM1mJp4UqAswvBKZL66O0QkfsxOqxR_kezrj1OQ&oe=69FDDD75",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/675685795_1681978279655300_3718966753143020803_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k8pb2iVG_1QQ7kNvwH8EnkY&_nc_oc=AdrZ9gV-rXNrQMlOE-8HciATY807eoXGaOIc3MRfSlhcNebCaPcgrMocP2fJq1mcs28&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af7mb58vrA2mqI9QH73e--vSeVO3ukZGvj-Fku86AaxBqQ&oe=69FDC4B4",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/677204380_1357147696367946_3199835012905298017_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=J_3KCC4DHIgQ7kNvwGAipWS&_nc_oc=Adq2UxgeFcs0WfrVVJ4AAbPaYWaOToQdzbmINrssL9BNvqkmHK6aDOrv-zjJI41nRGI&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af65lcMN8bxoXr1zMAG1RF9I3tYlngQFjN1B1IllXCDT1A&oe=69FDD3F5"
+      ],
+      "landing_url": "https://www.samsungfund.com/etf/product/view.do?id=2ETFB1&utm_medium=social_da&utm_source=meta&utm_campaign=_d2&utm_content=305720_1",
+      "permanent_image_url": "https://i.ibb.co/xPhtdgw/Kodex-ETF-2d3351c7.jpg"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-05-04T02:50:46.516282",
+      "page_name": "Kodex ETF",
+      "ad_text": [
+        "🔊 KODEX AI반도체 ETF 변경 안내",
+        "ETF 명칭과 기초지수 산출 기준이 변경됩니다.",
+        "✨KODEX AI반도체TOP2플러스 ETF✨"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-3.xx.fbcdn.net/v/t39.35426-6/675600977_965065659404320_6158467806729784249_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=b59PYxldHlsQ7kNvwE_9lQH&_nc_oc=Adp1NvCdgCEafBqKPKahOA2aiMd4tKE9KtUEbnYl9McXnYjITEwIK3shLz5uk86q3XM&_nc_zt=14&_nc_ht=scontent-dfw5-3.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af5jW5P66I3XRXlirYCPukGaFBbWY35m-B4fi8glgRf7Rw&oe=69FDD938",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/676838554_788872020769302_3617607174003013256_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YSp7jUmNrK0Q7kNvwGrWTyQ&_nc_oc=AdrPSHtFG-q5NI0kuvmAzgxm6UPGmxgJgVEn69wfDr7uWb5Tr5UBd8l8ciJKtlodUBA&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af7CbLDVvwec1on95TkvEtb1Jjs7cUBZYZtOp0MmcpnSMw&oe=69FDD0FA"
+      ],
+      "landing_url": "https://www.samsungfund.com/etf/product/view.do?id=2ETFE9&utm_medium=social_da&utm_source=meta&utm_campaign=_d2&utm_content=395160_1",
+      "permanent_image_url": "https://i.ibb.co/W96hNt6/Kodex-ETF-1c086770.jpg"
+    },
+    {
+      "index": 11,
+      "collected_at": "2026-05-04T02:50:46.583744",
+      "page_name": "Kodex ETF",
+      "ad_text": [
+        "🚀달에서 보내는 4K 영상 전송, 가능할까?",
+        "광통신 기술로 달 4K 영상 전송에 성공하며 관련 기술이 주목받고 있습니다.",
+        "빛(레이저)을 활용해 데이터를 빠르게 전송하는 기술"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/680003645_1620928339131651_3652748768948737890_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=E8HcoGuAAtwQ7kNvwG_El0o&_nc_oc=AdqrCg5maTInmYV0pIi9KYFxSzlqnoYceMUzTLa8aDdgED1sqnTBrOzdpgS-obwrkJA&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af5JbLTikP6Yibmjjw6pV0qoIYIVqcbJ0MFbTCPbyV9efQ&oe=69FDC29C",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/677733761_1503306937807630_7006527423802640373_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nPReJSFxXA4Q7kNvwEcBfiU&_nc_oc=AdoK405W0zHzF6QWbfacDhX3u7InrE57q6dMsPAYWnvXRBFsa-wo8kAP6fIPr5wcgs8&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af75U5qgPFShqaeCpU2W9FyJy5LyAqDGSVYvXfNxvuptPw&oe=69FDC462",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/678303498_982168077656077_8797760878195411283_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Vq1H1hpCM48Q7kNvwFjLcuO&_nc_oc=Adpvl-DW4CdwOObmF5wL4GHV78LM4WZBQz0mPjbDi3A_QcOyqDKLbGxRGftiJ_mfJX8&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af5SxjEerqRAGdGUMbLmP_oBNyuBwycCnS8ygf5EEtiiww&oe=69FDD1FB",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/678333663_2180768032690908_7492285872732257273_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zHvN63DJI4MQ7kNvwG0xbdX&_nc_oc=Adru4aTzDfp0XZ7kaEZK8viKajbhOmMrAJKsquAHHq5_lMFdMv2kOtaPqRJ7lu7nz2A&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af7LWaxGsM-QmjlfT1CvPor5QKgfZERBLZQ0oLRraE_4FA&oe=69FDCB2F"
+      ],
+      "landing_url": "https://www.samsungfund.com/etf/product/view.do?id=2ETFU3&utm_medium=social_da&utm_source=meta&utm_campaign=_d2&utm_content=0173Y0_1",
+      "permanent_image_url": "https://i.ibb.co/9m44h7N3/Kodex-ETF-2bf8978c.jpg"
+    },
+    {
+      "index": 12,
+      "collected_at": "2026-05-04T02:50:46.684546",
+      "page_name": "Kodex ETF",
+      "ad_text": [
+        "🔊 여의도 금융권 김부장이 알려주는 AI 한 번에 투자하는 방법",
+        "삼성그룹주로 AI 투자 올인원 해보겠나?",
+        "반도체, AI 서버, ESS, AI 클라우드까지"
+      ],
+      "image_urls": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/678765995_919808084376847_2312335316337340132_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=q0S2aouSM-gQ7kNvwHxdPWc&_nc_oc=AdqLHqqTaTdc6l_5_KG98il_EGfExRPtmb5gfGvrlAR7h4fIfJhq4lG1Y9AmSa-TrB0&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af4ulhCqOg6uHGx9Jx_0EAJCi9oc67ztKRaniibmjS8B6w&oe=69FDE3C4",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/680654230_2196806154406999_6193481515177623139_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RKDfhNOQiJoQ7kNvwHBSWtz&_nc_oc=Adqq93TqB6HzAanx4gtPBg4YhxnDYr1k4EmLbiuUImZIsCs62jxB-nXm1AtMQ8JvHag&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=J2ntj09Y4xaANLbAGVDdcQ&_nc_ss=79289&oh=00_Af55Ge0_W-NftVC1RLYeI48Ev8IkdyBw5tU640bu5nHQLA&oe=69FDE1F3"
+      ],
+      "landing_url": "https://www.samsungfund.com/etf/product/view.do?id=2ETF14&utm_medium=social_da&utm_source=meta&utm_campaign=_d2&utm_content=102780_1",
+      "permanent_image_url": "https://i.ibb.co/GfCTGh9Y/Kodex-ETF-c9b592d5.jpg"
+    }
+  ]
+}
