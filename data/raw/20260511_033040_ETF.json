@@ -1,0 +1,239 @@
+{
+  "collected_at": "2026-05-11T03:30:40.911906",
+  "query": "ETF",
+  "count": 14,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-05-11T03:30:39.626486",
+      "page_name": "Firstrade",
+      "ad_text": [
+        "광고 • Paid for by Firstrade Securities Inc.",
+        "轉移部分或全部資產到Firstrade皆可享有最高$250轉戶補貼！美股交易無手續費、無期權合約費。立即加入Firstrade，將美股投資產品一網打盡。",
+        "限時優惠：轉戶到Firstrade，最高可獲得$250美金補貼！"
+      ],
+      "video_urls": [
+        "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOkfwNm1I59of9afXpPLaQdLXbQjPIebADwE7-1vz02bOagYP7O6LJzMt6zRnAHawKx3LgRF-GHYBgYzOEIVOo.mp4?_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=xNTsey_JZIcQ7kNvwEO_X2D&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTIyMzEyNTQ1MTY1OTU2OSwiYXNzZXRfYWdlX2RheXMiOjExMzksInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&_nc_zt=28&oh=00_Af5yZa9rYyQP2I7xHMrBv5SIslQaSZ6uWntD1FbMxoXCtw&oe=6A0708A9"
+      ],
+      "landing_url": "https://promo.firstrade.com/zh-tw/intl/xfer250?utm_source=paidsocialch&utm_medium=facebook&utm_campaign={{campaign.name}}&utm_content=xfer250tw"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-05-11T03:30:39.673911",
+      "page_name": "iHerb.com Spanish",
+      "ad_text": [
+        "✨ Tu bienestar, sin compromisos.",
+        "Encuentra miles de productos de marcas 100% auténticas — siempre frescos y listos para enviar.",
+        "Con iHerb, lo que pides es exactamente lo que recibes. 🎯"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/648714689_1215054370365169_2518813852573411283_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YiSOb9Jfl58Q7kNvwHOsQ2i&_nc_oc=AdqtqWvN7S7e7c4XNd_NDlgNpJfOKbT9xtsZd3oW2HJzT2r_Qk2-hCHQ0J2YXEitStc&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af668mj0DuMWhJTSqwg2JNMfxVQFacB66jCoUo5hgEIPCQ&oe=6A071B5C"
+      ],
+      "landing_url": "https://www.iherb.com/",
+      "permanent_image_url": "https://i.ibb.co/VWFq8m72/i-Herb-com-Spanish-84b94165.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-05-11T03:30:39.721774",
+      "page_name": "직장인의 모든것",
+      "ad_text": [
+        "회사 다녀도 내가 가난했던 그 이유...",
+        "챌린지 1기 등록하고 월급쟁이 부자되자!",
+        "20대 20억 자산가 🐰래빗해빛 튜터🍀와"
+      ],
+      "image_urls": [
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/600922857_2096156927793411_1969847858612294871_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c6SnfIOPd18Q7kNvwHh_phR&_nc_oc=AdpS7YtXKJHERmMPnI1gz3jUqlPVRCdHYXMInFkpTMQfKaYNhw7rZxMHc1B_HyPRKBU&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af7QoZ8iB6k0yFc6tiq6HmyUg2teQJahfmFoHqUDVxi1dQ&oe=6A070949"
+      ],
+      "landing_url": "https://taling.me/mkt/rabbit_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=rabbit_purchase&utm_content=재밌게1억&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/q3pVZ1XR/8e6126ca.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-05-11T03:30:39.769242",
+      "page_name": "퇴근할래",
+      "ad_text": [
+        "오직 월급만으로 20대에 20억 만든 래빗해빛과",
+        "‘60일 월급테크 챌린지’ 함께해요! 🐰 💪",
+        "매일 딱 한 번, 재테크 미션을 수행하면"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/599004321_3075030999351058_6284044378428700054_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Aq0naIhR7_8Q7kNvwEMlPea&_nc_oc=AdpDdXDX2Bd4PL5oAR86NawPGcpDXRzRSFVBl22DkjNzyJHlG3RSy2di58kPSakKleM&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af4iiH2NQ-ZwAajeuDwDepjkNeeB2GCbaGOJyFRj61kvxA&oe=6A071831"
+      ],
+      "landing_url": "https://taling.me/mkt/rabbit_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=rabbit_purchase&utm_content=래빗해빛루틴&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/39ysd7tm/cd32a494.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-05-11T03:30:39.816359",
+      "page_name": "모햇",
+      "ad_text": "4060을 위한 재테크, 지금 바로 확인해보세요",
+      "video_urls": [
+        "https://video-iad6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQO-8nxBpPfhhixYbmS4M8pYn_S6OWzV3NKUlXEcGAfNGMg-QGxoa4sUzYianNVQmBDLRLwIQvU3Whtvc4Bf9WlcPKHKHz-JAJuPzBzsGA.mp4?_nc_cat=106&_nc_sid=8bf8fe&_nc_ht=video-iad6-1.xx.fbcdn.net&_nc_ohc=Hpu5Bhtpdt0Q7kNvwE6Cxjo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTY5OTA1MTMyMTEyOTkxMiwiYXNzZXRfYWdlX2RheXMiOjI2LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&_nc_zt=28&oh=00_Af6GArUn5JtT4LzFmX5lBdI8DQRE4C_kxNTG9n2zF5YG0w&oe=6A071AB0"
+      ],
+      "landing_url": "https://mohaet.com/invests?tab=detail&utm_source=meta&utm_medium=mohaet_detail&utm_campaign=260414_4060_business_vid01"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-05-11T03:30:39.857586",
+      "page_name": "Firstrade",
+      "ad_text": [
+        "转移部分或全部资产到Firstrade皆可享有最高$250转户补贴！美股交易无手续费、无期权合约费。立即加入Firstrade，将美股投资产品一网打尽。",
+        "限时优惠：转户到Firstrade，最高可获得$250美金补贴！",
+        "加入Firstrade，享受无期权合约费、网上交易（包括股票，ETF和共同基金）无佣金，还可投资债券与CD。无账户闲置费或维护费！"
+      ],
+      "video_urls": [
+        "https://video-iad3-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPtG2Mb6oErtXaMuOIk8jvbAwHbf9xsh7JHF3ZsiLlWnkmPF1m2ebUshVB-hsdPibvp8lfTTQHIG87PbzbSyaM.mp4?_nc_cat=103&_nc_sid=8bf8fe&_nc_ht=video-iad3-2.xx.fbcdn.net&_nc_ohc=UA046Xl3OtkQ7kNvwHAE9ql&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjE3Njc2NzY3NjA0MTc5LCJhc3NldF9hZ2VfZGF5cyI6MTEzOSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&_nc_zt=28&oh=00_Af50TW4ZiPazppyFMR6pPE6GUwGZtB3p67nhYit8CON_Nw&oe=6A07296F"
+      ],
+      "landing_url": "https://promo.firstrade.com/zh-cn/intl/xfer250?utm_source=paidsocialch&utm_medium=facebook&utm_campaign={{campaign.name}}&utm_content=xfer250cn"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-05-11T03:30:39.900105",
+      "page_name": "재테크는스크루지",
+      "ad_text": [
+        "스크루지가 직접 알려주는 재테크 솔루션💪",
+        "20만원 상당 재테크 템플릿 무료 제공!"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/548210534_1475318613512864_6455853012658869933_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HNjzVV--rwgQ7kNvwGWMXfX&_nc_oc=Ado598b_mDcXVsFYwi2KwLjBiIEdX5DJpCx_7Rz-lH1RWnJ5zbKHwZ1TWXbXgl_QjvE&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af6aBp5pjnCS2QAd3qwJIXO9RQJ70qm9COchARL53IsldQ&oe=6A072662"
+      ],
+      "landing_url": "https://taling.me/mkt/skluzy_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=skluzy_purchase&utm_content=스크루지루틴&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/fz1BF3wM/df33210c.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-05-11T03:30:39.947074",
+      "page_name": "미래에셋자산운용",
+      "ad_text": [
+        "AI 시대 핵심 원자재, ‘은’ 현물로 담다!",
+        "원자재 3대장, 금은동을 한 번에 담는 완벽한 라인업은? 오직 TIGER ETF에서만!",
+        "복잡한 현물 투자도 TIGER ETF로 더 쉽고 똑똑하게🤓"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/679021693_4375049582807485_6643259030402049418_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qwaT56oXFUoQ7kNvwGRMgLV&_nc_oc=AdoqkW4lQ5n_PY_ZW0Qf3QVXT_nX8BI8fH2CLEXl2Ea1gLTU5ofYHT2gRosz36W5mO8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af49n52gsZB6-aXE-nBbB45lBYK9biW9bsHHBVyJzOVEyA&oe=6A071A33"
+      ],
+      "landing_url": "https://investments.miraeasset.com/tigeretf/ko/insight/etf-insight/view.do?listCnt=8&pageIndex=1&detailsKey=681&q",
+      "permanent_image_url": "https://i.ibb.co/p6f0G6Bh/97307d80.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-05-11T03:30:39.995001",
+      "page_name": "GGU",
+      "image_urls": [
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/616716557_1963680737577692_7009033354814452123_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jvyUPbRy828Q7kNvwHTwZ7q&_nc_oc=Ado2uwZr_UDO1vdtVLWhuMgdAEM_FJF6jLlZ9AGwpciUmztbIz6XUUBIzddT-lHcvvU&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af4J5h3vth6ZzRS9SzFw8dLo6ue900k4Nu8lzJ5knE0avw&oe=6A07368B"
+      ],
+      "landing_url": "https://ggu-moneylab.com/landing",
+      "permanent_image_url": "https://i.ibb.co/h196ym7S/GGU-71a2b6b8.jpg"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-05-11T03:30:40.040852",
+      "page_name": "서삼독",
+      "ad_text": [
+        "김승호 회장이 말하는 돈을 못 모으는 사람들의 특징",
+        "🏆《미국주식 처음공부》저자의 5년 만의 신작",
+        "🏆CFP, ARPS 등 종합 자산관리 분야 전문가"
+      ],
+      "image_urls": [
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/676985688_1306666997508235_750554696546329332_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=F8q-sZeTsowQ7kNvwHa0oTz&_nc_oc=AdosDM6rpe_qjH8DyLWaHYwmNj5jAyLI-i9boYWPiu83qIfdILQgyThF-5fHGV2bHWU&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af6v3rEGODYMtaLEQ0cz3w_6NAa960CZfvJyDhobdHkZpw&oe=6A070EDD",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/678601504_1658622895329915_9061380307225894077_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GSmACknmhNkQ7kNvwEuoJFE&_nc_oc=AdoMXLE42-rMD_k06lfslCYzcjwIKSvD14Dm9f-D3Df8wcLrEL2S8-Zp_m7C3MpaoDk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af6r-b8ndYwVRwLzm_BlXCTBOfDBkAQPq27XUCdmSgukpw&oe=6A0726EB",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/677653653_4651636671737306_2519917787934440583_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2tD_5eaJ7LkQ7kNvwG_-IOW&_nc_oc=Adrxo-r1ZOYH7LpNzWrJqxQZvw8SbWJ3_o4w8z5ebZ6bal7u6ovKbGXVP2ztNs4p7gs&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af6Ekr2EadyrwwXZE_bNhDMm6oq9h7mZ5Qu7dR8cd-zPtg&oe=6A071393",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/682080271_1529196465478359_7613816136401655912_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mIPimofvNssQ7kNvwEOB-T4&_nc_oc=AdqKBuxCoxBpvqxKJNt-bC_jL-YevUn82P_Nie9ids8LQEeR3uOFtExc5fzMcJPKpC4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af5x9mY3nsPMCuuBGp-jOGjPx6NL-0R1Mj83gYnT-0I2JA&oe=6A071313",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/679062088_1339295318246671_7945523268459890692_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L_BJ2rs24FsQ7kNvwGGmVrN&_nc_oc=AdqollnOmdyUJ-M5KVPNMqalLvdZc34j6sL-D8zl0rqz5kBC1YzDsmXAfDS_CvUxOcs&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af5K285YdpoVvynzslEWJlCq5x-Sb87517FSkseczPVRqA&oe=6A071134",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/679188180_1486067225771368_8468364382746189775_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=788UN5F1PvwQ7kNvwFpW8Q6&_nc_oc=Ado_ELC3JUKtxvYSVUKWmjKiQtkVXUqwO5dhssAKRnEh-dW_8InkUe8lJNB81C9bkn0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af6prZg-_lnc17j7wXLHfo7QLR5IqFnkhmpOcO2z-lyCqA&oe=6A0703E0",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/679459844_1500257591623505_1700847139833623046_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GYecBSqlfO8Q7kNvwGCwfaT&_nc_oc=AdrFGbD0rgFBXQ1TgsxOeEbr1lS5K9GkObhE7wzDp8Y9WIOPfeMymGQHLDfIaeDrVNQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af4vXz8dp4QF1RNB8Wix1tn2Xa5MjaUfvm8Z9X5un4KeBg&oe=6A071F9D",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/679745113_1950277313030324_2711645353485299760_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3xEoMiVjEnEQ7kNvwHsw3Mo&_nc_oc=Adqs6Cg_pgj1ADf7b2uLj5ltT1QvqYLncUbtQ8WCjmm_dkMhhAPpi6gUwMd3MQCxdwA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af5rxnvj2T-6bThHDIbh25bEbRZpj-qfOl7az0UpmvkIxA&oe=6A0734C8",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/678988549_2672127626494320_2006973245189069787_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=u8WNOfYDNzgQ7kNvwHfZJdY&_nc_oc=Adqk2iUxHjrobszxKFBj2YD_3PJNXfOygwa-4I2H1UL9T1dPD_eJPGxcKURCdYnAPQQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af7Fqq1r6Prn9948IikTIWesjlFcNUmpJjkIrjfJCXiKww&oe=6A071481",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/679370571_1711962343582775_1296963241130640128_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3yPr9dkm2uUQ7kNvwFj_m_E&_nc_oc=AdoN4f4tIC3g0AyADU-j-gH9ZvcqFnlcI4JTypF3cvTtvy38EIMnWa2ZJpB5XZnFQOI&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af6eTAAtOZxaj6Jv3JvoCF2fqYGKp6T5FxQ4LJA91U3x3Q&oe=6A07243E"
+      ],
+      "landing_url": "https://product.kyobobook.co.kr/detail/S000219725250",
+      "permanent_image_url": "https://i.ibb.co/9HqtSm1M/a4b37a18.jpg"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-05-11T03:30:40.232141",
+      "page_name": "12fund",
+      "ad_text": [
+        "[ACE ETF-구성종목 뜯어보기] 🔍",
+        "🤖 ACE AI반도체TOP3+ (469150)",
+        "📌 삼성전자, SK하이닉스, 그리고 반도체 소부장에 집중!"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/684932438_992343126571384_2422187694136317486_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ywsuqcC_mugQ7kNvwHJPE_w&_nc_oc=Adr6p-7acreT-Hzk79jb40H5h_u8krIiZfyZ4AyGYeGg78a-kUwKidCrho-utFRokgs&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af472qfGAqdVUNI8FcLp31kbq58ltU7vwtqORBz7SL3bDQ&oe=6A070C5E",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/684922792_2156003525184765_5710399621892481901_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4ayRJ6CF2gcQ7kNvwFsbzGd&_nc_oc=Ado7v6iDyhntwQKHy9Goj2jBulHEsn2HeuY_bVjln7Wcw-VglJjyEqNJYPKAPd6YK4Y&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af5uxGlqN-gOjd93AChS6GZWIDvtxdmprkqVLqxAO_6hGg&oe=6A072957"
+      ],
+      "landing_url": "https://www.instagram.com/aceetf_official/",
+      "permanent_image_url": "https://i.ibb.co/0VhxL41y/12fund-dd67e2fc.jpg"
+    },
+    {
+      "index": 11,
+      "collected_at": "2026-05-11T03:30:40.293620",
+      "page_name": "서삼독",
+      "ad_text": [
+        "\"벼락거지 겨우 탈출했는데, 기다리는 건 노후거지?!\" 😱",
+        "열심히 일하는데 왜 내 통장 잔고는 그대로일까요? 10명 중 7명이 노후 불안에 떨면서도, 정작 연금이나 ISA 같은 황금 계좌는 방치하고 급등주에만 매달리는 게 현실입니다.",
+        "수익률 1%에 일희일비하는 단타는 이제 그만! 🙅‍♂️ 20대부터 70대까지의 상담 데이터를 집약해 '수치'로 증명하는 최적의 자산 배분 전략이 공개됩니다."
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/679062355_1281927507385899_4674035227659675254_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rvl8TvRLMtcQ7kNvwHwLHAG&_nc_oc=AdpvR9l-nLqeHce8qXP1EH-VeYgbMnnXxH33Ag5Ssvjc-tInduqeaOm-IW5Vkvw8zKc&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af4qRxMAdrp2305f3uX_bqcqMvbkNtyTdEBttdAS_Xt8Fw&oe=6A072107",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/674357648_1503039137892544_149230957630830999_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gYSgaSYp8UEQ7kNvwHQapHL&_nc_oc=Adoo47JMDUr5E-BBbGDxcZGJC-0PjWapj4B-3fUParL9VPMW0BzHGQxf8FFB7Er6CuU&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af6DJvMYrX8MU1-Q3faPi_0hfil7a4w-CcRUAi9iMPYIWg&oe=6A0735C0",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/676955929_927738753475482_8335411044094983986_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HyIFRDzwOOkQ7kNvwEAPwZx&_nc_oc=AdrA3a39NrUzlXHAlBC6sN-R9-VBzF4OcouQElEaSJagG_VaFwpuFA5HTEAkYX2abuM&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af6d9Vr2j1VkazFAPUavBrObyF6DLStga8UD1xyLUvXqyg&oe=6A0704AC",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/674722932_1277000147907425_4846274498343598087_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0pjFdwBasl8Q7kNvwHnIpxA&_nc_oc=AdpQJt43ZFstV3EVXXVXMPxvUAny4qVGQUpURB84uxeII5_sZXN2Fi4o-g1c5IiBhs4&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af592-Z97tnHIWoTm-N5UL3WdGRNikaiyF-DeP_bcZKujQ&oe=6A0730BE",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/674191371_26876142068685746_8246775196769158515_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xofT6dgt9O0Q7kNvwFtN2oz&_nc_oc=Adq2Od6FoGrElmdJESnYQLXgmieFoanldj81vV1eIgu1rQOxhCJ4ysNl4pSiuXKwqBg&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af6Z8KfU1aFAMJKruZ3EP1wTQ3FkikthgnwS9cIuKMMv2g&oe=6A0711AA",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/674190849_2193582661181266_3135693899563008813_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2rHswn4_Xz4Q7kNvwEkPfGc&_nc_oc=Adoqsrxru4sRc7A2gLHUXNWIFwJfZWmCPOj4olN_ck0m6dFwIf4y2fdPHBEqDm1kBos&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af7QWECgHnQk7ty6q-hYxMA2mmiZMFnWvLtEzMHHZGFytQ&oe=6A071D7A",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/674610528_940733542211161_7601145129746507609_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jfrc5dWMfQQQ7kNvwFTDnfF&_nc_oc=Adr7iccUlhB4RkqpQZydQ-w01X0ts3DsUETLLqjPskcbxmai58lafxcP9GQ3j5acR1Q&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af557PHP--kyRjb8P6zqQI7vv7GYflxKMUUwGglsibULwA&oe=6A070DF6",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/677040130_1173134004849157_4690933847350773380_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LLLk0HZ5ViUQ7kNvwETBVBN&_nc_oc=AdpugeJHjrxZ1zznv-eN2hUObGw6shvCV8-siz_QoWPZPddeCe2otqcZXvlHQxHgNJw&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af7RSgf-C7ucqakufagFrzVzvD4MnexPZANgmV4LDTbBrg&oe=6A0725D4",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/673851694_930983596222674_5851642994805026353_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=D9QtVp8dSK4Q7kNvwGw5I5z&_nc_oc=AdqMCiYozBO2H8gZjL7e_V6ti27lGYumu2Tohp2bOaA_3v056GbECCTC8O3jowQ-0GU&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af7xmjOb4jDbRcnBkfGAtGh_sCJQEZ0qCnj_2Y4c6FuU_A&oe=6A072593"
+      ],
+      "landing_url": "https://product.kyobobook.co.kr/detail/S000219725250",
+      "permanent_image_url": "https://i.ibb.co/ds4xXfd9/a4a1baf1.jpg"
+    },
+    {
+      "index": 12,
+      "collected_at": "2026-05-11T03:30:40.464187",
+      "page_name": "Castaway Saigon Pool Duplex",
+      "ad_text": [
+        "Castaway Saigon Pool Duplex",
+        "At Castaway Saigon Pool Duplex, we offer a spacious, peaceful, and stylish 3-bedroom duplex with beautiful decor. This accommodation comes along with a PRIVATE POOL with amazing panoramic, unobstructed open view - 100% private, accessible 24/7 🌊🌤️🌴",
+        "👉 A luxury experience at an affordable price - A true rarity in Saigon! 💙"
+      ],
+      "image_urls": [
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/687957513_1332075028793484_1380208174399739405_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=z9r73HwtiewQ7kNvwHG4yql&_nc_oc=AdoGBoXGYwRU_eaRI3Djelt3kvTv6FB3uNXepgkiFhKmQ_iKZ9EQxORax4JtvaRLGGE&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af7KlvKSyy90V6EotO4lTvsN8iWYbbyt96ZGJyVL-dsj0Q&oe=6A070638",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/686862957_1236099145031811_8909296225031736836_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ee70JL9fukkQ7kNvwGBTEVT&_nc_oc=AdpkRgDTdxWWlOgY8MRXE-7A49DyjbMWn5Hllyo3Cn_FwFtWnaFwEQe7D6kIfwqEigg&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af6RTNbsj_dbXRjqJs5hZlrthT98jv4jvMynhxuDjZkWOA&oe=6A072743",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/684685979_905812862480918_5625172980538408446_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FTN9sAQNEigQ7kNvwFRS6Ot&_nc_oc=Adq_ZKL4BtsK4d3DA_GGszHxjKptbeKd14wCTpdyLnVSe-Ud-dbFR7mYnA1G-W9Hdtw&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af6IIQVAMFzEKYHLHuismI4e4cEROJVUjLN3Hn48wesVJg&oe=6A071F87",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/687755969_1585389992555273_3773548292908928409_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dWULFh6b1RwQ7kNvwHr1UD0&_nc_oc=AdpGwlbyy6aKqr6ynl7FbnrmMe7O7qiDHV-465tsm127CywdqO6xRlsNzinTtoaBUT0&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af79J5YwNcm_Bwz312Dndt_yJzgN_8xMvxjgO6HtZ3L06g&oe=6A071FF5",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/686413630_764143173333990_6633475965334274596_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EhmV9FDT77AQ7kNvwHCF3si&_nc_oc=Adr46kpda2nUtssFMuA1EKvVmSPMicPT60AtfiDAGDrk70wnOT8r0g0GKBGLwUCyDas&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af5KH46bQwRGTd0rIjJllYAn8M2dpRX0hVgGfM9XLbC_Zw&oe=6A070727",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/686511093_2016401425920147_4518582742017215314_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-lnddExKmB4Q7kNvwEPrqxy&_nc_oc=Adpp1ylezs66NSKAgiPoxlkkw3C7yslf0dXj9a7tdFHtP4UpOUNeh9vAQCpguaVsEF4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af7IbnPtE8TMUs8inlYMnbUZY4z-7-zpE5NYRkSHnlsnEg&oe=6A070C31",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/687919913_4394444920825803_1053805968401238205_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aXIKL4CzESEQ7kNvwG9M7vo&_nc_oc=Adr9k5TgqVitHrZkTFib4kbYE3PyEkhk-3bfs92sf7nafGGfI3cy4ooyQcsoFc5aNxo&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af6IT40TAnxfDI8ogCwopzgTHy1c1aszC2gYgD0jIvK76g&oe=6A073B64",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/687980826_26703865545940250_5621262913351839104_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Mr1dmzjo_wAQ7kNvwH3GdAb&_nc_oc=AdqO4DkQTjylvWWYa6l2VqjruM35cQiANhUf3Yw6VsdO4T8YTn7PL-fQUIX_jJCuXjI&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af4zLeM7yvVEvnpp9-IN7WGVlC5La-naiVGG88wEjk9mgQ&oe=6A071EC7",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/686234772_26564075139953813_4127256814043135466_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wajSTcYOwhIQ7kNvwH5uam6&_nc_oc=AdpngzljQrOhPIQRd3hkoWcrj8NzN64fphziFXCUUv4CnI-qzaTpjCSwGGxKs-3436s&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af7NUvvza01EIk78rugh9HT-YT976TWNIEgEeWcppkGdXw&oe=6A0713B5",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/687722445_2438343216675230_1407063438826386250_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ti1Ve5mPw4kQ7kNvwE7t0ef&_nc_oc=AdoVKPATiOOe80NXTeOK4dsoTeYsjc_-2dCgrMLRRKolpXqKJ6qsYeNoYZIUzmYyv7o&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af7wGS2Mrfr2K-TnpWsr8wXeYUGgfYbqsSYWOgjJ2f1xgQ&oe=6A0721C4"
+      ],
+      "landing_url": "http://airbnb.com/h/castaway-1",
+      "permanent_image_url": "https://i.ibb.co/23GWMTXZ/Castaway-Saigon-Pool-93260907.jpg"
+    },
+    {
+      "index": 13,
+      "collected_at": "2026-05-11T03:30:40.649989",
+      "page_name": "알에이치코리아",
+      "ad_text": [
+        "HTTPS://PRODUCT.KYOBOBOOK.CO.KR/DETAIL/S0002195704...",
+        "🪜연봉별 실수령액으로 보는 부의 사다리",
+        "“부의 사다리를 오르고 나자 돈에 대한 관점이 완전히 바뀌었다!” 지금 당장 순자산을 확인하고, 나에게 맞는 전략을 세워야 한다. <저스트 킵 바잉> 닉 매기울리 신작! 14개국 이상 번역 자산 전략서 《부의 사다리에 올라타라》"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/676608529_1404757728356490_7581759952653098123_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8CQkDpV6b4oQ7kNvwHc4xxQ&_nc_oc=AdokpnQDxUGAO2X3QA7KxluNUIYlhvYRwJubFlrbc8KfYntFQ9ry24EIsvjrtrCt8ik&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af4H4RKCJbwjz5hmRh56h0sdZf0Ikbk6k7b7jPqotSkazQ&oe=6A072C71",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/676630186_1483462449405552_3837503573598260493_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k1iVCHNm48EQ7kNvwEQtYBc&_nc_oc=Adpo_hH0a9FvduYEipDrfydjLqp9mETL64x4McDL5urKX4yd4sld3rHmGNkPhR26gnA&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af5vhW6NaKWbYZRhKs9b7VgRcacRUqO8I1GfVYtZo4k7GA&oe=6A070646",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/678539929_1270611174674997_3156848086361261928_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bGu2X_5qYfcQ7kNvwHRUaUm&_nc_oc=AdpM31q78i0Jlx8fUHnudSakcRDxaTmwv8mbK74p7pQPl3qAw7flUw3bJffnL6Sq5uk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af5kejSfK7fmnwuwtBG8g9ShA9x_UxmxqdXwq7Pd3CA8ag&oe=6A072EA3",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/677738262_1423459459531018_7164960924260861751_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cSW62DWoHqsQ7kNvwHs_QHj&_nc_oc=AdrWYAqV3_H2JtXzgU4lXm_VvDhIl_6WkCKHeu2MJKLr8wsyyypYE8gBZtVY9RF6NH8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af7RxBPJWIgIfikynj8XY2uAg7WQXz1ymX7WT3TaqHFj1w&oe=6A071C62",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/678421010_997314282858162_4135707152572993557_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q2tWUNG3tTMQ7kNvwFZk_Kw&_nc_oc=Adpp_bcsyFRh5NryLlEvjCJtUco0Pvz-0MX6V4ApOhS9O33lviJsF4WNK3BjRYyjxZE&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af7o9721XENYx1ytcuroldjbo7-pTQEgk51B5Yy7RncmMw&oe=6A070C85",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/679443234_1731698431538689_7726775067826393157_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=f0z9nXYANdAQ7kNvwGBMX_o&_nc_oc=Adr3wJo5m5-oUKYqdFqFUBNaHyKMG1q3QfoYNIRuV1oGRehYlVkS4H0dVC7MzOyy3R4&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af4uCsFGzCv3hhNlvPAWsqnkTReMPmuRI9C0FERfeGaDhw&oe=6A073139",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/676462550_26346038678428315_9108845762996424404_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ds8Evc_ifeIQ7kNvwEXi1Xo&_nc_oc=AdqbQzsfgwlkDtvhNzYViSH3lvcgy8I51rRsmvhiB2Twd0BwAa389H_xcJ-FsbiVy8Q&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af5myr2cHAdC9_4jwVIBdEBWFn9ybaHDzKC-9qsPXcPoXw&oe=6A071EBF",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/678661444_1574111757012149_4164811921304443888_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=V_pCee06Tn4Q7kNvwFKIX6Y&_nc_oc=AdrN15hTgm5fI3qbKWe2JBSAKT8CzIV9c-ky4BtEJ84fBmBfIncwHzvWYeFIZYwEcxk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=KlSK86aiy057iDb2mt6WLw&_nc_ss=79289&oh=00_Af4k1S3Z4wL57gZgXSq8H_kb9x34npVLkMD2tqZ4VYCEiA&oe=6A071242"
+      ],
+      "landing_url": "https://product.kyobobook.co.kr/detail/S000219570471",
+      "permanent_image_url": "https://i.ibb.co/4wDMh4K5/4385a652.jpg"
+    }
+  ]
+}
