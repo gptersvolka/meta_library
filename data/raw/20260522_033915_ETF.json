@@ -1,0 +1,212 @@
+{
+  "collected_at": "2026-05-22T03:39:15.545788",
+  "query": "ETF",
+  "count": 14,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-05-22T03:39:14.779998",
+      "page_name": "Firstrade",
+      "ad_text": [
+        "광고 • Paid for by Firstrade Securities Inc.",
+        "轉移部分或全部資產到Firstrade皆可享有最高$250轉戶補貼！美股交易無手續費、無期權合約費。立即加入Firstrade，將美股投資產品一網打盡。",
+        "限時優惠：轉戶到Firstrade，最高可獲得$250美金補貼！"
+      ],
+      "video_urls": [
+        "https://video-lhr8-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOkfwNm1I59of9afXpPLaQdLXbQjPIebADwE7-1vz02bOagYP7O6LJzMt6zRnAHawKx3LgRF-GHYBgYzOEIVOo.mp4?_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=video-lhr8-2.xx.fbcdn.net&_nc_ohc=_Nbz75oFHkkQ7kNvwHAXJBF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTIyMzEyNTQ1MTY1OTU2OSwiYXNzZXRfYWdlX2RheXMiOjExNTAsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Hd4Y2vb4A7dQPLrGvCbxLw&_nc_ss=79289&_nc_zt=28&oh=00_Af7hThjQI3DcBqUvYxg2cSrML4rkvxmqgl0y3KnEh2L09w&oe=6A158929"
+      ],
+      "landing_url": "https://promo.firstrade.com/zh-tw/intl/xfer250?utm_source=paidsocialch&utm_medium=facebook&utm_campaign={{campaign.name}}&utm_content=xfer250tw"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-05-22T03:39:14.828971",
+      "page_name": "iHerb.com Spanish",
+      "ad_text": [
+        "✨ Tu bienestar, sin compromisos.",
+        "Encuentra miles de productos de marcas 100% auténticas — siempre frescos y listos para enviar.",
+        "Con iHerb, lo que pides es exactamente lo que recibes. 🎯"
+      ],
+      "image_urls": [
+        "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.35426-6/648714689_1215054370365169_2518813852573411283_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lGETtj0BNJoQ7kNvwGIu_Yg&_nc_oc=Adp02YTrxFPDqvUs-eBlh1Ofk7fF7LUb_lMkIIbMG_RfxS-v99X8giIihiu5FSAJciE&_nc_zt=14&_nc_ht=scontent-lhr8-1.xx&_nc_gid=Hd4Y2vb4A7dQPLrGvCbxLw&_nc_ss=79289&oh=00_Af5nF6QAV42S6glRoJEBfZsoUeXAJczvn8FOUJBMApOidg&oe=6A159BDC"
+      ],
+      "landing_url": "https://www.iherb.com/",
+      "permanent_image_url": "https://i.ibb.co/Q37LFSC6/i-Herb-com-Spanish-84b94165.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-05-22T03:39:14.879649",
+      "page_name": "직장인의 모든것",
+      "ad_text": [
+        "회사 다녀도 내가 가난했던 그 이유...",
+        "챌린지 1기 등록하고 월급쟁이 부자되자!",
+        "20대 20억 자산가 🐰래빗해빛 튜터🍀와"
+      ],
+      "image_urls": [
+        "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.35426-6/600922857_2096156927793411_1969847858612294871_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LDOg8wIvOqkQ7kNvwH7X1in&_nc_oc=AdrN1ZVFdKXtJzhpvoy3OnppLlXm9a9MQIayS-SqMt12o7EIPZULx4msTzPQPGKIaKU&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=Hd4Y2vb4A7dQPLrGvCbxLw&_nc_ss=79289&oh=00_Af4Tu2YBCwqSKze0DVdl21UcTn_5Tkf2jrs9HovkO78rLw&oe=6A1589C9"
+      ],
+      "landing_url": "https://taling.me/mkt/rabbit_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=rabbit_purchase&utm_content=재밌게1억&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/W4N9SFsQ/8e6126ca.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-05-22T03:39:14.929838",
+      "page_name": "KB증권",
+      "ad_text": [
+        "활발한 ETF, 펀드 투자로 미래 자산가?",
+        "최대 600만원 세액공제 알뜰 절세왕?",
+        "당신의 원픽을 고르고 경품 추첨 받으세요!"
+      ],
+      "image_urls": [
+        "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.35426-6/690636561_1289221726631406_149678324767506351_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XzfeUC3B0-YQ7kNvwH6iQys&_nc_oc=Adq9eIZqi0EK8tc6nf0-B3EXJdgOD3al3SAtrO7M7TuNkebXL0Rkwhhcj4-ulXQczP8&_nc_zt=14&_nc_ht=scontent-lhr6-2.xx&_nc_gid=Hd4Y2vb4A7dQPLrGvCbxLw&_nc_ss=79289&oh=00_Af7xiGo9b-9mw4HxVYXV0tSidzm4lBPTt5IGj7d1YqoEUQ&oe=6A158D31"
+      ],
+      "landing_url": "https://m-able.app/smngii",
+      "permanent_image_url": "https://i.ibb.co/MKZrck6/KB-eebe8fe1.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-05-22T03:39:14.979813",
+      "page_name": "퇴근할래",
+      "ad_text": [
+        "오직 월급만으로 20대에 20억 만든 래빗해빛과",
+        "‘60일 월급테크 챌린지’ 함께해요! 🐰 💪",
+        "매일 딱 한 번, 재테크 미션을 수행하면"
+      ],
+      "image_urls": [
+        "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.35426-6/599004321_3075030999351058_6284044378428700054_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kDX9tlEAa_kQ7kNvwEfgb0F&_nc_oc=Adpdnqhn-b9BPbAJDgRlx-XqtOeoZ_ZHvkb0RYkh3nyEBj-SEq6QxchUc6no6-y9ftI&_nc_zt=14&_nc_ht=scontent-lhr8-1.xx&_nc_gid=Hd4Y2vb4A7dQPLrGvCbxLw&_nc_ss=79289&oh=00_Af6UB0Z68Xmmm8LuCQoQJfN3NPfEnrD6CmBc5vRm7zVPTw&oe=6A1598B1"
+      ],
+      "landing_url": "https://taling.me/mkt/rabbit_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=rabbit_purchase&utm_content=래빗해빛루틴&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/JFbQS28d/cd32a494.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-05-22T03:39:15.027350",
+      "page_name": "미래에셋자산운용",
+      "ad_text": [
+        "매월 내는 유튜브 프리미엄 구독료💸 이젠 구글에 투자하세요!",
+        "구글이 그리는 AI 세계의 핵심 기업만 골라 담은",
+        "TIGER 구글밸류체인 ETF로 구글의 주주가 되어 보세요😎"
+      ],
+      "image_urls": [
+        "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.35426-6/696214810_1451699606161064_1989159823092659534_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Mok9uw6R-UwQ7kNvwG9VDdQ&_nc_oc=Adq_AiU1gbpNUSrzjUlg_snrlOBI_0NWsUEk4WmUjeu94z2IaFyU5jfALwKxEXonG7c&_nc_zt=14&_nc_ht=scontent-lhr8-1.xx&_nc_gid=Hd4Y2vb4A7dQPLrGvCbxLw&_nc_ss=79289&oh=00_Af7So6TBx6v5AAHFmrXfJSmVL-B1H8rcN1ZJc8Yt9Ki6sw&oe=6A15AD6D"
+      ],
+      "landing_url": "https://investments.miraeasset.com/tigeretf/ko/insight/etf-insight/view.do?listCnt=8&pageIndex=1&detailsKey=683&q=",
+      "permanent_image_url": "https://i.ibb.co/ZpWzSQgk/0039a08d.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-05-22T03:39:15.075506",
+      "page_name": "Firstrade",
+      "ad_text": [
+        "转移部分或全部资产到Firstrade皆可享有最高$250转户补贴！美股交易无手续费、无期权合约费。立即加入Firstrade，将美股投资产品一网打尽。",
+        "限时优惠：转户到Firstrade，最高可获得$250美金补贴！",
+        "加入Firstrade，享受无期权合约费、网上交易（包括股票，ETF和共同基金）无佣金，还可投资债券与CD。无账户闲置费或维护费！"
+      ],
+      "video_urls": [
+        "https://video-lhr8-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPtG2Mb6oErtXaMuOIk8jvbAwHbf9xsh7JHF3ZsiLlWnkmPF1m2ebUshVB-hsdPibvp8lfTTQHIG87PbzbSyaM.mp4?_nc_cat=103&_nc_sid=8bf8fe&_nc_ht=video-lhr8-2.xx.fbcdn.net&_nc_ohc=DynoeTtuw8kQ7kNvwHkZNRG&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjE3Njc2NzY3NjA0MTc5LCJhc3NldF9hZ2VfZGF5cyI6MTE1MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Hd4Y2vb4A7dQPLrGvCbxLw&_nc_ss=79289&_nc_zt=28&oh=00_Af6TX0fke7KJy2H_-0k88pdPMkEjOZPRHpZwzh4AtQSr1w&oe=6A15A9EF"
+      ],
+      "landing_url": "https://promo.firstrade.com/zh-cn/intl/xfer250?utm_source=paidsocialch&utm_medium=facebook&utm_campaign={{campaign.name}}&utm_content=xfer250cn"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-05-22T03:39:15.117950",
+      "page_name": "재테크는스크루지",
+      "ad_text": [
+        "스크루지가 직접 알려주는 재테크 솔루션💪",
+        "20만원 상당 재테크 템플릿 무료 제공!"
+      ],
+      "image_urls": [
+        "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.35426-6/548210534_1475318613512864_6455853012658869933_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PfoQgcfR2HUQ7kNvwHbR9Zo&_nc_oc=AdrYzCt_yA1q4puqQZC2--L6po8mzWp7srCkNuyJyJfgIW3vnm93I-Zp2RKODOj4UTU&_nc_zt=14&_nc_ht=scontent-lhr8-1.xx&_nc_gid=Hd4Y2vb4A7dQPLrGvCbxLw&_nc_ss=79289&oh=00_Af4kebtP7sFIwyqxMK_1eVlTIiLg0Erj3Bc8XmKy3b8ahQ&oe=6A15A6E2"
+      ],
+      "landing_url": "https://taling.me/mkt/skluzy_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=skluzy_purchase&utm_content=스크루지루틴&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/Z66wsw0S/df33210c.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-05-22T03:39:15.165176",
+      "page_name": "미래에셋자산운용",
+      "ad_text": [
+        "매월 내는 유튜브 프리미엄 구독료💸 이젠 구글에 투자하세요!",
+        "구글이 그리는 AI 세계의 핵심 기업만 골라 담은",
+        "TIGER 구글밸류체인 ETF로 구글의 주주가 되어 보세요😎"
+      ],
+      "image_urls": [
+        "https://scontent-lhr8-2.xx.fbcdn.net/v/t39.35426-6/693524112_1499890388288450_2002588854598027530_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YuFpyfoxou4Q7kNvwHjT6lz&_nc_oc=AdqksKv5YOSdE4ymnRWZywkyiiw5cs_JRePqQKna44j8wapulmOwjBESrw9_eSzHuao&_nc_zt=14&_nc_ht=scontent-lhr8-2.xx&_nc_gid=Hd4Y2vb4A7dQPLrGvCbxLw&_nc_ss=79289&oh=00_Af5ke8zg1HgOOX7K7xV0PLvMKRvt5f-8Y3W29MxzWjqJYQ&oe=6A1597F2"
+      ],
+      "landing_url": "https://investments.miraeasset.com/tigeretf/ko/insight/etf-insight/view.do?listCnt=8&pageIndex=1&detailsKey=683&q="
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-05-22T03:39:15.214730",
+      "page_name": "미래에셋증권",
+      "ad_text": [
+        "완성은 미래에셋자산운용 TIGER ETF로",
+        "*미래에셋증권과 미래에셋자산운용은 계열사 관계입니다. *투자전 설명 청취 및 (간이)투자설명서ㆍ집합투자규약 필독 I 이 금융상품(집합투자증권)은 예금자 보호법에 따라 보호되지 않습니다. I 자산가격 변동,환율변동,신용등급하락 등에 따른 원금손실(0~100%)발생가능 및 투자자 귀속 I 증권거래비용 등 추가발생 가능 I ETF 거래수수료 별도 발생 가능 *TIGER 200 ETF 합성총보수 연 0.07%(운용 : 0.029%, 판매: 0.001%, 신탁: 0.01%, 사무: 0.01%, 기타비용: 0.02%), 직전회계년도 기준 증권거래비용 0.0187% 발생, 투자위험등급 : 2등급 높은 위험 *TIGER코스닥150 ETF 합성총보수 연 0.22%(운용: 0.149% 판매: 0.001% 신탁: 0.02% 사무: 0.02%, 기타비용: 0.03%), 직전회계년도 기준 증권거래비용 0.0499% 발생, 투자위험등급: 1등급 매우 높은 위험  *TIGER 반도체TOP10 ETF 합성총보수 연 0.51%(운용: 0.409% 판매: 0.001% 신탁: 0.02% 사무: 0.02%, 기타비용: 0.06%), 직전회계년도 기준 증권거래비용 0.0491% 발생, 투자위험등급: 1등급 매우 높은 위험 *국내주식 거래수수료: 영업점 개설계좌 0.14%~0.49%, 다이렉트계좌 0.014%~0.49%(KRX, NXT 포함)이며, 홈페이지 참고 *한국금융투자협회 심사필 제26-01530호(2026.04.13~2027.04.12)",
+        "#미래에셋 #미래에셋증권 #미래에셋자산운용 #MSTOCK #엠스탁 #M스탁"
+      ],
+      "video_urls": [
+        "https://video-lhr8-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNl2MN7fua69LGNfSuydXwvdQ0yHC19q31BnJCfaqregPXdp8RJpTFHzxj8e1EM1aeLkAjpFdVvOuHjcI13KiczvUZ6AttsDTxRfranuQ.mp4?_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=video-lhr8-2.xx.fbcdn.net&_nc_ohc=HI_PyvzsBX8Q7kNvwGlvRM1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTc0MTY3NDg1NTc1NzE0LCJhc3NldF9hZ2VfZGF5cyI6MjMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Hd4Y2vb4A7dQPLrGvCbxLw&_nc_ss=79289&_nc_zt=28&oh=00_Af7KAkcRklTVCQ2aQXj4qXP9yYvXx5ajC1HjSjPxvXHYhQ&oe=6A15ABC1"
+      ],
+      "landing_url": "https://securities.miraeasset.com/public/mts/html/AppLink.html"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-05-22T03:39:15.259113",
+      "page_name": "삼성증권",
+      "ad_text": [
+        "삼성증권에서 첫 주식모으기 이벤트 진행중 ~5.29",
+        "*투자전 설명청취 및 상품설명서·약관 필독",
+        "*이 금융상품은 예금자보호법에 따라 보호되지 않습니다"
+      ],
+      "image_urls": [
+        "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.35426-6/684324983_1291895693057523_3875997943684393877_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PVL5I8x3-ccQ7kNvwFh8VFz&_nc_oc=AdrfJ2Z2QaRJR1D9rXQLklyjDYtdusOGAPgAS0zqaifschtwqdo4fsL77nEHCwa1el4&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=Hd4Y2vb4A7dQPLrGvCbxLw&_nc_ss=79289&oh=00_Af5rl4dDSlEeRE4Ojyrowg8kdjDGHmQgViZPFb0kbFOMFg&oe=6A15B281"
+      ],
+      "landing_url": "http://play.google.com/store/apps/details?id=com.samsungpop.android.mpop",
+      "permanent_image_url": "https://i.ibb.co/N2s3Z0NJ/3def744a.jpg"
+    },
+    {
+      "index": 11,
+      "collected_at": "2026-05-22T03:39:15.307700",
+      "page_name": "KB자산운용",
+      "ad_text": [
+        "신규 상장 기념 매수 인증하고 경품 받아가세요!",
+        "#RISE #RISEETF #KB자산운용 #현대차 #현대차그룹 #피지컬AI #코스피 #코스닥 #ETF"
+      ],
+      "image_urls": [
+        "https://scontent-lhr8-2.xx.fbcdn.net/v/t39.35426-6/689482408_2486541991777106_6068312404701736632_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gmfKf4d5IooQ7kNvwGmYVOr&_nc_oc=Adr4K6sMBrKKFWSf5EWQ8Or2hxJG2A9dvQroO7nEqzYEiomklqD83Emu3p1Tjn-I60k&_nc_zt=14&_nc_ht=scontent-lhr8-2.xx&_nc_gid=Hd4Y2vb4A7dQPLrGvCbxLw&_nc_ss=79289&oh=00_Af4sZXRx5C66sMxYVggta8yUGunz8Yk3uFA_4mqcJWMbDw&oe=6A15B1F9"
+      ],
+      "landing_url": "https://www.riseetf-event.com/event29?utm_source=insta&utm_medium=image&utm_campaign=hyundai",
+      "permanent_image_url": "https://i.ibb.co/S7d4TX6y/KB-bffad4a9.jpg"
+    },
+    {
+      "index": 12,
+      "collected_at": "2026-05-22T03:39:15.356949",
+      "page_name": "KB증권",
+      "ad_text": [
+        "아끼는 법만 알고 투자하는 법은 모르겠다면",
+        "▷ ISA 고수의 포트폴리오로 고수 투자 종목을 한눈에",
+        "▷ ISA 투자에 꼭 필요한 ETF 인사이트"
+      ],
+      "video_urls": [
+        "https://video-lhr6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMVIaQ-leV_bElFmxWD4fJ0YNOKUaOYsa5bHKIWtsGvrldAEGqbeELWA6R_eshNhv0cAkMWt_19781ggEggMGn6Ozqdb1Cf-4xRgMK-8g.mp4?_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=video-lhr6-1.xx.fbcdn.net&_nc_ohc=8k9lUpse9tkQ7kNvwF89uS5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTUzMDA4Mjg4ODY4MjYzNiwiYXNzZXRfYWdlX2RheXMiOjMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Hd4Y2vb4A7dQPLrGvCbxLw&_nc_ss=79289&_nc_zt=28&oh=00_Af4CPKV0VyVCvWPQ4o2zcIkmE6w4IDBMokAFRjbhry-tog&oe=6A158BD4"
+      ],
+      "landing_url": "https://m-able.app/eob4dl"
+    },
+    {
+      "index": 13,
+      "collected_at": "2026-05-22T03:39:15.404090",
+      "page_name": "12fund",
+      "ad_text": [
+        "[ACE ETF-구성종목 뜯어보기] 🔍",
+        "🤖 ACE AI반도체TOP3+ (469150)",
+        "📌 삼성전자, SK하이닉스, 그리고 반도체 소부장에 집중!"
+      ],
+      "image_urls": [
+        "https://scontent-lhr8-2.xx.fbcdn.net/v/t39.35426-6/684922792_2156003525184765_5710399621892481901_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Xwh5RqgkMVEQ7kNvwEkTVKk&_nc_oc=Adrpr_GY_JXlpsB6igXyarh6D6ELE6PPQIVJ4YDTr2-X_-5aNPfILLkpnRB7pKAClEU&_nc_zt=14&_nc_ht=scontent-lhr8-2.xx&_nc_gid=Hd4Y2vb4A7dQPLrGvCbxLw&_nc_ss=79289&oh=00_Af59dIJLvXfp_-17jxxz742yH_7cjkJSQF5s15gcz_bthA&oe=6A15A9D7",
+        "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.35426-6/684932438_992343126571384_2422187694136317486_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=U4durX9jVuAQ7kNvwF2YESJ&_nc_oc=Adq8Rp7RRSXGGWeTZIYOGFsrbX6T-kkcbSp9q8gMOjHSZUILvHDacDxEXJbpwRtqNp4&_nc_zt=14&_nc_ht=scontent-lhr8-1.xx&_nc_gid=Hd4Y2vb4A7dQPLrGvCbxLw&_nc_ss=79289&oh=00_Af4ehANO5G3ynhA2S24a-LAosp4eyw825c58JeNg_Svjsg&oe=6A158CDE"
+      ],
+      "landing_url": "https://www.instagram.com/aceetf_official/",
+      "permanent_image_url": "https://i.ibb.co/VWxHd15h/12fund-8f474b08.jpg"
+    }
+  ]
+}
