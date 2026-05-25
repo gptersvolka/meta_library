@@ -1,0 +1,194 @@
+{
+  "collected_at": "2026-05-25T03:42:52.665836",
+  "query": "무료 웨비나",
+  "count": 12,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-05-25T03:42:51.877622",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "✨ 국제학교 자녀분의 코앞으로 다가온 미국 명문대학 입시 준비…",
+        "미국 입시에서 Common App 작성은 곧 시간 싸움!⏰⏰",
+        "꿈의 명문대 입학사정관의 눈을 단번에 사로잡을👀"
+      ],
+      "image_urls": [
+        "https://scontent-atl3-2.xx.fbcdn.net/v/t39.35426-6/544995989_1311938777240584_7643198229873328322_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q3oLZM0hnmsQ7kNvwFvjoGp&_nc_oc=Adpzw2t0CXH5FTfJJrZgBMMx-imp6ytYIswg9mKg9CaZ2cqEzY7MWaCO60Y3U2V8ZBk&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=bSUurO9uG5oYYe4EzecpeQ&_nc_ss=79289&oh=00_Af6LT1PaLj38CZVfayrEAHNJDlC5Cc32RRipMkrJVyMsWw&oe=6A199E1D"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/resources/webinars-workshops/",
+      "permanent_image_url": "https://i.ibb.co/GbsnHTy/Crimson-Education-183d965c.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-05-25T03:42:51.931221",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "✨ 국제학교 자녀분의 코앞으로 다가온 미국 명문대학 입시 준비…",
+        "미국 입시에서 Common App 작성은 곧 시간 싸움!⏰⏰",
+        "꿈의 명문대 입학사정관의 눈을 단번에 사로잡을👀"
+      ],
+      "image_urls": [
+        "https://scontent-atl3-2.xx.fbcdn.net/v/t39.35426-6/544498933_1686715765330737_9216432937402814786_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eM3z2ameleUQ7kNvwFSfdT0&_nc_oc=AdoDy_iN9BVZVib9NoiuJlGkwtsqINzK0LJkZxvmJl_CmCa1Y1F6jCn2tgpxjl0PesE&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=bSUurO9uG5oYYe4EzecpeQ&_nc_ss=79289&oh=00_Af5kXZ3OHQtfn3jVWEUIydtqR1_Qk7WXB_hicM7oaNSgnw&oe=6A197BB8"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/resources/webinars-workshops/"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-05-25T03:42:51.982725",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "💡 많은 분들이 AI로 영어 공부를 하고 있지만,",
+        "\"이게 맞는 방법인가?\" 확신이 없는 경우가 많습니다.",
+        "'똑똑하게 활용하는 것'은 완전히 다르기 때문입니다."
+      ],
+      "image_urls": [
+        "https://scontent-atl3-2.xx.fbcdn.net/v/t39.35426-6/697163066_26912867958344724_8495228978196536007_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GcMev-CxDgEQ7kNvwGVjIU-&_nc_oc=Adqmcj3Ir0X298-dAUks5mBhYwVVFaYTTrgcYp7kMzAhbfHsJBxCeoog2w6-6FefU_Y&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=bSUurO9uG5oYYe4EzecpeQ&_nc_ss=79289&oh=00_Af6frHPvfkSd5WoY7XENrwWDYmsLU5-G5F2FK6ApevZszQ&oe=6A199A1F"
+      ],
+      "landing_url": "https://www.ringleplus.com/ko/student/landing/event/detail/englishwebinar-260526-study_with_AI-kr?utm_source=fbinsta&utm_medium=paid-social&utm_campaign=plus-promo-may_sp_webinar-260526&utm_term=new-purchase-global-ko&utm_content=img-profile-title-open-260515-title04",
+      "permanent_image_url": "https://i.ibb.co/XrnhmxTK/1-1-a9be9573.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-05-25T03:42:52.032879",
+      "page_name": "Salesforce",
+      "ad_text": [
+        "✋ 내 손으로 직접 만드는 AI 에이전트",
+        "AI 에이전트를 직접 구축하고 실행하는 실습형 온라인 웨비나",
+        "📊 데이터 + AI + 인간의 통합된 업무 방식 체험"
+      ],
+      "image_urls": [
+        "https://scontent-atl3-3.xx.fbcdn.net/v/t39.35426-6/696873026_1293650528964473_4641599122763799960_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A5Rw3UmUIOIQ7kNvwEaGZir&_nc_oc=Adqn5QQGZautun35SBkZIfUJbYgbfc66wOS7qwQgwZm4pdLV31maPiscRMb_MA8SB5c&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=bSUurO9uG5oYYe4EzecpeQ&_nc_ss=79289&oh=00_Af6mwcL6Rra1JMKBhOX7VLaB-8HUpkcP2dwNgbvwvuC9Fw&oe=6A19B2DF"
+      ],
+      "landing_url": "http://fb.me/",
+      "permanent_image_url": "https://i.ibb.co/YBnpGzBS/Salesforce-17fca456.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-05-25T03:42:52.082954",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "💡 많은 분들이 AI로 영어 공부를 하고 있지만,",
+        "\"이게 맞는 방법인가?\" 확신이 없는 경우가 많습니다.",
+        "'똑똑하게 활용하는 것'은 완전히 다르기 때문입니다."
+      ],
+      "image_urls": [
+        "https://scontent-atl3-1.xx.fbcdn.net/v/t39.35426-6/700035850_813143944917647_4280536404537909277_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RG51orjibEUQ7kNvwH-sx6i&_nc_oc=Adq3f3QD3KAILFcsmss2t5D3FQhvPUrT5AJlQA92zP-sU-vLtEKldbZfXSafRl6Im3Y&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=bSUurO9uG5oYYe4EzecpeQ&_nc_ss=79289&oh=00_Af4aBfqzBBtK28wc-ZuVF2Yeo3G4s6CT1YkcVXkHSurkTQ&oe=6A19A675"
+      ],
+      "landing_url": "https://www.ringleplus.com/ko/student/landing/event/detail/englishwebinar-260526-study_with_AI-kr?utm_source=fbinsta&utm_medium=paid-social&utm_campaign=plus-promo-may_sp_webinar-260526&utm_term=new-regist-global-ko&utm_content=img-profile-title-open-260515-title05",
+      "permanent_image_url": "https://i.ibb.co/GfLYVvTz/1-1-9677f23e.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-05-25T03:42:52.134890",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "💡 많은 분들이 AI로 영어 공부를 하고 있지만,",
+        "\"이게 맞는 방법인가?\" 확신이 없는 경우가 많습니다.",
+        "'똑똑하게 활용하는 것'은 완전히 다르기 때문입니다."
+      ],
+      "image_urls": [
+        "https://scontent-atl3-3.xx.fbcdn.net/v/t39.35426-6/700155157_979081681787713_5392304672714986032_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=D6RQ8H1OhqMQ7kNvwE5acnW&_nc_oc=Adrf0aJVINlri3TbL3MWWQR0bdX-nlnwHyMBpXTVXmvzpffulYo7vcyV5J3vrTaVehs&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=bSUurO9uG5oYYe4EzecpeQ&_nc_ss=79289&oh=00_Af6gd5kzYi-O68MlnMLxbnMFGDh8du4U8W08uKAtP7acSg&oe=6A198644"
+      ],
+      "landing_url": "https://www.ringleplus.com/ko/student/landing/event/detail/englishwebinar-260526-study_with_AI-kr?utm_source=fbinsta&utm_medium=paid-social&utm_campaign=plus-promo-may_sp_webinar-260526&utm_term=new-purchase-global-ko&utm_content=img-profile-title-open-260515-title06",
+      "permanent_image_url": "https://i.ibb.co/CKYj0z2G/1-1-1d3d6b22.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-05-25T03:42:52.185884",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "🏖️ 링글 여름 프로모션 얼리버드 마감 임박!",
+        "1년에 단 두 번, 연중 최대 할인 기회!",
+        "무료 체험수업으로 부담없이 시작해보세요!"
+      ],
+      "image_urls": [
+        "https://scontent-atl3-2.xx.fbcdn.net/v/t39.35426-6/704810719_1499135588586695_4509971258871158519_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FmrP4j0Kqq4Q7kNvwGzfl3O&_nc_oc=Adp0-cW5Y7nIQIKgUvkkp9BfH7zPsknd_RoJsyh-iXsgOXxCiIRB9iKJmWOq1YV50pw&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=bSUurO9uG5oYYe4EzecpeQ&_nc_ss=79289&oh=00_Af5uqJE-Pgz-eLsjR3mTwMFVInYIBINlIOCXuDh2UVXQEQ&oe=6A19803C"
+      ],
+      "landing_url": "https://www.ringleplus.com/ko/student/adv/summer-promo?utm_source=fbinsta&utm_medium=paid-social&utm_campaign=plus-promo-summer_early-260521&utm_term=new-potential-global-ko&utm_content=img-text-free-soon-260520-free",
+      "permanent_image_url": "https://i.ibb.co/r2jwNJT2/1-1-6eb53d64.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-05-25T03:42:52.234505",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "💡 많은 분들이 AI로 영어 공부를 하고 있지만,",
+        "\"이게 맞는 방법인가?\" 확신이 없는 경우가 많습니다.",
+        "'똑똑하게 활용하는 것'은 완전히 다르기 때문입니다."
+      ],
+      "image_urls": [
+        "https://scontent-atl3-1.xx.fbcdn.net/v/t39.35426-6/700267542_1707876113703846_887565798000540741_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UHtCjXyQIicQ7kNvwFqFRpt&_nc_oc=AdpKjDxPF6c7QhitMw3M0fwPAwlSnqTJc6WTdCy7chse96tVd2NFgit4tNAzPmRpbVk&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=bSUurO9uG5oYYe4EzecpeQ&_nc_ss=79289&oh=00_Af4ypVcEE8fBZeUqWMyk9dTW1ne-r_VvxeIGhRu_iaV3GQ&oe=6A19A60E"
+      ],
+      "landing_url": "https://www.ringleplus.com/ko/student/landing/event/detail/englishwebinar-260526-study_with_AI-kr?utm_source=fbinsta&utm_medium=paid-social&utm_campaign=plus-promo-may_sp_webinar-260526&utm_term=new-purchase-global-ko&utm_content=img-profile-title-open-260515-title01",
+      "permanent_image_url": "https://i.ibb.co/bjFRFLLG/1-1-e13541ed.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-05-25T03:42:52.283344",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "지원자들 중 돋보일 수 있는 비교과 활동은 따로 있습니다📋",
+        "Research, EC 활동 선정부터 스토리 구성까지",
+        "합격자들의 공통된 패턴, 지금 공개합니다.🧐"
+      ],
+      "image_urls": [
+        "https://scontent-atl3-2.xx.fbcdn.net/v/t39.35426-6/701293348_1137538298555680_8812728892073251421_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KTRuZcTYFoUQ7kNvwHgErHz&_nc_oc=Adoe-J0pMc_ilIlsgK4vN81XqLXpN5WyjC7dvftb5fTfSfu7SBY6-f0GHLJwWkdiwuA&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=bSUurO9uG5oYYe4EzecpeQ&_nc_ss=79289&oh=00_Af6kiHlVUrVx4BQgA39svz6vtAPA87BFgUcJjqD-L4PZrA&oe=6A199C19"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-june-13-profiles-hyps-and-ivy-love",
+      "permanent_image_url": "https://i.ibb.co/hF2Z35gg/Crimson-Education-b266672c.jpg"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-05-25T03:42:52.331249",
+      "page_name": "RightNow Media KR",
+      "ad_text": [
+        "5월 <AI 코파일럿 시대, 리더의 디지털 전략> 이라는 주제로 이 시대에 교회에 꼭 필요한 디지털 전략 웨비나로 목회자님을 초청합니다. 자칫 번아웃을 겪기 쉬운 요즘의 목회 환경 속에서 디지털 도구로 사역의 균형을 잡고 성도의 성숙과 성장을 확장하기 위한 목회 전략을 소개합니다.",
+        "특별히 5월 웨비나에는 📍목회데이터연구소 지용근 대표님📍의 특강이 진행됩니다.",
+        "라잇나우미디어 활용법 등 모든 궁금한 점을 해소하며, 지난해부터 새롭게 도입한 교육 프로그램(소그룹 퍼실리테이션 과정)을 소개하고 목회에 도움이 되는 여러 디지털 도구를 함께 소개해 드리는 시간으로 구성됩니다!"
+      ],
+      "image_urls": [
+        "https://scontent-atl3-2.xx.fbcdn.net/v/t39.35426-6/690665252_972388411998619_5000400061574288325_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oXuUbSjEEEEQ7kNvwGX1kyD&_nc_oc=Adq-d_su_wxK2FTry6aWfnVlz6ZA8fam0snzfZNDv4x-urpl8c3mmHyJuyV7nz96KW4&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=bSUurO9uG5oYYe4EzecpeQ&_nc_ss=79289&oh=00_Af6kZN4Bdk6opoCtAvPHEbcwkL_mW-6sWMDV6rgp0SzPMg&oe=6A198ADA",
+        "https://scontent-atl3-2.xx.fbcdn.net/v/t39.35426-6/690650360_1440531317847289_5049642507392588663_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9_ctYgIDDPcQ7kNvwFfo7U3&_nc_oc=AdraV0KldZ25zRMW52AwtLv8xdY7ir5a4D59tUFH-nA2LinISpIlxXeSXJEuEtMIpes&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=bSUurO9uG5oYYe4EzecpeQ&_nc_ss=79289&oh=00_Af7yyoKR_z1BI9LdtYnumkG3FadXnUfME3A1tChtD6Ghlg&oe=6A19A040"
+      ],
+      "landing_url": "https://forms.gle/usJd5haDg3XJoCjq6",
+      "permanent_image_url": "https://i.ibb.co/qYTFjrB5/Right-Now-Media-KR-fba8f0be.jpg"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-05-25T03:42:52.401929",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "링글 시스템이 배정하는 환경에서 살아남아야합니다.",
+        "Survive in English, 간편 영어 레벨 테스트",
+        "3-5년차 직장인 편으로 다시 돌아왔습니다 🎉"
+      ],
+      "image_urls": [
+        "https://scontent-atl3-2.xx.fbcdn.net/v/t39.35426-6/704108167_1353833256566120_2624972750578749787_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lcOnAVTR0Z0Q7kNvwHtKzSo&_nc_oc=AdoKXmW5cj0T0efhBBJnKRe7wFVeHI4bWmWW7zWLI0pTvZtBj-oF8Ik5ilVHBe4JPCY&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=bSUurO9uG5oYYe4EzecpeQ&_nc_ss=79289&oh=00_Af7F0w4ZsVKmLtfE_GJgVoDx2j2iqGBnosG2LwkvL11aKw&oe=6A198CE7",
+        "https://scontent-atl3-3.xx.fbcdn.net/v/t39.35426-6/704228431_4257514827842521_1402813922312221854_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZzIYQLvd6swQ7kNvwFi3Yk9&_nc_oc=AdpqHUlJBsLDdNBeOW35smomumk0S6dpjF4fg5HINSt6idlPUsALZfBZnqGWp9cLghs&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=bSUurO9uG5oYYe4EzecpeQ&_nc_ss=79289&oh=00_Af640OHHQEqvLaNF_SSMLYdVjPSE2XKODZGgyKByx_jBiQ&oe=6A19AEC4",
+        "https://scontent-atl3-1.xx.fbcdn.net/v/t39.35426-6/704267321_1928556831867298_1218238939050213272_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YLraOHti_NQQ7kNvwFf3J1x&_nc_oc=AdrX0ET-8li1ZR4QYTryrIp47hSKkf1fVeEfVHJieX5ELzgmZC3pnchwCX7g3zdSVCE&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=bSUurO9uG5oYYe4EzecpeQ&_nc_ss=79289&oh=00_Af6mjH0lKmnKGbn3VEzFnHoIopwxXFzMmxYXdVFmya75dQ&oe=6A198509",
+        "https://scontent-atl3-2.xx.fbcdn.net/v/t39.35426-6/705237560_1742579093398368_9174884739678815149_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DLyh9j5eOM0Q7kNvwHlUTeR&_nc_oc=AdprVGQN9pG_LQF9XoaMlhGeEbJWv26E17uIJ4wYQPo4i_uqhxGpikudFysvwweQZGM&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=bSUurO9uG5oYYe4EzecpeQ&_nc_ss=79289&oh=00_Af7AFueI2ZqqQDp6N8w99hSrZofLyLv25-lzb7ILySlhAg&oe=6A19A22C",
+        "https://scontent-atl3-3.xx.fbcdn.net/v/t39.35426-6/704682031_1209858237817960_8096435121393587239_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IxOZSPdOkDQQ7kNvwHWnA7Y&_nc_oc=AdqO91cInAlKVgqDgvVYPzQeUu7yHra7zSlacIZvtPpKMZ792xOjmJkBIynP-CSeYro&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=bSUurO9uG5oYYe4EzecpeQ&_nc_ss=79289&oh=00_Af6QvN8mcTOHMABSrfPzyDXmAUFGNrpqMCdeiIWc4o3tJw&oe=6A19AD38",
+        "https://scontent-atl3-2.xx.fbcdn.net/v/t39.35426-6/704731990_1678324263507536_6077900078574132983_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JKMW2YApP80Q7kNvwEVanML&_nc_oc=AdpmwfhoEYQ-Ve-FPythwYNtqk8VqUyhEMg_03APMjDSbTMvJGRKFtfk94nl6yu7Pbk&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=bSUurO9uG5oYYe4EzecpeQ&_nc_ss=79289&oh=00_Af4fWFg11X3MTN7Ubulav8yZVu7tK8MziOVo9GsMJFar4w&oe=6A198A84"
+      ],
+      "landing_url": "https://simte.xyz/ringlemidcareerseries?utm_source=instagram&utm_medium=owned&utm_campaign=plus-promo-summer_early-260512&utm_content=survive_in_english-3to5year&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnSBqLyhbltCMbcEr-0LHBTyLJ0SQdvllJEeAtaUGGBEfZychOG9FuxDRyNfg_aem_Rcb_oz5r5L7ywQucnpKk9Q",
+      "permanent_image_url": "https://i.ibb.co/kV5w2Bxw/1-1-3b13a688.jpg"
+    },
+    {
+      "index": 11,
+      "collected_at": "2026-05-25T03:42:52.537235",
+      "page_name": "RightNow Media KR",
+      "ad_text": [
+        "5월 <AI 코파일럿 시대, 리더의 디지털 전략> 이라는 주제로 이 시대에 교회에 꼭 필요한 디지털 전략 웨비나로 목회자님을 초청합니다. 자칫 번아웃을 겪기 쉬운 요즘의 목회 환경 속에서 디지털 도구로 사역의 균형을 잡고 성도의 성숙과 성장을 확장하기 위한 목회 전략을 소개합니다.",
+        "특별히 5월 웨비나에는 📍목회데이터연구소 지용근 대표님📍의 특강이 진행됩니다.",
+        "라잇나우미디어 활용법 등 모든 궁금한 점을 해소하며, 지난해부터 새롭게 도입한 교육 프로그램(소그룹 퍼실리테이션 과정)을 소개하고 목회에 도움이 되는 여러 디지털 도구를 함께 소개해 드리는 시간으로 구성됩니다!"
+      ],
+      "image_urls": [
+        "https://scontent-atl3-3.xx.fbcdn.net/v/t39.35426-6/689234387_1509557853954051_5266411547073649619_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=O9XGW7KGxJcQ7kNvwG6ONcK&_nc_oc=Adr1jZEdG0M4ELHpSUktRRT7u__OhwztlH5XCL-YAjHGpBkz-AOhzKajkOFwZ_A8YDs&_nc_zt=14&_nc_ht=scontent-atl3-3.xx&_nc_gid=bSUurO9uG5oYYe4EzecpeQ&_nc_ss=79289&oh=00_Af50dXEQ1kEvf01D8JYmuURgfu7eDtKvIUvixAukFLKhvg&oe=6A199E2B",
+        "https://scontent-atl3-1.xx.fbcdn.net/v/t39.35426-6/690765955_26487450214240252_601399939277164751_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=X-nP_-9Dz9AQ7kNvwFOkzwN&_nc_oc=Adri9xjEl1lUQRuxok2D7WjkpBJFJ-WZVXV97FH_2uzderVlCKKn5svvIktzxrJFLZ8&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=bSUurO9uG5oYYe4EzecpeQ&_nc_ss=79289&oh=00_Af7bhIoNtorJXl_6BoWlb0-bLhr7i7GJ1P9hXa98zfFbvg&oe=6A19821F"
+      ],
+      "landing_url": "https://forms.gle/Aux46JusT3buJrdc6",
+      "permanent_image_url": "https://i.ibb.co/Yghh0nv/Right-Now-Media-KR-d73f9d77.jpg"
+    }
+  ]
+}
