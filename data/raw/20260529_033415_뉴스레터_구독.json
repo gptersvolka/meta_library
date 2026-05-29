@@ -1,0 +1,107 @@
+{
+  "collected_at": "2026-05-29T03:34:15.685939",
+  "query": "뉴스레터 구독",
+  "count": 7,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-05-29T03:34:15.139148",
+      "page_name": "비에스씨",
+      "image_urls": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/699852185_1726734471534838_6155043596703755763_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P2m82YVxxJMQ7kNvwEENRlw&_nc_oc=AdrmZToA-3oH80VGraZlqppINR7DEnFeDbDxbO10yveNn-rhpfwdlHm-WMcFjMrmS8s&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=PcrR8KTeap2x1gS0qhXPcg&_nc_ss=79289&oh=00_Af7bhUZehKZPhTNpgKxBDCU3eIrKZ2PeC20Cjsnd-iW8jA&oe=6A1ECF3B"
+      ],
+      "landing_url": "https://page.stibee.com/subscriptions/280173?groupIds=341262&utm_source={{meta}}&utm_medium=paid_social&utm_campaign=biscuit24",
+      "permanent_image_url": "https://i.ibb.co/Mx9rZYnh/c7d98b18.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-05-29T03:34:15.191215",
+      "page_name": "Learning Crew",
+      "ad_text": [
+        "글로벌 경영인사이트 & 직장인 자기계발팁",
+        "HTTPS://LEARNINGCREW.STIBEE.COM/"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/706237374_2056983618549520_1819456734596178170_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6g8N3H12Z0UQ7kNvwHuV4XV&_nc_oc=Adr2IS2NoVMOx0Knk_2rv9-h7rbN6Tc9p_lagcOgcYSe6dbUTYxq6KI21KNGkEipl_M&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=PcrR8KTeap2x1gS0qhXPcg&_nc_ss=79289&oh=00_Af4qvvD6wVzan8bnNqmY30xpKe4GZDfSG-p5eoqTzFQHKQ&oe=6A1EC71F"
+      ],
+      "landing_url": "https://learningcrew.stibee.com/",
+      "permanent_image_url": "https://i.ibb.co/N6gGRfM9/Learning-Crew-b48aa142.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-05-29T03:34:15.241265",
+      "page_name": "비에스씨",
+      "ad_text": [
+        "✅앞서 나가는 리더들은 이미 구독 중!",
+        "HR을 위한 뉴스레터, 비스킷! 지금 바로 무료 구독하세요!☘️ ✅최신 HR 인사이트 무한 제공 ✅앞서 나가는 인사 담당자들은 이미 구독 중!"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/702830504_1311144160954342_1065748341182824483_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=u3AXqiumtq0Q7kNvwEARj-7&_nc_oc=Adph9d_Wi7k8Ns-cLxD5ikOk_EYxuPI6sRmIqlxf1Yf56szXJsyVVXtEhtXW4f5CBo8&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=PcrR8KTeap2x1gS0qhXPcg&_nc_ss=79289&oh=00_Af5-19_aZc6tD_t8DWHoAt_UrpAoHM2lQL1XEbY8vZIt3Q&oe=6A1EDB53"
+      ],
+      "landing_url": "https://page.stibee.com/subscriptions/280173?groupIds=464493&utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign=biscuit24"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-05-29T03:34:15.293921",
+      "page_name": "비에스씨",
+      "video_urls": [
+        "https://video-dfw6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNKosDjOpKBlOX3bi9WmSidhTKkuN-sQSURpf5gsXtTXG4bj8HVBbrMWdt_A3Ck3p0xV-oRxWKLX3gpOGCiH4sZ.mp4?_nc_cat=103&_nc_sid=8bf8fe&_nc_ht=video-dfw6-1.xx.fbcdn.net&_nc_ohc=bux9yaww6iQQ7kNvwEFnqwk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjcyMDI4OTQ3ODEzMTUwNSwiYXNzZXRfYWdlX2RheXMiOjY4MiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=PcrR8KTeap2x1gS0qhXPcg&_nc_ss=79289&_nc_zt=28&oh=00_Af7semq_FFcm10iVylcBR_VPKEMIKhZI_oQ4HEmKJGKdlA&oe=6A1EDE98"
+      ],
+      "landing_url": "https://page.stibee.com/subscriptions/280173?groupIds=341262&utm_source={{meta}}&utm_medium=paid_social&utm_campaign=biscuit3"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-05-29T03:34:15.338510",
+      "page_name": "비에스씨",
+      "ad_text": [
+        "✅앞서 나가는 인사 담당자들은 이미 구독 중!",
+        "HR을 위한 뉴스레터, 비스킷! 지금 바로 무료 구독하세요!☘️ ✅최신 HR 인사이트 무한 제공 ✅앞서 나가는 인사 담당자들은 이미 구독 중!"
+      ],
+      "video_urls": [
+        "https://video-dfw5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNP42hrTAS04EXCdIlEDr9tM5v7rx5qlHV8n-A2aZVxF3tlqIoRju69KccHtRLV4Ezl1PtGQovrDbiyd-y5AMYVF0vnLeOKAbppoeSYnQ.mp4?_nc_cat=100&_nc_sid=8bf8fe&_nc_ht=video-dfw5-2.xx.fbcdn.net&_nc_ohc=BxxP87CqbP4Q7kNvwFwz1NV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NjU4NjU0NTI2NTEwNjg3LCJhc3NldF9hZ2VfZGF5cyI6Mjk4LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=PcrR8KTeap2x1gS0qhXPcg&_nc_ss=79289&_nc_zt=28&oh=00_Af5aArbtKK0EMTQ8HmJuMxEJqbpHwhp2B_MCJvtkEhyPtg&oe=6A1ED3A2"
+      ],
+      "landing_url": "https://page.stibee.com/subscriptions/280173?groupIds=464493&utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign=biscuit3"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-05-29T03:34:15.383140",
+      "page_name": "영보스 매거진",
+      "ad_text": [
+        "매출은 오르지 않았고, 시간은 줄어갔다.",
+        "고객이 ‘자발적으로 찾아오게’ 만들어라.",
+        "ex) 인스타·뉴스레터·영상·자동 축적 루틴"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/571351021_1726803291297214_6633643585231276438_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jSI0G1Ay_MgQ7kNvwEaIncQ&_nc_oc=Adpdg_rZC0c_fhGJI6RF0G8f3q8r4MgNsaxMLnoRwVU1VdZ4Pq69_-Dd7uGGQwgM-cc&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=PcrR8KTeap2x1gS0qhXPcg&_nc_ss=79289&oh=00_Af4dFniH2Grce6ItXACSTuG7roXC1SuD18SoWzlMgMIslQ&oe=6A1EE123",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/571427248_4175964355982749_8917915720209011318_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BTNLWHU7QwYQ7kNvwEu8VjP&_nc_oc=AdrwDFHVNLVmho6Wv7CzgETddabezWNLU_yal9uoDhNGrfe_Wp2PsBNsEmLfmfy3nO4&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=PcrR8KTeap2x1gS0qhXPcg&_nc_ss=79289&oh=00_Af5zx0PJ6ViFPg0rx_wovsDugG7fsvv7rcVYIkfCDHSX0g&oe=6A1EE041",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/572056842_828696603235513_1542898713065926651_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0nPa765ijz8Q7kNvwHiiOgj&_nc_oc=Adp8lhCIb464dTA0YFbutscccXdTJbQM9ZcJoIU3pp8Qq64NF4G_lEKD_hsy-5MsRio&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=PcrR8KTeap2x1gS0qhXPcg&_nc_ss=79289&oh=00_Af4YVtfrM6IGU3i4GaxNwhdD-bnsoh4okun9DJSIW51MDw&oe=6A1EF004",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/571241235_3522105477931084_5347125982839588638_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XloXKN4pc9IQ7kNvwF0vzIh&_nc_oc=AdrF9zwV6bYn6Qv7aSaK5h0baRLQJLTz4MLgc6Aj6-MquTHhU_OKj_lOxmJmlG9UEZ0&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=PcrR8KTeap2x1gS0qhXPcg&_nc_ss=79289&oh=00_Af7CQTRSAdnujlyAMfa5yuzN-MmTuwtRLVFqbmp26xdX3w&oe=6A1EC4D0",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/571143874_2315601825622666_6211746668211549941_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H-bj7qov8r4Q7kNvwGHF0s9&_nc_oc=AdpiQydUN249V2g2AMhFnDWbGmcQPecvWgsmZ7v3q-5CZ9uQS1dxAuyTkCHPulw2nnA&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=PcrR8KTeap2x1gS0qhXPcg&_nc_ss=79289&oh=00_Af5wQjuJRZZrXi0RVJZhMEosxQls9VdAmGFECw3hGOjfRw&oe=6A1ED970",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/572135869_2664099263938563_204447756053676784_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AD5BASP_ZngQ7kNvwEQ8Zmy&_nc_oc=AdqAhrK6IKNwbNPfVtPA-aV_8Y3e6SNa1Fpf5hCy06Ub-KO1OrXWMs4UYC4YQRV1iwE&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=PcrR8KTeap2x1gS0qhXPcg&_nc_ss=79289&oh=00_Af6i-mPApocA4U-vyjtymI5y_Du5NozJ9tXDJSTUPktY3w&oe=6A1ED746",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/559097490_845803065063330_2250525045435353972_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h5IQxHyxrU0Q7kNvwEqgLoB&_nc_oc=AdritQRU6qM4EyBkxwBFQDxqcx8-2lIEIBe8UXJBkCpSilqF6Cyga8taUxRvGSWEU8M&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=PcrR8KTeap2x1gS0qhXPcg&_nc_ss=79289&oh=00_Af78vWc4eF5-owyMr-ezL5ykXMpjOiMIOnd1HUr86PK5Kw&oe=6A1EF7A0",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/571362816_1338572421093337_346688366585184516_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2DPqsLEKhNMQ7kNvwFJe_QL&_nc_oc=AdppSQABs0AdMnnMHZvUJgaTChNUPytzg4JO9PY7dqZhsZz56NNRcroEHOTc_tke8eE&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=PcrR8KTeap2x1gS0qhXPcg&_nc_ss=79289&oh=00_Af7T_NmqdH1YUXLtKR_h4-6inp5PUtQ1cMvQ5MMamoB2iA&oe=6A1EC63E",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/572222757_1262549339233473_8018288257757285136_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ao9wSmJb9FkQ7kNvwG2lQ-0&_nc_oc=AdrPCxNEnnGDFU-jb0YtofWma7hROtrht4S3qeFGXGYy05rREJsa0fyHVrRQCZPZCRg&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=PcrR8KTeap2x1gS0qhXPcg&_nc_ss=79289&oh=00_Af48xMzQpJxjyIMzxS1Xv6JOFYNVvUnVzaC708or3y9WEg&oe=6A1ED074"
+      ],
+      "landing_url": "http://instagram.com/youngboss.kr",
+      "permanent_image_url": "https://i.ibb.co/6R3zsD9v/d9672521.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-05-29T03:34:15.552008",
+      "page_name": "부산경제진흥원",
+      "ad_text": [
+        "✔️ 부산경제진흥원에서 시행하는 지원사업 안내",
+        "✔️ 지원사업 신청 체크리스트 등 가이드 자료",
+        "✔️ 부산경제진흥원 오프라인 행사 일정"
+      ],
+      "image_urls": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/652216678_916366804695250_8795553695829054782_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=isrQ0uI1_kAQ7kNvwG4Wzsu&_nc_oc=AdoScWLvOccsgcwsWbCrqCajmre0UQXCPPoRLsNPdL-fm-zh82G9EzUk9IhAlrJ3pAM&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=PcrR8KTeap2x1gS0qhXPcg&_nc_ss=79289&oh=00_Af6K5ooHJFJsVWEXrvSV83JBCGV_uO42yEeYEqeaztd_tw&oe=6A1ECBD9",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/653551138_1162048759283191_4235806719030261371_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bdt2gFzLR28Q7kNvwGlWHs9&_nc_oc=AdohL50o6AVXt4NRrWX4RFZIkYn_D4prGXLkUOcAIuoWoYalVu1Ttc9kenyQtJxkAuE&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=PcrR8KTeap2x1gS0qhXPcg&_nc_ss=79289&oh=00_Af71c2fvNl5rnLJGLonb31oynwTwy_g4QePPRm6DtWdZVw&oe=6A1ECD53",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/651865469_770323612565446_954917391001265854_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=17xGrzSTRgMQ7kNvwG_NueW&_nc_oc=AdruiJqsyj4H18ULeGNERfIj00-NrmkEhIvI0gMpBD96DoxN5AAD--ay4Eq7v8K9uk4&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=PcrR8KTeap2x1gS0qhXPcg&_nc_ss=79289&oh=00_Af7WgmOeKJkoW67KhJvgrpUM-oXJv_tVBK6nk_IXbBsk2A&oe=6A1EEE77"
+      ],
+      "landing_url": "https://forms.gle/cMCGcHENgPrNwHkz5",
+      "permanent_image_url": "https://i.ibb.co/wh6BnjXr/384bd22d.jpg"
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "collected_at": "2026-05-29T03:34:38.293147",
+  "query": "ETF",
+  "count": 16,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-05-29T03:34:37.339868",
+      "page_name": "Firstrade",
+      "ad_text": [
+        "광고 • Paid for by Firstrade Securities Inc.",
+        "轉移部分或全部資產到Firstrade皆可享有最高$250轉戶補貼！美股交易無手續費、無期權合約費。立即加入Firstrade，將美股投資產品一網打盡。",
+        "限時優惠：轉戶到Firstrade，最高可獲得$250美金補貼！"
+      ],
+      "video_urls": [
+        "https://video-dfw6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOkfwNm1I59of9afXpPLaQdLXbQjPIebADwE7-1vz02bOagYP7O6LJzMt6zRnAHawKx3LgRF-GHYBgYzOEIVOo.mp4?_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=video-dfw6-1.xx.fbcdn.net&_nc_ohc=QuhKZWvpW5sQ7kNvwE9MWgo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTIyMzEyNTQ1MTY1OTU2OSwiYXNzZXRfYWdlX2RheXMiOjExNTcsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&_nc_zt=28&oh=00_Af76syBQKeX5yb12X_4cc31KhjGBhTyYJ-Tc1Zo5nMOyvQ&oe=6A1EC3A9"
+      ],
+      "landing_url": "https://promo.firstrade.com/zh-tw/intl/xfer250?utm_source=paidsocialch&utm_medium=facebook&utm_campaign={{campaign.name}}&utm_content=xfer250tw"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-05-29T03:34:37.388426",
+      "page_name": "iHerb.com Spanish",
+      "ad_text": [
+        "✨ Tu bienestar, sin compromisos.",
+        "Encuentra miles de productos de marcas 100% auténticas — siempre frescos y listos para enviar.",
+        "Con iHerb, lo que pides es exactamente lo que recibes. 🎯"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/648714689_1215054370365169_2518813852573411283_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nrc-nPEdGYwQ7kNvwGroz4P&_nc_oc=AdrT5WhTpTUy8qcCmUJZok5N_Z5LNCCJwFh76cAM3djElPfCFypgunDOTi3xwGdScAQ&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&oh=00_Af6f0kzoz--7jV1JFPpjcgJGAUjeJhy2OALb8kRM_H-8MQ&oe=6A1ED65C"
+      ],
+      "landing_url": "https://www.iherb.com/",
+      "permanent_image_url": "https://i.ibb.co/hxrwV3HM/i-Herb-com-Spanish-84b94165.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-05-29T03:34:37.438409",
+      "page_name": "직장인의 모든것",
+      "ad_text": [
+        "회사 다녀도 내가 가난했던 그 이유...",
+        "챌린지 1기 등록하고 월급쟁이 부자되자!",
+        "20대 20억 자산가 🐰래빗해빛 튜터🍀와"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/600922857_2096156927793411_1969847858612294871_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lI-tM5rUNH0Q7kNvwHqufMY&_nc_oc=AdoQrCWV72LlhbiYXht9aG9KG_5Y49wsPBrWaBRWjyHmAN7wVVDKVncKGIRTUHs6yuw&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&oh=00_Af5oDkLeaYxk9sHPOvWyQmO2BDyqZhIc0v6SsveDYbDjXQ&oe=6A1EC449"
+      ],
+      "landing_url": "https://taling.me/mkt/rabbit_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=rabbit_purchase&utm_content=재밌게1억&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/SwkzhFLQ/8e6126ca.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-05-29T03:34:37.488131",
+      "page_name": "KB증권",
+      "ad_text": [
+        "'#EVENT #수수료혜택 #수수료0원",
+        "영(Young)하니까 수수료도 제로! 0️⃣",
+        "수수료 없이 KB증권에서 국내주식 시작!💛"
+      ],
+      "image_urls": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/699133607_968227429425846_8466304453529843634_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KDHtxVf4aysQ7kNvwFaaqg-&_nc_oc=AdrUn_IQlHdMnU28-CBgNYJbQUPJj_AXkFvfvAwAVDx5AsYYMwgUIZEt1q-NFmSUgPs&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&oh=00_Af6AmdbPy1k0libZq-K8N25BFNma4CpqS0eJgjr1_eFL2g&oe=6A1EC06F"
+      ],
+      "landing_url": "https://m-able.app/iihvza",
+      "permanent_image_url": "https://i.ibb.co/JRyDtRV9/KB-beb7bdf0.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-05-29T03:34:37.538904",
+      "page_name": "KB증권",
+      "ad_text": [
+        "활발한 ETF, 펀드 투자로 미래 자산가?",
+        "최대 600만원 세액공제 알뜰 절세왕?",
+        "당신의 원픽을 고르고 경품 추첨 받으세요!"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/690636561_1289221726631406_149678324767506351_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=36j-zS64_r8Q7kNvwENOoo2&_nc_oc=Adolwstpw9aiQ-sEbh-CUB88BF0PqDBRyV8ARWZkafUtImcl49nPVCM0LBWwyNhg4sg&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&oh=00_Af7imH1Jy_ch14HE2Hf_Qga3DtXQIrO96ioLwZhwaBT5VA&oe=6A1EC7B1"
+      ],
+      "landing_url": "https://m-able.app/smngii",
+      "permanent_image_url": "https://i.ibb.co/ymkmr9wX/KB-eebe8fe1.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-05-29T03:34:37.586214",
+      "page_name": "퇴근할래",
+      "ad_text": [
+        "오직 월급만으로 20대에 20억 만든 래빗해빛과",
+        "‘60일 월급테크 챌린지’ 함께해요! 🐰 💪",
+        "매일 딱 한 번, 재테크 미션을 수행하면"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/599004321_3075030999351058_6284044378428700054_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VIBJILD5aa8Q7kNvwF831-8&_nc_oc=AdphkDXi-bYlhyf2monGG-meqeHqmBA101M6hP3b89O20CF_H2M9iEL-0W72O-QzBrM&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&oh=00_Af6fqAeACmlUc3ka1rk-QWtcw3_lfKFFq5_P6NWKV5ZBUw&oe=6A1ED331"
+      ],
+      "landing_url": "https://taling.me/mkt/rabbit_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=rabbit_purchase&utm_content=래빗해빛루틴&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/zTHQY6SP/cd32a494.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-05-29T03:34:37.633722",
+      "page_name": "KB자산운용",
+      "ad_text": [
+        "\"우리아이와 함께하는 특별한 투자 체험!",
+        "RISE ETF 매수 인증하고 RISE 시드키트 받아가세요!\"",
+        "#RISE #RISEETF #KB자산운용"
+      ],
+      "image_urls": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/701696600_4781758965385074_5083321245800264581_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NvQSheuj4PoQ7kNvwHzkXar&_nc_oc=AdpzJH22VRhGXAKEtEn_hGWwIDnJRaiYaYX2Mwb_Ovyxj_gqVpWQTMVoKnIfZXz5YY4&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&oh=00_Af43HlaOiN4UpQxU0UhX8TnnmQ2N_3NIgHIBFdxl3SHbvg&oe=6A1EC686"
+      ],
+      "landing_url": "https://www.riseetf-event.com/event29?utm_source=insta&utm_medium=image&utm_campaign=hyundai",
+      "permanent_image_url": "https://i.ibb.co/cSRtjzQx/KB-531c85ab.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-05-29T03:34:37.680286",
+      "page_name": "미래에셋증권",
+      "ad_text": [
+        "완성은 미래에셋자산운용 TIGER ETF로",
+        "*미래에셋증권과 미래에셋자산운용은 계열사 관계입니다. *투자전 설명 청취 및 (간이)투자설명서ㆍ집합투자규약 필독 I 이 금융상품(집합투자증권)은 예금자 보호법에 따라 보호되지 않습니다. I 자산가격 변동,환율변동,신용등급하락 등에 따른 원금손실(0~100%)발생가능 및 투자자 귀속 I 증권거래비용 등 추가발생 가능 I ETF 거래수수료 별도 발생 가능 *TIGER 200 ETF 합성총보수 연 0.07%(운용 : 0.029%, 판매: 0.001%, 신탁: 0.01%, 사무: 0.01%, 기타비용: 0.02%), 직전회계년도 기준 증권거래비용 0.0187% 발생, 투자위험등급 : 2등급 높은 위험 *TIGER코스닥150 ETF 합성총보수 연 0.22%(운용: 0.149% 판매: 0.001% 신탁: 0.02% 사무: 0.02%, 기타비용: 0.03%), 직전회계년도 기준 증권거래비용 0.0499% 발생, 투자위험등급: 1등급 매우 높은 위험  *TIGER 반도체TOP10 ETF 합성총보수 연 0.51%(운용: 0.409% 판매: 0.001% 신탁: 0.02% 사무: 0.02%, 기타비용: 0.06%), 직전회계년도 기준 증권거래비용 0.0491% 발생, 투자위험등급: 1등급 매우 높은 위험 *국내주식 거래수수료: 영업점 개설계좌 0.14%~0.49%, 다이렉트계좌 0.014%~0.49%(KRX, NXT 포함)이며, 홈페이지 참고 *한국금융투자협회 심사필 제26-01530호(2026.04.13~2027.04.12)",
+        "#미래에셋 #미래에셋증권 #미래에셋자산운용 #MSTOCK #엠스탁 #M스탁"
+      ],
+      "video_urls": [
+        "https://video-dfw6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNl2MN7fua69LGNfSuydXwvdQ0yHC19q31BnJCfaqregPXdp8RJpTFHzxj8e1EM1aeLkAjpFdVvOuHjcI13KiczvUZ6AttsDTxRfranuQ.mp4?_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=video-dfw6-1.xx.fbcdn.net&_nc_ohc=I7up6hFlpZEQ7kNvwH7ZZM7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTc0MTY3NDg1NTc1NzE0LCJhc3NldF9hZ2VfZGF5cyI6MzAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&_nc_zt=28&oh=00_Af5cbdeSNP0F0KKiMB1Cdnlt5WZ8_t8vOdTzh8sQanFZ4A&oe=6A1EE641"
+      ],
+      "landing_url": "https://securities.miraeasset.com/public/mts/html/AppLink.html"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-05-29T03:34:37.723213",
+      "page_name": "삼성증권",
+      "ad_text": [
+        "삼성증권에서 첫 주식모으기 이벤트 진행중 ~5.29",
+        "*투자전 설명청취 및 상품설명서·약관 필독",
+        "*이 금융상품은 예금자보호법에 따라 보호되지 않습니다"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/684324983_1291895693057523_3875997943684393877_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UzpCpmnIdTwQ7kNvwEJMOX5&_nc_oc=Adon2UVLPMi1wjC9E7G084HLPn28giRaUvVJUgFGNZK_xszKJHQSbw5bffuZlZEz4JQ&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&oh=00_Af66zAvCR9_V8Mddtg6mrvUiKtbirKnyVOLyx3nockDWKA&oe=6A1EED01"
+      ],
+      "landing_url": "http://play.google.com/store/apps/details?id=com.samsungpop.android.mpop",
+      "permanent_image_url": "https://i.ibb.co/XkbfYF36/3def744a.jpg"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-05-29T03:34:37.770959",
+      "page_name": "TIME 액티브 ETF",
+      "ad_text": [
+        "한🇰🇷·중🇨🇳·미🇺🇸·일🇯🇵의 피지컬 AI 투자 강점을 하나로 모은",
+        "TIME 글로벌 휴머노이드로봇산업액티브 ETF 에 투자하세요",
+        "글로벌 피지컬 AI의 밸류체인의 중심을 선점할 시간"
+      ],
+      "image_urls": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/699817729_1337470511532353_3452739397700793388_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XsFDuht3OWYQ7kNvwEY3pQh&_nc_oc=Adpu7xHEVbn2SXIDiKqz2PgdgtyE1buMVQfz3Myz8V9k4YWdl5UDMTtFyzSTKfOg1Gc&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&oh=00_Af61FRoMkwv523R_SvuTurx52QtNtPnSb_cn4BerTy3Udg&oe=6A1ED839"
+      ],
+      "landing_url": "https://blog.naver.com/timefolioetf/224283943297",
+      "permanent_image_url": "https://i.ibb.co/wNCf731z/TIME-ETF-10c70b6b.jpg"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-05-29T03:34:37.819589",
+      "page_name": "Firstrade",
+      "ad_text": [
+        "转移部分或全部资产到Firstrade皆可享有最高$250转户补贴！美股交易无手续费、无期权合约费。立即加入Firstrade，将美股投资产品一网打尽。",
+        "限时优惠：转户到Firstrade，最高可获得$250美金补贴！",
+        "加入Firstrade，享受无期权合约费、网上交易（包括股票，ETF和共同基金）无佣金，还可投资债券与CD。无账户闲置费或维护费！"
+      ],
+      "video_urls": [
+        "https://video-dfw6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPtG2Mb6oErtXaMuOIk8jvbAwHbf9xsh7JHF3ZsiLlWnkmPF1m2ebUshVB-hsdPibvp8lfTTQHIG87PbzbSyaM.mp4?_nc_cat=103&_nc_sid=8bf8fe&_nc_ht=video-dfw6-1.xx.fbcdn.net&_nc_ohc=FV1eHnjCt1kQ7kNvwH6QY54&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjE3Njc2NzY3NjA0MTc5LCJhc3NldF9hZ2VfZGF5cyI6MTE1NywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&_nc_zt=28&oh=00_Af4smhpuC-un1prdHtOcBLzGfp1ZHVjDTL-Kx52mfh1AYA&oe=6A1EE46F"
+      ],
+      "landing_url": "https://promo.firstrade.com/zh-cn/intl/xfer250?utm_source=paidsocialch&utm_medium=fb&utm_campaign={{campaign.name}}&utm_content=xfer250cn"
+    },
+    {
+      "index": 11,
+      "collected_at": "2026-05-29T03:34:37.863130",
+      "page_name": "KB자산운용",
+      "ad_text": [
+        "신규 상장 기념 매수 인증하고 경품 받아가세요!",
+        "#RISE #RISEETF #KB자산운용 #현대차 #현대차그룹 #피지컬AI #코스피 #코스닥 #ETF"
+      ],
+      "image_urls": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/689482408_2486541991777106_6068312404701736632_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SBQHKELFuUQQ7kNvwE8oZtx&_nc_oc=AdoTK7RgYNikzTHyVfSk9PENWcoOYd_F3v0Ut6lN62oMCXcpFoYpd_4vgmqoqOMFYMI&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&oh=00_Af6W1WL8oV9eX9fb9btn18J_vfat3S8kUvGzM5laltEuEg&oe=6A1EEC79"
+      ],
+      "landing_url": "https://www.riseetf-event.com/event29?utm_source=insta&utm_medium=image&utm_campaign=hyundai",
+      "permanent_image_url": "https://i.ibb.co/0RSqdQq2/KB-bffad4a9.jpg"
+    },
+    {
+      "index": 12,
+      "collected_at": "2026-05-29T03:34:37.911892",
+      "page_name": "GGU",
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/616716557_1963680737577692_7009033354814452123_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aBSwMCrHTrQQ7kNvwG8wqx3&_nc_oc=AdqMGn0d8HSy1kYqzPSfXr-4odlRJCzhFNa56wKzmGc0b-7Iopi6oFqzSgi7dk6-FAE&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&oh=00_Af5_RMrrYU3pTNSChsp7DocnM5IY4mvRo8tx5L0wGtxaQA&oe=6A1EF18B"
+      ],
+      "landing_url": "https://ggu-moneylab.com/landing",
+      "permanent_image_url": "https://i.ibb.co/zW1rt74p/GGU-71a2b6b8.jpg"
+    },
+    {
+      "index": 13,
+      "collected_at": "2026-05-29T03:34:37.960715",
+      "page_name": "12fund",
+      "ad_text": [
+        "[ACE ETF-구성종목 뜯어보기] 🔍",
+        "🤖 ACE AI반도체TOP3+ (469150)",
+        "📌 삼성전자, SK하이닉스, 그리고 반도체 소부장에 집중!"
+      ],
+      "image_urls": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/684922792_2156003525184765_5710399621892481901_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x6V3OTF8eBwQ7kNvwGqtmpV&_nc_oc=AdpjiDz4hBYCgm-wafEoZzOyuhZCtXnPRXZVg6q0iSBkAJ4jnvAr4D_rCRupILRSwyE&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&oh=00_Af4lzOoWKF-wu4kdo1Fge8DLmfQYSKQsmGEHUOGpk_W7gQ&oe=6A1EE457",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/684932438_992343126571384_2422187694136317486_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cLfEDlF6jyMQ7kNvwG4dsUa&_nc_oc=AdpkePq79l7ZIK8yUzkvKcNmL3QIm_Wq3hr5kAsQKOKkbtv24cG0dMMyKHW_95LabOs&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&oh=00_Af4kZcgSw9_MI8TFLLScd61gV4GD8CNXNpv0ykillYQEwQ&oe=6A1EC75E"
+      ],
+      "landing_url": "https://www.instagram.com/aceetf_official/",
+      "permanent_image_url": "https://i.ibb.co/wF25rG5B/12fund-8f474b08.jpg"
+    },
+    {
+      "index": 14,
+      "collected_at": "2026-05-29T03:34:38.025757",
+      "page_name": "한화자산운용",
+      "ad_text": [
+        "반도체 투자, 개별주로 각각 사자니 가격이 부담된다면",
+        "PLUS 글로벌HBM반도체 ETF로 시작하자!🙌",
+        "✅ 삼성전자, SK하이닉스, 마이크론, 샌디스크 등 메모리 핵심 기업 비중 약 80% (기준일 2026-05-04)"
+      ],
+      "image_urls": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/691899829_1992405201390331_3077001270465453144_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=skytpnMHq7UQ7kNvwFPmJ08&_nc_oc=AdoPsPlganqWzPHxSNn7BimNcu-thIP-LK7VSq15WgCeB3wWiPPwS5-hcNS-yei5DaA&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&oh=00_Af7Sg6JpyG6YeroHyVwixIqxYYwyPr1u7u5RmDyzNGWWEw&oe=6A1EC2A0",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/692069784_867685478941834_6655870073313388641_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AwCSlbj0XHIQ7kNvwFr8_tp&_nc_oc=Adr6IyjHXf7CeBxZr4TbHNED8hsVZYHaXWi5r1gD8CBAyFLbRccFtySycmBFNIcjrHU&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&oh=00_Af6puLFc42V0dpxTWOLjwyW_sOC_QOi_Px2o-ew4AUMzsw&oe=6A1ECEC7",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/690968959_26475731878793627_1887834229440129544_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FrVBcKbCWyoQ7kNvwFf34Ue&_nc_oc=AdonikVynl-ByoPpE5lxzqx5oP_y_0ndwfKmQFmit_X2eMMckvikAiAa3ZD9zTEF--4&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&oh=00_Af5qu69ymWpBt6Pvz6-1yquPpYB9meaWbJOUqECZHzgVcw&oe=6A1ED5DA",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/693701648_944494175063320_4503590435436288834_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9i7e0oRdBUkQ7kNvwEQUYtU&_nc_oc=AdqWSGXMyHf2LfI9srRqk6xW9aTU78flho3WNhU3zsC_U-T4gBHC-Yg7y1Mad4rDUCo&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&oh=00_Af74NO5Ea3wplC-nNdPR6f_-kVOHWXeu8V9bLib2toeScA&oe=6A1EDDE8",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/691688997_945397838324794_8068363047418427908_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oTMuE0V_p0oQ7kNvwFwa0K5&_nc_oc=AdrTauwJqdZieEynJ4ZhBeSyNZ_AS0A_GcBrM_0N84CZvFjKdkyh6FRyx71-_ILDhWA&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&oh=00_Af4P2Az35Gl1j8o3no8VoNY_IiqNKYTkR-WKFYJpELXUxQ&oe=6A1EDE61",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/692927600_1700187711332652_6169799036160090111_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lEgMGSGKxHEQ7kNvwECddTe&_nc_oc=AdqedMqvUHhsb6CMTypTku5mH6HvyuH52e3T3L06SR5E_Oxh2ISznfcGLgs-DzeuPXc&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&oh=00_Af4xJoitfezSUIZv7QE1xZooP0_1NZ8IpGytqC-MLDMbYg&oe=6A1EC554"
+      ],
+      "landing_url": "https://blog.naver.com/hanwhaasset/224281779969",
+      "permanent_image_url": "https://i.ibb.co/rR4HW16f/fd399516.jpg"
+    },
+    {
+      "index": 15,
+      "collected_at": "2026-05-29T03:34:38.151622",
+      "page_name": "한화자산운용",
+      "ad_text": [
+        "반도체 투자로 어디까지 먹고 있나요?🤔",
+        "전 세계 D램 시장 점유율 91% 차지한 삼성전자, SK하이닉스, 마이크론",
+        "각각 매수할 필요 없이 한 번에 매수할 수 있는 방법?"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/704688573_959100086757708_8267263002880227566_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_T_y2gq52kEQ7kNvwHHtlgB&_nc_oc=Adp4gqt-yXlHntqZ9aAbzhYroD6iWEkol3rSmVfhgXvZdUnjlJ2bQsVChbbEanQHuaE&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&oh=00_Af7t79WwtszNEFujKTjPDoASWjfrIJEukvclSCAiGqgJTA&oe=6A1EEF5E",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/703474280_1107966379067713_3716153816791157442_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nDE7manX2J0Q7kNvwGM2RY8&_nc_oc=AdqclFvVm5Ym5CR88mtJb4lwPAtipMM6AeYLCj04P2Fe6qB511bTBI3_MUVu7_ktdKI&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&oh=00_Af7NejDTPWl-yBz3A788jOvwII6LMqtFKAbdEz5SZMmL0w&oe=6A1EEF10",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/704614461_1023586053565725_6804054751471597044_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_rLMWc1HvIAQ7kNvwEpqzGo&_nc_oc=Adp_npp9ncesRwBBtVbEZMi77o_I31i_PoQ3jpYUcMACZKktdz914zdRlOw3ipDVPH4&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=HYCZw8drf8zoGaTOkXSNZw&_nc_ss=79289&oh=00_Af7lqlZ_p5KafDQD6K73AgllFm7NXaDdOfoEYvLkWz6vKw&oe=6A1ECBBC"
+      ],
+      "landing_url": "https://www.plusetf.co.kr/product/detail?n=006236",
+      "permanent_image_url": "https://i.ibb.co/ZzKTXNDt/a56cd361.jpg"
+    }
+  ]
+}

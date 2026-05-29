@@ -1,0 +1,183 @@
+{
+  "collected_at": "2026-05-29T03:31:51.972221",
+  "query": "무료 웨비나",
+  "count": 11,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-05-29T03:31:51.099726",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "✨ 국제학교 자녀분의 코앞으로 다가온 미국 명문대학 입시 준비…",
+        "미국 입시에서 Common App 작성은 곧 시간 싸움!⏰⏰",
+        "꿈의 명문대 입학사정관의 눈을 단번에 사로잡을👀"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/544995989_1311938777240584_7643198229873328322_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZqvWgj_WyYMQ7kNvwEtuPwx&_nc_oc=Adr-QlDov0fIDyBWwb6HqbkyzFrdH2akyNymqk0CzqhLi16o05gCYouczOBJwc6bzj8&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af7V3hzt8JX2OaeDJgofQdPxCh_-I9P5AJ4BBNtEoqxFvg&oe=6A1EE41D"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/resources/webinars-workshops/",
+      "permanent_image_url": "https://i.ibb.co/t9Vj5mp/Crimson-Education-183d965c.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-05-29T03:31:51.153763",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "✨ 국제학교 자녀분의 코앞으로 다가온 미국 명문대학 입시 준비…",
+        "미국 입시에서 Common App 작성은 곧 시간 싸움!⏰⏰",
+        "꿈의 명문대 입학사정관의 눈을 단번에 사로잡을👀"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/544498933_1686715765330737_9216432937402814786_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=K9s6VKtXZmwQ7kNvwFzbxnP&_nc_oc=Adpb4cMl62kHPxwY1E9y-L3TL5jPhR7PLAeGino0KtiaFC6BSzpuRx29vbcCB8tXsYE&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af5v2aWotbRyy2KA_nyJV0bnPenmTrMtEdqSLOkvkmL51g&oe=6A1EC1B8"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/resources/webinars-workshops/"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-05-29T03:31:51.204755",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "지원자들 중 돋보일 수 있는 비교과 활동은 따로 있습니다📋",
+        "Research, EC 활동 선정부터 스토리 구성까지",
+        "합격자들의 공통된 패턴, 지금 공개합니다.🧐"
+      ],
+      "image_urls": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/701293348_1137538298555680_8812728892073251421_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=woBSSoqe-jgQ7kNvwG6cS1E&_nc_oc=AdpMQLbCTij96ZlSwjRbPMwGwyrg8or5kXbQJm9ym9p7ssLP5HKbWFAszLnnWOi1wYk&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af46M6VPiejS-S9G_NsDp-1rSh6b6i9H69tuZ2VZSTl5Jw&oe=6A1EE219"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-june-13-profiles-hyps-and-ivy-love",
+      "permanent_image_url": "https://i.ibb.co/YFFyg7PV/Crimson-Education-b266672c.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-05-29T03:31:51.254209",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "1년 뒤, 아이비리그 합격 메일을 받고 싶다면 지금 신청하세요!",
+        "📝 국제학생 rising 12학년만을 위한 입시 웨비나",
+        "💡 한국 학생이라면 꼭 피해야 할 에세이 비밀"
+      ],
+      "image_urls": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/702604445_1313408110936790_7915046626646914605_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N2gdKg9RC20Q7kNvwFrI_3f&_nc_oc=AdoyvXuuIBnG0ytM4Tw5K7NOmOSntF-XJUPMr1JFHAtxinYxz5gj2HPvN5uUVgd1pqc&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af4Poi5HpnXtVv0Dotou_oW0KQSP9cURc0Ck2GiXA5-l2w&oe=6A1EF190"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-june-17-common-app-package-for-rising-12-essay",
+      "permanent_image_url": "https://i.ibb.co/ccBTrLxW/Crimson-Education-2f3f5901.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-05-29T03:31:51.303117",
+      "page_name": "youtube_gonduck",
+      "ad_text": [
+        "HTTPS://MONEYDUCK.IMWEB.ME/52/?IDX=45",
+        "저도 3년전까지는 체험단으로만 수익화를 하던 평범한 블로거였습니다, 브랜드블로그 대행을 만나고 더 많은 기회를 만들 수 있었습니다"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/702625445_1526370889045019_1019593077078114292_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CvL_7zHQ_VMQ7kNvwEITgih&_nc_oc=Adp7ja-HW1KlcPwNm4OhkmR6ViTS7B4OVWUWsJwzHBpd8arChz1-jjvG1eBnsL_TdMM&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af6vmkF2RJ1ap9jzXJq82r22soMm-gobsWuI-MScRTq5aA&oe=6A1EE7FB"
+      ],
+      "landing_url": "https://moneyduck.imweb.me/52/?idx=45",
+      "permanent_image_url": "https://i.ibb.co/SDM5x1P9/youtube-gonduck-d462e1ad.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-05-29T03:31:51.354107",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "1년 뒤, 아이비리그 합격 메일을 받고 싶다면 지금 신청하세요!",
+        "📝 국제학생 rising 12학년만을 위한 입시 웨비나",
+        "💡 한국 학생이라면 꼭 피해야 할 에세이 비밀"
+      ],
+      "image_urls": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/702043447_1667387390853659_7037776832637987841_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Bt8nczTCl4kQ7kNvwEBU_pF&_nc_oc=AdqfM8oibrS8geSGcMtLI8SSYKhpNCPdMM1mAJp8nuDaHdzoy56yfe9C_Ejao2MkxW8&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af5zkKav9qqqUzjVUJdWOXrRJIUJdN04mCwMXSp_-qbKeA&oe=6A1EC24A"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-june-17-common-app-package-for-rising-12-essay"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-05-29T03:31:51.401888",
+      "page_name": "youtube_gonduck",
+      "ad_text": [
+        "HTTPS://MONEYDUCK.IMWEB.ME/52/?IDX=45",
+        "저도 3년전까지는 체험단으로만 수익화를 하던 평범한 블로거였습니다, 브랜드블로그 대행을 만나고 더 많은 기회를 만들 수 있었습니다"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/701496781_859162989925227_8304135625905116871_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ttb9Vwq3r8kQ7kNvwEd9ILq&_nc_oc=AdpjeowiCl8f3EeCbmP_tcHxwIzFj3mK0hAICo59fr58gmkv4jhmprAG8cVMz4C2SO4&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af5RP5VmhMtUb4laaj8m8cPd5BHwyHzfjNyWikox0g50tw&oe=6A1EC4F6"
+      ],
+      "landing_url": "https://moneyduck.imweb.me/52/?idx=45",
+      "permanent_image_url": "https://i.ibb.co/VyStWcm/youtube-gonduck-6c5eca51.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-05-29T03:31:51.449133",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "1년 뒤, 아이비리그 합격 메일을 받고 싶다면 지금 신청하세요!",
+        "📝 국제학생 rising 12학년만을 위한 입시 웨비나",
+        "💡 한국 학생이라면 꼭 피해야 할 에세이 비밀"
+      ],
+      "image_urls": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/702531124_1703286744000792_1672841141755705851_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_aid=0&_nc_ohc=JI-KbSClk6kQ7kNvwFqa8hL&_nc_oc=Adq2CUnjnHiUT4emzOu4pPjSXQNI5Yj6bfUOwkX1MAOX0VRmVl2oflEJiPkHKARGXnc&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af7RfnZJmO57WGgBJ8zxUDiIiLURUhERnvvEBiNnNX3OnQ&oe=6A1ED491"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-june-17-common-app-package-for-rising-12-essay"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-05-29T03:31:51.496428",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "링글 시스템이 배정하는 환경에서 살아남아야합니다.",
+        "Survive in English, 간편 영어 레벨 테스트",
+        "3-5년차 직장인 편으로 다시 돌아왔습니다 🎉"
+      ],
+      "image_urls": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/704108167_1353833256566120_2624972750578749787_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nwtPRTEpSoYQ7kNvwHS7CN9&_nc_oc=AdpKOZ25eH4mqKck_E2I09Za7snl6bFJyR8vnudUONXya3QC4pIAXEgSiCE7HJ-NubQ&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af6QDFakKzPwaoDOSb1YPnu2KQQYj3VynMdy9BB6lZDk7Q&oe=6A1ED2E7",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/704682031_1209858237817960_8096435121393587239_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vaj6Qz-HcgUQ7kNvwGd653z&_nc_oc=Ado2W1qVaxzJXKVH-chrFax8_NAk-MMPDgB3HmUacsZDhf31IauAulRFbBYiBMg76Xs&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af4_vhfA1uI0QN0d0tkczWM-T0zVr-maYp7tggKfNQ1rag&oe=6A1EF338",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/705237560_1742579093398368_9174884739678815149_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3sM6r26ptZQQ7kNvwE7CjBV&_nc_oc=AdpYQazV2bStG76rGI2svLESFdI2OTOl1zB65U1pX7mDZdOSjPkmSCU82weg-5AVxMM&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af6uMn1666OYJrR_f2dTpFYKi-sGCP25Ir6GIOXbQj8ZfQ&oe=6A1EE82C",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/704228431_4257514827842521_1402813922312221854_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1rjE4q54MJcQ7kNvwGXpkEd&_nc_oc=AdptraNG-u61jWhb78B6YigIJKH13YcKl3CREyeb4U42srmWn8WgCNcan3gQc6br2-A&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af5MCUb5VVhOTDOY3kovdfsPpJcjTiaCBxs2VDM2BaWiVA&oe=6A1EF4C4",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/704267321_1928556831867298_1218238939050213272_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wh3pX9TwBwcQ7kNvwGYL97N&_nc_oc=AdouC8tpQ6egCFftex50Ci5KZ7AYp_9lS7B7sfiCw5rYzG7BIGTYZvaS-1-M8LunoSA&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af5Krk4No3vd4aCI5Axsm9fD1QaXGKWolGE6fzazBY-0XQ&oe=6A1ECB09",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/704731990_1678324263507536_6077900078574132983_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2AW5aS5huF8Q7kNvwEd7PCs&_nc_oc=Adpl136qwFyMnm1ly3hQLWCPKZ2xX2rSrinNVL4uSAeUqZGLgLSTfFbhAmc2r1DcViY&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af4MBGns_gZqtCQJ-ivNH6N1MEe_6CQ5oW43pPHobgTBIQ&oe=6A1ED084"
+      ],
+      "landing_url": "https://simte.xyz/ringlemidcareerseries?utm_source=instagram&utm_medium=owned&utm_campaign=plus-promo-summer_early-260512&utm_content=survive_in_english-3to5year&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnSBqLyhbltCMbcEr-0LHBTyLJ0SQdvllJEeAtaUGGBEfZychOG9FuxDRyNfg_aem_Rcb_oz5r5L7ywQucnpKk9Q",
+      "permanent_image_url": "https://i.ibb.co/27xbtV6d/1-1-3b13a688.jpg"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-05-29T03:31:51.627365",
+      "page_name": "알파리뷰",
+      "ad_text": [
+        "[무료 웨비나] GEO 할지 말지 고민된다면?",
+        "[무료 웨비나] GEO, 꼭 해야 할까?",
+        "🤔 우리 브랜드도 GEO를 해야할지? 😥 이커머스의 마케팅 우선순위는? 😫 최소 비용으로 GEO 대응하는 방법? 웨비나에서 모두 알려드립니다!"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/703762915_27098897323075274_3056442951958124015_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zUl7O50IgJ0Q7kNvwFxB2dI&_nc_oc=Adrlciipg4bqYdOWesRFM_ZX4jzSgnL6t4N8Ac08d9OBWVRIY0kuj5eM6vViVHUBKcM&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af6yUH7CObQX0eQxauB0k4YOmHMMQm6wzFxm-KxV0V8i5A&oe=6A1EDDB6",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/704637554_1342045061148732_2697139725456505662_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PW_y47YB04kQ7kNvwEsqLA7&_nc_oc=AdqZsH27LfbbI5JEi_o1g9aqWH2-h-140uGB9JuhONJzgedS3oS9CzG63vs2qAfbLDw&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af67Rk7wCLZqkWQAbxmioYLDH8OEpKEq_ar881WvYsxrGQ&oe=6A1EE115",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/703728150_1781756459457501_3929890055976088787_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ysiuxWB2LLMQ7kNvwHzrGo3&_nc_oc=Adrw2HRjOYulfwo-R6dLMpJr2RYesAXiaQzVBmhBZeVUzGklByg49EYRCH_QQC0iRms&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af5nLROneG0zh7n-0uqEjG8-ZxU9PHcy5ADoXeiBnIL9Pw&oe=6A1EE2C5",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/704751924_1653500702539224_7242800279413124800_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1CiOOhze-9UQ7kNvwFdjUYY&_nc_oc=AdoGc-YtIHnwLIYQfa6T9_1lItrOBb-FlTOkgLKe13tc9ThX3L3-iFCw6E2QzcFU14U&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af6Bdaou5GDglimhmzFeQA1MT_PSjf4YNi9l4AMC3Kp16w&oe=6A1EE640",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/703936418_1022433193503270_7342612950281602077_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TQOi_vE1ekgQ7kNvwG88vrT&_nc_oc=Adrfu4bARDg1zIcDLEfiU_Gf_TGauFibU2J2M2i44JSUEq3tqWjAjBjPEyWjoT3LPQo&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af7pq6mXaxrJ18g4Pg0ZEtg6-UwpSYqLIdnI8uO00CVaZw&oe=6A1EC601"
+      ],
+      "landing_url": "https://alpha-apps.kr/product/무료-웨비나-geo-하지마세요/47/category/1/display/2/?utm_source=meta&utm_medium=display&utm_campaign=nogeo_webinar",
+      "permanent_image_url": "https://i.ibb.co/B5kzJ7zZ/03893166.jpg"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-05-29T03:31:51.744159",
+      "page_name": "E4ds Lounge",
+      "ad_text": [
+        "👉 무료 기술 웨비나 & 교육 | 설계자를 위한 최신 기술 인사이트",
+        "LTspice 엔지니어 교육을 지금 바로 등록하세요!"
+      ],
+      "image_urls": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/700641884_1295400232148458_3666268876227441277_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=I4b1HgrmBHcQ7kNvwGPUssO&_nc_oc=AdrbfYgU1svwY4deDEoIwDMgWwPt7PjbHR7atGuzzaIZZa3p04hqZKmBdkv77zNmoMQ&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af4zMWXENThawZLcW4Bg6mgNpRQFXygWDzdsNzpN-Bt-uA&oe=6A1EE68C",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/703587400_2020340232696163_1560432507244102283_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Mfw15KgIp48Q7kNvwFTW4IR&_nc_oc=Adrf33mMd_GgulB9aN8JPxMEtD-AAIiuBUNny5twfW4yibXwk16kutzedk7RYd-JPzs&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af4U7dJQkXIhCyzmWpXS0nygIN4aQ6y7NfXJd7TmLXhS_A&oe=6A1EF39F",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/702905662_2580584845690489_7718819615205930000_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=916jAE5ciDAQ7kNvwE1ATnC&_nc_oc=AdrO6DOzUxmmL9TU64C6bU0XNRc1uL64RCLaIk2lg-T2Ydz3-UCg38jSnGSGTXlcoKQ&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af4msARUxs7e20ma-y8yeEqngriIuWjy8DleinOHig4feQ&oe=6A1EF2AD",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/702231640_4314071252178608_5868382077237754900_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PPzuOhIpR1YQ7kNvwGtxB6T&_nc_oc=AdpSltfIp6FG5Y7CEx6FY81AM1kph71P8Bm_aiZ66SPXeElq3JWz1TSu9gkd2VpjJLY&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af7uFdS0Jikr19BQjtw9g92xwO6oBWuLTrK7aVC1WPcLLg&oe=6A1ED54C",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/702829497_4323332891315069_5468880744299585613_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2vkfqbMTSYoQ7kNvwHBtEYw&_nc_oc=Adpy26nGPdSqSIkgSzYyq-BCx_9ANviujCZFEaXnio5WNYVZ493aYA8trNfDypx56_8&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af7SFblpG3ay65KpFBnzJDqb6uCtSc7EIb3UspWUwpinKQ&oe=6A1ED589",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/700396447_966306059557467_1063896143029555459_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5qHiRIaND8oQ7kNvwGAWMQ4&_nc_oc=AdpvAidFRVtxn_oQUYx2Xlfm77zpo7PDHB_FMFuvKBknPOEy5WDY3MuDkE7fJSnLe70&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af7ei-1VnWJXFPEaLAaqfuyPzQw42v7VMli_dCzdEgeZJw&oe=6A1EF579",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/702255292_2107118029835899_6304745526066070719_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A9jzKQ-WDHsQ7kNvwGVmM1x&_nc_oc=Adr0EHkJuxY5Vm_IvTY8DbHASx9tsJD8IYCFKEEKIBlTCKoaoTmdjeyvCzIAWaqgH30&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af7W3zXylMAAJxGcdl8GYFpbzmJRjSk3-5pKqCbmrAyqow&oe=6A1EEE09",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/702625090_1451938203350819_6647121490031727759_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PkYWg71oSpEQ7kNvwGovuv5&_nc_oc=AdquD6IlIAVi91CO23PFdxgIU_l8YIyrw2B0o6H8dWq_COioMIj2w3tgsaCzLQT_uqA&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=UyDmo660qMBrxBenba0FcQ&_nc_ss=79289&oh=00_Af4Ys7le8L6FxlWduAv8zvTYPHyYyJTty30sxRb3F3q66A&oe=6A1ED513"
+      ],
+      "landing_url": "https://www.e4ds.com/webinar_detail.asp?idx=998",
+      "permanent_image_url": "https://i.ibb.co/35SP9VLx/E4ds-Lounge-e42da570.jpg"
+    }
+  ]
+}
