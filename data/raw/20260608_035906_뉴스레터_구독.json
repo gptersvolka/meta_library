@@ -1,0 +1,80 @@
+{
+  "collected_at": "2026-06-08T03:59:06.641813",
+  "query": "뉴스레터 구독",
+  "count": 5,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-06-08T03:59:06.206156",
+      "page_name": "Learning Crew",
+      "ad_text": [
+        "글로벌 경영인사이트 & 직장인 자기계발팁",
+        "HTTPS://LEARNINGCREW.STIBEE.COM/"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/706237374_2056983618549520_1819456734596178170_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GbWz99cARwEQ7kNvwFi-uyb&_nc_oc=AdqDr6f_vP2yMjtdPSWkGGJTJjCSLl2qnuVaw5KMtQeOUQpe21OyMWZ1QohfsIxCzsE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=wEKlIf4BvspWvQiTjnyN5Q&_nc_ss=79289&oh=00_Af8EUwlXwCQAgn7TxT2cb0p3xTab22fSQ_ovDbEBhiFnig&oe=6A2BF61F"
+      ],
+      "landing_url": "https://learningcrew.stibee.com/",
+      "permanent_image_url": "https://i.ibb.co/nqyc8hXz/Learning-Crew-b48aa142.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-06-08T03:59:06.259664",
+      "page_name": "비에스씨",
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/699852185_1726734471534838_6155043596703755763_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IQwyg11P1CsQ7kNvwFrCShJ&_nc_oc=AdoeD-5fqgghSA2KmjL9m9Zqcbt6n3_ernD2UmMtnXoj8du9w9aapNI5Wq2PH512604&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=wEKlIf4BvspWvQiTjnyN5Q&_nc_ss=79289&oh=00_Af9tvYX7_dgX0nmwPCMA70BoRiwpxVveL60-gHcHNbs7nQ&oe=6A2BFE3B"
+      ],
+      "landing_url": "https://page.stibee.com/subscriptions/280173?groupIds=341262&utm_source={{meta}}&utm_medium=paid_social&utm_campaign=biscuit24",
+      "permanent_image_url": "https://i.ibb.co/W4QZYgtZ/c7d98b18.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-06-08T03:59:06.309509",
+      "page_name": "비에스씨",
+      "video_urls": [
+        "https://video-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNKosDjOpKBlOX3bi9WmSidhTKkuN-sQSURpf5gsXtTXG4bj8HVBbrMWdt_A3Ck3p0xV-oRxWKLX3gpOGCiH4sZ.mp4?_nc_cat=103&_nc_sid=8bf8fe&_nc_ht=video-sjc3-1.xx.fbcdn.net&_nc_ohc=bVVXXyLp78gQ7kNvwHI-TxF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjcyMDI4OTQ3ODEzMTUwNSwiYXNzZXRfYWdlX2RheXMiOjY5MiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=wEKlIf4BvspWvQiTjnyN5Q&_nc_ss=79289&_nc_zt=28&oh=00_Af83oGvwTsZWjNlMLVsFW1cqlqrgXvflI7AKhkxPHDburw&oe=6A2C0D98"
+      ],
+      "landing_url": "https://page.stibee.com/subscriptions/280173?groupIds=341262&utm_source={{meta}}&utm_medium=paid_social&utm_campaign=biscuit3"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-06-08T03:59:06.357116",
+      "page_name": "영보스 매거진",
+      "ad_text": [
+        "매출은 오르지 않았고, 시간은 줄어갔다.",
+        "고객이 ‘자발적으로 찾아오게’ 만들어라.",
+        "ex) 인스타·뉴스레터·영상·자동 축적 루틴"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/571241235_3522105477931084_5347125982839588638_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9lF47CUEPjcQ7kNvwGlEXAl&_nc_oc=AdrMlzgnA8eOBLO1mPYbDlZnOcUVOqqQahBSYq9qciIPsUo1W0I0ldtq-rU4EULm4rA&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=wEKlIf4BvspWvQiTjnyN5Q&_nc_ss=79289&oh=00_Af-Nk_QsGZ4nBQQuWxfuotp5OlwY0g4ZGaJmImTeXpGXGw&oe=6A2C2C10",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/572056842_828696603235513_1542898713065926651_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hdYLHpJwxpEQ7kNvwF8kKUY&_nc_oc=AdoXQzwIAoT5AXCixYpn7wtZoZN4uBNs-cK72oSNASsbOEVq9A6ieCiGQh8-AXp_HkA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=wEKlIf4BvspWvQiTjnyN5Q&_nc_ss=79289&oh=00_Af8w2AgQYF-JQVw67yZnfopenJg-o1j8rQrLoMyElcU5Kw&oe=6A2C1F04",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/559097490_845803065063330_2250525045435353972_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gbkJ0t9Rmg0Q7kNvwH6cc4Y&_nc_oc=AdpvjyhsXoFvAVFKoNMqppavRZ_uN3YvjIxS01sYJZA2tyI4EnWGmPpbnyXNh96vi-k&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=wEKlIf4BvspWvQiTjnyN5Q&_nc_ss=79289&oh=00_Af9WtX0hZCo4cI88ozLV2YCwSBR49tQoF_hZ7SfVcopANw&oe=6A2C26A0",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/571427248_4175964355982749_8917915720209011318_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AypUkI6ti_0Q7kNvwH0Nv85&_nc_oc=Ado8Tmhvz66Dxo5_r1jjokItP6b2txTaMPdwPcPlRNBFHhtrg6AEz5Uud279tetwB1Q&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=wEKlIf4BvspWvQiTjnyN5Q&_nc_ss=79289&oh=00_Af98vk5eJYio5Rg860op3Vq5ZDemvrx0H9MmPL-5i1W0FQ&oe=6A2C0F41",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/571143874_2315601825622666_6211746668211549941_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pJsKmplOLVAQ7kNvwFp6R28&_nc_oc=AdpEA5TKlXunJnCy-Jff6AMAy9UvJgcTE3EZZ2ORLzQw59c4tKYtu7wrgYraLKHk6bM&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=wEKlIf4BvspWvQiTjnyN5Q&_nc_ss=79289&oh=00_Af9mn1HX69eDaWzIQ8ikpjpUz1s8U9mdH2ffFXnOpNWEcg&oe=6A2C0870",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/571362816_1338572421093337_346688366585184516_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QNMZoEibce8Q7kNvwHNuN3W&_nc_oc=AdpMcJhK-T4wZaJv1H5bpNvr7HnFVt0CRMdOAS4NXJRKV9aItTImwZJjwxDWaYhw8QQ&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=wEKlIf4BvspWvQiTjnyN5Q&_nc_ss=79289&oh=00_Af9vKIOV4j6nWZh-55gmQQHnP6xsIMwEBwS8cGnZuSlvmA&oe=6A2BF53E",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/572135869_2664099263938563_204447756053676784_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=w1fkM1T0JOMQ7kNvwGAe_xV&_nc_oc=AdrlNSLdRNxhDEA6SktdXog8sFxafRgJPk4j1yFcdq0nZLWYUErMzVlQeI1W4iOCFuA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=wEKlIf4BvspWvQiTjnyN5Q&_nc_ss=79289&oh=00_Af8wn_nQ0Zd2H5uOXWapuu3HYnnC3Nfbcm2nZH94gx7oTA&oe=6A2C0646",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/572222757_1262549339233473_8018288257757285136_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2VkuM2Io77MQ7kNvwG8O2Bn&_nc_oc=AdoFcVQ728uGBydBzK84i0Mznf_1_GqKwjI-Ni0zprd5gOJdPK1rGVkxp8ln84kN1Ug&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=wEKlIf4BvspWvQiTjnyN5Q&_nc_ss=79289&oh=00_Af94zZcKGyhPnCheN8oIsnMnWqDwzU5CNH3yzy03OT6gfQ&oe=6A2BFF74",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/571351021_1726803291297214_6633643585231276438_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Bjyjyb1YxMUQ7kNvwETrwml&_nc_oc=Adp4Cbimmzk1j0a6rsQGLBZpRyAH8WxnICNjLUKredtPdCSK_mmbCVU51AB2YlKPZMI&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=wEKlIf4BvspWvQiTjnyN5Q&_nc_ss=79289&oh=00_Af_SeQA4fhwa7B3oagh7JAAg0-fjm0ifBM34sES_I1PzSA&oe=6A2C1023"
+      ],
+      "landing_url": "http://instagram.com/youngboss.kr",
+      "permanent_image_url": "https://i.ibb.co/JR4YP279/3089138c.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-06-08T03:59:06.529065",
+      "page_name": "Mother-K 마더케이",
+      "ad_text": [
+        "이미 구독중이라면 지금 바로 메일함을 확인해보세요!",
+        "1.  링크트리 [6월 M.letter 읽어보기] 클릭",
+        "2. 레터 하단 표지모델 신청 클릭 후 신청폼 제출"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/718190673_988936080197184_516750089550991285_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=T-Ld67iB2mEQ7kNvwEOp-cF&_nc_oc=AdofirW93tJf9aTUUhauJlHhD_wCkgb4-GoMHWfFyZ2tzHUAxdaDB_DF4R92_wPpL_A&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=wEKlIf4BvspWvQiTjnyN5Q&_nc_ss=79289&oh=00_Af-xBsng7AoA38Ms8R7hyx3xUroWQxJfuysV9THtHOXuJw&oe=6A2C1D04",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/718190675_1543491777317464_3377687332613044287_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vuB-A5e1_w0Q7kNvwHVW10m&_nc_oc=AdoJFuR0wE_kGrIwQgEJEsdH3wFDCOTxP0lE6lmV96uDYvgK-tsaC97ZDxBxmozSXtk&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=wEKlIf4BvspWvQiTjnyN5Q&_nc_ss=79289&oh=00_Af_1M00DGfe4BgplPeb5va1QTVJaBXMLj4m3bkonDOoyNw&oe=6A2BF9AB"
+      ],
+      "landing_url": "http://instagram.com/motherk_kmom",
+      "permanent_image_url": "https://i.ibb.co/Cs1rswn7/Mother-K-68fb96cd.jpg"
+    }
+  ]
+}
