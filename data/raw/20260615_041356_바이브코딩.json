@@ -1,0 +1,110 @@
+{
+  "collected_at": "2026-06-15T04:13:56.090729",
+  "query": "바이브코딩",
+  "count": 6,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-06-15T04:13:55.437074",
+      "page_name": "인프런 - 기술을 배우고 나눠요.",
+      "ad_text": [
+        "요즘 핫한 클로드코드! 반나절이면 끝나요🚀",
+        "반나절이면 끝🔥 클로드코드 무료로 시작하기",
+        "요즘 핫한 클로드코드! 반나절이면 끝나요🚀 지금 인프런에서 무료로 시작해보세요"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/655883342_789692353754166_3919524972712531164_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QfbQLszS3qsQ7kNvwGbMtBa&_nc_oc=Adql5TcKcHRuB8ZxycEmjCnEeb_c__EIFywzM-01pAp-tTVkE4NhPWdbuJd9BhOYEBA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6vN5a7fAQOVe11BnTDSnGg&_nc_ss=79289&oh=00_Af-u-PSRYz8oq5EREUUD4cYMfEEtsefuzSTiFaI0CHf7SA&oe=6A3555E3"
+      ],
+      "landing_url": "https://www.inflearn.com/course/바이브-코딩-입문-강의-혼자-공부하는?cid=340120&infPartner=true&utm_source=facebook&utm_medium=display&utm_campaign=traffic_regular_contents2026&utm_content=_course-con_new-lookalike&utm_term=_260320_claudecode"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-06-15T04:13:55.492801",
+      "page_name": "AI 코딩밸리",
+      "ad_text": [
+        "😎아직도 AI한테 시키세요? 이제 스스로 일하게 하세요!",
+        "AI 코딩밸리에서 에이전틱 AI 배우고 미친 효율 경험하세요!",
+        "📢 벌써 6월, 이젠 진짜 AI 공부하셔야죠!"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710849042_2016879482552148_8102545718391433171_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OzMpoapKCR8Q7kNvwHWaQF5&_nc_oc=AdrXvge-Ubsp_5xC2t9_cHVh64DJb7xVr8Ue5cKMWobjdeIk8g_EAl2ZtTZFCbm1aUc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6vN5a7fAQOVe11BnTDSnGg&_nc_ss=79289&oh=00_Af_kknMqSyEnPdiYh7H0C7KZODn4JhNHhBfU-1n0xttZrA&oe=6A354E02"
+      ],
+      "landing_url": "https://www.codingvalley.com/ldm/7"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-06-15T04:13:55.545133",
+      "page_name": "AI 코딩밸리",
+      "ad_text": [
+        "😵 계속 업데이트하는 AI 때문에 괴롭다면? → 클릭!",
+        "AI 코딩밸리는 매월 업데이트되는 AI 강의가 무료! 이제 하루10분, AI 정복하세요 !😍",
+        "📢 벌써 6월, 이젠 진짜 AI 공부하셔야죠!"
+      ],
+      "video_urls": [
+        "https://video-ord5-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQNgDoWikOHYwMPjYKg5HLs7aHuq_TcNP7DTA6JSIHxBz-pVepiOJbiDTR92q-aJujWx4msUGITDmlAVf7OrDQakZIbU8-7wzO5Np0Yz_Q.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-3.xx.fbcdn.net&_nc_ohc=pupPSs_pzbEQ7kNvwElwdX6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzY4MDAxMzQwODI5MDUxNDksImFzc2V0X2FnZV9kYXlzIjoxNCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=6vN5a7fAQOVe11BnTDSnGg&_nc_ss=79289&_nc_zt=28&oh=00_Af-ZVr8afnMC4FAx5w42lBmAQcCdTuDtaBtM0lF-Lt1RRw&oe=6A353A2A"
+      ],
+      "landing_url": "https://www.codingvalley.com/ldm/7"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-06-15T04:13:55.592746",
+      "page_name": "짐코딩 클럽",
+      "ad_text": [
+        "📝 AI 시대에 나만의 서비스를 만들고 싶은 비개발자",
+        "📝 Cursor 쓰다 Claude Code로 정착한 비전공자",
+        "‘개발자만의 영역’은 이미 지난 얘기입니다."
+      ],
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/701230561_1601918087565512_4435472372748676356_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WvND4__4u9oQ7kNvwEN0fnL&_nc_oc=AdpEgPnm9dT_9dTMfYEDXfkV07n3cAED4lbp6oklPhG533Of_XtCSZXCqeL9utamIVg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6vN5a7fAQOVe11BnTDSnGg&_nc_ss=79289&oh=00_Af_wFabyUzQjOx0VPLoCQigai7eqCt9fKxZysPGxo379cQ&oe=6A355E17",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/701234640_4319512058260510_1517048075411200064_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tRSQfJOYwJYQ7kNvwHcW87z&_nc_oc=AdqPHxBwWI-u_MMCvv0F6r4ZQath7RD7Ja462A9HdhgnN35yBMb1RNmEhClIavXq9oE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6vN5a7fAQOVe11BnTDSnGg&_nc_ss=79289&oh=00_Af9wUdbHrSfqGNPiTUYLEmeDk6mAIs5gzdG14booF5TRlg&oe=6A355BAB",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/700642518_1624930928795617_7186033429607838192_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=b-qLu8CuayIQ7kNvwFBGQs5&_nc_oc=Adr4FiFVIUEoSpog_iJuYA-EVDG2mGPvQ9S6BvZhJHtorXO5NG5GDmGeO6to7i-Lf9c&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6vN5a7fAQOVe11BnTDSnGg&_nc_ss=79289&oh=00_Af9FIGH9trgtNvxjKdT3iyVjR67G511NVVzjf8LNLwGAYw&oe=6A3560D0",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/701692336_997452639373907_5321218421872506256_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pAcS3H0FcRcQ7kNvwFuZ2V5&_nc_oc=AdrYcZuEmlyu9rXdjKVaO9hbEVNTCHloK97LCWK999k5FTubTf5k6Q5dv-spsyYPFqQ&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=6vN5a7fAQOVe11BnTDSnGg&_nc_ss=79289&oh=00_Af_PH_PbuGZi_sMzL794YtTf8ChSEA2kdwll1TdgqS1sQQ&oe=6A353409",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/700658301_2173955033393703_4079640358790926925_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WS0o0Q1UIjUQ7kNvwEBlS-b&_nc_oc=Adoj7BRcqlzYxbhXgzwR2XUQFw54I2lgFnCKLMMOaMBCyOOAbBDiEYVRwqFo0HVGxx0&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=6vN5a7fAQOVe11BnTDSnGg&_nc_ss=79289&oh=00_Af-eQvTqYmVgRtGIKkHEmp2Wa9rKgg4U5OHlo03cqi_iyA&oe=6A3543B8",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/701254499_1594132112135837_8964696037007864218_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bv0avD6D3nMQ7kNvwGloZuX&_nc_oc=AdpzUIdrThnTmJrfOnE7TzDXJGoUNvFC-sumheSdbKUi40upYNu0viFJtvJAbmn6zSI&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=6vN5a7fAQOVe11BnTDSnGg&_nc_ss=79289&oh=00_Af-w5MMtcT-pgL5yZJrDH90ZUHB3siZ6I95gi9FiLYR7hA&oe=6A353EEA",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/700467266_1668058501007127_8311803548581791881_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BjTbJUrxO30Q7kNvwF3CB7Z&_nc_oc=Adr7mqiiR3V2lJVGuD7NQ65n9_TdznrZ_qx8OmSHqIalPIGfoyRm6YYi3OnlCwtsPxw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6vN5a7fAQOVe11BnTDSnGg&_nc_ss=79289&oh=00_Af_Y2z0j0cTHr71nOlzHFdJ8qWY5soP7Po7GRJ1geUhH-w&oe=6A3543FD",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/700555317_1270275431888417_698097917048737840_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fD5p19Mmos0Q7kNvwE0odpk&_nc_oc=AdoJcwZoPzD1bKEjr2owLEFADPlbqFzPIzRnRvvzc5VcAo1cdaMuKx0ymvTG0GL6SDg&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=6vN5a7fAQOVe11BnTDSnGg&_nc_ss=79289&oh=00_Af9AYxwrD0Y2_2I3ECOCTnpRtSRTAjN4xmlK5ujsi7VkTQ&oe=6A353A43",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/701216603_1362079845773571_8388348606247888187_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_70TFJsYIKgQ7kNvwGCYui2&_nc_oc=AdrNngC8BaLciz0RQ7aOCLuzXnjJkt3h7UIg3SIZYUhhIMeNonkTBdhc4JP9C0x0xCM&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=6vN5a7fAQOVe11BnTDSnGg&_nc_ss=79289&oh=00_Af9eOtjwVyboVvfS9xYjZj573fyTBe8-u9n2YdbrnPKuNg&oe=6A354B30",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/701445400_27185094241179599_6083537397450437111_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CDAKEDcM3SwQ7kNvwEidq7F&_nc_oc=AdqiRSZghFvLAcr73R-taEL-gF7dSSQsmrna4RwG-hClstR3pmOb8I67FnhfOteAsac&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6vN5a7fAQOVe11BnTDSnGg&_nc_ss=79289&oh=00_Af-xA-hUU21LslRTgaGY7CihvhLe9lvPwjGxUtvh_CUkcw&oe=6A356774"
+      ],
+      "landing_url": "https://gymcoding.co/vip"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-06-15T04:13:55.798092",
+      "page_name": "종로여성인력개발센터",
+      "ad_text": [
+        "[2026 성평등가족부 지원 신기술 응용분야 직업교육 훈련]",
+        "‘ 생성형 AI를 활용한 콘텐츠 크리에이티브 디자이너 양성’ 과정 교육생을 모집합니다!",
+        "\" 생성형 AI로 아이디어를 콘텐츠로 바꾸는 시간.\""
+      ],
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710781894_1001294526166398_7931377473990745315_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x4IhPiLXsucQ7kNvwGJEF3X&_nc_oc=Adq7PSNb4ue4aaJNUu1sapp0H3qEb-oZ1pkGHM88bL6fwQ_85GouJrX783ZyBzVoJFk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6vN5a7fAQOVe11BnTDSnGg&_nc_ss=79289&oh=00_Af8Hk5PDNoloFyGGbaFcJWYjmtDDHL4R3eMP51sH3boCMg&oe=6A355FD1",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/718935304_1000494562362774_2509658211389616511_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k02k-PaHX_sQ7kNvwEemQsC&_nc_oc=AdoRU4dkLRNe1f65razPkRIr9iTdmxUBZcBKfZdo1DLqgfR5hv22gNaBnFBJLhL8iVE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6vN5a7fAQOVe11BnTDSnGg&_nc_ss=79289&oh=00_Af-mVgs-NYbXXSLaQrmA-WjyOHq2SrWCijQN7-4_MlrcNQ&oe=6A356A9E",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710782027_4564961410402279_3899027994182352043_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P_l2Q54Lwi4Q7kNvwELSh3E&_nc_oc=AdoTli2XgClgZpgT0uzhOa_unUt-LdvNY-w1oksM3RQhrNKE36LzRhCRDomPKJEsoB0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6vN5a7fAQOVe11BnTDSnGg&_nc_ss=79289&oh=00_Af9MwHtN_t0OolvIfVppx-JaCj7y_SOpbWQWt2Wnz1OakA&oe=6A3543B1",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/718660038_1734027315013000_9042513496306785503_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ggqJDCopZswQ7kNvwEbOnSE&_nc_oc=AdpasQaKUOwjGxxFpMVjYtbs_9Rxfn9unKWfGOL2UHLFM0dyu_aZ5_KVqMUoJnpH6fs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6vN5a7fAQOVe11BnTDSnGg&_nc_ss=79289&oh=00_Af_ONnLcLIb7wAYLhsgzyK472K7rH_95ACnAaevNC_FXpg&oe=6A355317",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/717536321_1974277393211976_4060689939759698142_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vqqWm2veopcQ7kNvwFI12OQ&_nc_oc=AdrlmCzaselX_fEETLBvX_YfzrR4yw3hbBC4caP-h5G7n33QNVj50F4vOeRmO5ZD1DA&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=6vN5a7fAQOVe11BnTDSnGg&_nc_ss=79289&oh=00_Af8g3gMukLtC6p_aE5aiqxZQj9bkXb4rezBxoM5eMGL-iA&oe=6A35559A",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710782061_984423443992763_4250115113035769489_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FZAYywZpPe8Q7kNvwH7J1rc&_nc_oc=AdrHCPxY9Q4JMOEu_YRRujBh1jAk71lSXZMpbopG1tDbQz3zD35gKWmyQUTomCwccUk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6vN5a7fAQOVe11BnTDSnGg&_nc_ss=79289&oh=00_Af_jonKeefEyqiqZYsyPyQTWNtqBOsq7FIxwOXfQy0d__A&oe=6A35537E",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/718777660_1509696307476328_1350216119483175159_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RzZ0EcoUei0Q7kNvwGDiTT-&_nc_oc=Adodc24A-gxQbSDlRcb3awxZAngcBEUDaF1w7S5koDjm_Sa0z-X11DcViDl5Y7RtEfw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6vN5a7fAQOVe11BnTDSnGg&_nc_ss=79289&oh=00_Af_pWuoUUiD6-7wQ7gdcAWmzdHrOE49GcfrdAzQ4-5vdaA&oe=6A3560D3"
+      ],
+      "landing_url": "https://buly.kr/GvpCgZQ",
+      "permanent_image_url": "https://i.ibb.co/SwrZ9MD1/7a9d5082.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-06-15T04:13:55.965671",
+      "page_name": "주식회사 테레오",
+      "ad_text": [
+        "메타광고 및  AI자동화로 매출 극대화✨✨",
+        "HTTPS://TEREO.CO.KR/LANDING4",
+        "이제는 직접 광고집행하세요. 한번 배우면 평생 사용가능합니다. 메타계정만 있으면 누구나 가능합니다. 광고 노하우까지 공유합니다."
+      ],
+      "image_urls": [
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/711369557_1012047664596995_8441254972351937654_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SioQdda3yBkQ7kNvwGfUKTy&_nc_oc=AdpIr_6QMf2sstHQD8OqupUVYQh2KdkDozXeY-ebLVjfmvudCGAbsBm8Awh8E6SA5WI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6vN5a7fAQOVe11BnTDSnGg&_nc_ss=79289&oh=00_Af9VKGsOv2yWXJnS_4o_sdkO2dKAXd6kPcdswaLVHrXpUg&oe=6A3551FE",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/713143886_1659811249485260_7352316994288954597_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lemJF18ZaCIQ7kNvwHwEIFl&_nc_oc=Adpbom1G7RzoD3yGDcmv7XDmpuK5SViHN29lF4Hqr0ljV0U-waIebsxjOGff_42GNFs&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=6vN5a7fAQOVe11BnTDSnGg&_nc_ss=79289&oh=00_Af-W2EnX8CyAHlbzaFJIpn82RWxfM8JP4jHzgWbgCCAVhA&oe=6A355472"
+      ],
+      "landing_url": "https://tereo.co.kr/landing4",
+      "permanent_image_url": "https://i.ibb.co/YMh1kQP/6b5c97f5.jpg"
+    }
+  ]
+}

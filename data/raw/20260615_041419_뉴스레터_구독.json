@@ -1,0 +1,259 @@
+{
+  "collected_at": "2026-06-15T04:14:19.990602",
+  "query": "뉴스레터 구독",
+  "count": 16,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-06-15T04:14:18.618412",
+      "page_name": "Learning Crew",
+      "ad_text": [
+        "글로벌 경영인사이트 & 직장인 자기계발팁",
+        "HTTPS://LEARNINGCREW.STIBEE.COM/"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/706237374_2056983618549520_1819456734596178170_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iQ73ILAs5oAQ7kNvwG_4LE8&_nc_oc=AdorRRGwClr7HPu41m5rEM0RgWPGlGVXdwitd5B0WnVNa7QTzyCHFNDhcygDRHpUI6U&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af99OG3Z2wQIFOf1UZSDLzxtAqqHy0O2YR1lIWyYNdkqMQ&oe=6A3568DF"
+      ],
+      "landing_url": "https://learningcrew.stibee.com/",
+      "permanent_image_url": "https://i.ibb.co/xqzhhFnM/Learning-Crew-b48aa142.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-06-15T04:14:18.709384",
+      "page_name": "비에스씨",
+      "image_urls": [
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/699852185_1726734471534838_6155043596703755763_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fSuqPKZS0d8Q7kNvwEA-cL5&_nc_oc=AdqicGFqqi3WAaieXRdUD5VkBzaRhyc8SI1JqCZAfPjdtIs5nHwSSMWI_k6JqZ-6esE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af_Aix6yZc21_a8X06OlZvDa6jrmN6ddrh3oNKdLCDOv6Q&oe=6A3538BB"
+      ],
+      "landing_url": "https://page.stibee.com/subscriptions/280173?groupIds=341262&utm_source={{meta}}&utm_medium=paid_social&utm_campaign=biscuit24",
+      "permanent_image_url": "https://i.ibb.co/1tcWtp8D/c7d98b18.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-06-15T04:14:18.762386",
+      "page_name": "비에스씨",
+      "ad_text": [
+        "무료 구독하고 최신 동향을 확인하세요.",
+        "앞서 나가는 인사 담당자들은 이미 구독 중입니다."
+      ],
+      "image_urls": [
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/721190147_1776860656633282_9118864651410638120_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_7IRdOXwzqcQ7kNvwGTmN9p&_nc_oc=AdogAHQnj9I1Y-E1_iKO1eVeuZiLDLZymAjBTs2NSeoROklGmVAioPwKYZAlnOPpQqU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af9By3jrY2BJS5rngqEyamdqXUWBN3av1npEjksKXMuyKg&oe=6A356AC7"
+      ],
+      "landing_url": "https://biscuit.stibee.com/",
+      "permanent_image_url": "https://i.ibb.co/wr8BFSK3/c515dbc0.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-06-15T04:14:18.816325",
+      "page_name": "비에스씨",
+      "ad_text": [
+        "무료 구독하고 최신 동향을 확인하세요.",
+        "앞서 나가는 인사 담당자들은 이미 구독 중입니다."
+      ],
+      "image_urls": [
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/720087421_1432833958532425_314170310743276490_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QmqpitNOIlIQ7kNvwFATqhe&_nc_oc=AdpYShzfS9JIJEubGWayiae0GiHaJBz4gxKXYPwMdTOAP2jJ2uLygK4Hbsz6pmq7SWA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af8ZMihXWujCNjRYl141ey_XKeYSazdVHQEPRg2MbU97hA&oe=6A356531"
+      ],
+      "landing_url": "https://biscuit.stibee.com/",
+      "permanent_image_url": "https://i.ibb.co/Fb30R4St/8e1d17a8.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-06-15T04:14:18.868423",
+      "page_name": "비에스씨",
+      "video_urls": [
+        "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNKosDjOpKBlOX3bi9WmSidhTKkuN-sQSURpf5gsXtTXG4bj8HVBbrMWdt_A3Ck3p0xV-oRxWKLX3gpOGCiH4sZ.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=IEb9cQTqnB8Q7kNvwGDN_-k&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjcyMDI4OTQ3ODEzMTUwNSwiYXNzZXRfYWdlX2RheXMiOjY5OSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&_nc_zt=28&oh=00_Af8Zycfq0JHw5yy7u8KCf49FLwDp0h3yqK497WZ22oD2SA&oe=6A354818"
+      ],
+      "landing_url": "https://page.stibee.com/subscriptions/280173?groupIds=341262&utm_source={{meta}}&utm_medium=paid_social&utm_campaign=biscuit3"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-06-15T04:14:18.919415",
+      "page_name": "영보스 매거진",
+      "ad_text": [
+        "매출은 오르지 않았고, 시간은 줄어갔다.",
+        "고객이 ‘자발적으로 찾아오게’ 만들어라.",
+        "ex) 인스타·뉴스레터·영상·자동 축적 루틴"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/572135869_2664099263938563_204447756053676784_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3WKe86s3xusQ7kNvwFK1kI9&_nc_oc=Adqj8RqQg5cZR-qnSYu8-gB2ZTFxbc1NdhHWSdcD1Llr2ruqpkqwBusuA5K8LW7U-14&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af865oDb_VesbGWkC9ag6Ai8J_Bx2hNR_CItKWlDqCVhdw&oe=6A3540C6",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/571351021_1726803291297214_6633643585231276438_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dcLOnHqQI2UQ7kNvwHjHifi&_nc_oc=Adp_Wr6fs4asIQl4HzOJG3fbcx8s3Y5nu6wyWV0pKOq3AREZ25XC12j7dVOTybR5HnA&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af_dg27zMGd48UJgeyRFW0sOvdyOt_gmuoXVrkGtTmqBEw&oe=6A354AA3",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/559097490_845803065063330_2250525045435353972_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YnJSmhhyYLQQ7kNvwHz28sx&_nc_oc=AdrQFqudXZsPdle1Q1ALTA4LDPfeQnlOtYsKyNaRiFhtx5c34fGdDjk8v5PnUlZhXxY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af_d9uoetHUIeXv4Ejdhmcqh9hl6nl_fdMWiha2p3L36lw&oe=6A356120",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/571241235_3522105477931084_5347125982839588638_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=igW6pNaLaUIQ7kNvwEIOPzC&_nc_oc=AdrqUSn-ZYNmx9PS6t7qzIW10cPJBm07Hj0C5yuykjH3cgLeqiCZVfrCIGjEBimgtc0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af8cDKByhajLgD-iCuICyoUow7cUhdP0gHWvbDWhLb5VLA&oe=6A356690",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/572222757_1262549339233473_8018288257757285136_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LcHhtPZ2PzkQ7kNvwFAK65R&_nc_oc=Ado2BTMXgTF3UJHWizuuCAHn5a3Myt-K0aP9I4t-Uqp1f5NGaE-2pn7xhkjN6Bwb9JY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af9lPS0n4GD_0XMBQY2bEXGm7H-ghOotMEt5uX9YeI2YZw&oe=6A3539F4",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/572056842_828696603235513_1542898713065926651_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zn1G0BwMc9UQ7kNvwEzLUJd&_nc_oc=Adq664_Z4MlzaTTaOPVoWqau0HHxwSZ2MIY1nq9gFGqXG0GSZTvbwgu1HGhH1MupFyQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af_llR2zCWNBHKM2UIuERoLfl3OuytKMERhoawgzhvsLwQ&oe=6A355984",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/571143874_2315601825622666_6211746668211549941_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yYA1IviYjmkQ7kNvwFsD4hx&_nc_oc=Adqc2M9NgCg_G4_2mZlFFT0IROPD660krHS6hhr0WEbPZdAoyFNSIaH9kq6Eiy69WcY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af8jkwqEyb82nzNKjeN8OAGh2PAymprZ6Cl8i5L_puMDgQ&oe=6A3542F0",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/571362816_1338572421093337_346688366585184516_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HPVXrg84rAgQ7kNvwHVCNfH&_nc_oc=AdoI9-5H07flnHSj2W_Fvml7C4nvIZNH4McCvDkNeik81TPueSRQajTrgw-zJID10fY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af9ljFXUeo2-yh76ac1fC-IhKmb8u6HjJcNLibX_SE-GTw&oe=6A3567FE",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/571427248_4175964355982749_8917915720209011318_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JAjWsWioBsQQ7kNvwF_BrFH&_nc_oc=AdomAznxu-ESFsZY0Tyf7trAtWVQ_9cGonTHliPhlHc76Klrmh7_jX70cFa63pTG3cY&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af-umvIrIOe5dIsOuRikw1_zFPFDWKkbRI65R8Oxm6HLwQ&oe=6A3549C1"
+      ],
+      "landing_url": "http://instagram.com/youngboss.kr",
+      "permanent_image_url": "https://i.ibb.co/XfbDS6Lj/f0d78ff5.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-06-15T04:14:19.097090",
+      "page_name": "KCDF 공공디자인",
+      "ad_text": [
+        "바쁜 일상 속에서 자연과 휴식에 대한 관심이 높아지며",
+        "한적한 숲속 하룻밤을 보내는 공간을 넘어",
+        "누구나 자연을 경험하고 즐길 수 있는 공공공간으로 확장되고 있습니다."
+      ],
+      "image_urls": [
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/718792654_882695110784251_3812853730165770388_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m9GRBG_CjxwQ7kNvwELjoSL&_nc_oc=Ado_9CYxupSIUZ8DN3foibachqqCD_b3FPbT2SCU7ywiIZIYFy1JyARMNcIaWFPO31k&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af9bxFxsX2YzdXGXtSHr0rq8ZeUY7jah2SP5SNjN0YIveA&oe=6A35558D",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/719051550_1941986946483701_2390321768899525996_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lIm3gLyEmmEQ7kNvwHGxi_x&_nc_oc=Ado04xwdwxMEOj_DkcQmhMiKwJVDCCHktLULf4pmBCDe7G9kcRjKjS-LtfK1owp0dg8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af_f3q0QJ7j5NuifkuC380OmqAQZPsnqbE_AcD3_2Q5-nw&oe=6A3558BE",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/718965027_2191608368354412_191474134607722743_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r4GjTIprm3sQ7kNvwHbIJpM&_nc_oc=AdpDlkhLPa3k0gkGV9ClMSArDFHtv06Hehl4DshRn5LP7XPGxq2QK-MKwSpM87Rxkrw&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af-IhidAwzdNbOfew7AwCzVR9pnOL0nBy-gQyCnga29DyQ&oe=6A35432A",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/717709232_1371125251532627_5044460502392617040_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZUeb5OlmHQ0Q7kNvwFIPwZI&_nc_oc=Adrg8QCR5m6B5aMKzBmxCpAd1lSlqOF-xQ3ozX6bqD-sEI2pl5g253TKYm7BAYkTb1A&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af9AUuDK__n424ECPoOktSlVkV-bS8g_ScaGNZEkUoiLSg&oe=6A353460"
+      ],
+      "landing_url": "https://publicdesign.kr/brd/board/924/L/menu/896?brdType=R&thisPage=1&bbIdx=1285&searchField=&searchText=",
+      "permanent_image_url": "https://i.ibb.co/nMQd4GDM/KCDF-fbfa84bb.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-06-15T04:14:19.203239",
+      "page_name": "부산경제진흥원",
+      "ad_text": [
+        "✔️ 부산경제진흥원에서 시행하는 지원사업 안내",
+        "✔️ 지원사업 신청 체크리스트 등 가이드 자료",
+        "✔️ 부산경제진흥원 오프라인 행사 일정"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/652216678_916366804695250_8795553695829054782_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9Lbtt8pOK90Q7kNvwGIuu4v&_nc_oc=AdoyiDN7E9iy9LqkmFQ31jPlECkXTUq8g3G5ojy7SqTOj4RxtOWmnCqdKT6xHzouPrM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af_M5LeMoT9dnjHl86uYKph6vPDRBR1MJeTif1MW0sN8Ng&oe=6A353559",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/653551138_1162048759283191_4235806719030261371_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sKC2fB1XwpYQ7kNvwEqM2n8&_nc_oc=Adq9LFDBFazyjWxo6p0_dIHR_8Kvd_o_9tPzZk0P9zsGTT5msKUbQIoWjtcJW-rkaKQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af80gbo8-RVHjstLWe911YSScmI7FoBPpZ4ulRigJlug8A&oe=6A3536D3",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/651865469_770323612565446_954917391001265854_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aDcQ6SEg5xQQ7kNvwHhQzPP&_nc_oc=AdpeYSg2UsNbaDhZzPhcVrfLpiryL9E3ODodWD22cF_XIypNAHjvqLg-pY7CbEzzZi4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af_eAGZeQ3EcVhOMGJ3Qjb8K3eiJgFeyTqT-0GK-NTB4ew&oe=6A3557F7"
+      ],
+      "landing_url": "https://forms.gle/cMCGcHENgPrNwHkz5",
+      "permanent_image_url": "https://i.ibb.co/wrYf9yFp/384bd22d.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-06-15T04:14:19.292231",
+      "page_name": "홍한솔",
+      "ad_text": [
+        "디지털 옥외광고 측정, '표준화' 가능할까?",
+        "마스레터>를 구독하고 싶다면, 댓글로 '퍼셉트' 또는 '구독'이라고 남겨주세요. DM으로 링크 보내드립니다. 🎁",
+        "퍼셉트가 발행하는 <마스레터> 15호가 나왔어요!"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/720846555_28067321569521150_755063066848344489_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A37LeA3UWhgQ7kNvwE9PG_T&_nc_oc=AdpIAP7AQNH4rGCxRA7oQqZtn5bt89btGQZAyt7mro7kubMGVX0VMh2wDUf1rldvTJk&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af-slWXHOnllu2qiJKYAK3XF7Bv-PyoWbln17XMxt8E3-Q&oe=6A356378",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/720328037_1340289531537382_3309546189142943031_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=l9sfVQduG-0Q7kNvwHuxA3b&_nc_oc=AdrWuZLVPYdIxCyIC6Zqp24k_4Vg5n_LuOs5tojMKoXe2WJ_gvkZVvCobpjJ3GQ7baI&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af-YWpw3-VkPNTf_J7HWrbb5ONaNXtH8gDuCXv0QgPl_Iw&oe=6A354B4E",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/717790344_1495950538947832_4948704254800896362_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kocaomnjEg8Q7kNvwEkGYVG&_nc_oc=AdryLfUqSK2hQGr8osBjZ6c1Y7dA8lpFzYbWDvMS_2Q-Oru4a2ea2g_kY4lFxM6j-90&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af_X_DLqDMtRbTQys1D6TZxrLLsrC35O1IjXSDqI8FK4_A&oe=6A355E9A",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/718043139_991324033511358_8653555033668565509_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bLk8RzyAd10Q7kNvwEsHFWJ&_nc_oc=AdoCB6x6hW50SPWTwsdELYDOcdgxsPpYzq0L4kwdrkAEDPnqj43Cwv1jWPBqahM1Q9Q&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af__NsmWZHFU4z4277RDZIjtaNoRACBXWFs-tilt7sBO2w&oe=6A355FC9",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/719026906_2021165855144209_1163273781992938971_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VJ0FBepfm38Q7kNvwELAB9M&_nc_oc=AdouCUFanxaRj1ttS9ceyWz6fKUwGc5Wfiw6ZRNFLQtix2yTbjPE4K0YpyVbkMrsRXk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af9r7_-7T5isrM_CHIHcUpczGKUJSN6XeAlb5sPcldEqkg&oe=6A353CA6",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/717993614_1512361384236674_6405688778794202071_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yRaSBoXh9fgQ7kNvwEsUnaZ&_nc_oc=Adq9ia-HHTTwvc9M0TAieMY_kCd0rCaokfwDk62LpxMcTk7Onhh1Sk807JJ7uRaNiUc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af9sjnSYfuvIZ1w_ysd1Vf8Ugo6nD2rRRHYklUaB49Ib3w&oe=6A35366F",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/717993614_1021677033631257_4226196842423675717_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N7LPP_CJlwUQ7kNvwFOACHG&_nc_oc=Ado3unK0SAuy1G5n0kXyi5IL-3Lscm_t93TeekI-YtA4qt6GrkQ_P6BAINX216XS-7w&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af9jFuDoEqdoQ-PcfdPjWnwAT0KU0UnKE18veD984bpyDw&oe=6A353BF1"
+      ],
+      "landing_url": "http://instagram.com/percept.kr",
+      "permanent_image_url": "https://i.ibb.co/RTPjHMzY/46b791f6.jpg"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-06-15T04:14:19.436881",
+      "page_name": "두산아트센터 교육",
+      "ad_text": [
+        "만들어지고 변하고 다시 사라지기를 반복하고 있어요",
+        "그래서 돌을 보고 있으면 훨씬 큰 스케일의 시간에서",
+        "저를 포함한 생물을 바라보고자 하는 순간들이 종종 있어요"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/718061663_1718202199372468_6266401242996966899_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OOVEZZoLWsgQ7kNvwHhHqCS&_nc_oc=Adq9qH2SCWQfOXztCDfnh6qQv_4CZQAJG-k2xkhyd1P7NNLfkmuiA7Iqbq9gJbJqkyE&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af8guX6ilWJQgV4XELoWMK80KX3vDW77E_q103GweQ3xoQ&oe=6A353670",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/718076221_1568771354866939_4086884681347795182_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zNbxi2x8al0Q7kNvwFDPSOZ&_nc_oc=AdpcIaa17Olyq2-JM68ILy2t9zRgZ5HvF6Hnwh1K3FUv7xJP1sXJXU73IC4dKQxMjyE&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af-KFdD9ZS5qjrGCa0K2ceCvDtzeyjTIx6_w1sjM_VdOSQ&oe=6A353957"
+      ],
+      "landing_url": "https://studiodac-post.stibee.com/",
+      "permanent_image_url": "https://i.ibb.co/kskyZ6w5/e4ae9cb3.jpg"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-06-15T04:14:19.492375",
+      "page_name": "두산아트센터 교육",
+      "ad_text": [
+        "나무는 그저 서 있고, 바람이 불면 흔들릴 뿐이다",
+        "자연은 아무것도 하려고 하지 않는데, 나는 자꾸 뭔가를 하려고 한다",
+        "저 존재(나무)처럼, 그냥 존재(연기)해야지"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/714759722_1930407851680027_4726616666334898332_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-w8CnFn_dogQ7kNvwHpVg-c&_nc_oc=Adpm1C5Q5vgrvDtELgO5i4ObKDH4vLCeL6e_WuXIe5RpC9GXBwJXmc6YUlV3js9h9Pg&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af_R7lfxc20_IM_q0cQ-LOLgITe2UPwtUDinvq6vlfA26w&oe=6A356419",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/715455775_1008332558328802_3106661683006787605_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bM_11LzVVmsQ7kNvwGk4T4_&_nc_oc=AdprMYEbHEQoOg-gPBtgpPROjGTkAuPqjIznJRiZHz3C01notAzy1n6QXXUzJ-yOlKM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af_QobMd39nSTNM0IstoEYBq1P7VyBrNDMU6gnREeedQcg&oe=6A355D20"
+      ],
+      "landing_url": "https://studiodac-post.stibee.com/",
+      "permanent_image_url": "https://i.ibb.co/Y7jLY4J2/ca6a49bd.jpg"
+    },
+    {
+      "index": 11,
+      "collected_at": "2026-06-15T04:14:19.547179",
+      "page_name": "두산아트센터 교육",
+      "ad_text": [
+        "물건을 사는(buy) 데서 기쁨을 찾지 말 것",
+        "그 무게를 느끼며 산다(live)는 뜻입니다",
+        "#키링덕후 #작고가볍지만묵직한 #키링과인간의관계"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/718687295_1518074779962265_2032836867382485891_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lXGV4gae3NEQ7kNvwFeDAkD&_nc_oc=Adp8DpQNZeq1Sv_dknip4w7yep87HGPmg6z_hpANcDedH5BtPBP_unuIvUZO7Ro6loY&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af8ZVXElzNauWZg3nZrGIdFyNignDhG2H5t0Pjps83Fliw&oe=6A35417F",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/721082538_2040730670170273_1457494788632036103_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cPrtCApjENcQ7kNvwHkGzsV&_nc_oc=AdoO6tKOn0Ooy40WmJ-QWwUqQxqxdxrsmshULEEvftpW7dzXxJkGFn0qM04OHCjdqOU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af8VhXH6qU78vysnocMeV6Fcocb5mHmG1cRq0fCgik4dzA&oe=6A354FCA"
+      ],
+      "landing_url": "https://studiodac-post.stibee.com/",
+      "permanent_image_url": "https://i.ibb.co/VpzbXYyn/baf49e93.jpg"
+    },
+    {
+      "index": 12,
+      "collected_at": "2026-06-15T04:14:19.601931",
+      "page_name": "두산아트센터 교육",
+      "ad_text": [
+        "차미는 저에게 로봇고양이의 모습을 한 하나의 질문입니다",
+        "나의 사랑은 이 세계 어디에 닻을 내리고 있는지,",
+        "언제까지 호기심을 갖고 사랑할 수 있을지,"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/717402537_2226436184835353_1878839276382734115_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sp-kUkzTQ2MQ7kNvwEFLAxA&_nc_oc=AdouWEwaXWp1eVAF9XIdDyBjts3wPEBZx6WsjBgu2MyphSmqlEg1T1eRoEjwQsWPDXI&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af-qldEPLJGJ2ce2RhgV20CCMzJUHeOHGS7Sf4vmKGwvoA&oe=6A3539D3",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/719027612_1552519726382910_63503079921606349_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CHznSMRgtlkQ7kNvwENQJKJ&_nc_oc=AdpgntEo3JXAU1pAtXb1PzdNPy8SCRwkm6Or05sva6ilwTWixHpE_vz9VHJYqJLm6fo&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af8rICP2N-Twwh8GBEJBbQj19ILW1AyW1bxbHkkyluLYNw&oe=6A353E7D"
+      ],
+      "landing_url": "https://studiodac-post.stibee.com/",
+      "permanent_image_url": "https://i.ibb.co/yFCVTrtw/f5e44e99.jpg"
+    },
+    {
+      "index": 13,
+      "collected_at": "2026-06-15T04:14:19.656322",
+      "page_name": "육아정보 공유해요",
+      "ad_text": [
+        "💌공식 홈페이지 단독! 베이비뵨 바운서 컬렉션 런치 이벤트",
+        "아이의 움직임에 반응하는 자연스러운 흔들림과 인체공학적 지지력은 그대로, 한국 부모님들의 라이프스타일에 맞춘 감성적인 새 패브릭과 컬러를 가장 먼저 만나보세요.",
+        "🎁 구매 혜택: 바운서 구매 시 '바운서 전용 가방' 증정"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/719828546_949654058072793_3960081316818691229_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0Q3EXbo4BB8Q7kNvwHdo_nY&_nc_oc=AdogXLxuc-kuFHRMrQyZ5cLRVszuQnXMz24zB9lZNs8Za-IspTe8kiOItC1Ak15_Um0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af-luosYfJ9KpiOUcjFEyky-a8Y1dsHRCnpA4XpgsBzilw&oe=6A355B31",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/721051713_1504565597841497_2044368128674400538_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MonwyYW-k1QQ7kNvwHO8Vwz&_nc_oc=AdrzPP_xsJktWUfURkDwWGGVYiB5FqhReUdPBrlcMyexBBv_zU6uDJHRVvOnl7_CXfQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af8F_DvcMfBcqCCPlFg8JX34Y6iej8VwX1yrpVqFz0EPOA&oe=6A3569E1"
+      ],
+      "landing_url": "https://www.babybjorn.kr/baby-bouncer-launch-korea/",
+      "permanent_image_url": "https://i.ibb.co/27fb1dR4/d828e7f7.jpg"
+    },
+    {
+      "index": 14,
+      "collected_at": "2026-06-15T04:14:19.723522",
+      "page_name": "육아정보 공유해요",
+      "ad_text": [
+        "💌공식 홈페이지 단독! 베이비뵨 바운서 컬렉션 런치 이벤트",
+        "아이의 움직임에 반응하는 자연스러운 흔들림과 인체공학적 지지력은 그대로, 한국 부모님들의 라이프스타일에 맞춘 감성적인 새 패브릭과 컬러를 가장 먼저 만나보세요.",
+        "🎁 구매 혜택: 바운서 구매 시 '바운서 전용 가방' 증정"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/720486810_986880630988191_5141400140436226309_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OWWKQsUZ7FwQ7kNvwHbKQPv&_nc_oc=AdpObTj-XJoLIIt-PT16Cd99j7dCAZatRF2_Zh6yD68QSAz28iFUhi2QWGFqoSxXEHY&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af8oicLNSyjzFMRG-vEtRa1SFr6DMvqyjqHE6S6Cu24wWw&oe=6A3566FA",
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.35426-6/720040890_981589454475000_2579291225308622379_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gip9JWyBYtQQ7kNvwHc5gNa&_nc_oc=AdrZPbIQNZqY8Wdlbesi4QIsRqNhhmYf2yS58qOeRMAyNV8y5U4DTJYu5JbgC1rroo8&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af-R5yvueje035r-A1OCJ0Mfap4IsAoV2lsi2J7PTj3tLw&oe=6A355ADD"
+      ],
+      "landing_url": "https://www.babybjorn.kr/baby-bouncer-launch-korea/"
+    },
+    {
+      "index": 15,
+      "collected_at": "2026-06-15T04:14:19.861897",
+      "page_name": "육아정보 공유해요",
+      "ad_text": [
+        "💌공식 홈페이지 단독! 베이비뵨 바운서 컬렉션 런치 이벤트",
+        "아이의 움직임에 반응하는 자연스러운 흔들림과 인체공학적 지지력은 그대로, 한국 부모님들의 라이프스타일에 맞춘 감성적인 새 패브릭과 컬러를 가장 먼저 만나보세요.",
+        "🎁 구매 혜택: 바운서 구매 시 '바운서 전용 가방' 증정"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/720435700_1855942489144028_3079825458506482413_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dtU5b4ohbv0Q7kNvwHQ57Lz&_nc_oc=AdrqUNP2MTeek42JY-9aLeTeajvdC-keJ1LJn20uKFzbrd5upO5k6LkXxWNWSJDLZ14&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af8F4gyzHGDeXOxeHYwI4_48RwCKMNSeqXwqyeHEN3f7zw&oe=6A354A94",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/721119862_1004822045272534_7128351130388507086_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pad4ULhUOY4Q7kNvwEBHca8&_nc_oc=Adr2_JI3tH3wwAuAR29-5tAkitHoRbteSnAYoaoPfqbXI7tNM4B26h2MDnacu6upOYk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=MiwXHhUyLpUGRnlHLzSMYg&_nc_ss=79289&oh=00_Af_djxEAzR_9f_z8MAi97hiWhNYZtVwaxKIzCaYxdxXdBQ&oe=6A353DEB"
+      ],
+      "landing_url": "https://www.babybjorn.kr/baby-bouncer-launch-korea/",
+      "permanent_image_url": "https://i.ibb.co/9mVbKmBr/158c9ef6.jpg"
+    }
+  ]
+}
