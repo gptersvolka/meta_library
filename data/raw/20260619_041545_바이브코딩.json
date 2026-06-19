@@ -1,0 +1,100 @@
+{
+  "collected_at": "2026-06-19T04:15:45.912049",
+  "query": "바이브코딩",
+  "count": 5,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-06-19T04:15:45.311433",
+      "page_name": "인프런 - 기술을 배우고 나눠요.",
+      "ad_text": [
+        "요즘 핫한 클로드코드! 반나절이면 끝나요🚀",
+        "반나절이면 끝🔥 클로드코드 무료로 시작하기",
+        "요즘 핫한 클로드코드! 반나절이면 끝나요🚀 지금 인프런에서 무료로 시작해보세요"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/655883342_789692353754166_3919524972712531164_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ADB-NiwwtVoQ7kNvwG8XeXr&_nc_oc=AdotQwI7KRBpeO8Ez5kjqu9O6uOGZB6AnO1x8VynZLKEn-__mn31y6B4WB4Fy6I9NC0&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=DxWR5Y83BCbB_MpeMLkpOw&_nc_ss=79289&oh=00_Af8XO9C6H-golwmTV-CycLlubEgqJS3aA6QAicQk-7GSGg&oe=6A3A9BE3"
+      ],
+      "landing_url": "https://www.inflearn.com/course/바이브-코딩-입문-강의-혼자-공부하는?cid=340120&infPartner=true&utm_source=facebook&utm_medium=display&utm_campaign=traffic_regular_contents2026&utm_content=_course-con_new-lookalike&utm_term=_260320_claudecode"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-06-19T04:15:45.364343",
+      "page_name": "짐코딩 클럽",
+      "ad_text": [
+        "📝 AI 시대에 나만의 서비스를 만들고 싶은 비개발자",
+        "📝 Cursor 쓰다 Claude Code로 정착한 비전공자",
+        "‘개발자만의 영역’은 이미 지난 얘기입니다."
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/701445400_27185094241179599_6083537397450437111_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jaYF8zgICU4Q7kNvwHzcHUe&_nc_oc=AdofO_tnyiSE0x3bl-NjXeZPyZEE2SA3fqJXIqL06sHb5LK9x6QH33kk6eqI6d0Zkig&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=DxWR5Y83BCbB_MpeMLkpOw&_nc_ss=79289&oh=00_Af8bnwvrisMEKrfaTivxJwCqqv9auug7boRrSmwk6TOsow&oe=6A3AAD74",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/700642518_1624930928795617_7186033429607838192_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hL7_TxzhXvgQ7kNvwFSq5pq&_nc_oc=AdpEEBenxCq71xPMGbEoJ5lgCxlq1LzO5TKJthr6EA_ykC1TD7FvQdoBRvCXwJ6FNR0&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=DxWR5Y83BCbB_MpeMLkpOw&_nc_ss=79289&oh=00_Af95T22ysP-ljs4gy60jZiXBe7Z3O5mnFQke6GX00OgHkg&oe=6A3AA6D0",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/701216603_1362079845773571_8388348606247888187_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NKyJ5VoIqbcQ7kNvwH1I9qC&_nc_oc=AdpnYE1gyGHLHKzhwd3R_CDs4sGdjrjJH2bQRdZzxRFntbVetLdMVSuETdk6AE4yRz0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=DxWR5Y83BCbB_MpeMLkpOw&_nc_ss=79289&oh=00_Af_lfHBShjYX2Z_U4MnrN5tH2jN8RC9BLcjwFBn6L5GmJg&oe=6A3A9130",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/700467266_1668058501007127_8311803548581791881_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=prDHrBpz0AcQ7kNvwFlisER&_nc_oc=Adp-1dMyBLsxSy_pU3V7iCw6lljX223shD5JHe3WQDBFHNk7n02-JtZLB89PiPxvvQo&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=DxWR5Y83BCbB_MpeMLkpOw&_nc_ss=79289&oh=00_Af-gM_ythf2STltozQu18R6qIx3-ioVUSwMGJoVHZTppbA&oe=6A3A89FD",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/701692336_997452639373907_5321218421872506256_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_vcuUtxMX9UQ7kNvwHCDvAV&_nc_oc=Adr1Rm2L8TSDvW8urGNMGNlkRtVRhsFQgMekjBXzfPxGFHOk1CfUIwcy-zkgQF9kMY0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=DxWR5Y83BCbB_MpeMLkpOw&_nc_ss=79289&oh=00_Af94QPZquP1YErG70PwSl5CrRHaf-i9SWjZHJjf6qWVYew&oe=6A3A7A09",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/701254499_1594132112135837_8964696037007864218_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FwGqEJsg2AkQ7kNvwH8vebN&_nc_oc=AdrXpvPdtb59QrdN2EHpjXDdT3YMiYhqHWt75PE0iQ6FOeZWp2syjAwi6ff_MHOuXa4&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=DxWR5Y83BCbB_MpeMLkpOw&_nc_ss=79289&oh=00_Af_7MIOgJQoGRH7azzjTzMvSms3V9nX0IMCC3Fw31xz3vA&oe=6A3A84EA",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/701234640_4319512058260510_1517048075411200064_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dDfCUgFGs-AQ7kNvwEKxH2d&_nc_oc=Ado80S5UQVZFT5jhNlblxj3Is0z-kKx_h7O2eZOM0xa5trSp7827TaFR9fMBKr8OEuY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=DxWR5Y83BCbB_MpeMLkpOw&_nc_ss=79289&oh=00_Af9m0ucbVQLZf-R3i-SrHC3tokJxWHwqgEQvOgPyxbtyeg&oe=6A3AA1AB",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/700658301_2173955033393703_4079640358790926925_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MknmMkCvZHUQ7kNvwHYoQUL&_nc_oc=Adr9Uwaovyi-m-HhZRJFcordj1bZgFRYCo1XyYFvYopIhDUgKXrxjhrU9V39YgIJ0-g&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=DxWR5Y83BCbB_MpeMLkpOw&_nc_ss=79289&oh=00_Af_h85hdaPjCORAHOFo_iSQKPjIdJxK35b-7gnHVcYxvWA&oe=6A3A89B8",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/701230561_1601918087565512_4435472372748676356_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0NCPaLmukhMQ7kNvwHwg6Rc&_nc_oc=Ado62a0OhA5icM2uZ1NELkVto4fuksgtwpH3N7CaWCFvPiXfFpByPmDsEXtYMC75LQE&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=DxWR5Y83BCbB_MpeMLkpOw&_nc_ss=79289&oh=00_Af_IwLfLbBUDynGs7W2sE2PP8r16QQb1lIPbVdLwIA8cgQ&oe=6A3AA417",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/700555317_1270275431888417_698097917048737840_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PJ_u5FHCd_cQ7kNvwFi1sor&_nc_oc=Ado4fC8SjDk4BLGt40OPdmpy5W3MicpO2KWFLyU_DgqKZiW4Y6tMkNTYNHFaiD8LvNQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=DxWR5Y83BCbB_MpeMLkpOw&_nc_ss=79289&oh=00_Af9Ik63-E1734xRixuvjlz1baKnb5G7rv3r25fSHt6iL1g&oe=6A3A8043"
+      ],
+      "landing_url": "https://gymcoding.co/vip",
+      "permanent_image_url": "https://i.ibb.co/6RcFgxv2/2337fbad.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-06-19T04:15:45.562997",
+      "page_name": "한빛비즈",
+      "ad_text": [
+        "요즘 AI로 이거 만드는 게 유행이라던데👀",
+        "프롬프트만 있으면 뚝딱 만들 수 있어요!",
+        "칼릭스(@calix.son)님 피드에 있습니다."
+      ],
+      "image_urls": [
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/712065154_2216635765840817_5545118465599906625_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0sYkOyN3ZJ4Q7kNvwEH_DXO&_nc_oc=AdqmrkGgdujtT83TOgmpXCiTZzVmiuwG7zWoOvrtslGzH07IeVmcrreMRMXbR_nucpE&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=DxWR5Y83BCbB_MpeMLkpOw&_nc_ss=79289&oh=00_Af-V5Vm6HgCsC344pYfMCBwUjNlNFEL98kqQ_Y2MHPl-Ag&oe=6A3A83AA",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/715082675_2037434150482255_3742064561779997828_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dLFRk5BD1GkQ7kNvwFMwHGE&_nc_oc=AdqzSqVqwUhJl-oAHKMfBOrPTiSKsUcFLX8sR1B9gfs2v8zngFW1FpnR8JZXjjo7Pds&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=DxWR5Y83BCbB_MpeMLkpOw&_nc_ss=79289&oh=00_Af-9ycWnVo5iWClgg_qIRA07p2aRl6i6lI8-eTlvKETmhw&oe=6A3AA36D",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/710756164_1559016232507832_8524808796424432711_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gDxmZOzp9tkQ7kNvwG5guaY&_nc_oc=AdoR0WoB4aM28dl9wcV9KCb7xTcylikKG7ZNhcp_FB9rCqOex1LUrUXThVbYR371wv0&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=DxWR5Y83BCbB_MpeMLkpOw&_nc_ss=79289&oh=00_Af95ObFhiMBYJxZ2we_t9MEx3PocU-o_LBUnK2e5gjCIDA&oe=6A3A7AF9",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/713604826_1379383227364237_6862655948349771496_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c-ymPhWa0DwQ7kNvwFgnCx5&_nc_oc=Adrng7VzUz_hF4EBoc0HN9p_RUSd-rq58zPEs5lQZMjhuB1S8ySMmvWx6dopmABV2TM&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=DxWR5Y83BCbB_MpeMLkpOw&_nc_ss=79289&oh=00_Af9hNNn20HTXbhlT7BdzQZHCtWdL9NboL-Gt0bKH0B0S3g&oe=6A3A8331",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/711679822_1924036414980311_7559352552364311226_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SQTZ2RKkhvQQ7kNvwHcgjFA&_nc_oc=AdqryuDYlndnosCGq7jVjP0fpAWbadMdeQ1RG-rt8qcbFfiJa3lYxdAtT_p2n7SslAQ&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=DxWR5Y83BCbB_MpeMLkpOw&_nc_ss=79289&oh=00_Af-02Lh8u-tH4cYw8JpN2u3PAs89PDgZUsQr03vm8cUFkQ&oe=6A3A835A",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/710756242_1068728318822112_4835981972790620723_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xnIahDRrYLgQ7kNvwFcrFgU&_nc_oc=AdrQb4lUD4ieghS3YVQZ4-H4JiXM2yfPp8vsBz8w_gKXu_3xU1M7WJWYbfFcOUZqgwo&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=DxWR5Y83BCbB_MpeMLkpOw&_nc_ss=79289&oh=00_Af8Q3g-CIQNxcHP9HccMhipmn1TEWa9QXIGvoT3_Q_sZTg&oe=6A3A8065",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/713325149_1517527266532750_5699351958162301506_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=e-ksnV9HSooQ7kNvwHbl04v&_nc_oc=AdrkK17lpN4stUYkb9HKy5QWIizejoU-TXAiA1H_n9i6J97kJIVlIQ9GuxjECQOeL9Q&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=DxWR5Y83BCbB_MpeMLkpOw&_nc_ss=79289&oh=00_Af8ZPwPnkDY8_-Mpb5dm19qQKxAoRpUKCwQHn7_H2IRFJQ&oe=6A3A8CEB"
+      ],
+      "landing_url": "https://product.kyobobook.co.kr/detail/S000219789220",
+      "permanent_image_url": "https://i.ibb.co/cXL8bSNz/f11c2778.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-06-19T04:15:45.703134",
+      "page_name": "주식회사 테레오",
+      "ad_text": [
+        "메타광고 및  AI자동화로 매출 극대화✨✨",
+        "HTTPS://TEREO.CO.KR/LANDING4",
+        "이제는 직접 광고집행하세요. 한번 배우면 평생 사용가능합니다. 메타계정만 있으면 누구나 가능합니다. 광고 노하우까지 공유합니다."
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/713143886_1659811249485260_7352316994288954597_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pVHX90qgJmQQ7kNvwGOVuER&_nc_oc=AdoWBKAr07OJA9oMA1ju-AygTBjhPy7J8FnOzzB2ISQwBrGJyovK3ppsJ-Rdryz9iP4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=DxWR5Y83BCbB_MpeMLkpOw&_nc_ss=79289&oh=00_Af-bx65Wf0PPBtgciMqNBptqzvD0_Ykh3ImguUUseScupA&oe=6A3A9A72",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/711369557_1012047664596995_8441254972351937654_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BwaftRndjigQ7kNvwEMyk-m&_nc_oc=AdrqejHS3obhCu8gwOBrRJcUt_9DUOdMxDDGGUdWJYseSmz7Pw4R1k1H5nIvuDnUXvo&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=DxWR5Y83BCbB_MpeMLkpOw&_nc_ss=79289&oh=00_Af8LWEzuF5gmXZwQYgOIap5I13B4xAFl9ZeRGIkxJttuWQ&oe=6A3A97FE"
+      ],
+      "landing_url": "https://tereo.co.kr/landing4",
+      "permanent_image_url": "https://i.ibb.co/3m3W8VL3/7f82d34e.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-06-19T04:15:45.766959",
+      "page_name": "weavinggame",
+      "ad_text": [
+        "원주 위빙게임학원에서 자신만의 게임을 만들어 보세요.",
+        "프로그래밍 언어 C++, C# 기본 완성.",
+        "AI 바이브코딩(Codex-cli, Claude code) 활용"
+      ],
+      "image_urls": [
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/717129100_2398971813932790_2201077465204546346_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N5cMoAmEtc8Q7kNvwHPaNh6&_nc_oc=AdoZbOwNZcdUT5S5k7JuBYV7euzXZzflCFzBtL-EsrwSgDI6E87iXIjUOrwld1HdJ6k&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=DxWR5Y83BCbB_MpeMLkpOw&_nc_ss=79289&oh=00_Af_fBy0ijIBJR5tW8xwad68VLPnT6gky_dPQtGBUUbGU0A&oe=6A3A90D6",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/717437768_1318076953774983_8967612453387550629_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=twGmcrDu0wMQ7kNvwF5g4JW&_nc_oc=AdrhRmrPNz0AY71yItbotUIBKjlDA6wrxz0lesDP1ano5IODZbG-LnHUZk-mft9z88U&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=DxWR5Y83BCbB_MpeMLkpOw&_nc_ss=79289&oh=00_Af-Eyr6awYdLUTRNylLgOKz5AH9V6tOjlDW6rg5qGYrzTw&oe=6A3AA033",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/719222554_1992930778002466_9184501231869327127_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aVses4OO3DwQ7kNvwH3CFtZ&_nc_oc=AdrkqvsUMS8QQNU9kXTA4N21Nj04jyh42nAD5L6IQNHt7zSOW1AtL9d6QfvJNupHTV0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=DxWR5Y83BCbB_MpeMLkpOw&_nc_ss=79289&oh=00_Af8eUGqK-hhv0fz2NbfZWqr5npFko9gQa-0sWTRVGCshbg&oe=6A3A8718"
+      ],
+      "landing_url": "https://www.instagram.com/_u/weavinggame",
+      "permanent_image_url": "https://i.ibb.co/fdf94kX6/weavinggame-b79d23e2.jpg"
+    }
+  ]
+}
