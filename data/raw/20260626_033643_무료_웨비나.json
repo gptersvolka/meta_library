@@ -1,0 +1,281 @@
+{
+  "collected_at": "2026-06-26T03:36:43.471147",
+  "query": "무료 웨비나",
+  "count": 17,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-06-26T03:36:42.138013",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "✨ 국제학교 자녀분의 코앞으로 다가온 미국 명문대학 입시 준비…",
+        "미국 입시에서 Common App 작성은 곧 시간 싸움!⏰⏰",
+        "꿈의 명문대 입학사정관의 눈을 단번에 사로잡을👀"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/544995989_1311938777240584_7643198229873328322_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=umrqg49osOsQ7kNvwEhPa5b&_nc_oc=AdpD8a0I6F-ECWhxCw_aLuLmyvEppRReunlAbJDsbZfDGJuuRwOJXLEYw5YRwPwxA-4&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af8nFTM09oJrIFtEF67qpdwXUE4uLUBMvwzXnt003t2K2w&oe=6A43CE1D"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/resources/webinars-workshops/",
+      "permanent_image_url": "https://i.ibb.co/spKc6GKT/Crimson-Education-183d965c.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-06-26T03:36:42.192960",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "✨ 국제학교 자녀분의 코앞으로 다가온 미국 명문대학 입시 준비…",
+        "미국 입시에서 Common App 작성은 곧 시간 싸움!⏰⏰",
+        "꿈의 명문대 입학사정관의 눈을 단번에 사로잡을👀"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/544498933_1686715765330737_9216432937402814786_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2EhLrXnJMdgQ7kNvwGk8Jhz&_nc_oc=AdrSvJQZblA3gwQflt7VbzUZ2af463_E7XehhyGXxdWCaGVJQZF0EsAYOyS-slaJj2A&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af8jO_okMiV_xhr9AZETazeI4KqlBgGJSzwtJmSa-ACARA&oe=6A43ABB8"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/resources/webinars-workshops/"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-06-26T03:36:42.246020",
+      "page_name": "Thermo Fisher Scientific",
+      "ad_text": [
+        "Thermo Fisher Scientific",
+        "첨단 소재 분석부터 공정 혁신까지, 미래 제조를 위한 인사이트를 공유합니다.",
+        "📍 2026년 6월 30일 | 오전 10시 ~ 오후 4시"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/722704381_1475650964362239_8978754621758287761_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lhFa75UwLJcQ7kNvwHIk_n6&_nc_oc=AdrlT1jNhWV2RJ-IFjMLp6Lngg3JlmUP9LyklWKYcpCD64Py4Xygaq3T2WCjL4KMoJU&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af-o9FdZ9oFfjBDf5Dv6Jx5TXgVgiwF2yg2ALa_B4NSn_Q&oe=6A43D4CB"
+      ],
+      "landing_url": "https://edu.thermofisher.co.kr/user/enroll/EnrollUserView.do?searchCategoryNo=6758&subjCd=134004&utm_source=meta&utm_medium=paid&utm_campaign=2026_npiseminar&utm_content=semi",
+      "permanent_image_url": "https://i.ibb.co/0jyttM1G/Thermo-Fisher-Scient-3c09b643.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-06-26T03:36:42.303291",
+      "page_name": "Thermo Fisher Scientific",
+      "ad_text": [
+        "Thermo Fisher Scientific",
+        "생명과학 연구의 NEXT, 어디까지 보고 계신가요?",
+        "멀티오믹스 기술이 만들어내는 새로운 인사이트를 만나보세요."
+      ],
+      "video_urls": [
+        "https://video-dfw6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNTdqx2WZL41dnUSU5WiVd6ggIHiINMYmx2D-0rDHK9QkT0qDWiTtDEnuRZZOjObk3PgQ9xJkUK1Hy6pL3udlXxrhoXDqidQmpfLVeedg.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-dfw6-1.xx.fbcdn.net&_nc_ohc=tELd8v9Y6QcQ7kNvwFuNIV6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTUzNzM2OTU2MTM5MDU2OCwiYXNzZXRfYWdlX2RheXMiOjEzLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&_nc_zt=28&oh=00_Af-Xgh_rzsUM6AJaSXWfK00s7I-39V6p_7xMXqlhg7kNQw&oe=6A43CE75"
+      ],
+      "landing_url": "https://edu.thermofisher.co.kr/user/enroll/EnrollUserView.do?searchCategoryNo=6758&subjCd=134004&utm_source=meta&utm_medium=paid&utm_campaign=2026_npiseminar&utm_content=bio"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-06-26T03:36:42.353478",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "미국 명문대마다 원하는 기준이 다르다?",
+        "대학별 인재상 반영, 내가 가장 합격할 만한 미국 Top 대학은?🤔",
+        "미국 명문대에서는 합격생 선발 시, 뚜렷하게 원하는 🏫학교별 인재상이 있다는 사실!"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/720495742_1355952383122077_3409277934914161192_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_VhsAIasZ6MQ7kNvwHE1DHO&_nc_oc=AdoTMEbeozaFNGO7PaZDVoc97XQ7iCU3MIDAYrqK29brKEoppcxn7Gn8ZPT7pAjZSFg&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af_Pc-G3Wq-RJyEZfefPBbJ-Q8h4mHVQJcAuGjFRsT0Usw&oe=6A43B107"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-july-11-where-s-my-school-fit",
+      "permanent_image_url": "https://i.ibb.co/svHjJ02F/Crimson-Education-bb2d7269.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-06-26T03:36:42.403881",
+      "page_name": "스쿨플랫",
+      "ad_text": [
+        "수업 준비는 줄이고, 학생 주도성은 살리고!",
+        "공모전 수상 선생님이 공개하는 기초학력 보완 루틴😎",
+        "🏫현직 학교 선생님께 듣는 무료 웨비나"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/725237594_1288501106702284_1270054141705799942_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AWue62e0MO8Q7kNvwFwc3KS&_nc_oc=AdoYAlQv7NzXfK-PlrvSu50ImNu2ZNRIifi9LLV-3mjWmhUpvij_4ZnDETBRhG3gDDM&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af9solhjkJ2uxJj-B1V4vl6OJsSnn5YHlAqlNsXs777aiw&oe=6A43DEBF"
+      ],
+      "landing_url": "https://freewheelin.notion.site/7-382feddce6718011ae60d05fdac0c41a?utm_source=meta&utm_medium=display&utm_campaign=프리윌린_schoolflat_웨비나전환_260707웨비나&utm_content=브로드_혼합무료체험설명회디타겟&utm_term=학습격차_최은정t꼬마선생님수업법_260622",
+      "permanent_image_url": "https://i.ibb.co/V0nm9wfb/3b38f844.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-06-26T03:36:42.476258",
+      "page_name": "마케팅원정대",
+      "ad_text": [
+        "퍼포먼스 대행사의 1,000억 노하우를 무료로 가져가세요",
+        "📌[웨비나 참석자] 퍼포먼스 공략집 제공"
+      ],
+      "video_urls": [
+        "https://video-dfw5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQN-VMxNdruLY8DIQsOl756IxvRv0cLkhl7PLA6_xooXo_lOIGDQHJaxK3SyFXvCNCcPNoQqqAvDNm67YDpjkUZu4B0cnoqLHzxotacUGg.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-dfw5-1.xx.fbcdn.net&_nc_ohc=0MYyGZbfxkYQ7kNvwGwPLgF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTMyMDk4OTE1NjIzNjQ1NiwiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&_nc_zt=28&oh=00_Af-7jWZ-uh-uCibq3gvBSFPwocNNCAThA72U8f_qBsROwA&oe=6A43E031"
+      ],
+      "landing_url": "https://wonmkt.dbcart.net/"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-06-26T03:36:42.522073",
+      "page_name": "마케팅원정대",
+      "ad_text": [
+        "퍼포먼스 대행사의 1,000억 노하우를 무료로 가져가세요",
+        "📌[웨비나 참석자] 퍼포먼스 공략집 제공"
+      ],
+      "video_urls": [
+        "https://video-dfw5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMKJXp1J6YjZYcaCCKhybXJiFmYG7Q5kZaKCK77gfNhLP7yHVvZ42jYx0CFT3N-ncxzUsyg9e23vEwJoGMUbZd_iLeBsuojR7xSrUEmmQ.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-dfw5-2.xx.fbcdn.net&_nc_ohc=yw53MWWCGswQ7kNvwHWD_TA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTUxODU3Njg2NjYzMTI1MywiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&_nc_zt=28&oh=00_Af9M4t1bNHJxFlrj4luXn1yCQ-BzYNAPPeLUc_i-6KRQGw&oe=6A43BAAF"
+      ],
+      "landing_url": "https://wonmkt.dbcart.net/"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-06-26T03:36:42.568368",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "“상위 10% 조직은 HR부터 다릅니다.”",
+        "적은 인원으로도 압도적인 성과를 만들까요?",
+        "‘누구를 채용하고 어떻게 평가하는가’에 있습니다."
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/725803949_854274381083976_7176897304232337778_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OJSm4ftzREMQ7kNvwHk_k7W&_nc_oc=AdpLiBRPCoFn9KssAldnOSA8c9z18u4Fb5f7wZdEHXqSefdAQKdhiluzynX-RvLjJ-0&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af9kHptMOg04cIhPClP-en4MV9FlaB8BbWcT8t78RVSosw&oe=6A43B12E"
+      ],
+      "landing_url": "https://www.ringleplus.com/ko/student/landing/event/detail/b2b-leadmagnet-1?utm_source=fbinsta&utm_medium=paid-social&utm_campaign=b2b-gen-leadmagent-1&utm_content=b2b_rm_lead-m1_01-img-11-0320-home",
+      "permanent_image_url": "https://i.ibb.co/BxDnj4S/1-1-8b7852fe.jpg"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-06-26T03:36:42.619929",
+      "page_name": "Odoo",
+      "ad_text": [
+        "전문 파트너사가 기업에 딱 맞는 견고한 기본 인프라를 세팅해 준 뒤, 실무진이 Odoo.sh 환경에 ChatGPT·Claude·Gemini를 활용해 직접 시스템을 제어하고 유연하게 기능을 확장하는 ‘차세대 AI ERP 운영 치트키’를 전격 공개합니다.",
+        "메뉴 하나 바꾸는 외주 개발 비용과 소통에 지친 관리자",
+        "판매·구매·재고·회계 데이터의 완벽한 실시간 동기화를 원하는 실무자"
+      ],
+      "image_urls": [
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/719689940_2080261933375198_830276722270820686_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j2yi8UVJKmsQ7kNvwHTWadJ&_nc_oc=Ado1BjlFCcj_HA1eGrkHzs6rjoGauFdyd3aM8hN1P_F38FLMyukGpKmgtYak8dOrb7o&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af-Nw-awXpdoJbeTtCeuFXXQP53wv_C_nVBkzDvTXZ68bQ&oe=6A43C53B"
+      ],
+      "landing_url": "https://www.odoo.com/event/partnerwishket-webinar-11546/register?utm_campaign=webinar-apac-kr-202606-partnerwishket-v1&utm_source=facebook&utm_medium=cpc-social",
+      "permanent_image_url": "https://i.ibb.co/GfxPXTCS/Odoo-bfcd1341.jpg"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-06-26T03:36:42.671102",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "한국 학생 최적화! ‘UC 대학’ 지원 전략 마스터 클래스!",
+        "☀️ 서부 최고의 명문대 : 스탠포드, UCLA, UC 버클리 등!",
+        "특히 UC 계열은 독립적인 지원 시스템을 사용하기에,"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/729855963_763358913505719_8922213102791892739_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1LLRzBY5YBsQ7kNvwEVHVKJ&_nc_oc=Adr1b_X4HpPNFfMjXFq08o-f5IwPtA16bowuhH2Om3K6tkB5pbBAOzH3mN5W2rc2-5E&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af_5aVpRuHvQ_Tg8qs_uefhJ0svR9sepsXoKB0ZRX7PMpA&oe=6A43B6A5"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-july-8-california-dream-a-comprehensive-guide-to-the-uc-system",
+      "permanent_image_url": "https://i.ibb.co/rK24fM8V/Crimson-Education-f8b8ac40.jpg"
+    },
+    {
+      "index": 11,
+      "collected_at": "2026-06-26T03:36:42.722099",
+      "page_name": "스쿨플랫",
+      "ad_text": [
+        "전문가 노하우와 시원한 선물 모두 챙기세요!",
+        "무료 웨비나 신청하고 참석 미션 확인하세요👉",
+        "🏫현직 학교 선생님께 듣는 무료 웨비나"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/726548734_1494902565720943_9133228022972681300_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ehFvNHw6COUQ7kNvwF6KXc8&_nc_oc=AdqCp_sAxL6xyuyDIOIze5yxfgKIdYzxOBmkD8QyCg5FV3cRRrsF8x7tNXVWIsfjEeo&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af9BGOUAW00zRuzS5gFYrqTf2yyBOWv3fR7n2OfpXgGuTg&oe=6A43C505"
+      ],
+      "landing_url": "https://freewheelin.notion.site/7-382feddce6718011ae60d05fdac0c41a?utm_source=meta&utm_medium=display&utm_campaign=프리윌린_schoolflat_웨비나전환_260707웨비나&utm_content=브로드_혼합무료체험설명회디타겟&utm_term=참석혜택_학교선생님위한선풍기아이스크림_260622",
+      "permanent_image_url": "https://i.ibb.co/S4SZccdF/7e8dbb0c.jpg"
+    },
+    {
+      "index": 12,
+      "collected_at": "2026-06-26T03:36:42.773332",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "합격률을 극대화시키는! 🎯8학년 시작 스탠포드 합격 로드맵",
+        "다가오는 8월, 아이가 G8~G9가 되는 학부모님들이 가장 많이 하는 현실 고민들…",
+        "❓ \"액티비티, 10학년 때 시작하면 늦나요? 벌써 해야 하나요?\""
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/729260271_27580745138226747_3878578028885104888_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_PC_HYF0FTYQ7kNvwE2NPJE&_nc_oc=AdqBHstcWevd-dyKmdP1TvB0XYmdjsA8IF5W-3UKQf2abFNZLdpSYT3UCH-vSem2iUs&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af-BYh1gq26rB0GvjnyZgb9Ide9DQAaTgFXj9LZRO3je5g&oe=6A43C2F1"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy26-july-22-rise-stanford-roadmap-for-rising-g89",
+      "permanent_image_url": "https://i.ibb.co/nNDxdyfy/Crimson-Education-f9a327a7.jpg"
+    },
+    {
+      "index": 13,
+      "collected_at": "2026-06-26T03:36:42.825200",
+      "page_name": "부산에서 뭐 하지?",
+      "ad_text": [
+        "💻 마이크로소프트 데이터센터 아카데미 2기 모집💻",
+        "Microsoft와 부산 청년이 함께하는",
+        "대한민국 글로벌 데이터센터 인재양성 프로젝트 ✨"
+      ],
+      "image_urls": [
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/707453731_4403101389957788_6110300482915995840_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rUx6vLS9gpYQ7kNvwHqewgd&_nc_oc=AdpYqAytZMpU2LfeqCoeMmT_YHIKPowg4kw510wtouucCZOGUpcifyS60Xr385uWvOc&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af8BVJLEFnBJmuiQJdthMHdynAPMbDdZt6Juh1wkMx9m1A&oe=6A43C9FD",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/708230555_2183238602443389_264882031269798429_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zw2d8tMazQwQ7kNvwF1PBRf&_nc_oc=AdrUG2EztIeynScpgh5qJbvHSe0QTR8oVUcOMR6z71Y8yGsmL62T3AC6LIDP5iylhBc&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af8U-9kiO-8f6vtZAz3grVrVPJUh3egmh9sqxVVbIv0VxQ&oe=6A43D1AF",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/706318044_2183068582485448_6827570779305607983_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=i9zwj8GdlFoQ7kNvwFfQwFu&_nc_oc=AdpoTn8fkhdy9O7PGeUclZ-1pM7ajS9OTzl6yG9QZp7IYWbku52eMwtcEXonbKmoQPs&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af88-heaEuVesyxtWBzWaV5esanwWLH8raBtEQMbT6rs_g&oe=6A43D586",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/707632440_2393175277822902_8695156801430076232_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rP7h9wwJkLMQ7kNvwGkqY1R&_nc_oc=Adpu434SXjt_ZDK1BAjD1zlSj4D3Z2ukLW13v9DttBOYOGOdmc9aQOKYERurDytqsgM&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af_BVYHEgMvVyQuQZcCFyg_deubgxhwUMAVx-0mi1ek-FQ&oe=6A43B24D",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/707656188_1981558996063519_6009056956283655497_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=19jRWpMsI2YQ7kNvwHFuucU&_nc_oc=AdrVjJTRKSasdEzkPVyTRq8PjDLprgJV7I6a06HsoOTvJKcuQkE_RCf_SsqJ8FY6VqQ&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af8se1sh0Tr5ioTWnz7jNdKm_N8hfQMMQmcY4Y5DhyQOfw&oe=6A43BE8E",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/707350171_940905122331050_8171123993955184631_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EQfZdvKWcHkQ7kNvwFq8-Vd&_nc_oc=AdqhDtnInsL-ee5wYktKv6YLVvOEbaKddnUuqWhvDEl_LDyYJj9gAQzd69oVdU1wPi8&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af-CmNCUWxTgE0YQWCi6f53mch6bHH7BzjT_XWwRNVbPKQ&oe=6A43D2D6",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/707005377_2119139502366432_2744187735747223291_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=T4PlYl-uj0IQ7kNvwFtTrCc&_nc_oc=Adrg78ZNK_1SQxOtpdjMmCwksivm04KEXQk_IG5qGy0lZi9s9cCntlXkJ6H6j5tRGz0&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af9hWjOO1XiK0OQpwyOLhiigaIqy5tM8dJPq95vJS8FroQ&oe=6A43D57D"
+      ],
+      "landing_url": "https://kcm.kfq.or.kr/",
+      "permanent_image_url": "https://i.ibb.co/MDw9Z7gQ/e441a4f1.jpg"
+    },
+    {
+      "index": 14,
+      "collected_at": "2026-06-26T03:36:42.975319",
+      "page_name": "부산 김해 양산을 즐겨라",
+      "ad_text": [
+        "💻 마이크로소프트 데이터센터 아카데미 2기 모집💻",
+        "Microsoft와 부산 청년이 함께하는",
+        "대한민국 글로벌 데이터센터 인재양성 프로젝트 ✨"
+      ],
+      "image_urls": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/708049923_2047013572867594_6453222949933630127_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ai6mKbHgDYoQ7kNvwEUl5_C&_nc_oc=Adpdp8JTUErbORiDQNT8FsM9zVRiXTq7B4jEGhQxM8Y0t6stM76GZtbTODag7ao3U5o&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af9ofiT3S7H4pcK1TyYRJntsx5h8pE3l-EZchbKJH-yWLA&oe=6A43B1F3",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/707993749_933627239723620_5941592841630833847_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=niTt7jSjddYQ7kNvwGfciRJ&_nc_oc=Adpeyjd-Exb5X3MqwzknocINdMPZf-J4c-bP85Fpi4kpWBNbjwXB12DeBnIcy5g0JYY&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af80mF45JDwb_FFJ54hKt0XpArjUp9KhdASNdjC1k9cKjA&oe=6A43D43F",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/707523244_1505846271267748_4277875144952984035_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P2RXXZvQeSEQ7kNvwGmKK_U&_nc_oc=AdpMPCHMeIHcyMHUJkdKS4_Mi0Xb3X-cPO71COplT1x8f0qGDMLPoIvthvNKp5yGBjE&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af9XqBlP_EpNBLMkSeEDGRvrsyEOusotMT0Anj4EoP48RA&oe=6A43C895",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/708694981_2034700763848223_6172517611179630608_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ucu-C-rWpDAQ7kNvwGDINJ1&_nc_oc=AdpNYZG2zJP3jCpQbJRamFJm-GKLPIg5BWfTmU2vljtfthdhund5FFzW9uYxANz8CMc&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af8r0GOuSdJvDeb5qjTeuMduUFO9VJmeQ3RneLjJbMw0CQ&oe=6A43ACD9",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/708089030_4584287571860327_9120321354157912588_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=u-bsNsMM4xgQ7kNvwEb2oF-&_nc_oc=AdokN9s-FFMg1MUVLK2RvQU-ls4CPRYfM8gl7fM0rlS0YqmL9C7B9Ta3ttC3S_Xq2I8&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af8hUepoHF5mLBaAYrSuicQuwqeMNtcvcgXijksV6EGQ5g&oe=6A43C0FE",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/707446958_27443106778635137_4990404912100217257_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RTy3Q4w0dJ0Q7kNvwFsMTq8&_nc_oc=Adr8Pry5PuWK5OnxAHmK97J1x-R7WmT6nKuH46wd3td6AP9oS_kObrA3q2d7DczB-Mg&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af--mB62wDIBsQnY_81NXAC4P4LJQs4KO-mftMnAJaemhw&oe=6A43BE0A",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/707446959_1519129116276422_6569518150709203402_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ETPV5E_LzQcQ7kNvwGzuls0&_nc_oc=AdoD4tur70SB8P8sIO6HCOxa3BRXJT3bvdt7ckNJ93Xa_mZrp5NOawSQ1TpN6fXm-7s&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af-oz_DRNs6fGOO6QCU8A7DZme0Bpo_0ktibnPUU0-2dng&oe=6A43CFD2"
+      ],
+      "landing_url": "https://kcm.kfq.or.kr/",
+      "permanent_image_url": "https://i.ibb.co/fGGggV07/0e6f4509.jpg"
+    },
+    {
+      "index": 15,
+      "collected_at": "2026-06-26T03:36:43.126499",
+      "page_name": "Change The Class",
+      "ad_text": [
+        "🚀 체더스가 야심 차게 준비한 AI-ALL IN ONE 부트캠프 with 마이클 & 노션 소식을 전해드려요.",
+        "💻 AI - ALL IN ONE 부트캠프",
+        "- 일시: 2026년 7월 4일(토) 09:40 ~ 16:00"
+      ],
+      "image_urls": [
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/726294985_36469655562680444_1381857988112998059_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0l2lsJUn930Q7kNvwEJYzLL&_nc_oc=AdoqIqAr6mdmV3m8RVcn4MMf71wkzKm5xbkMNvDWZseEX5Q2O6Q-ggHhCLMICs4x1OA&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af-VCauPHRLp-fB9Es0E48eecaZW5Jt9ToTyOKqE1h8Esw&oe=6A43CB28",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/726337036_940808732315532_6070398337793875296_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0OPQwZeybzgQ7kNvwF_O4hg&_nc_oc=AdoFqHrMf33HDTVT_a6mEDxFkhcapPmBwmhp2kO4OljWXpGiaWgh4MHOVNTZXMRqXbI&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af8KmkKSiPJxVMeqXgz2vTZOF5u26GmZIpVq2dEOcyGw1A&oe=6A43CDFF",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/727773464_1884480695557718_2132624988889425059_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cQ2omen8BzIQ7kNvwGTERNj&_nc_oc=Adrn_yQjEyosnP9Mtf-oI1VF0olMtC91-fhMZnEZnjjurTizne074NFJY-eWFOPax4s&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af9Mp94-fJnax9S6Tv0VBxAOGxN_HqSpWmgr34k4tAfTyw&oe=6A43AFFC",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/726391856_1276257311366598_8450575231123930124_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=v2HH7NSDHfsQ7kNvwGO1xLB&_nc_oc=Adrurw04G1JoO1KKB5iN6xwaRKMg6fU3TBwJBL4oACeczwGC8j2hSRpXYFyf9nwcmnE&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af82k6jcl0ou5jxMJOEb93xQd7fcEBq1U-YBi3iTm-ycqA&oe=6A43D79C",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/727757555_1486873796017902_6973528786686369532_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1Ny2RyAUHUAQ7kNvwHCqXDk&_nc_oc=AdpLPOtxyTPmEBcsNbnOxZuvsLIVTuiMZ5n95sHOX5zM_KPaMqDh3zq3HP98BJrv_hs&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af_P6LIukmqulI0pD2mjwHMvxmCe8f8-Wo5thCZbPWoFgQ&oe=6A43DE9F"
+      ],
+      "landing_url": "https://chathess.teacherville.co.kr/page/bootcamp_view?seq=1637&utm_source=meta&utm_medium=paid_social&utm_campaign=2606_event&utm_content=bootcamp&utm_term=260619",
+      "permanent_image_url": "https://i.ibb.co/yFRpQP12/Change-The-Class-3dab5785.jpg"
+    },
+    {
+      "index": 16,
+      "collected_at": "2026-06-26T03:36:43.244742",
+      "page_name": "Bluetiger-블루타이거",
+      "ad_text": [
+        "8주 뒤, 지원서에 쓸 결과물 4.3개가 생깁니다😎",
+        "현직 멘토 1:1 피드백 + 미완성 시 100% 환불"
+      ],
+      "image_urls": [
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/721099284_1645275039861387_4166787006020857920_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XRKyeraDIEQQ7kNvwFMiivY&_nc_oc=AdphkN73xrA6hgZHyWDzOANY3GCKOKSwMTSrV3dLjRIO916dFhRI0Dsa7j-9cOZEy-o&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af_gXH7_a1Lkw9xUn2iy44PGJRraOKGqjNbDoZM_F7XS_g&oe=6A43C9C9",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/720476235_1519382256504357_4524515196430632186_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ef8XXtKZuvAQ7kNvwGmtLVh&_nc_oc=AdoXE_nV-VzUjJAYqv34fs3qCzVyJ9IH0SVLIRJxrNhg-UsIIkxoXxUYRHEakYEhntg&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af-KTbEaTbU9fFDdiFsufjzDwquuvrC8td3WJ5cXtp7a2g&oe=6A43C332",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/720361650_3251669631682376_6339744101444697911_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ubwMDQfoq5QQ7kNvwGXMYD-&_nc_oc=AdrwTNZcIwk4Zi1iSr5thy-Ca7NKTMWoEhNsVsz8C56SboC04u2RyB6vn2grcInvfkQ&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af_aHaOfPDMEPDoa2RpcrcStuo3MyTCgP61eGVgBVTOEDg&oe=6A43DAD9",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/721119802_840120692160430_8073968459394767480_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=19V6iMQ6v2gQ7kNvwHb9W0T&_nc_oc=AdqAySz2AOh3LwUi6tRk-aVzg3vT6Zht75qYBt1NcjrhaFsCx4oQh0gEBFrjOhhCwxg&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af_7l0GHfbMmKYgqPNyi6hmVB0jE6LhZWzbW7ZSsfgsphA&oe=6A43AAB3",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/720656387_1036362508817334_2084478790652143990_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KHeD_9ttZb8Q7kNvwGHuCwo&_nc_oc=Adq5r6RRhgYt30XvKa88qsRfiBgC1ANanUYzud99lbVUnG_jvsXGHXwNC0bxZ1tRdIY&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af89XwDuaLUagpcpkL5SM_IB6d07KMAqRDcv2ee-59bNzA&oe=6A43CBD9",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/721266327_2014006289482080_1247331749429526268_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dEo70aaZ0WMQ7kNvwHGO9VL&_nc_oc=Adpe4rjc-zpEoHMoWNcW5HD6v3qIfsixVTbUE4lM02Kg8EF1dPC-3gKVxts2_DNCDVQ&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af8VUQTTKgzn4RVgSR4ArquNH8GjOAZOE4yp_80GADN63Q&oe=6A43BD18",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/720486808_1734087264276194_2249642658977199936_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PQJWPGHe8CYQ7kNvwGGSuNi&_nc_oc=AdpwiW3H_xSl4joP249CWofxP_Hx-J2wBcAlVry_32gUoEUIWm8GNEjk5UaXSlL_gcI&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&oh=00_Af8mG1hTsrbqvmdiyQ5GeWnE6BXEdoQ3rFgdV3FUe0olEg&oe=6A43DE5F"
+      ],
+      "video_urls": [
+        "https://video-dfw5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNcsjJPelYQeq7Yb0WbzrLsSA2Fv6HKzRCkzogmx2scbptyVN_EGS7Dq9qSdfEJIYShf5XkhExEZn-TnpK2x7GZ9iVrxxrgW-H51QcrLw.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-dfw5-2.xx.fbcdn.net&_nc_ohc=VJMZPaaan48Q7kNvwEL9VLH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NDYxNjE0MjQ0ODY3MTIwNCwiYXNzZXRfYWdlX2RheXMiOjE2LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=LaXGFDq-zBR5J2fHQsN3Vw&_nc_ss=79289&_nc_zt=28&oh=00_Af8YcBJnEPxS4mcmNE0quQRUVAqXoTmVM3IEBHFa5hkX0A&oe=6A43B163"
+      ],
+      "landing_url": "https://www.feedbluetiger.co.kr/2606-summer-student",
+      "permanent_image_url": "https://i.ibb.co/JwjCwZCG/Bluetiger-50102305.jpg"
+    }
+  ]
+}
