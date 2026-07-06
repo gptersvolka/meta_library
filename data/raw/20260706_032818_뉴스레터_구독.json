@@ -1,0 +1,198 @@
+{
+  "collected_at": "2026-07-06T03:28:18.995590",
+  "query": "뉴스레터 구독",
+  "count": 10,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-07-06T03:28:17.938450",
+      "page_name": "HSAD",
+      "image_urls": [
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/732889191_1016698984181953_3314051289550764941_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FYdak3apNJMQ7kNvwF8qQu9&_nc_oc=Adr4BpOIIQs12gtM8ou2T7ZE0MTBty6EsXt57Nfp99KG6TgSXp1cbpgKZc9Ulfj_o4s&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQAd67EgKyO_tSPyT5l2gPka8af15kDpk2CTVNHn4-MacQ&oe=6A50FB5B"
+      ],
+      "landing_url": "https://page.stibee.com/subscriptions/496166",
+      "permanent_image_url": "https://i.ibb.co/DZps45Y/HSAD-37ec9e17.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-07-06T03:28:17.979569",
+      "page_name": "비에스씨",
+      "ad_text": [
+        "HR과 리더를 위한 뉴스레터, 비스킷!",
+        "✅앞서 나가는 인사 담당자들은 이미 구독 중!",
+        "HTTPS://PAGE.STIBEE.COM/SUBSCRIPTIONS/280173?GROUPIDS=464493"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/734622953_1738427420496476_6610431392777602860_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=maiMZiPt5yAQ7kNvwFusm9W&_nc_oc=AdpVm5mgqj15VqLyc7j-Y7gtMTUtSpweTj1jMofxbGsULeh3DCryq8EC9K-b7dj_hmQ&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQAHMJ9vFLkVJNH1t8EibT1Tizsm64oTJj8xn7qriXeUUg&oe=6A50EED3"
+      ],
+      "landing_url": "https://page.stibee.com/subscriptions/280173?groupIds=464493",
+      "permanent_image_url": "https://i.ibb.co/Lzc3jF6g/c7d98b18.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-07-06T03:28:18.021872",
+      "page_name": "비에스씨",
+      "ad_text": [
+        "HR과 리더를 위한 뉴스레터, 비스킷!",
+        "✅앞서 나가는 인사 담당자들은 이미 구독 중!",
+        "HTTPS://PAGE.STIBEE.COM/SUBSCRIPTIONS/280173?GROUPIDS=464493"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/734622953_1738427420496476_6610431392777602860_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=maiMZiPt5yAQ7kNvwFusm9W&_nc_oc=AdpVm5mgqj15VqLyc7j-Y7gtMTUtSpweTj1jMofxbGsULeh3DCryq8EC9K-b7dj_hmQ&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQAHMJ9vFLkVJNH1t8EibT1Tizsm64oTJj8xn7qriXeUUg&oe=6A50EED3"
+      ],
+      "landing_url": "https://page.stibee.com/subscriptions/280173?groupIds=464493"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-07-06T03:28:18.060574",
+      "page_name": "비에스씨",
+      "ad_text": [
+        "HR과 리더를 위한 뉴스레터, 비스킷!",
+        "✅앞서 나가는 인사 담당자들은 이미 구독 중!",
+        "HTTPS://PAGE.STIBEE.COM/SUBSCRIPTIONS/280173?GROUPIDS=464493"
+      ],
+      "video_urls": [
+        "https://video-dfw5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNP42hrTAS04EXCdIlEDr9tM5v7rx5qlHV8n-A2aZVxF3tlqIoRju69KccHtRLV4Ezl1PtGQovrDbiyd-y5AMYVF0vnLeOKAbppoeSYnQ.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-dfw5-2.xx.fbcdn.net&_nc_ohc=ENQblIx6j0IQ7kNvwHgxEko&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NjU4NjU0NTI2NTEwNjg3LCJhc3NldF9hZ2VfZGF5cyI6MzM2LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&_nc_zt=28&oh=00_AQAn0KyFHzFNDGpSoUNa87Y0Ff3Srgzy-yfpqnlClhBwuQ&oe=6A50ECA2"
+      ],
+      "landing_url": "https://page.stibee.com/subscriptions/280173?groupIds=464493"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-07-06T03:28:18.094521",
+      "page_name": "영보스 매거진",
+      "ad_text": [
+        "매출은 오르지 않았고, 시간은 줄어갔다.",
+        "고객이 ‘자발적으로 찾아오게’ 만들어라.",
+        "ex) 인스타·뉴스레터·영상·자동 축적 루틴"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/571362816_1338572421093337_346688366585184516_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KmHqDebXU6UQ7kNvwHIfRhm&_nc_oc=Ado7yibQzxXTjLBhuYdk4-f1QiX_dK9gmhv7k_xWX1yiLeN-r-CpBkq7opg5KY0sq6s&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQALFuFsecCER93mEc41y3t3P-dZDe1SAyA2o5KAMY5aqQ&oe=6A50DF3E",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/571241235_3522105477931084_5347125982839588638_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Fvkh33PIAkQQ7kNvwFtUFa1&_nc_oc=AdqiUw-qz-yRa_rTq_aaxddfo5mfYo8i2JYW2SB9vbpJGWZFeI-bbLoCBFxobCxyi0g&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQBLAsEmxWa_sPgpfvhDolIMDERyxRgihrelUP_Sdj9euA&oe=6A50DDD0",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/572222757_1262549339233473_8018288257757285136_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iZzYfUITD2sQ7kNvwEb2qJ8&_nc_oc=AdpDIo1piCRn9-CiXq5e44q9bykSNs3fx-TGFILz6VNQ_hZ7yDkMYJS30Vqve1lELZc&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQBnyMyOLFeHfMHshrfLMKZCsXcaMgBWapzTVQTrdRlHKw&oe=6A50E974",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/571351021_1726803291297214_6633643585231276438_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qr4p2WW2unkQ7kNvwEB-DNT&_nc_oc=AdqEwaszczGJhGLBXqVdI3sa_xQd64h76pIgSnByISQi1GyzhWEEzo7dDwgcQXwawpI&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQADgXdoQX5XpfVqDOUhgfbLPJ9AfEivgHyeM3CWTL9IHw&oe=6A50FA23",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/559097490_845803065063330_2250525045435353972_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_4PgRfa-ccwQ7kNvwEhfGfP&_nc_oc=Adplo4TszK_bUVjyr2bPLGGTAT6tT2MFuWEPH2UwSEQY41w_Q3zmchIiMknmWETdpww&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQA82PT8U1kHKS7qY9dGk51sHuC0Zn-T3vJrLWagyT8tBQ&oe=6A50D860",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/572135869_2664099263938563_204447756053676784_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0WCJbp1E1fEQ7kNvwHmF2iP&_nc_oc=Adpw7F3s7d1TYAiv6v2VYN8VFIFVBciT2fz3aV_-GVxIRZxhF5SlrlykU7J3kTX5ulo&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQBunFkz04uOK0L8A7OStzQUVCk05w9I-7sjo3o1quYl-w&oe=6A50F046",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/571143874_2315601825622666_6211746668211549941_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R5jCMd2gB4cQ7kNvwHEVV5n&_nc_oc=AdrbqixPYm9tfv-A59XBmRT6ZcQczvpX7KdoehgAVkxnUeYd2c1aSDn3O_tWubZQuX8&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQDo465qeR4bc0xhQjyPwKLDabzl0NRtdM-WeHQXOcPjWQ&oe=6A50F270",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/571427248_4175964355982749_8917915720209011318_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-pWDGAYGtasQ7kNvwH9hnpL&_nc_oc=AdquGqfHCFnUlYHYMuK4gP4_mz63Tlw-NfNoEjYccCHg_sYulik-44hqwBFagUkDayM&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQBLE-OKp1LJ3d9eFvNUWWnoJ3CO_wBgwpQ9UwlAewyBhQ&oe=6A50F941",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/572056842_828696603235513_1542898713065926651_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=d0j_aQG5XfgQ7kNvwGlzJ_7&_nc_oc=Adr7cV8EGMMJ-Q96rFLEdvKNT-XEaxcZZHdtLJ854egjEeHvVDlWl27wjHcuBhFw0mo&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQDw1kUftWEnnxG17P5IVHi6HJMMJT8xiD7PSDO-vyQ77Q&oe=6A510904"
+      ],
+      "landing_url": "http://instagram.com/youngboss.kr",
+      "permanent_image_url": "https://i.ibb.co/yB76R2Ms/e088ff56.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-07-06T03:28:18.223210",
+      "page_name": "camelliahilljeju",
+      "ad_text": [
+        "제주 화원 카멜리아 힐 뉴스레터 Vol.47",
+        "장마가 오는 여름, 수국이 피어납니다!",
+        "수국의 아름다움과 물을 좋아하는 특징에 대해 알려드립니다."
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/734664429_2054852275144739_8410403544074842119_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Dt2Q1Xoc4mMQ7kNvwEguKkn&_nc_oc=AdpZPp4J8mmmnRPRTNea_eYNtVk3-vEVuBMkq-aDDxvdxovFEshU4YwV_DIbozgzm4Q&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQAD4KbK2__y3R1IAif6rbt8yKe7p1w2JI7H70KRFXlDMQ&oe=6A50FA18",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/734783683_1511915717056096_1048715924772720649_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=35SGfvl330EQ7kNvwE5uOYV&_nc_oc=Adr0dwOEKfK9P-wWbEgyV_XW6uI5-AeuHFwMMmZ-fGRQ92-HvY5GuekWmAeSByEAuXQ&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQCxc1_Opk4X3q566WrJG6jwQwRXxFSK0JNXB0gr_VIJhw&oe=6A50E5AA",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/734685154_36502184749429900_8149153888796319453_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OSNOJuRjAOkQ7kNvwFEybfC&_nc_oc=AdrG7kVko_fIFRK_A0sf82I0ylU-19G26oSnkiCl2e3EZ4dSZ7RHLVHZ7nHW4buO9B4&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQDA7fQhjKIVHxzT-qL5wYHipcuQVVmCXbYTvusRlk_seA&oe=6A50EA43",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/735553007_2558794737908745_8815131090943587147_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UGlazqwBDEIQ7kNvwGuNv9_&_nc_oc=AdoQRDfgBJvxtnZ_Ogv5ovPyo8Va8yXVf3JjQAVzJcXb-knqcn1rymVljSXcXYTGcl0&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQBe7Rj4UsJFE7fs2M8DSEwkPh8XvMOSpypbM4iAOP6xQQ&oe=6A50FE88",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/734685146_1379557784068104_5569396530527903597_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EFzO7EQZyG4Q7kNvwG3C52O&_nc_oc=AdpT-FmnjhKHGRCREXqBBHm6JAIoZa9yZhep6eVe4h21XmFhbFrFDjnp3gpR2D73czo&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQDchOdJeZamJzn8D8hNhEDA1IOyoilE3Rsaob51mbUzgQ&oe=6A50FD8A",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/736384786_1078718931244852_7281851971822971585_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ip35ydXIJ6oQ7kNvwFXdQgD&_nc_oc=AdqvNqUZO_X5-FbJrC3oJD9fEgiMNF6RFNuSBCZge71eIXWCvqXoTpXS5yaNum0yfok&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQDS1VAPHazTcUKosImPuO3iyhcYzJR_zDAhBxxpHQAm0g&oe=6A5104C8",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/734846194_859691536836469_4546856094774366133_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oeINfME0MQcQ7kNvwEP7szI&_nc_oc=AdphfCxA7j7EfZzECll_EFPSbL3edjYpjFqnpxOdZrq7kOPGOXH6bEke8jLhtMbByYA&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQAaD__t1Y5EjRfC6DwczrMItfgVR1v8IWEaQwWN5CWbgQ&oe=6A50DCA4",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/731823903_4491503861132971_2963283219065251425_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XfhPR8xARpQQ7kNvwE4kV91&_nc_oc=Adri5TgTdf0Sl4QC2mvadzSqE9xjRcjcti_32kYJQ9UEtW6HPqoOPtBCIufwPeKNjIw&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQDcINLmew5P65aH8XPh4TlqAHR-GyhhWQrE_oYuJAkQjQ&oe=6A50EEB2",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/734862751_1055952276885712_1028593950286563665_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5HoaEHBVlGEQ7kNvwH71L38&_nc_oc=AdryUMz3Yl1xtcl1Nw4lByUeZJyfhKWG-_DzHSgoM1Mm2r6eh2szT43kRxMk_d7i3eg&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQCf-yDHIhNNhDUdWTymWV-VT7P4upOPdH4jLZZRyh6Ttg&oe=6A5103FF",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/734718583_1372053481506011_2538157734770561487_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fGlKW9Ru6UsQ7kNvwGmiHCg&_nc_oc=AdoULYwo0mIS9fyTZ1PsNlIyeTyTgN_Z0uHaW-vWEJrQjfnUBqBikzt_JA7eEr5wROQ&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQA3dZkjhRwJHVrTcScgH2Q_Ehkqq5D9lnCcZhszntGZxw&oe=6A50D930"
+      ],
+      "landing_url": "https://www.instagram.com/_u/camelliahilljeju",
+      "permanent_image_url": "https://i.ibb.co/ym2g8nsL/camelliahilljeju-3238b362.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-07-06T03:28:18.434134",
+      "page_name": "평범도 범이다",
+      "ad_text": [
+        "드라마는 늘 시대가 여성을 바라보는 방식을 반영해왔습니다. 신데렐라이거나 악녀이거나. 여성 캐릭터는 오랫동안 시대가 허락한 자리 안에서만 존재할 수 있었습니다.",
+        "이러한 구도에 균열이 생기기 시작한 건 2010년대부터였습니다. 여성들은 가정에서, 학교에서, 직장에서 당연하게 요구됐던 것들에 질문을 던지기 시작했습니다. 그 움직임은 드라마 속 여성 캐릭터를 바라보는 기준도 바꾸어놓았습니다.",
+        "스크린 위의 서사는 현실을 비추는 동시에 현실을 만들어갑니다. 다양한 방식으로 욕망하고, 실패하고, 살아내는 여성의 이야기가 계속 만들어져야 하는 이유는 바로 여기에 있습니다."
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/730321409_971618969102993_1430748330840319082_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=y35QDQg9BvkQ7kNvwEpL-cw&_nc_oc=AdrLVJUZm3stj-OdkuHUSs2XbHkbo3JR_MTBzgYRoF8hVsU1OZm0QPEP3AS8eTwhjmg&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQCvdOLTDzLpaRgRJEtpck5O2Yitgt7bibeJf86IqCYmPQ&oe=6A50DBEF",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/728213160_3130998407099843_8380733653060674254_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6ua5KaOAMNYQ7kNvwGIVs2B&_nc_oc=AdrZN5sCMbd2y1TG-Aj-YPBz3rsGwK6tv0OhQ8qSVdwbX3jaGHd3Y5O_3gFEUhshF2Y&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQAdclfwUGNTQPIW8ClkQW_rh38TM3Stda77BngOf0ZgcA&oe=6A510B1D",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/727434034_1036829292028051_6038962501412212294_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=l4GLvtU4zR4Q7kNvwErkW-3&_nc_oc=Adrz6sdc2UFokjz_qF_9vAz7Y085ylsXt3M9iRG9sZvnnV2WD7ADLFZLQ8pA7H4dK_A&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQDu48Mwpi8aHKvzX8LXet_Q31ZHB0qMWVQlciuUHTf0mg&oe=6A5101EB",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/730992704_1762334905130588_4269560279011924089_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n0O3ZayNLe8Q7kNvwGBO6-o&_nc_oc=Ado1LZL7wJmdLK0mynxVlc99PNKH-c_WysUA7brekZ24OTvUe1rgIKIHO4tZqtWzuwc&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQAdFoUhnBdRyOqDeO_KMLfgVRXLMdtgbeYDZ7s1Vus9WQ&oe=6A50DA6E",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/728243709_1560826782278635_8264905525222532339_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iGBOn7_d2PAQ7kNvwGLkads&_nc_oc=Adq08rl2PQ-4pDs0LjEdoH7RiwlacTnXcz3Ant-0hxT62quXwt5F1A1PW8ygWYcuP9Q&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQDvBJ0iy3Kl75LIL2ChWJ3ZcllgP1sKSQ-fNPNKyAGewQ&oe=6A51098C",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/727572534_2758386581200749_2400827332485760617_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=drt9lMYBGHcQ7kNvwEdbkVu&_nc_oc=AdpU_Rm3nVWPfAVQFjBWbSmrmuLbgrgVSjvu_v8hopu8lfV4trCtOyvdyZ_hSYDL1cY&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQDt_LLKrqBjEgwng50HOc3F1-iKDMJUbjiaQyBdeudQMg&oe=6A50FC06",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/728369804_1050804543965894_8109320816334614329_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KhbyS5-BW40Q7kNvwHaitP-&_nc_oc=AdrfdEdpSjC-NF0NAhH2NxM5y2QKkGs1MT49WAyOWuwVv6dc_SQPil6JfjvoxMOOeFY&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQBsmTqiURsmh6m9CCAXgh0qlQ5qCwTjdxIiTJ1rtTP4gA&oe=6A51028C"
+      ],
+      "landing_url": "http://instagram.com/beomitup",
+      "permanent_image_url": "https://i.ibb.co/QvpCBbvK/4db92142.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-07-06T03:28:18.571847",
+      "page_name": "sophie_sentences",
+      "ad_text": [
+        "2026년 7월 / 32기 생각확장 글쓰기 클럽",
+        "상상하던 내 힘, 다 어디로 가버린걸까.",
+        "이대로 둘 수 없어 잃어버린 상상력을 되찾아보려합니다."
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/732036210_1265991092277635_4076858415302812290_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5jTyfl2OCJsQ7kNvwG3C_Ft&_nc_oc=Adp7P1cGQHSuAkbFcEzfXMvhdSV-M3qhYwNBcTi8D-XmF6mwXPpyYs8i7R__WbAVq2U&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQDQXwUNDflR6ji8CmUzLd0vPh1CPjsImRKUZRLiRT9Y6g&oe=6A5101A1",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/733139629_975172528662404_4619801526221348803_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KMUAKIW-oocQ7kNvwGQ5GnI&_nc_oc=AdrVHmAVXST-X4jyQadb7NXTMTRLYVScxuc-ELDegv8kXQJJZtWR1HZcgFC15Ap6ABk&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQBBu-_lWiIJmkfAjZofNhi6N_g_6Z2cf5tUUrQRmncjtA&oe=6A51010D",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/731823707_1323812569881696_3062062261708178449_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6ohv9Of3yE0Q7kNvwFTTKQw&_nc_oc=AdrzVhTJ05BBls26t0TZcm1gHtIxhO5BdH6dJE1ShsXWUCj4ppauDOssMSxWF2FydlE&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQBdj1YbBvRECyEzAB62mlSEKtpnEIWFXFvZrUNe3aUbuA&oe=6A50DF77",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/732205936_1030337162703416_2274338205437890383_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1ood_min0Y0Q7kNvwE9xDJ3&_nc_oc=AdqnCAxwDF6z4nC6daSkDXYY2Y_g_kFtxIHmRjael4ZQbFH2uHCFmUIjPkgkr0ew6hI&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQDKcLXXKajjm1aVB85wFGXVwa8D5P3cEN2gzvn6SA-IlA&oe=6A50F298",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/732125866_2022430711742035_2938671428111515379_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=akJrDcOvKcEQ7kNvwFIZe5C&_nc_oc=AdoCSviSYzOjm56QEUdA0IbVsYgvNw0lYaGsB1SO-E_NTAeBVHD0FFFj_hUnseDauS8&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQDWbVCJS6llSU5BoYO3xExEzviNrlLlFFUzKYtOtXKmTQ&oe=6A51099E",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/732226704_2176175246287988_6699754540739508341_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cchPO5c3KbsQ7kNvwFhX0Ib&_nc_oc=Adq5q4wOqLwtvKVc914V8MX4CYUyGFVwa9JwQuq76PmvKrWBlsTjT1zjhxhn1JmLTWE&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQCu4uUspBPa1IJWzavxCcb2fEranMiwqtvGltX5L0Ao9A&oe=6A510DCA",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/732453354_1745356330223922_8041234668209948901_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vmitQHfISu4Q7kNvwEKWH5n&_nc_oc=Adp4sFGuleE8CLkROEsdipEcRZd-XBZ81GUPe8acxBE7c_qhExJuV2Vs7p0Up6xytYU&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQDbhvMGYrDbsL2LLu59cNlV4RYTGP6oe5SVBrflG9A6NQ&oe=6A50E00C",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/735205339_1052833554069712_2969176605483836390_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DuV-GqpD7koQ7kNvwEr-exF&_nc_oc=Adof3iMKeaZWRBaLXKXOjAcQO0MDO1SwhUFUtGhuMyDrPiSLspz5pvgl5J3zIlBmo4M&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQBSwC92-Sm6wLpLCfZmS-veI51clXt8RJLWh1R_YbLwAw&oe=6A50FF72",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/732125974_1039646201903130_289650587381593894_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=i5qcJX1GRM4Q7kNvwF9FPrN&_nc_oc=AdpYe5TpImjoZ1S6ptqQJ5MFdfiNtjVrOxMbuGofQNwD3gfYvsQKOB1W19cuuAVpwzg&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQBpPkK9bdW2r1dD6h_zNutsipdMGw2zS5PC3raA5z8nWA&oe=6A510F54",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/732453351_1712484250026745_3605747160510040630_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7njs-tv7ruEQ7kNvwFFrqGX&_nc_oc=Adq84gPZISeD8mbE74Mo3BRvwylCe-IuRmkuiV9qzl5ujzSYDcR52uWfUh2O18cMLjM&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQDlppk--RFQM8-bbcpxN64shfEAmuBK5XO4L-t0QjN0ww&oe=6A50D879"
+      ],
+      "landing_url": "https://www.instagram.com/_u/sophie_sentences",
+      "permanent_image_url": "https://i.ibb.co/cSK3yXpm/sophie-sentences-1e876ef2.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-07-06T03:28:18.716418",
+      "page_name": "평범도 범이다",
+      "ad_text": [
+        "대수롭지 않게 사용하던 말이 누군가를 향한 폭력이 될 수 있습니다.",
+        "언어는 문화를 만들고, 말하는 이의 사고를 형성하는 작은 불씨가 될 수 있습니다. 누군가의 일상과 존엄을 위협하는 혐오표현, 그 심각성을 인지하고 사용을 멈추는 것에서부터 존중은 시작됩니다.",
+        "✅ 전문은 뉴스레터를 통해 만나보세요!"
+      ],
+      "image_urls": [
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/735910927_1365248208850703_4602907496132229467_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RlHWIoXBaz4Q7kNvwEJ1NzA&_nc_oc=Adp_56ztu16qUGhg1LIsZcrwzUBef6scaOerdRx95hHqVdeuwG5OmFzZb6kxsAJ5mRs&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQD732G7Jfyb2DyKrwY727a95NWWLj0E8m8_LQFD5JYMEw&oe=6A5102A1",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/736020599_2788128764920704_2676905150027698099_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=J4xMp0UFIzkQ7kNvwHGiiMt&_nc_oc=AdqOxFsQwU6KIXPn6zDq1vHQktHR6zu-W2qDHpUTj-4N576ANNpji5DQmnmCMt6O5ts&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQDYRBNFRkc6-nuw518eDvTSNbH3OdtqXn73O7GEMgQN7Q&oe=6A50ED98",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/739188043_1004594325660411_402228701755627991_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=54LlhNQ_oUAQ7kNvwGJzLNg&_nc_oc=AdpmnKrY0jjcfctmH6KbvYqeRBY9wGr6Xa_90wGiis2b3htzAKxvXwfK5Yvf5FheMTc&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQAecUFfbm2EWRid6QBFtV0-4Ku1vAtky_fQpKn35W4KzQ&oe=6A50E9EB",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/737819601_858306403666649_3257893068675803732_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=35MUy7Xl8HgQ7kNvwHnNyIY&_nc_oc=Adq-IACgkkFe6DJuGpfBRT591DgVle8jONN_czOfjBASIpmZQbCKQlUiZ4obm6Vvykk&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQBy3X5ukMQhbhpamrhHNil82LJFlHY1yXugYAu7nnSizw&oe=6A5102B3",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/736715318_1043623358621069_7098623398530184054_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eMte7ahe-JcQ7kNvwHliumA&_nc_oc=AdomOhN2Gqc1LJvbn1r9URfw-r-kdN-UR_TUVowd9LEK2S7OhLcG0W93D8Vayw8CEkg&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQC9_hdLFICSEFq4VX3KSrqQgYetI2hK0DaPIM7mOW8ELQ&oe=6A50E6CB",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/735456825_1049524614426186_114384336156802418_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TP0l5bp9enQQ7kNvwE9fmDj&_nc_oc=AdrL9mf6qjPcwmHOc5lIVGvA9TnsJJOnTSEmRgRxQTpBVBUKRzhDZ9PhfhGtx2oCYHw&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQB-2dkRgrR_20YAdgcTmq1vz08TywL_NRDZF0LH43aKjg&oe=6A50DB03",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/736897018_1524288872492627_1362960318238037659_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wTcT8HvkeqQQ7kNvwHh6zwr&_nc_oc=Adrm0uxDhFJzg_uedZbtHZ7Ne6xxXEezNhU8J5BYOO5Sz3HOAKjpBCyVQFNF-wYuMN4&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQBLWXylTWYKJtj3XdwDUh7wwyhqLbNDTe0PWaCY_qsCGQ&oe=6A510889",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/738117092_2281433132605533_7036416123326413358_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZXOJo9gMnzQQ7kNvwFzFhot&_nc_oc=AdoG9_rbiN9itf2vLuKBn6nKTodrP0GQX4RWbbeIi9tys9Idaa7oU5h2uQrPRFsXpdw&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQBCQNsq1XkBxTTRl0ShNt6JHvLbXO6EHBiCkmTY9co_tw&oe=6A50E9B4"
+      ],
+      "landing_url": "http://instagram.com/beomitup",
+      "permanent_image_url": "https://i.ibb.co/Fbk7w4bx/64654e01.jpg"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-07-06T03:28:18.837017",
+      "page_name": "Trendeon.kr",
+      "ad_text": [
+        "요즘 K-뷰티에서 가장 뜨거운 PDRN과 펩타이드는 시장에서 전혀 다른 숫자로 움직이고 있습니다.",
+        "📊 올리브영 295개 제품 데이터 비교 결과입니다.",
+        "PDRN은 리뷰가 펩타이드보다 80% 많고,"
+      ],
+      "image_urls": [
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/734656037_997599606457587_2241817878832448260_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wpxZFsrTLJUQ7kNvwHuz7Bb&_nc_oc=AdrxGd-wzFRTo4oQfFkpm1xc-hi5ucQpAlzf5gWzx8E7_dPcJIZBLieJR-e020W1gK0&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQCLhqKhsQVEh1lI_iVnGIEpqEcJZKX0Z80T0TpuOnQwbw&oe=6A50EC4C",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/734768120_1708375860285368_7660952836087425999_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=z4BJQTB49noQ7kNvwH4j6TZ&_nc_oc=AdqwTGEq2vc1IIrSWteA2gMlGqSPUDFh7rBCMl8_N5a2bzzh-2hBlhEhsr6_nqnbVOU&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQCUNkfXWAxvBX7b7xjLKXtcEjA-dYcFY-xKPBKYi3yW7w&oe=6A50EFC9",
+        "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.35426-6/733684997_1003599212422929_2776356934362686118_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6NekhXhwuzYQ7kNvwEobAIX&_nc_oc=AdpsRjC_cNaG5f81daf4rvJX5lBMaWA3y1C1WuJaG2mtqy9ErKf7cxrwmE29Meab3cA&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQBNB_t_GQlunn2-C1Kpw5rGgvAsWq77AfbFAZPAKV6wyA&oe=6A50E088",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/735908997_1804694907185543_4507475176461403750_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oPQYZD2mPisQ7kNvwEECvCb&_nc_oc=Adq4lIBIyIMuAlqTXMVBxzy1GG9xDoy6T3wh5IL_v333HAWynmHzSrGsRGyYN-Tb-8A&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQC7kal6y_tkKXggnVbSEqk_4glEWmwMRCDyBeQVySbF3g&oe=6A50D835",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/733374121_27575182938782769_8809188249861563517_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3Mnxg1HoT0cQ7kNvwGGgC7A&_nc_oc=AdpNQM_qMCasNhmhQLCDqddelZ4LsF_624VsfdPs6VfdfLtNDaflJu4-ReLi45s1Qus&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQB13n6r1NQr6V_4mv24gDmVCRJIjY8Wghx6p09hW6jmpg&oe=6A510C53",
+        "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.35426-6/735636661_1572185647770792_4345523292899865516_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2LH4N-607YEQ7kNvwGZOKOy&_nc_oc=AdryQcL5bsc-iOOO2Hqy2ue3dXyeVljOmh7bpuRWIC5nXfLwCD7lRhFvmp1bccj5WUQ&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQAtl0S_uZecu81yfqIzrr3BF5TEQyaSBtAeJ0gjxDjDeQ&oe=6A50EF9B",
+        "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.35426-6/734101370_1334106075440747_8325884139244687829_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8kx3eJqP-SoQ7kNvwHgDeLS&_nc_oc=AdoR0ni7GHLSd-sLm4BUfDUW2qLsIkQdkd6N1-p0UIt6DQ2Ugo7ENhcYrXbniMtpW34&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQBNVRT-PCOsvVIY2uEPK_JUNo6KIRAnfpIuVi5yFZshYA&oe=6A50E549",
+        "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.35426-6/734218647_1671947327385353_2652593561273069455_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=90uHlzPtF_UQ7kNvwH5vRzO&_nc_oc=AdrvrLz2JsFQz8lMASHW2Y6yYEeL0B9OTFUv4EySX-llviUpflJhgz3SV7Efa4tvlFY&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=askVxGU_l6vZzauNkSqM_Q&_nc_ss=79289&oh=00_AQA6OevKyOomV-fu5rNjjfFVCskb-iDSooVVdIn7mrOynA&oe=6A50EEE4"
+      ],
+      "ad_snapshot_url": "https://www.facebook.com/profile.php?id=61591582792062",
+      "ad_id": "61591582792062",
+      "permanent_image_url": "https://i.ibb.co/QvBHwqbP/Trendeon-kr-fcf60e53.jpg"
+    }
+  ]
+}
