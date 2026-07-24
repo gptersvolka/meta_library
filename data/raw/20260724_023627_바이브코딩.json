@@ -1,0 +1,158 @@
+{
+  "collected_at": "2026-07-24T02:36:27.584441",
+  "query": "바이브코딩",
+  "count": 9,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-07-24T02:36:26.723574",
+      "page_name": "Remaincareer",
+      "ad_text": [
+        "“비전공인데 UXUI 포트폴리오, 가능할까?”",
+        "이 질문 앞에서 멈춰 있다면, 먼저 알아야 할 게 있습니다.",
+        "리메인커리어 수강생의 절반이 넘는 인원이 비전공 출신입니다."
+      ],
+      "video_urls": [
+        "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQPwYCgqwvezARHrHNhO72mX8ECXdYYx6OXlw1AWpVwogG5WZJM4mHAcAAjw2t6fsdlWAK0XPYKDVQPIVhUByhzx.mp4?strext=1&_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=kNDQDs-NheAQ7kNvwHXcLew&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTA4MjczOTU1NzAyNTM2NiwiYXNzZXRfYWdlX2RheXMiOjQ2MSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&_nc_zt=28&oh=00_AQAeZRGhmKy9xLbkyYnY9g51o3BMHsSjMi9pMGY7kF6Tww&oe=6A68AAFB"
+      ],
+      "landing_url": "https://www.remain.co.kr/shop/item_class.php?it_id=1618558964"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-07-24T02:36:26.772788",
+      "page_name": "인프런 - 기술을 배우고 나눠요.",
+      "ad_text": [
+        "어디서부터 시작해야 할지 고민되셨나요?",
+        "Java 기초부터 Spring·React 풀스택,",
+        "하나의 커리큘럼으로 한 번에 시작해보세요!"
+      ],
+      "image_urls": [
+        "https://scontent-sea1-1.xx.fbcdn.net/v/t39.35426-6/740858902_1005379975710678_606263703657186329_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ox65WMBJVJMQ7kNvwE5FprK&_nc_oc=Adp3COFyzRa-BISOB04-OISqjymTX4aO1Fv3eMqxB2_tbpXa8NKd5H9cfxjv1Y700DE&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQCtgZC0_NCL5Gkaq-LKcWP7DgDy-B-bVoL5SlcAII94zQ&oe=6A688FF0"
+      ],
+      "landing_url": "https://www.inflearn.com/pages/이노런?infPartner=true&utm_source=facebook&utm_medium=display&utm_campaign=traffic_B2G_ict2606&utm_content=_free_all&utm_term=_260630_v3",
+      "permanent_image_url": "https://i.ibb.co/TMCKzxPK/c6f6f652.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-07-24T02:36:26.826271",
+      "page_name": "인프런 - 기술을 배우고 나눠요.",
+      "ad_text": [
+        "터미널 앞에서 포기한 초보들에게 빛이 되는 강의 ✨",
+        "이정환 강사의 Claude Code 입문 — 한 입 크기로 잘라먹는 바이브코딩."
+      ],
+      "video_urls": [
+        "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNRXguSKRNo4rjKZN7zNc-kRvWHdbUckFQ7QWSWJ8WK_BYOySeUIyfeoOUqM42tl7MV6p5vYvH1_kvr9kRS7MnVrrWNY6-TT3c0jtzOaQ.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=31u1pK4SnpgQ7kNvwGef7vX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTI1MzQ0MzY3MTk0MTM3LCJhc3NldF9hZ2VfZGF5cyI6NTcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&_nc_zt=28&oh=00_AQBvZsH0OGh3ymALR_w8Wd5HJSV1ZRSsW5GYclJKpJ4-Ig&oe=6A68962A"
+      ],
+      "landing_url": "https://www.inflearn.com/course/bite-sized-vibe-codi?cid=341386&infPartner=true&utm_source=facebook&utm_medium=display&utm_campaign=traffic_regular_contents2026&utm_content=_course-con_new&utm_term=_260526_winterlood_vibe"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-07-24T02:36:26.872348",
+      "page_name": "인프런 - 기술을 배우고 나눠요.",
+      "ad_text": [
+        "요즘 핫한 클로드코드! 반나절이면 끝나요🚀",
+        "반나절이면 끝🔥 클로드코드 무료로 시작하기",
+        "요즘 핫한 클로드코드! 반나절이면 끝나요🚀 지금 인프런에서 무료로 시작해보세요"
+      ],
+      "image_urls": [
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/655883342_789692353754166_3919524972712531164_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A_1fOM4vHUMQ7kNvwHfz58L&_nc_oc=AdooacCD3G9G7L_qA0rp5SQ6vFJcBAxg5I3P8NayiR5Fmikzlycgs5SWVhF0koh06DA&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQBE-9sEDCrNOQpH6DyhqrHvlOcxZW_JJlT65kKTrGnQBw&oe=6A688823"
+      ],
+      "landing_url": "https://www.inflearn.com/course/바이브-코딩-입문-강의-혼자-공부하는?cid=340120&infPartner=true&utm_source=facebook&utm_medium=display&utm_campaign=traffic_regular_contents2026&utm_content=_course-con_new-lookalike&utm_term=_260320_claudecode"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-07-24T02:36:26.922453",
+      "page_name": "AI 코딩밸리",
+      "ad_text": [
+        "😎아직도 챗GPT한테 3시간씩 물어보세요?",
+        "스스로 일하는 에이전틱 AI, AI코딩밸리와 함께!",
+        "🍀 7월 럭키한 당신, 당첨 되셨습니다!"
+      ],
+      "video_urls": [
+        "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPpr3riybNBWIKfEsB3W88g3qIl6DCeCvxCUkQtUoJ1dZQCXa79mPXfNQQcAUYbyz7hNz1bZNMhFHK6s-3MthaYBCUSPyWw5h6MyqPVFg.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=dOIHcKdjfSgQ7kNvwEQEVjq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mjc4MTg4NzczMzQ0MTUzMDEsImFzc2V0X2FnZV9kYXlzIjoxNCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&_nc_zt=28&oh=00_AQD5WVRn2jt1mtN9KLIlmBMTc2tinQWajbgxOfk_ljvsug&oe=6A688E5C"
+      ],
+      "landing_url": "https://www.codingvalley.com/ldm/7"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-07-24T02:36:26.969290",
+      "page_name": "짐코딩 클럽",
+      "ad_text": [
+        "📝 AI 시대에 나만의 서비스를 만들고 싶은 비개발자",
+        "📝 Cursor 쓰다 Claude Code로 정착한 비전공자",
+        "‘개발자만의 영역’은 이미 지난 얘기입니다."
+      ],
+      "image_urls": [
+        "https://scontent-sea1-1.xx.fbcdn.net/v/t39.35426-6/701234640_4319512058260510_1517048075411200064_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kyroqaUtph4Q7kNvwEvh8N6&_nc_oc=AdpXb4zrI_dt6C9c7os05NAuK_FXMdBoV2RguWBvJAnY07J_c9ItRj-ExjoxIHBTr6s&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQDUwx1hSubuIyVcxcPuUm5b0Ez-2tQn1gTlFOMafPtMcw&oe=6A688DEB",
+        "https://scontent-sea1-1.xx.fbcdn.net/v/t39.35426-6/701230561_1601918087565512_4435472372748676356_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eE2EOJNQKGoQ7kNvwFxV2st&_nc_oc=AdrixXRTIie7Iov2PEvcs1iCcd7Uz7XAcEn4YQXIG_hHb5gvgfWdptw5Fpb364V9R3Q&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQCEBwu_9vZI1y91rO7GFERIPIFcf7l6FrQm6b2Op6NiaQ&oe=6A689057",
+        "https://scontent-sea1-1.xx.fbcdn.net/v/t39.35426-6/700642518_1624930928795617_7186033429607838192_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=caWa9O1hjTkQ7kNvwHsuw9V&_nc_oc=Adp3KQx7GYGMFYWmx8aYh7x2Aboypy3QQNmbxPldu3aRXEzh1jHrBH0GdqFqhzIWXf8&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQDvkWDzwLEVBABSraNcILHN_Ln3zm5zH-Yhi3V8QKRS6g&oe=6A689310",
+        "https://scontent-sea1-1.xx.fbcdn.net/v/t39.35426-6/701692336_997452639373907_5321218421872506256_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iW5SD-ucmOoQ7kNvwGnjP68&_nc_oc=AdrJvFDTxx_C4VkuticklmR_p9Ym6tchGhtith5JOynrG7d9NCm23JrAPVbb49cRs6c&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQB8D9IcMhp6wrT8Lb6LmDD8vPMLz2_ZgciM2Jp_SaXdsg&oe=6A689E89",
+        "https://scontent-sea1-1.xx.fbcdn.net/v/t39.35426-6/701445400_27185094241179599_6083537397450437111_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8E4l3K16W8wQ7kNvwFOF6NF&_nc_oc=Adr1LjMxDOY-86UoVznMqWq4O_pryc_7NznzjEMSrtPJqBotIsZNpHlUrXTjMjhTH9E&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQB5Z-eu_zTP2cuZ5QAIIjIB-8rzfKSO3lIO_9Y5kWzChQ&oe=6A6899B4",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/700467266_1668058501007127_8311803548581791881_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FpSNul55SzgQ7kNvwH2jhug&_nc_oc=AdqPuHZ126YVea4pLT9yrYMzfOZb8ElsCH64SvBai-A5u_Dvg8AWF5hEdVGA3O9_S9s&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQBi83yjbQDpIdrO5efXZwMJUSkLIPDzGeYkynb9NkZY6g&oe=6A68AE7D",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/700658301_2173955033393703_4079640358790926925_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SNV_kUjTyNgQ7kNvwEd8iEX&_nc_oc=Ado9_F4b-bY100N-LpIvU2VeDidCCBMk2zxab5sj7DS6XlZm4-HoBMhDWD0Pov_Cdws&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQCiMyjfWYh9JtbLHZEt9Bhz4SUp_Wdvj1yOwHdcemK3tA&oe=6A68AE38",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/701216603_1362079845773571_8388348606247888187_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YupDkJhu_ZUQ7kNvwGy77EO&_nc_oc=AdqgmRvBYQEZJehP4mSTX4xVCFlxLP-QIhVwXvqyfHKtWLzfWEAvvGu5o4cEEUPTucY&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQD0a7LG__AOC1AL5Ax9FW_YFNAVcTI_C97gAOzfCfj3oQ&oe=6A68B5B0",
+        "https://scontent-sea1-1.xx.fbcdn.net/v/t39.35426-6/701254499_1594132112135837_8964696037007864218_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MXZ_hdwrySIQ7kNvwHupZUz&_nc_oc=Adq-pMB5nXcHsueDq4YoYZPSna_K4WeeiCRrvzTxiJABw3nuhCxfv_CU-l_rp-hf1Ic&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQDgvT8U4MblaIpDd6zV3qg7wbNibvUEfxb2LMadYMSWtg&oe=6A68A96A",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/700555317_1270275431888417_698097917048737840_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GaXFzOfv4rkQ7kNvwE-fDBM&_nc_oc=AdoyRgWHSR4J0lBn5GDZfN9-TnrYqjz8Wu2iD5Kqmzvx0O4TzjRmvk96UkIQpoiS5As&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQDuFt56rfwtPHKEtNgNXr_9NPa8pXqtxG3Bqb3E5PyRSQ&oe=6A68A4C3"
+      ],
+      "landing_url": "https://gymcoding.co/vip"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-07-24T02:36:27.167695",
+      "page_name": "dlab_pyeongtaek",
+      "ad_text": [
+        "7세부터 성인까지 총 3주간의 몰입 캠프",
+        "자세한 내용은 안내문에서 확인하세요 :)",
+        "등록 및 문의: 031-664-0432"
+      ],
+      "image_urls": [
+        "https://scontent-sea1-1.xx.fbcdn.net/v/t39.35426-6/736384551_1339890435008022_6047025367111093305_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FQJVbwe7zcIQ7kNvwH-xVVD&_nc_oc=Adqqrh0T4VVjBIu8vsbVFPiIAoUQg943VRrvYFf02LgpCeV-5quCtzO9GQMjzDSnFZc&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQBOVY52fRQk3kUL-TkjLJf2n1XM7Yrr0z_Vy7MigxK20A&oe=6A68A6C0",
+        "https://scontent-sea1-1.xx.fbcdn.net/v/t39.35426-6/735525430_3398073013710109_5657171498290347865_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qkUZSTy5tmgQ7kNvwECmY_P&_nc_oc=AdqlqDHezdxHBKIq8LUKz1KOzqSiTL288y-mtr-eat42fdpPHxszC-YKyZMu3Fxx8sg&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQAJrGV3eVj1dPJrMAEKssMZXsA2exBTSVvQGHMggIA5Uw&oe=6A68BD65",
+        "https://scontent-sea1-1.xx.fbcdn.net/v/t39.35426-6/736289600_1445412547422991_2161825018564377519_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6evO1rmal_EQ7kNvwHolK2Y&_nc_oc=AdrORMbPYYPakbQxNn-W7OrVUFJ64FhvBsh8tY-LClixcuPTXE1eFE70x75zaWnBUCo&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQD4ordQlxmmzC_ob8x4O-AfKFSj45LeaIjGG4McAvAUnA&oe=6A68A279",
+        "https://scontent-sea1-1.xx.fbcdn.net/v/t39.35426-6/736659258_1510276666893105_5514962598650345341_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2AFUFxGC3T8Q7kNvwEeCPEy&_nc_oc=AdqgmjsRxSM581IQrx4GE1jNKR9Lbl3WF3Ean3G6gcmjrM3npnHkV9Q7BzsHc8kCXfM&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQBMDagJC96kfNORX3Pr1jG0I0kIphTiiST5EjjVppMdTQ&oe=6A689902",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/736273127_2317757475701208_6572239800219803093_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c0uZZhKhaToQ7kNvwFDIAzi&_nc_oc=AdpzOrh08pD1NMiI0dpeeJupA5U19X50fq0spydeItFVvG09XpgtQi5wbEPHkKIJ9aU&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQCbwWEmr5y_zIxdvXFViExzWHfiSc-CqrVQPVhTfdyFnQ&oe=6A688CDA"
+      ],
+      "landing_url": "https://www.instagram.com/_u/dlab_pyeongtaek",
+      "permanent_image_url": "https://i.ibb.co/zVs9q3hK/dlab-pyeongtaek-9dcba0fe.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-07-24T02:36:27.285538",
+      "page_name": "Remaincareer",
+      "ad_text": [
+        "UXUI 취업, 이제 디자인만으론 안 됩니다, AI를 더해야 뽑혀요",
+        "비전공이어도 4개월이면 취업에 필요한 포트폴리오를 직접 만듭니다.",
+        "부담은 나눠서 시작하고, 상담에서 결정하면 수강료 10% 할인"
+      ],
+      "image_urls": [
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/739101073_27368051486208383_83627636304102230_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xYTbtfiAcboQ7kNvwF2IRhP&_nc_oc=AdrWjKPaiRYegeuZraL32XpZqhQhRWgt2VIrgypSTLYweiETVYfMO1ltt6qRFX4xI8k&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQBTsdcDXbEBYrZGh6qmBSfsC_ViyusKqsZLjecmP4GdZQ&oe=6A68B31E",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/738853994_998236439627287_8669437452183322458_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zIDOk99bdRYQ7kNvwH1AdDp&_nc_oc=Adqfka7teG5t5T_ow1ktI0ax8gSbfQsJ61mb_BGrVej9tSxegPYbvp2NgMcnDVW_nl0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQCjM-P-c0jf8GGMq18HjHDFnMZdeKDMhsOFJAWF7D10cw&oe=6A68B286",
+        "https://scontent-sea1-1.xx.fbcdn.net/v/t39.35426-6/737412697_953570207724956_8600329508315680878_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tfczWV9CpGIQ7kNvwGU1zZk&_nc_oc=Adrtn0_GoBEcfR-y9P1bkjfOI6aq92rpuAmU2eMKnktk5L-7KYtsiAdysFxGQSKx6Wk&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQCaYRxBUs49zll65ewE6noxY6l3BAa51-VFCf-2lGE0aA&oe=6A68999E",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/739553155_1544751550513824_6808968559280240920_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=55h9DWQd-sMQ7kNvwFNWXSN&_nc_oc=Adqb6xswWFjsXAmja3LZgI79I9uLJYc8jkA5fexDX8LZ1OBzrVT7OmEKhKEBYvHXnyg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQASqFnLqjgS25PrkIm9cTX4Bob7x2W0PUrXzwtOfW4rxw&oe=6A689B42",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/738142980_2469260813593493_968367724382844589_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vUHaf5EWEroQ7kNvwHFY00K&_nc_oc=AdoQfke97BV7vYGc6l7kSWV5KnrJ1xjC5W5RaApJmYtN77nvj5OxvwNtgHus9bTqnKE&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQCTF9-Mj8kRxerpFZjQRtpE1Dew9reC3YEPxjxTI8g4yA&oe=6A68A2C0",
+        "https://scontent-sea1-1.xx.fbcdn.net/v/t39.35426-6/732985141_1923052155033824_1228835988068059512_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G2kkcveFsagQ7kNvwGhSrZC&_nc_oc=AdoDGQdPUEu3dkw1sNC8XQk8tYPSmQI09FBgbG0Y8ac2dDPe0lK5lFA135CYxyUCFzA&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQB42LRIYyui-xOwxbqf_b224JL3sAgikzrTmAJr3sP7ZA&oe=6A68B6C4"
+      ],
+      "landing_url": "https://www.remain.co.kr/shop/item_class.php?it_id=1618558964",
+      "permanent_image_url": "https://i.ibb.co/Q7my41YK/Remaincareer-90026732.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-07-24T02:36:27.419265",
+      "page_name": "디랩코딩남천학원",
+      "ad_text": [
+        "☀️ 여름방학, 게임만 하는 시간이 아니라",
+        "디랩코딩 남천캠퍼스 여름방학 코딩 특강을 소개합니다!",
+        "코딩의 기초를 배우고 나만의 작품을 완성합니다."
+      ],
+      "image_urls": [
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/726405223_1316837100608829_4973193506045443365_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4oXD6_33sQ4Q7kNvwF7j8cB&_nc_oc=AdqzzvEZIaAnQoz8kEWUU3JLie0TcOsDsab2_t7TCBhA1oIMWwp_HAtdyJv5vf4XxA0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQA4_ryHFcwG3sh2cj3xqN3LDZ7T9lGYr2t8jd_EdPeRzQ&oe=6A68A95D",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/724672867_1005780972060361_3010075168595099907_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=t7cYdtHLlccQ7kNvwGABSQt&_nc_oc=Adq7EeJpdIVaWlgiQ82xiFVNvZkexjSPJvaqAE1IQahVw63vjKPSP2H2cEfpIFg-Nx0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQBE3y967hNJjn4CaH4AzAv-sU7wMj1c9DvGhSh23aaZbw&oe=6A68A9FF",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/725105740_997673493076066_8041565202861105630_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q522WbD0nLMQ7kNvwEiaGX0&_nc_oc=AdqQy1RqleJu-xy_DOTU3uua8BT7izOFTYo58y9H4siu0N-hdIHu4ssxzzS1RyifSdw&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQD99LWy_n7Z33hMbkcC0JAPLxe3hNL8S7mItDQe6UWPdw&oe=6A68A9A3",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/725860110_1483884602941449_6174816409328178102_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VmT8_ZZhEboQ7kNvwFy2OXP&_nc_oc=AdqdYnEfogAwOe5WtcJLUyx9TakhL6WcTdzjmmGw13EJffwXXpQMZAJw4PZihk9nTUg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=ic3HuYAORgjRVSUDaAAo4w&_nc_ss=79289&oh=00_AQBRwBfFker24uLewbp1_fBtBiiKLxCG_yQ0BA39d9Rabg&oe=6A68AFFE"
+      ],
+      "landing_url": "https://m.blog.naver.com/dlabnamcheon/224318940036",
+      "permanent_image_url": "https://i.ibb.co/zhh6gjqY/d73f8a21.jpg"
+    }
+  ]
+}

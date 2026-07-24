@@ -1,0 +1,123 @@
+{
+  "collected_at": "2026-07-24T02:36:00.874584",
+  "query": "업무자동화",
+  "count": 6,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-07-24T02:36:00.045384",
+      "page_name": "인프런 - 기술을 배우고 나눠요.",
+      "ad_text": [
+        "교육 예산 안 쓰고 직원 AI 교육 끝!",
+        "중소기업 인재키움프리미엄으로 AI 교육비 90%를 환급받으세요.",
+        "🎁 6시간 완성 · 기업당 연 500만원 이상 지원  · 구글 폼 30초면 신청 끝!"
+      ],
+      "image_urls": [
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/672671835_1606507290618212_282028020038275878_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1Ak0vSCH5pgQ7kNvwELjXKZ&_nc_oc=Adq78wfmSrAHcFXBbAcK2NNAu5Oi0UjjVyoTy9abLkOoehMKZbuQE2yAjMxh1ErxiCs&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQDJ3m2rU_L5akc1kQ4lm3hVtwW_L77GaFWSoWjXhsHvWQ&oe=6A68A164"
+      ],
+      "landing_url": "https://www.inflearn.com/tag-curation/skill/small-business-subsidy?utm_source=facebook&utm_medium=b2g&utm_campaign=traffic_b2g_2604&utm_term=SB_hrd_new&utm_content=260415_ai-course"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-07-24T02:36:00.107485",
+      "page_name": "AI 코딩밸리",
+      "ad_text": [
+        "😎아직도 챗GPT한테 3시간씩 물어보세요?",
+        "스스로 일하는 에이전틱 AI, AI코딩밸리와 함께!",
+        "🍀 7월 럭키한 당신, 당첨 되셨습니다!"
+      ],
+      "video_urls": [
+        "https://video-sea5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPpr3riybNBWIKfEsB3W88g3qIl6DCeCvxCUkQtUoJ1dZQCXa79mPXfNQQcAUYbyz7hNz1bZNMhFHK6s-3MthaYBCUSPyWw5h6MyqPVFg.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-sea5-1.xx.fbcdn.net&_nc_ohc=dOIHcKdjfSgQ7kNvwEQEVjq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mjc4MTg4NzczMzQ0MTUzMDEsImFzc2V0X2FnZV9kYXlzIjoxNCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&_nc_zt=28&oh=00_AQCYARi9pjmZ7_BffGC2mmjooCYd6suBdOTZvt2ctmxxgQ&oe=6A688E5C"
+      ],
+      "landing_url": "https://www.codingvalley.com/ldm/7"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-07-24T02:36:00.155124",
+      "page_name": "동아비즈니스리뷰",
+      "ad_text": [
+        "🌱AI 처음이어도 OK! 생산성을 넘어 수익성까지 만드는 AI 활용!",
+        "데이터만 연결하면 해결되는 AI 템플릿으로 업무 효율을 극대화하세요!",
+        "이번에 큰 혜택과 함께 ⭐️Business AI 멤버십⭐️ 연간 회원을 모집합니다!"
+      ],
+      "image_urls": [
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/669297751_1848054962537952_7176538412418557879_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MtovMN-uqYwQ7kNvwFS83f1&_nc_oc=AdpcZDDxNpUz2T1EEqi5zqE32Tx3_fKjP7xG0Jd-C6qZcUqKpb8nCmYHrGL7aAdImX8&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQDrs2jU1sui1cSn9grDhd8_Ixx6xWxWoW-npiQ7wVYPwA&oe=6A68AC2B",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/669680031_947113291030370_8002612221410456685_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QF3q3syak9MQ7kNvwHVb5Bf&_nc_oc=AdrCgf6bC9e51WCvPaLotIstQArNnIvBLpqSeaLsM6ZVmJPBwhGpnAHdmbJWvlJ3sgE&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQBdcU1xG7FNFt3iDI8LPgajtEt6bjsObLBKnuXJwQAolg&oe=6A68A1F5",
+        "https://scontent-sea1-1.xx.fbcdn.net/v/t39.35426-6/669554520_979222514547022_3043140581276990395_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yLMeWhKToZcQ7kNvwGVYZJ8&_nc_oc=AdpAiD8oF00WACK_R25LVY71A9YpDBikEObGw3zaEbdrKiQMe_yI-eiZi2px-7YChZQ&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQDQsQOVs7i7X-CrEnHT2tmCO3naA7twvBxC4Yjbb9wAHw&oe=6A688721",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/668276389_973868085100065_3146687537222248449_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gF67RbGbDwwQ7kNvwE5UhsN&_nc_oc=AdoM8MiX5sAJFuoYci4NEBt2N1y_tzhHzJYZtoQCpk4GtXtyZQD9HRYohyI1-z40oIs&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQBi8b1gu-hWrgJzFzo3z0HsWlHe4OYZAjc_MbLOI7jFbA&oe=6A689FD6",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/670327265_1257023643178924_6301881018375827807_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=73GT3UvsI4AQ7kNvwHtp2Iu&_nc_oc=Adp8chu_SJkZRNPF0z3yHWNjhfpUdabMzVgmeRKfyL4W-gB8aHqX6qPVw-jlIK2JH2s&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQBU7pzivmepNs0mOIqqdVV86XHTfaiXOzJWwionOURXSw&oe=6A68B553",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/669761124_1516024806801831_3621012215938615177_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ch1zdk4wqIUQ7kNvwHYSZWx&_nc_oc=AdpDC2QA5DilA2VxblNi1ybgrc33WZ-or9yKMpKUTzEGgqJvXXN5KeGw2F8_LFB5Gnw&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQCGRG1CGrTnK5Hq7KrdOG2Vl1kwkCRY34Ko8RglEh1atw&oe=6A68956C",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/667088441_1289569033103696_45776583082702685_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GD80LJalcUYQ7kNvwFu4PcC&_nc_oc=AdoT8EWobmOoID_toBlWSphwlACDwGNM1M9kmWm4Y1pjZGreb5AxYHBGEKt3AauqriE&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQA_sJ0DKJ5-mZJV7rXcB-Eor7OeHHupJDPV9Gsvm5ekDQ&oe=6A68B921"
+      ],
+      "landing_url": "https://www.dbredu.com/pubedu/aimembership?p_menu_group=2&p_menu_id_sel=pubedu260324161721&utm_source=facebook&utm_medium=sns&utm_campaign=UT&utm_content=DBRedu_260410_facebook_CC_UT_BusinessAI_m1&utm_term=multi",
+      "permanent_image_url": "https://i.ibb.co/5hv8ZHNQ/9ffdf081.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-07-24T02:36:00.311748",
+      "page_name": "Metanet 메타넷",
+      "ad_text": [
+        "조직의 업무에 AI와 자동화를 성공적으로 안착시키기 위해서는 먼저 ‘워크플로우’부터 파악해야 합니다.",
+        "기업 현장의 업무는 문서화된 절차만으로 움직이지 않습니다. 부서 간 협의, 담당자의 경험, 중간관리자의 판단, 예외 상황에 대한 암묵지에 의해 운영되는 경우가 많습니다. AI를 실제 운영 체계 안에 배치하려면, 먼저 이러한 업무 흐름을 발견하고 구조화해야 합니다.",
+        "이때 주목해야 할 개념이 AI 워크플로우입니다. AI 워크플로우는 특정 입력을 원하는 결과로 전환하기 위해 반복적으로 수행되는 의사결정, 행동, 검토의 흐름을 의미합니다. 단순 자동화 파이프라인과 달리, 사람의 판단과 승인, 예외 처리 지점까지 포함합니다."
+      ],
+      "image_urls": [
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/752484591_1504602154314716_7830392804698427834_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Dp0EfY-CuvIQ7kNvwEbbwQ_&_nc_oc=Adp3oX46OFAhtWy1kuCNGoll3xdAo-qnQtwMA8aJn9k6Zc1dv1efC9-E17fpTOdU8Oc&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQCLp1pUBB_yGYeal9tw2ape7jCvR2vhBkR6SMSusOB7jg&oe=6A68880F",
+        "https://scontent-sea1-1.xx.fbcdn.net/v/t39.35426-6/750943290_1056532137070570_7252080061718461102_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WXcOxLr4w2kQ7kNvwE92Hoe&_nc_oc=Adp-TU4c5I_RZEcnwAPVIlj3xzZhH-FAK7RVgy4ZhRpaG6-dmwGVgf3q0bzz151298I&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQDuIOKHbtnnYCEeDvbLv_zhE0hvbE7qfnQ7hyUygWSzgg&oe=6A68AC7A",
+        "https://scontent-sea1-1.xx.fbcdn.net/v/t39.35426-6/751041248_2227954284624662_7001532397674323742_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TbRPZlTkDl4Q7kNvwGfX2yH&_nc_oc=Adq_cgC2wIiSBK41n-UKQp-eLIWaZ1uDjldTW_bgb714u1QbNYehe1etdu2HSMzumI4&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQDdRZBKuMLYTlmKBIkGSg_sJS-xoQrq4CFfbLUvxe1RKA&oe=6A68B4E6",
+        "https://scontent-sea1-1.xx.fbcdn.net/v/t39.35426-6/751643437_1354052292886334_5004318858860983616_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MrZhmPwulHcQ7kNvwEUdliy&_nc_oc=AdrWBhkHib6TQSNPIh95tJ4KnlYoDm7Y2_yuxbquyH5c4Uo-dqj18aar28uMaMsCOAQ&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQDdwyrqv7f2ac0oil0byIk6Yue0b2FKI0ow8R04JJvdGQ&oe=6A68B1F8",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/749300700_2502616690184003_1106819358443023264_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YDRCIXR99pkQ7kNvwFA-9T5&_nc_oc=AdrfDTPcrKutDO7jgQFDZAyEHgVIjoRbVRMfXJR69lF8oAcWOZzo2a0gNSXNyh6nyoc&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQDeK53Ng8W8guCNjrw7wE9E8xhi93FjRnIHvfazitlomg&oe=6A68A3AF",
+        "https://scontent-sea1-1.xx.fbcdn.net/v/t39.35426-6/749354972_1588012692955433_3928836026611005473_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IuUxzDfETWQQ7kNvwEjplrj&_nc_oc=AdrfIZlGiKW9GLEsA2fHU_JIGcmFmhdFrmRCBuZ2BGn2_vHHrG6oz78IedNiv0sei1E&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQCJ0MtxreWkWKrU4qgMPNct31dTTRjHZ7nc0BmAn-B8Rw&oe=6A6897F9",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/746947299_997830313067336_928024861960659285_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=atePtiEZ410Q7kNvwGs19pM&_nc_oc=AdrG-XjmXGoN8iGm0SySSiaQ-B_FDs5AoIJYYW62LKYRuwe66qTOH7f8QI7Z-fgLdT4&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQB1Xk_jVJ5YDvwkqz2dSkneD1TVqUa6YMUtYTDzHI4zwA&oe=6A689646"
+      ],
+      "landing_url": "https://metanetglobal.com/bbs/board.php?bo_table=tech&wr_id=212&utm_source=instagram&utm_medium=paid&utm_campaign=turingpost&utm_content=ai_101",
+      "permanent_image_url": "https://i.ibb.co/HfcTGBX9/Metanet-6d87bb0b.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-07-24T02:36:00.461322",
+      "page_name": "도서출판 시프트",
+      "ad_text": [
+        "《챗GPT·제미나이·클로드까지 모두를 위한 AI》",
+        "어디서부터 시작해야 할지 막막하셨나요?",
+        "챗GPT는 들어봤지만 제대로 써본 적 없고, 제미나이, 클로드, 수노, 노트북LM 같은 도구들도 이름만 들어봤다면 이 책이 좋은 출발점이 되어 줄 것입니다."
+      ],
+      "image_urls": [
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/738117028_906581235795703_1815396763022315161_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iawaA5y23wAQ7kNvwFHvfHP&_nc_oc=AdrXcWSEneZ8Q2AVYMfD5th2JzA0MgtGE1qWeIYZCK6M-vUPcHh_wobW3V1jCc_zNT4&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQCBzHjunqWEfRPAWgoWBOBwWvH66oC_P2LXLYntdgVwnQ&oe=6A68B96C",
+        "https://scontent-sea1-1.xx.fbcdn.net/v/t39.35426-6/740611548_999159833013975_6445584675389154155_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=97CoOx8AoUUQ7kNvwFyQ5Ii&_nc_oc=AdouScwjazHczjEnZknFYE85bY3KOiV0cMVSf92kQa3tlJ_Wt4cXW1RD7XpfJYbYLxw&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQAm_qoGSCvjevN6xS6tha2ATOTJKyf7srPH9TFQxdzObw&oe=6A688CAE",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/737494138_2154268238470301_9059521695258761880_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-9XdKHo7PYgQ7kNvwFZ5w7i&_nc_oc=Adr4y3-vxnnMEFmmwFH3ZonsBCxWZb8uxWe3-6_06AMNbEzXH1uoR1jcKZwm27e_6lo&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQDEJTKnJVO1hOkZdHz0K_e7Q03qQmlS4MLZEMOrPBVPOQ&oe=6A689277",
+        "https://scontent-sea1-1.xx.fbcdn.net/v/t39.35426-6/738158395_1719122828975253_139564519047182261_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yUXCpNtKrccQ7kNvwHttaDm&_nc_oc=AdoB46iCTVm7GgavUQHXEMxh9HmEEzI6Kbl8B8eABUlN8OWgDp2IYGrdoIl5oHHAOdk&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQD4HVa7Nr_YLsvE69SBaAk8iI_j4DfdAArwZvypih9zBQ&oe=6A68A168",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/740659305_1340569304231966_3615541850808928846_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=u7uUkiOaB3MQ7kNvwFzyi2h&_nc_oc=AdoO1yr9OXr7m9rq_V439DKbCb8wpaxkMXVuAeGKWJdcih42h82QGm1x0JO90Q2JeiY&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQBIk0VHvzETBGzBl2eYRyfzOJZ4guc8sjP1oieXp4olQQ&oe=6A6888EB",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/741751511_1365531862193335_3837290588002786010_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=86Vdm4GjHBwQ7kNvwEL7IWC&_nc_oc=AdrKRwACf9eRGRAbLVAF5SW8ykfTEaB4JqNHSkyTnKTO2PXCAAPZ7PlKY0ZmLR0TSRc&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQBoLAO6NU8N8X59zMSPsZA28AkfUJGW5QQiqSrDq9xV5w&oe=6A6899D6",
+        "https://scontent-sea1-1.xx.fbcdn.net/v/t39.35426-6/741495147_2233102557531351_4366891976625622623_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vkCoTBx22HAQ7kNvwHT82Cz&_nc_oc=Adp0nrSyVr6fPYxrP3yUURHTI_-51jWaSagM4AuRgvdZ9ajMZqguMuQjFTFF5C-eIxc&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQBnLa_IXgkrG_n-sU-XQJrdADrNnKxVg-2wafKJ9CR6hQ&oe=6A68BB1F",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/742198227_1070662662057570_9071628731292659121_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r7mDNXDMn1wQ7kNvwGSj_MG&_nc_oc=AdrrYAfHwO5fyv4HI2ORpBNebGnAYH1Hy7KndLGUoVQdAghBD6GkKay6bIzZf61sIFE&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQDJJg5hifqlbP1fgYKrDPnNLa-Z9MxWFhflFBdXTEQ93Q&oe=6A68B600",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/740812689_1538226684709898_8440113445052227509_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tzot-YrtOlcQ7kNvwGN3Hth&_nc_oc=Adpm48Oqz3HpZNtc77WneGQN09rpY4dzfYHDbGr-gMbpOV4NHmD2PdVGWwyiK3dNH1Q&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQB7XG794q-lSNRdGoQA7MrmF0v8wyOyZBKq6J3PB5H5Kg&oe=6A68A253",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/741215816_1546761553907488_5500987943399039505_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x-79DVPYcEgQ7kNvwFLSGIm&_nc_oc=AdpqXQwtrjETx6l8MAbmq7HameMWer-oz2TEOOigVGhczBpC8DBwqXpZbX3k9DAk0F4&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQBeXnDZTQmdP9vsf23hXvtX_FMcbeSOr4hvw3HJ9fXWjg&oe=6A68914D"
+      ],
+      "landing_url": "https://product.kyobobook.co.kr/detail/S000220363675",
+      "permanent_image_url": "https://i.ibb.co/j9ZdNQm9/2ed3f2f9.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-07-24T02:36:00.665355",
+      "page_name": "Metanet 메타넷",
+      "ad_text": [
+        "조직의 업무에 AI와 자동화를 성공적으로 안착시키기 위해서는 먼저 ‘워크플로우’부터 파악해야 합니다.",
+        "기업 현장의 업무는 문서화된 절차만으로 움직이지 않습니다. 부서 간 협의, 담당자의 경험, 중간관리자의 판단, 예외 상황에 대한 암묵지에 의해 운영되는 경우가 많습니다. AI를 실제 운영 체계 안에 배치하려면, 먼저 이러한 업무 흐름을 발견하고 구조화해야 합니다.",
+        "이때 주목해야 할 개념이 AI 워크플로우입니다. AI 워크플로우는 특정 입력을 원하는 결과로 전환하기 위해 반복적으로 수행되는 의사결정, 행동, 검토의 흐름을 의미합니다. 단순 자동화 파이프라인과 달리, 사람의 판단과 승인, 예외 처리 지점까지 포함합니다."
+      ],
+      "image_urls": [
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/752642916_3278148769056952_2038142326561164418_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=w87p3tPIhvUQ7kNvwG6Wo-1&_nc_oc=AdoxMNPKfqzBo126Dijrv6iJRKtS6OP6Fer5uiixJ622RKJQgo6u2m1frrVEsxvPqNQ&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQAOxF93MB7tenQpz57RX6d1ILAPAJ5ayWK9_BbZfn2ImA&oe=6A68B4BC",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/749270161_1365701705527500_3187500681042677462_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XoZqgUu33ZUQ7kNvwGfPbrV&_nc_oc=Adq1HIjq3PNFgM_56dpQlsbtOXWcxfzD-ogXO64gOsNGEfK7gFc97eDk74vn6zqdQqs&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQBq0wuxeqk7sdMDlOygj6WPYVKnRNTrpFDh4-GUbJJkGQ&oe=6A6886AF",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/749354758_860926703507313_1656003963175881228_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wxc6SzqhAawQ7kNvwHZCKyg&_nc_oc=Adr-V1p1QLwUkjEW3dh2Qw0AQ-JknThsWUduvtgFtiNM41aSdBajUkNo8s1ihPI5fZI&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQAkfef3VPvZRO78Lj4DEYjhXvUPvnMhsC97QBv1P-JSDQ&oe=6A68979E",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/749315363_1048810534254651_8195437491689106878_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bOo-TCraPD4Q7kNvwFMeG4j&_nc_oc=AdpCRH1SO2xrLxZpiXGLB9M77juCLnc9PR94gv3K6eMhiHFY_EDTydMnVRWsi96FVcI&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQDvP6bXadNFcT46vwsvbdSIUbo87OCNhxf_atf16H4hMQ&oe=6A68A39F",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/749652207_1070526671977622_5383126458657841281_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hjNusmROO3gQ7kNvwFMv_6b&_nc_oc=Ado8K24LsF92ovaJxEEHr4SYqGlpNBQfYmZcnCSwLKqCCkEYuqOTkxVsHhgeElADo9s&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQDh-Z7-O8lPeviE94eRYnnysfzb6bHADjPiZy1LcxCRMg&oe=6A6895EC",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/750355805_1063429829585915_5612182031187869087_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=d_oOXx59ZJ8Q7kNvwGKTO86&_nc_oc=AdpuSULW5tmMl2RKSf9zJPyEmlsPFM35MHKApCCVO9dHleG-AQeoVqBuINYrQ8Fwo2E&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQCPalze9xri52sYUyPTsFc0fGs93eAaD6gU93Nhccczuw&oe=6A68A961",
+        "https://scontent-sea5-1.xx.fbcdn.net/v/t39.35426-6/749681386_1018637420777710_9058862003325457761_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CVwBCb6eDxcQ7kNvwGDeicG&_nc_oc=Adrm3jBpXKFaFY-cyWhRjqBsV40vUQuH1PvrPHvciAJOuB4vCEWvFg89zGSgN03DKtE&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=b0f9OrdniKG-Y-GQ8bZe9Q&_nc_ss=79289&oh=00_AQD-NgcOXLY3uFN3RfKMylLQ5UcG6ucp9HA7VbhHD0ENmQ&oe=6A688C56"
+      ],
+      "landing_url": "http://instagram.com/metanet_group",
+      "permanent_image_url": "https://i.ibb.co/1t67Ng01/Metanet-4ee5938f.jpg"
+    }
+  ]
+}
