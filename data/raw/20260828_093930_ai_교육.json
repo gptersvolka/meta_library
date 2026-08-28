@@ -1,0 +1,120 @@
+{
+  "collected_at": "2026-08-28T09:39:30.117739",
+  "query": "ai 교육",
+  "count": 7,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-08-28T09:39:29.723710",
+      "page_name": "교육 페이지는 한국디지털컨버전스협회과(와) 함께합니다",
+      "ad_text": [
+        "교육 페이지는 한국디지털컨버전스협회과(와) 함께합니다",
+        "HTTPS://FORMS.GLE/FG3K8PFMB4PD9HZ78",
+        "공간을 바꾸는 건축 설계 전문가로 성장하세요! 단순한 기술을 넘어 실무 역량까지! 방송정보국제교육원에서 시작하세요. 💻온라인 신청 https://forms.gle/Fg3k8PFMB4PD9hz78 🏡공식 홈페이지 https://www.iibi.or.kr 방송정보국제교육원 02-2658-1131 #영상제작 #국민내일배움카드 #방송정보국제교육원 #AI포트폴리오 #건축설계 #실내인테리어 #국비지원 #IIBI"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/730584671_1021499627095441_3345302827844876314_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rfbnYJUgPbIQ7kNvwFBWPJx&_nc_oc=AdrZlJvu2NJFWCf48EULP-yzp_-BQD3vLodVUDbQFNXJpRAcUJf-4L4POLo1P408dw4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Mphgs1uT1xI0NHkaWWGUoQ&_nc_ss=79289&oh=00_AQGFaP6nSKYeZsphk8pFPX7QcH3KNoI8uKB_DUOViyHuRQ&oe=6A970E66"
+      ],
+      "landing_url": "https://forms.gle/Fg3k8PFMB4PD9hz78",
+      "permanent_image_url": "https://i.ibb.co/QjD8zLcc/800c94ae.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-08-28T09:39:29.762405",
+      "page_name": "KAIST College of Business",
+      "ad_text": [
+        "KAIST College of Business",
+        "kaistbiz ★ 최고경영자과정(AIM)",
+        "AI를 선도하는 글로벌 Top 2(美x中)를 직접 경험하는 해외연수와"
+      ],
+      "image_urls": [
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/728828554_1661356328418487_7564101323386392397_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mEhExC9-V_0Q7kNvwGCplWO&_nc_oc=Adp4Rij7fhX48N9_Ocd_hmLkVcwh9BjXEiOn0x81ouvp3wviQGwcmv5kbmtRWmfuXyA&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Mphgs1uT1xI0NHkaWWGUoQ&_nc_ss=79289&oh=00_AQENlsatFwYyg95WhcNS9nAGT48d7qsazMflvYbppSmPTA&oe=6A971EAE"
+      ],
+      "landing_url": "http://business.kaist.ac.kr/executive/aim",
+      "permanent_image_url": "https://i.ibb.co/KjXhZKHS/KAIST-College-of-Bus-3058f782.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-08-28T09:39:29.800707",
+      "page_name": "원티드 wanted",
+      "ad_text": "이력서, 채용 공고, 연봉 정보는 물론 프리랜서 프로젝트까지! 신입 취업 및 경력직 이직, 커리어 성장에 필요한 모든 것을 만나보세요.",
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/653585595_960613643196221_3008972555080533069_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tuZ-NnbbKsEQ7kNvwFsZYvb&_nc_oc=AdpDDJRqKvpiBn1RByQOelqFXefMbsZocZKu7Ywr_cLuX7259dg9eb1u2eZW3lvF0IQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Mphgs1uT1xI0NHkaWWGUoQ&_nc_ss=79289&oh=00_AQEPCFKnSGve_aYlL7MxyiBjIgS4LWrPXezlCYdAXQaILA&oe=6A971049"
+      ],
+      "landing_url": "https://www.wanted.co.kr/wd/140031",
+      "permanent_image_url": "https://i.ibb.co/d4QRnsQv/wanted-72392b5b.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-08-28T09:39:29.833090",
+      "page_name": "한국IT 아카데미 구로",
+      "ad_text": [
+        "AI를 자유롭게 활용하는 영상콘텐츠 제작자가 되기 위한 정규코스",
+        "국내 최고의 AI 독립 프로덕션 블랭크코퍼레이션, 레드브릭스, 스튜디오에임이",
+        "참여하는 교육과정으로 실무 노하우를 빠르게 학습할 수 있습니다."
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/638101329_1236815488554363_2017693143644298768_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SNrL_epK9KUQ7kNvwHsL0G0&_nc_oc=AdqJtaAIcJ8LV1W-oQwcgezgMiotAYTiXUQYGIbdFph3j5aHHzCUACWLSPEMPCQ-qI8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Mphgs1uT1xI0NHkaWWGUoQ&_nc_ss=79289&oh=00_AQG5iQazvxcfYaCPw0htY31GcmT0z2F5c1FtSks7cNLM_A&oe=6A9723D0"
+      ],
+      "video_urls": [
+        "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNLTqYIq-sce59t9mG2aqqOgHUNOSXpOYd8DaNmIAm3JSvS_1_0FN5IbVbi8ite12sjMGw6h2KCJiFocwvCWLusAJ-bNNkQ-A7WHTxLLQ.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=6NfeGgszY4sQ7kNvwFiLqWe&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTYzOTQwMzIxNzA1ODgyMSwiYXNzZXRfYWdlX2RheXMiOjIyMSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Mphgs1uT1xI0NHkaWWGUoQ&_nc_ss=79289&_nc_zt=28&oh=00_AQGJ3xAlnB_rvtdBc-9ez0qTgT3SYWZIJbM4Cl8ljMCNyA&oe=6A972A51"
+      ],
+      "landing_url": "http://www.job.ac.kr/",
+      "permanent_image_url": "https://i.ibb.co/YTK4Cftg/IT-9bc00e9f.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-08-28T09:39:29.879488",
+      "page_name": "RO:SE - Review Of Social Economy",
+      "ad_text": [
+        "RO:SE - Review Of Social Economy",
+        "AI로 배우는 디지털 마케팅 실무 과정 💻✨",
+        "✔ AI 콘텐츠 제작 · SNS 마케팅 · 스마트스토어 실습"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/641412985_1987876602606049_7759386764137156677_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9BKleVAblTUQ7kNvwEJFdsb&_nc_oc=Adr3W2m0YVasfXmrci0VhI5yJIA4RAMcB97kjSmq_RotSTE92SqzvOK0ak8InAIy3IE&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Mphgs1uT1xI0NHkaWWGUoQ&_nc_ss=79289&oh=00_AQEGosWSrxuvZJtSXvFPhVovIK3KgyPdb131j_Rw7PzWwg&oe=6A972C51",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/641000274_1928691941108336_2619608453655367217_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FoxUkvTfUBAQ7kNvwGzeDuc&_nc_oc=Adocb36AD4GHc0H5sKH0R6F9sd7zIG0bwXwGyl4X6jwa2yEN1ZM5jOW_DJBtmM5cTPM&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Mphgs1uT1xI0NHkaWWGUoQ&_nc_ss=79289&oh=00_AQGqaIk8yVaVhpKaGn8h0gchr9eod5oeeft3F0c-R4q8cg&oe=6A971C55",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/628542839_1590145475572986_7396545603563171214_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iGPyU-JDhHMQ7kNvwGFa5hS&_nc_oc=AdpzZvZ6Fk8rdLI1_sFN9gIU3Qcasugnp3i9MBsMeJyAmoel-4StA6M3RIoSeFCP3HA&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Mphgs1uT1xI0NHkaWWGUoQ&_nc_ss=79289&oh=00_AQG_pr-2bCWmbLQGEaqZ0tQXdMOLtJInFjbF24fA97GxAA&oe=6A973BC9",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/639994035_5089210021331172_3838492144830117498_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=U_v0lRUCbZkQ7kNvwFCkkag&_nc_oc=AdqqkDykY_X7jRxWI1D0otfN2f-Z5QSxbk8AMTEaRUklyA3Nz1jQ1GiAI1ygK-pzuGg&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Mphgs1uT1xI0NHkaWWGUoQ&_nc_ss=79289&oh=00_AQElGIDi9ENXl99zh4UlvFgeux5717jvKtahdXlOywCrjA&oe=6A97210E",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/638422599_856336470747697_6356411064180296397_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=i3Z-RjRKclsQ7kNvwGdW34h&_nc_oc=Adq2FDClDwxsbJ90Tw9dJLlbxuypNQZrwQBa98E_wtO8Ll-Tp_mnjHCFlPflv0g_Rjg&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Mphgs1uT1xI0NHkaWWGUoQ&_nc_ss=79289&oh=00_AQGy264mxHRnlV_4_tkAxkiLOmDNTrpT3blFq4Wmjsl1CA&oe=6A971808",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/638394463_1797135317646627_4601752022972170620_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gBPG1qN6EuQQ7kNvwF2wNiP&_nc_oc=Adq5u-SrS5ZbeXEMkpv5mmKGbdmsio9W_b3TJ6s0rB_7DaNTlCG4bOMzaJBGyMpHcBo&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Mphgs1uT1xI0NHkaWWGUoQ&_nc_ss=79289&oh=00_AQFgaJwZtyiJn-fMvW5R5JFJEBv-VCKQTSpt3BYyF-fYQQ&oe=6A9714F9"
+      ],
+      "permanent_image_url": "https://i.ibb.co/d4wk193y/RO-SE-Review-Of-So-f305bc51.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-08-28T09:39:29.951315",
+      "page_name": "멀티잇 - Multicampus IT",
+      "ad_text": [
+        "자격증? 실무 경험? 취업에 도움 되는 교육?",
+        "이제 삼성 청년희망배움터에서 한 번에 준비하세요!",
+        "📚 직무별 실무 중심 전문교육 무료 제공"
+      ],
+      "image_urls": [
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/780775475_3746573138840184_2244701082483476368_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gIQimvr6QtwQ7kNvwH8RN2V&_nc_oc=AdpLi_5bSyg_YTyEWxg4luqIOPGvKpDUkXZ0UZJRC5-U9ykbXlmOJ7kYh9D0r65Ak7k&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Mphgs1uT1xI0NHkaWWGUoQ&_nc_ss=79289&oh=00_AQFmgVEUjHtKDPuAFFbv0QcagdEe7Bx1UVDvaZALRjn-6Q&oe=6A974600",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/781169836_1075201131875037_3298331089097261278_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yAoW-7adPToQ7kNvwGPtZ8a&_nc_oc=Ado0v9E2FCzGGe0BDFW3LiWEB5Wo_RqNfKkbVZQ-Wq5WO2Qj2Eegrbwc__GAor0Zoc8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Mphgs1uT1xI0NHkaWWGUoQ&_nc_ss=79289&oh=00_AQHhLdiF21C4AgIc9_tzmSEXfgvZMhw43v3KvKyM8yTMnA&oe=6A9723E9"
+      ],
+      "landing_url": "https://www.career-hope.com/?utm_source=insta2&utm_medium=CPC&utm_campaign=CPC",
+      "permanent_image_url": "https://i.ibb.co/BKKjqD66/Multicampus-IT-4c58c5f3.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-08-28T09:39:29.993062",
+      "page_name": "선도기업아카데미",
+      "ad_text": [
+        "DX(디지털 전환) · AX(AI 전환) 시대의 핵심 기술 클라우드 배우고 취업하자!",
+        "대한민국 대표 ICT그룹 더존비즈온의 기술과 경험이 녹아있는 커리큘럼!",
+        "더존비즈온 현직자 강의부터 멘토링까지!"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/772105417_1064693022717355_6458847493077763201_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=w1EwbZM_C4YQ7kNvwFxzsut&_nc_oc=AdpAx49uX3Dx8uidBt9rTD5Df2dHENAZ7BfzSvG-bVcuF0tByBAJFTlBLIetx40cawo&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=Mphgs1uT1xI0NHkaWWGUoQ&_nc_ss=79289&oh=00_AQFE6geR9sUo8IBIlLGI2ol-xEskKZN9XSTDNg8eQiaI4A&oe=6A971D5F",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/772443760_1537454334320550_4236194551464303619_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yHxrzOiiQo4Q7kNvwERwAdv&_nc_oc=AdqTOfXNUA9TzIOUACtxXG1xGWGKULD0gDpOaZ2SwC0bp7tSkO_mX2p3wJF-1COdRx0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Mphgs1uT1xI0NHkaWWGUoQ&_nc_ss=79289&oh=00_AQEt_0YGvokb2au8HuC2SsaX_XA9ckrDwQcGRhPqM8gZ8A&oe=6A97189B",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/774033641_1015908284648272_7762972700923097580_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KhqJwY3iAwYQ7kNvwGFVMt6&_nc_oc=AdpFhZbe4BKDOzM5KNFENcEl-9u4Fx_Mmbu3pTQW3MpjYBt8wesWUDvzKfE-hmi58dE&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Mphgs1uT1xI0NHkaWWGUoQ&_nc_ss=79289&oh=00_AQGHg-o0wKpK2DupY2wNRAzSMdal2a7vFNABxhFreenUhQ&oe=6A97389E",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/773123741_2396796591144635_3859466741768923449_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oaM5s2mo0_IQ7kNvwHPfFOJ&_nc_oc=AdriRBf-TvvrL_rzBlYxsimFB47m9B1ZBB0p5DaVEZLZzTXm5esIwhAy1GiA8_1Nw8o&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=Mphgs1uT1xI0NHkaWWGUoQ&_nc_ss=79289&oh=00_AQEi2YQVVy77vreWWbKr4QdAIKKbFuXwI6KeJ6xz0Zfcyw&oe=6A972FD5"
+      ],
+      "landing_url": "https://www.kdt-douzone.com/",
+      "permanent_image_url": "https://i.ibb.co/jP0CPhwR/33e7c3ec.jpg"
+    }
+  ]
+}
