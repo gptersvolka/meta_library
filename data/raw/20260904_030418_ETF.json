@@ -1,0 +1,211 @@
+{
+  "collected_at": "2026-09-04T03:04:18.446584",
+  "query": "ETF",
+  "count": 13,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-09-04T03:04:17.814221",
+      "page_name": "Firstrade",
+      "ad_text": [
+        "광고 • Paid for by Firstrade Securities Inc.",
+        "轉移部分或全部資產到Firstrade皆可享有最高$250轉戶補貼！美股交易無手續費、無期權合約費。立即加入Firstrade，將美股投資產品一網打盡。",
+        "限時優惠：轉戶到Firstrade，最高可獲得$250美金補貼！"
+      ],
+      "video_urls": [
+        "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOkfwNm1I59of9afXpPLaQdLXbQjPIebADwE7-1vz02bOagYP7O6LJzMt6zRnAHawKx3LgRF-GHYBgYzOEIVOo.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=8ikhkthEFicQ7kNvwFcgP1V&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTIyMzEyNTQ1MTY1OTU2OSwiYXNzZXRfYWdlX2RheXMiOjEyNTUsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=uSpLHWBegb6v-ER_LNcLBQ&_nc_ss=79289&_nc_zt=28&oh=00_AQKJFdECD2eES8DiTMscM4aLDSz6F1Aea4l2DL57bV-RfA&oe=6A9FF6A9"
+      ],
+      "landing_url": "https://promo.firstrade.com/zh-tw/intl/xfer250?utm_source=paidsocialch&utm_medium=facebook&utm_campaign={{campaign.name}}&utm_content=xfer250tw"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-09-04T03:04:17.849506",
+      "page_name": "우리투자증권",
+      "ad_text": [
+        "삼성전자 주식 or 3만원 상당 ETF 100% 받으세요!",
+        "제26-03674호 (2026-07-30 ~ 2027-07-29)",
+        "삼성전자 주식 or 3만원 상당 ETF 100%"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/765919600_1542455147615359_8818863151845827489_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=voecby78VVMQ7kNvwFigf9o&_nc_oc=AdqaILad3y4Qw94iUZQ3_1jw97vEgsdmuVdrz2X7_S9mKBf3Ay60AzyDPa3FlI_Qf-E&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=uSpLHWBegb6v-ER_LNcLBQ&_nc_ss=79289&oh=00_AQK6jII0hbvbIm8uXc6x22ChdgQQ6EmPeN0lcCgRPgw2lw&oe=6A9FF66F"
+      ],
+      "landing_url": "http://play.google.com/store/apps/details?id=com.wooriib.wonmts",
+      "permanent_image_url": "https://i.ibb.co/HL1yH6GG/532e9fb2.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-09-04T03:04:17.886129",
+      "page_name": "iHerb.com Spanish",
+      "ad_text": [
+        "✨ Tu bienestar, sin compromisos.",
+        "Encuentra miles de productos de marcas 100% auténticas — siempre frescos y listos para enviar.",
+        "Con iHerb, lo que pides es exactamente lo que recibes. 🎯"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/648961375_4283602775231276_1698435679004866575_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eTeKcSkSd8sQ7kNvwHWmnfH&_nc_oc=Ado5EpDqsy2hAFVlII5cF5JDKyoWK5kDDeuVEf9Dso1Wy-jUhu8ANPurg34Y-Vf6WkA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=uSpLHWBegb6v-ER_LNcLBQ&_nc_ss=79289&oh=00_AQL054SkFheOms2ILQgXkFTsOs1HE27cqu9bDldG8fWpPA&oe=6AA00AF4"
+      ],
+      "landing_url": "https://www.iherb.com/",
+      "permanent_image_url": "https://i.ibb.co/jkKcFRTZ/i-Herb-com-Spanish-84b94165.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-09-04T03:04:17.920185",
+      "page_name": "직장인의 모든것",
+      "ad_text": [
+        "회사 다녀도 내가 가난했던 그 이유...",
+        "챌린지 1기 등록하고 월급쟁이 부자되자!",
+        "20대 20억 자산가 🐰래빗해빛 튜터🍀와"
+      ],
+      "image_urls": [
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/600922857_2096156927793411_1969847858612294871_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZpBqM6OEkjsQ7kNvwHfoPXT&_nc_oc=Adr41d0moeffHJs4oPp43n7ZhX8H5JXtjCuyBAxGPQZsVPJfRkiOSwfqfoJ7wtEgXok&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=uSpLHWBegb6v-ER_LNcLBQ&_nc_ss=79289&oh=00_AQLfAlOVfb4odx3t4Ut6NJGB-Oyo0dTA75_-mnn9qpGEyg&oe=6A9FF749"
+      ],
+      "landing_url": "https://taling.me/mkt/rabbit_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=rabbit_purchase&utm_content=재밌게1억&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/bjLBN2bm/8e6126ca.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-09-04T03:04:17.959053",
+      "page_name": "퇴근할래",
+      "ad_text": [
+        "오직 월급만으로 20대에 20억 만든 래빗해빛과",
+        "‘60일 월급테크 챌린지’ 함께해요! 🐰 💪",
+        "매일 딱 한 번, 재테크 미션을 수행하면"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/599004321_3075030999351058_6284044378428700054_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tl9rzni-k0sQ7kNvwHRmzIb&_nc_oc=AdpevDPVJpcEjK7IhWQpwq2UUvzG-eAZr5qQT5UJoGdtZ_CsPyvd7M0X9HH0FdtNDk8&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=uSpLHWBegb6v-ER_LNcLBQ&_nc_ss=79289&oh=00_AQLox-jaBP7ExjZuP2udxHBcYVmWb3TmHCzrBrs7AaJ31Q&oe=6AA00631"
+      ],
+      "landing_url": "https://taling.me/mkt/rabbit_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=rabbit_purchase&utm_content=래빗해빛루틴&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/prwr8xCG/cd32a494.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-09-04T03:04:17.994960",
+      "page_name": "KB자산운용",
+      "ad_text": [
+        "우주 발사체부터 광통신까지 이어지는 흐름에 함께하세요",
+        "#RISE #RISEETF #KB자산운용 #광통신ETF"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/770354961_1396293172392503_5345170971117042264_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BYIFmNTpD0AQ7kNvwGSi4pU&_nc_oc=Adp8v3_kRx-UCiXac-x_hTsNGb5xSdseDFWyT43kLKhdnIAfbuBfBTCXkHT32rmlbKo&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=uSpLHWBegb6v-ER_LNcLBQ&_nc_ss=79289&oh=00_AQLw9vG4JX0mnNFttBwcBgJvpVPt5nf_CIN-usrPwfX8Kw&oe=6AA009BD"
+      ],
+      "landing_url": "https://www.riseetf-event.com/event36?utm_source=insta&utm_medium=display&utm_campaign=usspacesatellite&utm_content=ig",
+      "permanent_image_url": "https://i.ibb.co/219PqJxW/KB-11e54f7b.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-09-04T03:04:18.030926",
+      "page_name": "미래에셋자산운용",
+      "ad_text": [
+        "K-반도체의 성장에 미국 단기채의 안정성을 더하다💡",
+        "성장 잠재력을 품은 K-반도체와 안정성을 더하는 미국 단기채를 함께 담은",
+        "TIGER 삼성전자SK하이닉스미국채혼합50 ETF로 퇴직연금의 빈칸을 채워보세요!"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/783904281_2503403196750527_6353080624987748011_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1Oqb4c2Quo0Q7kNvwFmd1cl&_nc_oc=Adq86CvVu73pRs2-GGGe2Jd2Z91tpXmbVlPVYNPeHrIy0bVn3ZUztJoLLI4-E3xdelM&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=uSpLHWBegb6v-ER_LNcLBQ&_nc_ss=79289&oh=00_AQJE0mwSUXNN8DwjjXFCOLe0ufIdpsLKD9yB-MKUJg5iig&oe=6AA00121"
+      ],
+      "landing_url": "https://investments.miraeasset.com/tigeretf/ko/insight/hot-etf/view.do?listCnt=8&pageIndex=1&detailsKey=722&q=",
+      "permanent_image_url": "https://i.ibb.co/SX8wqWNk/e73c4613.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-09-04T03:04:18.064944",
+      "page_name": "미래에셋자산운용",
+      "ad_text": [
+        "K-반도체의 성장에 미국 단기채의 안정성을 더하다💡",
+        "성장 잠재력을 품은 K-반도체와 안정성을 더하는 미국 단기채를 함께 담은",
+        "TIGER 삼성전자SK하이닉스미국채혼합50 ETF로 퇴직연금의 빈칸을 채워보세요!"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/784242731_2479902292479369_1300748292202625370_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lir3gCkEiIoQ7kNvwHtIAx_&_nc_oc=Adqwu5AhFmHf6nPHPklJ1vnBf-hqoy2d79DTdbmkvH6W4Tibgh8qYaK8w1d5iW6ONHQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=uSpLHWBegb6v-ER_LNcLBQ&_nc_ss=79289&oh=00_AQJmBnLSgmJICML8mKpWa7qIh1Q1WwTwnLNfq_6PzS1-NA&oe=6AA00269"
+      ],
+      "landing_url": "https://investments.miraeasset.com/tigeretf/ko/insight/hot-etf/view.do?listCnt=8&pageIndex=1&detailsKey=722&q=",
+      "permanent_image_url": "https://i.ibb.co/hFGKsynj/31ee086d.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-09-04T03:04:18.099093",
+      "page_name": "Hanaro etf",
+      "ad_text": [
+        "원자력ETF, 전력 인프라까지 촘촘히 투자하고 있나요?",
+        "전력 인프라 투자가 다시 주목받고 있습니다.",
+        "늘어나는 전력 수요의 핵심 해법으로 떠오르는 원자력!"
+      ],
+      "image_urls": [
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/782599214_1368057882080911_4649882210379359854_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TXliNdYIwMcQ7kNvwGf9Trx&_nc_oc=AdoUxUonDkkW3o5bgjbjsEG36Fg71fcTQBw43NAVzC2z2usM4xLiMUpdBJEEoEKuB6Y&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=uSpLHWBegb6v-ER_LNcLBQ&_nc_ss=79289&oh=00_AQLmVSyZeP3MbBahzY3RJzR6QzyjIMpqZGnFRFFUoUEczw&oe=6AA01BC8"
+      ],
+      "landing_url": "https://blog.naver.com/hanaro_etf/224376497893?utm_source=meta&utm_medium=instagram&utm_campaign=nuclear&utm_content=image001",
+      "permanent_image_url": "https://i.ibb.co/fGXMsjCy/Hanaro-etf-380d4179.jpg"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-09-04T03:04:18.131963",
+      "page_name": "나무증권",
+      "ad_text": [
+        "비대면으로 간편하게 개설할 수 있어요!",
+        "1. 우리 아이에게 10년간 2천만원까지 비과세로 증여를 할 수 있어요!",
+        "2. 다가오는 NH투자증권의 공모주 청약이 가능해요!"
+      ],
+      "image_urls": [
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/746842264_972933185781191_6992559371139399175_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=thgruTnH3VAQ7kNvwH-Qalj&_nc_oc=AdqMO4MfL-mISflZp5URKp8a1oZeyOO59BPjk1P3YR5mDDLNKXji6iUxkayI1YSqvXg&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=uSpLHWBegb6v-ER_LNcLBQ&_nc_ss=79289&oh=00_AQJXGRIlFH6wd-H7cvTleQR1CebGQT-wpjLu41q000NITg&oe=6AA00ADD"
+      ],
+      "landing_url": "https://abr.ge/@namuh/facebook.business?ad_creative=2606_X_BNR_AO_NURT_X_CHILD-Habit_children&ad_creative_id={{ad.id}}&ad_group=CHILD_P_3554_INTEREST_CHILD_MO_FBIG_2408&ad_group_id={{adset.id}}&campaign=NAMUH_BR_Meta_ALL_MO_Conversion_Page-Click_2312&campaign_id={{campaign.id}}&routing_short_id=aahl00&sub_id={{site_source_name}}&sub_id_1={{placement}}&tracking_template_id=f48305d6e81b7bfbd9d63592e19512f9&ad_type=click&utm_source=facebook.business&utm_campaign=NAMUH_BR_Meta_ALL_MO_Conversion_Page-Click_2312&utm_medium=CHILD_P_3554_INTEREST_CHILD_MO_FBIG_2408&utm_content=2606_X_BNR_AO_NURT_X_CHILD-Habit_children",
+      "permanent_image_url": "https://i.ibb.co/W4vqBM5S/a71f1210.jpg"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-09-04T03:04:18.164332",
+      "page_name": "한화자산운용",
+      "ad_text": [
+        "메모리 반도체에 채권을 더해 변동성 장세에 대응하고 싶다면?",
+        "PLUS SK하이닉스샌디스크채권혼합50 ETF에 주목!🤩",
+        "✅ ‘고순도’ 메모리 퓨어 플레이어 투자로 메모리 반도체 퍼포먼스 극대화 추구"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/779084872_28278800138399411_458134578024283407_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TZoQYPSmmS0Q7kNvwFPKGpR&_nc_oc=AdqggxdWJv7w66wCgHbMa8vkrcTgH2zz1KutVzbQRQM91A2XO6Ms3hMmtVH9uihQbSA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=uSpLHWBegb6v-ER_LNcLBQ&_nc_ss=79289&oh=00_AQK27eU0m4jhf8NN78hvKnJdvog6hulxwNBJO-kTPjUOZA&oe=6AA01B38",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/780709351_2122817951953130_4095722314198488486_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GXVjKfnyI8gQ7kNvwH_pSlD&_nc_oc=Adrdzz_xSnXbhccho1Svz2HIDfXL1T19Yotl-ESieojmIpOLVyImV7cB8se4vPlNTiQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=uSpLHWBegb6v-ER_LNcLBQ&_nc_ss=79289&oh=00_AQIWjfvvHJXoGm6Mpbe49_wtzW-bsMnzF_YzW7j2Nh7_yA&oe=6A9FF5C3",
+        "https://scontent-iad3-2.xx.fbcdn.net/v/t39.35426-6/780443779_1631791701799986_2294339797370316994_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GJ-kh2M8_hwQ7kNvwGDdcck&_nc_oc=AdpwpgqG_dYdVoIEAkqmo4_Bt4DIkp_vL5NczpPE-LyNf_bEH3ER9r9XGqweM2hggg8&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=uSpLHWBegb6v-ER_LNcLBQ&_nc_ss=79289&oh=00_AQINQ__3JgaemP0DC_ORAGahknZj7WOi9muvTjxraPKTRw&oe=6AA006C4",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/779179904_27866212013005674_326067325233349477_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=W6Anoa66DtIQ7kNvwGNT5X1&_nc_oc=AdroKcpWbrIJRag7lHHnkWlwttMGN3wblSXfTNfkTBP1S7xL7Ah6rGJ2K0l6l3RnDRo&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=uSpLHWBegb6v-ER_LNcLBQ&_nc_ss=79289&oh=00_AQJsof_8cNFZYV9VQWlHJegswzW9r86P5neXSF61veGQDw&oe=6AA0187F",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/779158330_1689480618776746_4375985947586583854_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Rdl2ifitbxgQ7kNvwFreUgP&_nc_oc=Adr9w4ngs5ZzpgonupxN_kaSn-OlgMYcptQXpIgutpFFgoli8px55qCOZzcE5xh-b74&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=uSpLHWBegb6v-ER_LNcLBQ&_nc_ss=79289&oh=00_AQIiTKgNsqJ7Kb6Lq8zV4EG5yy-IkPa6s5UlYeo93x6H7A&oe=6AA00181",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/780087831_881358324846729_9111361228371465441_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dfc-wvsNtD0Q7kNvwErtXiT&_nc_oc=AdohH9l8NIqgVD8b_5mpQIU5AyjrvO6gJ1lGUVgIN-JdsqetI9iIMBSgXw96JX4QsKQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=uSpLHWBegb6v-ER_LNcLBQ&_nc_ss=79289&oh=00_AQJto2-sW2qt1kZyxL88inmrK9TJH6zLQ3ImncmG-nrt5w&oe=6AA0087B",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/778985958_4461243080784410_8222255594885951075_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NT-KPmPT1LMQ7kNvwExpC18&_nc_oc=AdoiDOyfyhpwa9hwbvfLpKZGI8djt9UOhF33MKiV_oRp_vBeMG9PiN7arV_0Z0e-hU8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=uSpLHWBegb6v-ER_LNcLBQ&_nc_ss=79289&oh=00_AQIdcvdIOiwmP2wejpbe2SWWaWxm9ivtPe-NELUQflwOjA&oe=6AA018AB"
+      ],
+      "landing_url": "https://m.blog.naver.com/hanwhaasset/224362890785",
+      "permanent_image_url": "https://i.ibb.co/6JtWP8z4/b5557aec.jpg"
+    },
+    {
+      "index": 11,
+      "collected_at": "2026-09-04T03:04:18.267001",
+      "page_name": "키움투자자산운용",
+      "ad_text": [
+        "모멘텀 전략에 쉽게 투자하는 방법은 없을까?",
+        "S&P500 종목 중 최근 1년 수익률 우수100종목 압축 편입을 추구하는(연 2회 리밸런싱, 내년 3월/9월)",
+        "KIWOOM S&P500모멘텀 ETF를 만나보세요☺️"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/777220493_37709420205371455_4447248544739701247_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7WpqvKJzCOwQ7kNvwHTeKE6&_nc_oc=AdqW7A7lxu_TFC8FMjVOhxkTmnAql3MphTUYpzi4hO0ahn72RZbEU__AwvbzaIETlMA&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=uSpLHWBegb6v-ER_LNcLBQ&_nc_ss=79289&oh=00_AQJ_BYMSR6_EGqr0niF6wVvs5ludSChZIlfT3w6RFB-4eQ&oe=6AA005C4",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/775281893_2122850102443012_1050888571331807173_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1uV3yyq75iQQ7kNvwEa7G7p&_nc_oc=Adq-UlGi0W8fYdrn2XaWGme0MTD7eJ2WeYnU8EzoBEUoU22vzrdU_C9Ne4lDDvyFN64&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=uSpLHWBegb6v-ER_LNcLBQ&_nc_ss=79289&oh=00_AQIvj8MAVyYbJcuo7BIfLmitseIF9FT5fwScrdr5xuDGxQ&oe=6AA0019B",
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/777381817_1549188937007154_1662025527327000209_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TMTn471DqYQQ7kNvwEC8Obr&_nc_oc=AdqORFCaXIocQ23Lbgl55N86OBm-3Sf2pG-GrnMtqmNCcYiPHfLEkD7xEf4Km-Bmu0k&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=uSpLHWBegb6v-ER_LNcLBQ&_nc_ss=79289&oh=00_AQLzXCmhv5BPfUqgzGNi_f8hR6h0BdO8KayFNvDEs3ZvjQ&oe=6A9FEDA2",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/778951255_1593747462395687_8055492686266591263_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Jtv_pDZRzPMQ7kNvwE_BbvF&_nc_oc=Ado2GzmcfiUCjcXLXghsvMkwORpv1_-WRUVQzIuW9twB9ceWL2LoOj8YH4qkePQIzjk&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=uSpLHWBegb6v-ER_LNcLBQ&_nc_ss=79289&oh=00_AQIGgwZoMtrSKmgNi1e5J8ozdd8EFERtVSRAQtVvXW1jYA&oe=6AA011A7"
+      ],
+      "landing_url": "https://www.kiwoomam.com/lounge/KI0502010102M?gubun=10&schGubun3=&schGubun4=&pageNo=1&kijaNo=651&schGubun1=title&schContent=&utm_source=META&utm_medium=DA&utm_campaign=META_DA_SPMO_REACH&utm_id=REACH&utm_term=NA&utm_content=INTEREST_NA_260818",
+      "permanent_image_url": "https://i.ibb.co/C5VLm3v1/b6c35a7c.jpg"
+    },
+    {
+      "index": 12,
+      "collected_at": "2026-09-04T03:04:18.336077",
+      "page_name": "키움투자자산운용",
+      "ad_text": [
+        "#EVENT KIWOOM 미국S&P500모멘텀 블로그 퀴즈 이벤트를 진행합니다🎉",
+        "✅이벤트 참여 기간: 2026.08.18 ~ 2026.09.18",
+        "✅당첨자 발표: 2026.9.18이후(9월 이내) 블로그 발표"
+      ],
+      "image_urls": [
+        "https://scontent-iad3-1.xx.fbcdn.net/v/t39.35426-6/778950304_1413711663956952_8113132400598281222_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5uIoWDVrXrMQ7kNvwGyPQFT&_nc_oc=Ado0LQ55LvLqCu1TU2PlFnhc1-JjQ3JPlfgPGvAAjdmg-LdzYsmQzHC5VwW4Tmk2EX4&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=uSpLHWBegb6v-ER_LNcLBQ&_nc_ss=79289&oh=00_AQJOmRZMLvV9IJUqg8QL9uPdASNBGI8EebuRumEVaXTC7Q&oe=6AA0216A",
+        "https://scontent-iad6-1.xx.fbcdn.net/v/t39.35426-6/780032444_2068381760442742_5903423830439831638_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_CXkE356enQQ7kNvwHrGi7m&_nc_oc=AdrtmTXihQJV5tXvatgCtX06KqNJWeDnO12eSSWJkPETojMy9uXL60oQJkQG_tftcA0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=uSpLHWBegb6v-ER_LNcLBQ&_nc_ss=79289&oh=00_AQJgRe57ZVjvYhdkrXmt9-35FkMjQ6miHa6wFg5oyFrjvQ&oe=6AA01931"
+      ],
+      "landing_url": "https://blog.naver.com/kiwoomammkt/224381792546?utm_source=META&utm_medium=DA&utm_campaign=META_DA_SPMO_EVENT_TRAFFIC_260818&utm_id=TAAFFIC&utm_term=NA&utm_content=INTEREST_NA_260818",
+      "permanent_image_url": "https://i.ibb.co/5WRkb1Sb/47cb9ae4.jpg"
+    }
+  ]
+}
