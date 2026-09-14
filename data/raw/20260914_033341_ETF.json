@@ -1,0 +1,214 @@
+{
+  "collected_at": "2026-09-14T03:33:41.168899",
+  "query": "ETF",
+  "count": 14,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-09-14T03:33:40.564208",
+      "page_name": "Firstrade",
+      "ad_text": [
+        "광고 • Paid for by Firstrade Securities Inc.",
+        "轉移部分或全部資產到Firstrade皆可享有最高$250轉戶補貼！美股交易無手續費、無期權合約費。立即加入Firstrade，將美股投資產品一網打盡。",
+        "限時優惠：轉戶到Firstrade，最高可獲得$250美金補貼！"
+      ],
+      "video_urls": [
+        "https://video-lhr11-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOkfwNm1I59of9afXpPLaQdLXbQjPIebADwE7-1vz02bOagYP7O6LJzMt6zRnAHawKx3LgRF-GHYBgYzOEIVOo.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-lhr11-1.xx.fbcdn.net&_nc_ohc=Wc-JpHWDJyIQ7kNvwHVhY2D&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTIyMzEyNTQ1MTY1OTU2OSwiYXNzZXRfYWdlX2RheXMiOjEyNjUsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=X6gI6qKlsswYzpjTsICztQ&_nc_ss=79289&_nc_zt=28&oh=00_AQLi07BS5k9oQzFEszjzCZfHK0yugGqOJCSlGFf4c-PMIQ&oe=6AAD25A9"
+      ],
+      "landing_url": "https://promo.firstrade.com/zh-tw/intl/xfer250?utm_source=paidsocialch&utm_medium=facebook&utm_campaign={{campaign.name}}&utm_content=xfer250tw"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-09-14T03:33:40.608585",
+      "page_name": "우리투자증권",
+      "ad_text": [
+        "삼성전자 주식 or 3만원 상당 ETF 100% 받으세요!",
+        "제26-03674호 (2026-07-30 ~ 2027-07-29)",
+        "삼성전자 주식 or 3만원 상당 ETF 100%"
+      ],
+      "image_urls": [
+        "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.35426-6/765919600_1542455147615359_8818863151845827489_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Eq_gemnBLG0Q7kNvwEycetB&_nc_oc=Adp7-jkFMRvsw6gUZzC7uaGOVi1ES0fxL9x4CEPSnNt-ebI4LvLJBTKkYUPG5rcb0_c&_nc_zt=14&_nc_ht=scontent-lhr11-1.xx&_nc_gid=X6gI6qKlsswYzpjTsICztQ&_nc_ss=79289&oh=00_AQLUOkW8Ga3N_OrAWJLhpzq012wPNFBkkkkn4HyzGWapRQ&oe=6AAD256F"
+      ],
+      "landing_url": "http://play.google.com/store/apps/details?id=com.wooriib.wonmts",
+      "permanent_image_url": "https://i.ibb.co/KcqbbyBq/532e9fb2.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-09-14T03:33:40.659008",
+      "page_name": "iHerb.com Spanish",
+      "ad_text": [
+        "✨ Tu bienestar, sin compromisos.",
+        "Encuentra miles de productos de marcas 100% auténticas — siempre frescos y listos para enviar.",
+        "Con iHerb, lo que pides es exactamente lo que recibes. 🎯"
+      ],
+      "image_urls": [
+        "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.35426-6/648961375_4283602775231276_1698435679004866575_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sM5cnRbhJoEQ7kNvwEfQjHC&_nc_oc=AdpqmN7RA9bfB5bFGcIIYbpcYySoznx1KjpjC65L671YMApx-KtFo5o6vIImgdG4f90&_nc_zt=14&_nc_ht=scontent-lhr11-1.xx&_nc_gid=X6gI6qKlsswYzpjTsICztQ&_nc_ss=79289&oh=00_AQJuSqg82zvuZSKjzwNk3WKYexvuIldkfvOldebMrSx0Sg&oe=6AAD39F4"
+      ],
+      "landing_url": "https://www.iherb.com/",
+      "permanent_image_url": "https://i.ibb.co/HTyTSmZQ/i-Herb-com-Spanish-84b94165.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-09-14T03:33:40.694909",
+      "page_name": "직장인의 모든것",
+      "ad_text": [
+        "회사 다녀도 내가 가난했던 그 이유...",
+        "챌린지 1기 등록하고 월급쟁이 부자되자!",
+        "20대 20억 자산가 🐰래빗해빛 튜터🍀와"
+      ],
+      "image_urls": [
+        "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.35426-6/600922857_2096156927793411_1969847858612294871_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Eov55VECs7AQ7kNvwHhdRWm&_nc_oc=AdqnCpjda00cpVdUm8PGuc0oeDnb7GZBdMqm0DbCjcTQVwpTk-1WmaIveZ0KaXilsig&_nc_zt=14&_nc_ht=scontent-lhr6-2.xx&_nc_gid=X6gI6qKlsswYzpjTsICztQ&_nc_ss=79289&oh=00_AQK34Ar0USi5qvb8tFc82ha3toSyRKsW3sXZ35BWlNyeVg&oe=6AAD2649"
+      ],
+      "landing_url": "https://taling.me/mkt/rabbit_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=rabbit_purchase&utm_content=재밌게1억&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/RTJhBtKr/8e6126ca.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-09-14T03:33:40.733591",
+      "page_name": "Webull",
+      "ad_text": [
+        "打開個股頁 → 睇圖表 → 揭新聞 → 再翻公告 → 20 分鐘後仲未睇完 😵‍💫​",
+        "打開個股頁 → Vega AI 總結已經幫你排好重點 ⚡​",
+        "💡 Webull Vega AI 免費用，無額度、無次數上限​"
+      ],
+      "image_urls": [
+        "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.35426-6/785146768_1044849864970364_5260490461524064384_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=X6ffWCcpyyQQ7kNvwH9uyDd&_nc_oc=AdoHjv6L1wByW96mDm0_GWUu23ihk79FoBfqPvy1uFKw79Lt7CDI5hvizb1MxKQIb4c&_nc_zt=14&_nc_ht=scontent-lhr11-1.xx&_nc_gid=X6gI6qKlsswYzpjTsICztQ&_nc_ss=79289&oh=00_AQIGGMzqCq2fiA4wgfybiwk5-OcLPfJnBqCvvBHaQ5acSA&oe=6AAD481C"
+      ],
+      "landing_url": "http://play.google.com/store/apps/details?id=org.dayup.stocks.hk",
+      "permanent_image_url": "https://i.ibb.co/wrMDzbFC/Webull-5ab85f0e.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-09-14T03:33:40.771153",
+      "page_name": "우리투자증권",
+      "ad_text": [
+        "LALIGA와 직접 만든 구매 불가 경험으로 초대합니다!",
+        "신규 개설시 3만원 상당 ETF 혜택까지!",
+        "제26-04287호 (2026-09-03 ~ 2027-09-02)"
+      ],
+      "image_urls": [
+        "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.35426-6/800945959_1055773737233358_2523412046057786521_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lA--v2r7bFoQ7kNvwFngz9m&_nc_oc=AdpjbwVE-UouXShknXcX0HVqtdRbMlFKt6jWAtokWUXsT9p8Az6KiYH-6X8F41Oltfk&_nc_zt=14&_nc_ht=scontent-lhr11-1.xx&_nc_gid=X6gI6qKlsswYzpjTsICztQ&_nc_ss=79289&oh=00_AQKbTS9HV0rgveRN-NzHaWtwSl5wYeoUo1qlzonWyj-hMw&oe=6AAD3E0C"
+      ],
+      "landing_url": "https://ROxUtWNYT0eTZ5uRm2ysLQ.adtouch.adbrix.io/api/v1/click/o4bK700f2EKiNGD7ZBNtwA?utm_source=meta&utm_medium=cpm&utm_campaign=da_laliga_B_traffic&utm_term=1844mf_interest_2609_laliga&utm_content=laliga_B",
+      "permanent_image_url": "https://i.ibb.co/WrqQRSZ/1d718904.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-09-14T03:33:40.807246",
+      "page_name": "퇴근할래",
+      "ad_text": [
+        "오직 월급만으로 20대에 20억 만든 래빗해빛과",
+        "‘60일 월급테크 챌린지’ 함께해요! 🐰 💪",
+        "매일 딱 한 번, 재테크 미션을 수행하면"
+      ],
+      "image_urls": [
+        "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.35426-6/599004321_3075030999351058_6284044378428700054_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yAmoEqw4eVQQ7kNvwFb4PKi&_nc_oc=Adq3MoTSSptGqAlBKFuQSuG9j6pzg2jdc5QPQT7uRcZwP_-fKwDH_EZhMG0tgHj21cI&_nc_zt=14&_nc_ht=scontent-lhr11-1.xx&_nc_gid=X6gI6qKlsswYzpjTsICztQ&_nc_ss=79289&oh=00_AQLfzQfBmZWJs18MJ4lhOM38UGu12MrA15RDQ3YmKH1XKQ&oe=6AAD3531"
+      ],
+      "landing_url": "https://taling.me/mkt/rabbit_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=rabbit_purchase&utm_content=래빗해빛루틴&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/RkJxcyWt/cd32a494.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-09-14T03:33:40.842393",
+      "page_name": "우리투자증권",
+      "ad_text": [
+        "AT마드리드 VIP 직관 기회⚽ (티켓,항공권,호텔까지)",
+        "LALIGA와 직접 만든 구매 불가 경험으로 초대합니다!",
+        "신규 개설시 3만원 상당 ETF 혜택까지!"
+      ],
+      "image_urls": [
+        "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.35426-6/801667744_2045192312788759_6272507377569853132_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=l2sfWRas6hwQ7kNvwELYEHH&_nc_oc=AdoaVPfQ5zTmBaZGvjPXT7RFFZv1E7L-7F1i9pDH66isHKqo6CW5ZW9e1GfMxKkiDkw&_nc_zt=14&_nc_ht=scontent-lhr11-1.xx&_nc_gid=X6gI6qKlsswYzpjTsICztQ&_nc_ss=79289&oh=00_AQLUrZfjn5uVv8i1FMX1Qs9k1j200kOfAVoT8inBTX6MFQ&oe=6AAD517B"
+      ],
+      "landing_url": "http://play.google.com/store/apps/details?id=com.wooriib.wonmts"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-09-14T03:33:40.876910",
+      "page_name": "우리투자증권",
+      "ad_text": [
+        "LALIGA와 직접 만든 구매 불가 경험으로 초대합니다!",
+        "신규 개설시 3만원 상당 ETF 혜택까지!",
+        "제26-04287호 (2026-09-03 ~ 2027-09-02)"
+      ],
+      "image_urls": [
+        "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.35426-6/801504013_994862593618601_6286369582060743000_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QCrQtVeBaQQQ7kNvwGuGO2J&_nc_oc=AdrlC42cZjX2d2dfcty7bxMZnKS52xuq_5cWfJox7e3xuDmZM80A1trMMtfpJ1ejxKg&_nc_zt=14&_nc_ht=scontent-lhr6-2.xx&_nc_gid=X6gI6qKlsswYzpjTsICztQ&_nc_ss=79289&oh=00_AQJgWc7DOuQ_0mWpJcu3uk3Qy93jTiRnrjteXAEwOZ6Ptw&oe=6AAD566E"
+      ],
+      "landing_url": "https://ROxUtWNYT0eTZ5uRm2ysLQ.adtouch.adbrix.io/api/v1/click/HWo6GSr9YUWsfL8ml6Vxig?utm_source=meta&utm_medium=cpm&utm_campaign=da_laliga_A_traffic&utm_term=1844mf_interest_2609_laliga&utm_content=laliga_A",
+      "permanent_image_url": "https://i.ibb.co/hFcGrJcd/c861846d.jpg"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-09-14T03:33:40.912471",
+      "page_name": "Hanaro etf",
+      "ad_text": [
+        "원자력ETF, 전력 인프라까지 촘촘히 투자하고 있나요?",
+        "전력 인프라 투자가 다시 주목받고 있습니다.",
+        "늘어나는 전력 수요의 핵심 해법으로 떠오르는 원자력!"
+      ],
+      "image_urls": [
+        "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.35426-6/782599214_1368057882080911_4649882210379359854_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0R6_qeWT-wgQ7kNvwF0cDuu&_nc_oc=AdpjxrNzA40Bsg4ircrgcRUR0QcgFrgjsgL-DyVn4UHCVHPnseOwPkQ3SQfoEa8hdzM&_nc_zt=14&_nc_ht=scontent-lhr11-1.xx&_nc_gid=X6gI6qKlsswYzpjTsICztQ&_nc_ss=79289&oh=00_AQKQdT7NcvBpqqbGW95iHnYZBFIkz1_usWW2gGXvVTMOLQ&oe=6AAD4AC8"
+      ],
+      "landing_url": "https://blog.naver.com/hanaro_etf/224376497893?utm_source=meta&utm_medium=instagram&utm_campaign=nuclear&utm_content=image001",
+      "permanent_image_url": "https://i.ibb.co/Kjv0h4Np/Hanaro-etf-380d4179.jpg"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-09-14T03:33:40.948266",
+      "page_name": "삼성증권",
+      "ad_text": [
+        "삼성증권에서 주식모으기 첫거래 이벤트 진행중 ~9/30",
+        "*투자전 설명청취 및 상품설명서·약관 필독",
+        "*이 금융투자상품은 예금자보호법에 따라 보호되지 않습니다. 다만, 예탁금 중 증권매수 미사용 현금잔액은 예금자보호법에 따라 원금과 소정의 이자를 합하여 1인당 \"1억원까지\" (본 금융회사의 여타 보호상품과 합산) 보호됩니다."
+      ],
+      "image_urls": [
+        "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.35426-6/772379002_1036384582603400_8527548298753198880_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nWBbsRDI3NcQ7kNvwHfVbSZ&_nc_oc=AdrQLEDweLIuIjlrssjn1kHO3lRqX9EtZ-6D1kZrndnZRvoP5F2U-j162sNlH42RhA8&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=X6gI6qKlsswYzpjTsICztQ&_nc_ss=79289&oh=00_AQI8fHGI5Rh3VIpzbqP6Lx9YYcEmCA4YxqXadP1G7tlPbg&oe=6AAD4583"
+      ],
+      "landing_url": "http://play.google.com/store/apps/details?id=com.samsungpop.android.mpop",
+      "permanent_image_url": "https://i.ibb.co/Kx0KnkHV/c13774cb.jpg"
+    },
+    {
+      "index": 11,
+      "collected_at": "2026-09-14T03:33:40.984896",
+      "page_name": "우리투자증권",
+      "ad_text": [
+        "AT마드리드 VIP 직관 기회⚽ (티켓,항공권,호텔까지)",
+        "LALIGA와 직접 만든 구매 불가 경험으로 초대합니다!",
+        "신규 개설시 3만원 상당 ETF 혜택까지!"
+      ],
+      "image_urls": [
+        "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.35426-6/801327437_2954274194908881_6289187613480137684_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Z7dgdI5z8YIQ7kNvwHQhTR-&_nc_oc=AdqCLhpxz7gxS67NeAVLoZpKqFw_8xlX0fgnOTSs33NB2aPEfPsFX3GnVfi82d1jBE8&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=X6gI6qKlsswYzpjTsICztQ&_nc_ss=79289&oh=00_AQIXiVEDbduIroR8GNhqJXHmCsMPFKF3R5JhCNU_mYGAEw&oe=6AAD241D"
+      ],
+      "landing_url": "http://play.google.com/store/apps/details?id=com.wooriib.wonmts"
+    },
+    {
+      "index": 12,
+      "collected_at": "2026-09-14T03:33:41.020724",
+      "page_name": "Hanaro etf",
+      "ad_text": [
+        "채굴비용이 안정될 경우 금값 상승의 레버리지 효과를 누릴 수 있는 지금은 금채굴기업 투자 황금 타이밍!",
+        "뉴몬트, 애그니코 이글, 바릭 마이닝 등"
+      ],
+      "image_urls": [
+        "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.35426-6/785463261_1605928847992769_6286950985508992076_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7YiFHNhzFvsQ7kNvwEKP4ta&_nc_oc=Ado07u8dm2Nfy2LTnWkNJSoUMDplv-gCGo7_HikjV8T5gY1abkz6BB1wpTbqdkgEJQY&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=X6gI6qKlsswYzpjTsICztQ&_nc_ss=79289&oh=00_AQJNl98XEWQcfbNu0_WDzoatpL09jwUvaOFpFM0wrhV5iQ&oe=6AAD31B6"
+      ],
+      "landing_url": "https://blog.naver.com/hanaro_etf/224374854144?utm_source=meta&utm_medium=instagram&utm_campaign=gold&utm_content=image001",
+      "permanent_image_url": "https://i.ibb.co/W4PsF53F/Hanaro-etf-fd46644b.jpg"
+    },
+    {
+      "index": 13,
+      "collected_at": "2026-09-14T03:33:41.059719",
+      "page_name": "키움증권",
+      "ad_text": [
+        "미성년자 신규 계좌개설하면 ETF 1주",
+        "이벤트 4회 공유하면 ETF 1주 더!",
+        "우리 아이의 투자 돌잡이 어떤 섹터 ETF를 뽑을까?"
+      ],
+      "image_urls": [
+        "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.35426-6/792324066_27898275569867900_5383830261521889205_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C8AHXDfza-IQ7kNvwGRD2SR&_nc_oc=AdqUzqlVaDN07oFSpNgf6W5efv7Iesrkk7OcyQT3lFgl0pEfEPprMsg5JPRZvnPBqGk&_nc_zt=14&_nc_ht=scontent-lhr11-1.xx&_nc_gid=X6gI6qKlsswYzpjTsICztQ&_nc_ss=79289&oh=00_AQIUad1PzZykDKyezjA-TKsbj5-B5LkU93B4-DUeaXrsIQ&oe=6AAD326C"
+      ],
+      "landing_url": "https://www.kiwoom.com/e/m/home/event/VEvent20260076View?from=206",
+      "permanent_image_url": "https://i.ibb.co/pvVzrmXD/d43f419b.jpg"
+    }
+  ]
+}
