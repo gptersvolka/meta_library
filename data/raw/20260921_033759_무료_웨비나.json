@@ -1,0 +1,248 @@
+{
+  "collected_at": "2026-09-21T03:37:59.283812",
+  "query": "무료 웨비나",
+  "count": 17,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-09-21T03:37:58.821334",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "직원의 90%는 왜 아직도 엑셀만 쓸까요?\"",
+        "AI 보급률 100% 시대, 진짜 필요한 건",
+        "'데이터로 증명하는 AX HRD 전략'입니다."
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/763177235_2477691339302981_8281501126007334912_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KeNeC_V0av8Q7kNvwFxH4Sj&_nc_oc=Ado3weMJSaP1puek7uwlwOCAR-uOWwhRgLsK6BqlYcfSdi5MFpFlee1qegT19BkZ99g&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQLqa_1OtWC4lruUs1nJvU0hVetw37esqbaUgT14Rzhraw&oe=6AB67F61"
+      ],
+      "landing_url": "https://www.ringleplus.com/ko/student/landing/event/detail/b2b-webinar-replay-bbg?utm_source=fbinsta&utm_medium=paid-social&utm_campaign=b2b-gen-ringle_webinar_replay-bbg&utm_content=b2b-jun-webinar-img-profile-copy09-11-0625-event_page"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-09-21T03:37:58.879268",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "“상위 10% 조직은 HR부터 다릅니다.”",
+        "적은 인원으로도 압도적인 성과를 만들까요?",
+        "‘누구를 채용하고 어떻게 평가하는가’에 있습니다."
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/725803949_854274381083976_7176897304232337778_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NffGSOkxzMUQ7kNvwHLQK4h&_nc_oc=AdqDvCe7dUMfk8rcXou4RedhB41SttuXySS564oA42OLH2gcVsHmtkWbOBjbK4tCrJE&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQJnHMgtB4NcPiyUtEdKIb7GHDoV1bihxdXqUZqQSrlVjQ&oe=6AB663AE"
+      ],
+      "landing_url": "https://www.ringleplus.com/ko/student/landing/event/detail/b2b-leadmagnet-1?utm_source=fbinsta&utm_medium=paid-social&utm_campaign=b2b-gen-leadmagent-1&utm_content=b2b_rm_lead-m1_01-img-11-0320-home"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-09-21T03:37:58.899841",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "🎥 [무료] HR 웨비나 다시보기 (+VOD)",
+        "실리콘밸리 C-Level이 직접 밝히는 HR의 정석",
+        "Apple, PayPal, eBay..."
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/722225521_1053348250352307_6182281361539340629_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4xq_DGsyzGAQ7kNvwGtjF-6&_nc_oc=AdqTWbush_VRiktkaJU01VbwKOChDh7bGAr77pdAEb2bnRe8iZgyUtEgC5aZMzFyTR4&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQKG4fT4j0WjoGhQCr9vPBX8F6rF0x-aZKx_2ix14P2cTg&oe=6AB66E20"
+      ],
+      "landing_url": "https://www.ringleplus.com/ko/student/landing/event/detail/b2b-webinar-replay-jbr?utm_source=fbinsta&utm_medium=paid-social&utm_campaign=b2b-gen-ringle_webinar_replay-jbr&utm_content=b2b_apr_download-img-profile-jbr_who_03-11-0611-event_page"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-09-21T03:37:58.919976",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "✨ 국제학교 자녀분의 코앞으로 다가온 미국 명문대학 입시 준비…",
+        "미국 입시에서 Common App 작성은 곧 시간 싸움!⏰⏰",
+        "꿈의 명문대 입학사정관의 눈을 단번에 사로잡을👀"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/544995989_1311938777240584_7643198229873328322_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cRNrVPp82YMQ7kNvwEvw34T&_nc_oc=AdrYkP8SOsF8rgpCsfNrmcGm2FLgIiPy9zdMxK0zYETjDKC7Yd9CTpv30E69XjIcw14&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQICZeT2vFilIi4w3fCJ29SIlFRQeQT1Q-lbI_yFFsTj6g&oe=6AB6809D"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/resources/webinars-workshops/"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-09-21T03:37:58.939018",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "“HRer는 경영자가 되거나, CHRO가 되어야 한다.”",
+        "참석자들의 뜨거운 찬사를 받은 '전략적 HRBP'의 정석",
+        "전준수 연사님과 함께한 웨비나 종료 후"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/684803724_1660189674897423_4777158782069993995_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Wy2a_UxAd60Q7kNvwG9RBst&_nc_oc=Adr3d9JQ9ksRVoEgNcACcOA8WtjLvg9TRhz3vQCIfvOP_-vIlhZ6MfznZ8RYvotIq1w&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQIYGrQVK-t8AU9-ghhAlaT5ETrn9aiYupCcE9GopuB3vg&oe=6AB668F3"
+      ],
+      "landing_url": "https://www.ringleplus.com/ko/student/landing/event/detail/b2b-webinar-replay-jjs?utm_source=fbinsta&utm_medium=paid-social&utm_campaign=b2b-gen-ringle_webinar_replay-jjs&utm_content=b2b_apr_download-img-profile-jjs_who_02-11-0428-event_page"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-09-21T03:37:58.959772",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "🎥 [무료] 다시보기 요청 이어진 '컴퍼니 브레인'",
+        "\"AX의 다음 경쟁력은 더 좋은 AI 모델이 아니라",
+        "지식을 축적하고 다시 쓰는 조직의 능력입니다.\""
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/790386359_2269955460438205_927300806564155074_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Hlytj00YxisQ7kNvwFgzC4X&_nc_oc=AdpRq7UbsJugcP5fh5_oOkzrU8Y3TPyJbq1kTwLokb28aDrcQ6EwY-fuRynDWZ5-bC8&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQLIF0Z_-Xp4rT2b_CcankveAxYcPvPQl5rh5Qc7P6uyFA&oe=6AB6936F"
+      ],
+      "landing_url": "https://www.ringleplus.com/ko/student/landing/event/detail/b2b-webinar-replay-kjk?utm_source=fbinsta&utm_medium=paid-social&utm_campaign=b2b-gen-ringle_webinar_replay-kjk&utm_content=b2b-aug-webinar_down-img-profile-kjk12-11-0807-event_page"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-09-21T03:37:58.977600",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "요즘 실리콘밸리에서 인정받는 HR은 무엇이 다를까요?",
+        "BCG와 스탠퍼드 MBA를 거쳐 링글을 창업하고",
+        "서울과 실리콘밸리에 오피스를 둔 링글을 이끌며"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/794359929_805760605962364_6947332380342842608_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yLsmvZ4-AGsQ7kNvwHqTRih&_nc_oc=Adquo1309qcOoR_MLUBjuNPRchMG_g5ggUSvMPLse0UJQkuw4PVm5XxoomjtB1MFPnE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQIy38shq-pSEO3Wexih6KyWFCY4P48W8a6IfqjUPT15eA&oe=6AB683F4"
+      ],
+      "landing_url": "https://www.ringleplus.com/ko/student/landing/event/detail/b2b-webinar-260929?utm_source=fbinsta&utm_medium=paid-social&utm_campaign=b2b-promo-ringle_webinar-260929&utm_content=b2b-sep-webinar-img-profile-lsh01-11-0902-event_page"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-09-21T03:37:58.995936",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "AI로 일하는 방식은 이미 달라졌는데,",
+        "우리 조직의 채용 방식은 그대로이지 않나요?",
+        "‘누구를 뽑을지’부터 ‘어떻게 인재를 활용할지’까지"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/799251050_923793510343818_731402484550388955_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=W25rf183bX8Q7kNvwEBlL-I&_nc_oc=AdoMFh3L2DstVf9uJFRvyGhs85diCrOkfKf6zoN780QbL_oPdcerbnJC5CZHjOEV_eE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQLMtVCHA0zjsMQZedD5XIO8bcHySKTqqlgIKWaJanEU_g&oe=6AB66755"
+      ],
+      "landing_url": "https://www.ringleplus.com/ko/student/landing/event/detail/b2b-webinar-2601015?utm_source=fbinsta&utm_medium=paid-social&utm_campaign=b2b-promo-ringle_webinar-261015&utm_content=b2b-oct-webinar-img-profile-flexwork02-11-0903-event_page"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-09-21T03:37:59.014463",
+      "page_name": "바이마 스쿨",
+      "ad_text": [
+        "일본 패션 플랫폼 BUYMA를 활용하면",
+        "하지만 막상 시작하려고 하면 궁금한 게 생깁니다.",
+        "이번 무료 웨비나에서 한 번에 확인해보세요."
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/808959230_1846688096764691_9150123912921491973_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oTUFhRrdmqYQ7kNvwGAyhjK&_nc_oc=Adqr-QTH1RO5ySw6ZGQR9PJk8yhlBnzTuIBVPq6C7sA1xgRtauzMTzkwgBWCs-dyyhg&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQIZZybY67T2i4pU2SaaX9gcN0QOP-K359oPPQ48Wm5Qow&oe=6AB692D0"
+      ],
+      "landing_url": "https://neschool.co.kr/?utm_source=META&utm_medium=cpc&utm_campaign=winner&utm_content=9mo_threads"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-09-21T03:37:59.033074",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "🎥 [무료] 다시보기 요청 이어진 '컴퍼니 브레인'",
+        "\"AX의 다음 경쟁력은 더 좋은 AI 모델이 아니라",
+        "지식을 축적하고 다시 쓰는 조직의 능력입니다.\""
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/792764514_1106169772226664_4785137659227515335_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oqJwZv8ZTqYQ7kNvwHQzw7P&_nc_oc=AdoQXaSzJsP6Rdo-1J5o1esXttBBYHXUoE6e7cNnS4OvqrLkpgwnXVV3L8V9KZFSWEY&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQLQCkdZDRmDF6ngacy0RulBRlhQt6ZUK24gEZbpEfsJfg&oe=6AB6704A"
+      ],
+      "landing_url": "https://www.ringleplus.com/ko/student/landing/event/detail/b2b-webinar-replay-kjk?utm_source=fbinsta&utm_medium=paid-social&utm_campaign=b2b-gen-ringle_webinar_replay-kjk&utm_content=b2b-aug-webinar_down-img-profile-kjk10-11-0727-event_page"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-09-21T03:37:59.051310",
+      "page_name": "극단적 실용주의 - 공여사들",
+      "ad_text": "직접 만들기 어려운 업무 시스템을 통째로 세팅한 뒤, 운영이 '기준대로 굴러가는' 방식으로 바뀌었습니다.",
+      "video_urls": [
+        "https://video-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMEmqTwx1gDvAMJDmdbxJGNJ6NAZvLtWPx65YkxgZAvgpkhn1mQdC4_WDrTclksv5slH-CNBEDOvaLj7FKfnC7bXTsXFw0QrhoQQAHxRg.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-sjc3-1.xx.fbcdn.net&_nc_ohc=YmhIWQcnL-4Q7kNvwFqMMiU&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTAzMDMzMDY3NjY0NzUyOCwiYXNzZXRfYWdlX2RheXMiOjM0LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&_nc_zt=28&oh=00_AQIMe2bsZrn_sm8qZnJwxUK3gtrcemj4ITbyNnx9wKdRJg&oe=6AB692B1"
+      ],
+      "landing_url": "https://gongysd.com/system?utm_source=instagram&utm_medium=cpm&utm_campaign={{campaign.name}}&utm_content={{ad.name}}"
+    },
+    {
+      "index": 11,
+      "collected_at": "2026-09-21T03:37:59.069076",
+      "page_name": "에이블런",
+      "ad_text": "[AIog🎥] AI와 일하는 팀, '리더'는 무엇이 달라야 할까? 10월 1일(목) 웨비나에서 만나요!",
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/813817817_1585649680032503_5864231999002911395_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7-d3MXVDrnkQ7kNvwG7bWCH&_nc_oc=AdpF2WZbXL_Be0pk0m2ILX086eSZSJNincxQEk8VYxtr4JB5VLiJU_j2msW1zZH2kdA&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQL9ZtjAHUvALDf7uSaqm_z6qFQ4kp0ZDwACVlfmiXQ2PA&oe=6AB66654"
+      ],
+      "landing_url": "https://ablearn.kr/aiog"
+    },
+    {
+      "index": 12,
+      "collected_at": "2026-09-21T03:37:59.088507",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "📢해당 웨비나는 녹화본으로 진행됩니다.",
+        "한국인 NYU, UCLA 합격생은 어떻게 성공적인 합격이 가능했을까?",
+        "학교의 고유 결을 모른 채 똑같은 스펙과 에세이로 지원하면 100% 탈락"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/814034529_1115915427606565_3659936327897808180_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UjjeLce9niwQ7kNvwGmTTg3&_nc_oc=AdpeWtPqTuwJlMHAUHO0G-MlPJ-OoTDbx4hPajkmcabRTOKnYEqgfj1OmicofyqxTsg&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQKot00tJdf82CejkpsO_Kr_1BEtrt8UOxW73QezDOyEDw&oe=6AB66E36"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy27-oct-10-college-research-top-20-30-recording"
+    },
+    {
+      "index": 13,
+      "collected_at": "2026-09-21T03:37:59.107332",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "입시 결과는 완전히 뒤바뀌게 된다는 사실!",
+        "합격률 4배 UP 되는 스탠포드 합격 승부처",
+        "한국 학생을 위한 🔥 EA, ED, REA 얼리 공략법!"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/801101915_1731162428112876_4841691469186771753_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ismU_tMLk64Q7kNvwHIwEja&_nc_oc=AdpG00qyJ4W-gG9xTJC9ZA3YCmp6gtsmBZqOYFJ6nunpoWDkJfE5TxVRzu00DLC3CsU&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQLSgIwXyByZVp88uaT681OwZ6A-KFZbh7sCcRUi8oS-ug&oe=6AB673C6"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy27-oct-14-ea-ed-strategy"
+    },
+    {
+      "index": 14,
+      "collected_at": "2026-09-21T03:37:59.126523",
+      "page_name": "Crimson Education",
+      "ad_text": [
+        "스탠포드 합격자들 90%가 공통으로 가지고 있는 활동",
+        "같은 전공을 희망하는 경쟁자들과의 리서치 경쟁",
+        "나의 학문적 깊이를 차별화되게 보여주기 위해서는?"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/809729939_1079159421539118_2204528639849929533_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7AxTjdzMnOQQ7kNvwEVHKur&_nc_oc=AdoWadc4_l2Dxpi7uT2Z8KbvmCw66_X0vNZQoQf2LFrC1dDU3nrhJeJqujePOWuToUk&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQL-9O26I9dAIRgHJKIdmUXvd97mBIHTmkAcnPdhreyvgA&oe=6AB65D5D"
+      ],
+      "landing_url": "https://www.crimsoneducation.org/kr/events/fy27-sep-30-indigo-wb-profiles-that-hyps-love"
+    },
+    {
+      "index": 15,
+      "collected_at": "2026-09-21T03:37:59.144042",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "1분 스피킹 영어 레벨 테스트 OPEN 🎉",
+        "회사에서 영어 실력만으로 직급을 매긴다면",
+        "OPIc 예상 등급과 토익 예상 점수까지 한 번에!"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/790881198_1064146716337017_5169517916301173391_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gx30nfq1SocQ7kNvwG7anFy&_nc_oc=AdpftB32gofnexSIYo7nTjc1WuNHWC-fMUnzTKYh6fLzB_UAP7Vr9egyytlGBm0eBNY&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQL3jEBORWGH4PmPy3KWyslNVM-PiOJb6rdCIr2iQDF07w&oe=6AB6946D",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/790385980_1498312045658899_4349760667402042302_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H9CKIjIKk-IQ7kNvwHLywkO&_nc_oc=AdozQK0g29te2qB_W25__LSYQr4Hoy59bXogAECev1ef2adl7ZuT2b2cw1IRWC7xbqY&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQLkiCuFHLxvhw_g5xCT-9XkqS3fwbBeacYnn-jtZeCLLQ&oe=6AB67574",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/792237276_1780389932993225_8513702989113775092_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Xde91AJrojQQ7kNvwG7wtmr&_nc_oc=AdoovPsvJg9QHJ-fTam5ZIPpyFFlHtgF4ruC9kIEm-kXzQWIJt2GIXJL2V5batwX7_8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQKdu4hj9CWLoKtwe6iSgavM5aRZYu3dmCRTgftHFO0maw&oe=6AB689D3",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/790669416_28756723840602534_42930746526297261_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=u-KM5jfu4AQQ7kNvwFJ8zVu&_nc_oc=AdrKXsEqEAu8ClZ5VkFww3ezNrwK2sV2xuhvx0drri1vfnDdM_YKvxddcn-aMhR99Qs&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQLj1zTfonroCsX7RaFP0zw1AS9Ymx_D049fpwLYjypMtQ&oe=6AB66CB3",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/791145903_1766337364508193_3697516383612697294_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7Xwxyr9Exf8Q7kNvwHLLMyW&_nc_oc=AdrSOFM_ZHFoDTbWTp2PYaxdlHxLwL8aG9MycgoV505j5Rh7li_pbe1s6NuC6ho1xEo&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQISM1FWQUP85HwIAhPU2LbI_MfNtBbZKzKdXiGkSoZdGQ&oe=6AB68931",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/792718381_4618283925072355_1002862604519815707_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KueHv2YYTzQQ7kNvwF0nT-w&_nc_oc=AdqV8ijrVKKBFfgzGyoc4OPj9arCzJ3U9xXbOxjixa2sBkQZ4yJ2a-tE47k6qpPyETM&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQK43LWRNzwCoQG45uUtjmbiWCdvlErMWconJRUuNS2x2Q&oe=6AB68D8A",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/791096775_1434407648592124_248477795700969895_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KLDrWW0-2ykQ7kNvwFHeZnX&_nc_oc=AdpKGB1LPria1dgrIio4pCONDuePBmT_pKhv0pbueenftGCe4M1fPMMYyFTJ_OJ_3Kg&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQJdgDYUorJuJt8sbTSO2uTKv-iKC-i7RvTgk7lCv7FvfA&oe=6AB65F03"
+      ],
+      "landing_url": "https://www.ringleplus.com/ko/english-level-test?utm_source=fbinsta&utm_medium=paid-social&utm_campaign=plus-ko-kr-20260825-event-eng_rank_test&utm_term=ad_purchase-new&utm_content=test_home-img-20260826-kv-title"
+    },
+    {
+      "index": 16,
+      "collected_at": "2026-09-21T03:37:59.197474",
+      "page_name": "빌더스1452",
+      "ad_text": [
+        "바이브코딩으로 서비스는 만들었는데, 결제 알림은 왜 안 올까요?",
+        "기능을 더 만들기 전에, 고객이 돈을 내지 않는 이유부터 살펴보세요.",
+        "누적 사용자 150만, 매출 200억을 달성한 팽동은 대표와 AI 미팅노트 ‘Tiro’를 만드는 임은성 대표가 고객과 매출을 만드는 과정, 그 속의 시행착오를 공개합니다."
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/799283824_1469349088347704_4595754426387121962_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZIyS2RbvSfIQ7kNvwFZlnFB&_nc_oc=Ado2dg1j2U8cxQ2FBfIemM6FDYEeGH07Y--CDSZPXuykBos8LhLjY59dUlxiCFwAjhU&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQJKYPTd6J-BTyjAWciYlkfuAMI8onEjfcJZ_4VgSg24Zg&oe=6AB6621B",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/799831422_2037345313582870_2908265618231033858_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=y5hxiPQ9jmUQ7kNvwHJ3uLt&_nc_oc=Ado8YF0luRZaKZxqNokRxMqR6DYWp86rwvdOOxFR1r6KhgjfonRMDZ-VwbyRrz4m01U&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQLjws1hNB0m7_55OR3mzold_6qdhVmcBZvaxWfK_lJimw&oe=6AB66516",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/800643911_3156156604588310_4869504981486742143_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QZ7IaDfpntMQ7kNvwEUcbUE&_nc_oc=AdpgipXYrywF6OE3avXUGuP1-QK6UzIttZJ7LIW-PVt0z-ezW55YaSTwxPwapn_S92I&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQJANv5yU9WKkS1z-QPe3xivWEkpMa9kumYZBcRb4pSuZA&oe=6AB66BBB",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/800756017_1673092537600682_2185301864046708418_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ETdhgG5hZcMQ7kNvwGa_spT&_nc_oc=AdoEqv4dlNJKJUzw2lkEjMnmcuM1BDe-i_apIGyJ31gtYVik8DZbSchIDgN7AsZ5tVQ&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQLvPgvz4iBIcxprW7oXOyvw4lWscRQn4wrBd4nYemTJdA&oe=6AB679C7",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/799759970_1497895335394139_109950553346319627_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pSDKfzFohF4Q7kNvwHmB6GD&_nc_oc=AdpZAQBWpp09T3rHeBLRU2Pnlxb-EBfilsSls0az7BL7CKOuZl2nOepJ1VqHqMMu3tI&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ythQZ28l8kLUI6LmeFjT1Q&_nc_ss=79289&oh=00_AQIWp_HA06w3CcDwkogFCfL4FR8Ujxwo5NAzLFmV9xnbFQ&oe=6AB66E01"
+      ],
+      "landing_url": "https://builders1452.com/webinar"
+    }
+  ]
+}
