@@ -1,0 +1,143 @@
+{
+  "collected_at": "2026-09-28T03:49:18.121457",
+  "query": "바이브코딩",
+  "count": 9,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-09-28T03:49:17.595229",
+      "page_name": "Remaincareer",
+      "ad_text": [
+        "“비전공인데 UXUI 포트폴리오, 가능할까?”",
+        "이 질문 앞에서 멈춰 있다면, 먼저 알아야 할 게 있습니다.",
+        "리메인커리어 수강생의 절반이 넘는 인원이 비전공 출신입니다."
+      ],
+      "video_urls": [
+        "https://video-sjc3-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQPwYCgqwvezARHrHNhO72mX8ECXdYYx6OXlw1AWpVwogG5WZJM4mHAcAAjw2t6fsdlWAK0XPYKDVQPIVhUByhzx.mp4?strext=1&_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-sjc3-1.xx.fbcdn.net&_nc_ohc=Qpc0UzRLPEAQ7kNvwFcIJ_B&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTA4MjczOTU1NzAyNTM2NiwiYXNzZXRfYWdlX2RheXMiOjUyNywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=OrehrJ_iWOf0voxfNlw30Q&_nc_ss=79289&_nc_zt=28&oh=00_AQPjY4a6Y4s8Sg1q4j7Zd6qT745VQQ0G0t6MhlnnkLdLUA&oe=6ABFADFB"
+      ],
+      "landing_url": "https://www.remain.co.kr/shop/item_class.php?it_id=1618558964"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-09-28T03:49:17.633325",
+      "page_name": "인프런 - 기술을 배우고 나눠요.",
+      "ad_text": [
+        "터미널 앞에서 포기한 초보들에게 빛이 되는 강의 ✨",
+        "이정환 강사의 Claude Code 입문 — 한 입 크기로 잘라먹는 바이브코딩."
+      ],
+      "video_urls": [
+        "https://video-sjc6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNRXguSKRNo4rjKZN7zNc-kRvWHdbUckFQ7QWSWJ8WK_BYOySeUIyfeoOUqM42tl7MV6p5vYvH1_kvr9kRS7MnVrrWNY6-TT3c0jtzOaQ.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-sjc6-1.xx.fbcdn.net&_nc_ohc=fQz8DyizUDQQ7kNvwGrMewz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTI1MzQ0MzY3MTk0MTM3LCJhc3NldF9hZ2VfZGF5cyI6MTIzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=OrehrJ_iWOf0voxfNlw30Q&_nc_ss=79289&_nc_zt=28&oh=00_AQNbRHLUIV3favkWa-4cC4Qnx9wGefc7Hbg_NjtgQBSmOA&oe=6ABFD16A"
+      ],
+      "landing_url": "https://www.inflearn.com/course/bite-sized-vibe-codi?cid=341386&infPartner=true&utm_source=facebook&utm_medium=display&utm_campaign=traffic_regular_contents2026&utm_content=_course-con_new&utm_term=_260526_winterlood_vibe"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-09-28T03:49:17.670135",
+      "page_name": "내일도 바이브코딩 보안 솔루션",
+      "ad_text": [
+        "'바이브코딩'으로 런칭한 내 서비스, 보안은 괜찮을까요? AI 생성 코드의 45%가 기본 보안 테스트를 통과하지 못합니다. 내일도 — URL 하나면 9개 AI가 취약점 진단부터 개선 가이드까지 제공합니다.",
+        "내 서비스 숨은 취약점, URL 한줄로 스캔"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/703249768_2191461898286613_4631420131188768529_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QdJvx7V5i5gQ7kNvwEuoi0S&_nc_oc=AdokECooOWbZQpFa82DuDkDfM1UT1FSuBh6exEmaWSIY2u3u1RRw8phhFBHorI-kKPM&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=OrehrJ_iWOf0voxfNlw30Q&_nc_ss=79289&oh=00_AQPWhIf0ElmzCPMLjmSM12DvQLM6rV9AxyChx7dlXAM7Pg&oe=6ABFC955"
+      ],
+      "landing_url": "https://naeildo.com/",
+      "permanent_image_url": "https://i.ibb.co/GvX3GK2g/449b3e1d.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-09-28T03:49:17.707423",
+      "page_name": "가비아",
+      "ad_text": [
+        "HTTPS://DOMAIN.GABIA.COM",
+        "사이트 완성의 마지막 퍼즐, 도메인 연결"
+      ],
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/742254267_2080398486186067_4757491286055648572_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dWp0-tGvhwAQ7kNvwHgbwhF&_nc_oc=AdpRGJcnPHS6dTYClDV2jbT3-3W8_bZ9yCQHk9K6kPBCCnypxSU8mUFYBpC3cPA3WzQ&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=OrehrJ_iWOf0voxfNlw30Q&_nc_ss=79289&oh=00_AQNds05l1FDA423httagk0F6BIHYGPOPcRNS_aQEpZVeVA&oe=6ABFACEB"
+      ],
+      "landing_url": "http://www.gabia.com/ad.php?ad=AD-0065827",
+      "permanent_image_url": "https://i.ibb.co/tPFySmdm/f4706453.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-09-28T03:49:17.743646",
+      "page_name": "인프런 - 기술을 배우고 나눠요.",
+      "ad_text": [
+        "요즘 핫한 클로드코드! 반나절이면 끝나요🚀",
+        "반나절이면 끝🔥 클로드코드 무료로 시작하기",
+        "요즘 핫한 클로드코드! 반나절이면 끝나요🚀 지금 인프런에서 무료로 시작해보세요"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/655883342_789692353754166_3919524972712531164_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aUVbGajO0PQQ7kNvwHAOlIP&_nc_oc=AdpF6DQxkAvqQprjzomB6akPPvNfa57z1bpHIA_kUwP-_J1kBLWqjDPi8HakUsat5b8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=OrehrJ_iWOf0voxfNlw30Q&_nc_ss=79289&oh=00_AQP9neOKjvCqVHGFU8J0M3T_DcKKboLW4sj3lHj3SKsxHQ&oe=6ABFC363"
+      ],
+      "landing_url": "https://www.inflearn.com/course/바이브-코딩-입문-강의-혼자-공부하는?cid=340120&infPartner=true&utm_source=facebook&utm_medium=display&utm_campaign=traffic_regular_contents2026&utm_content=_course-con_new-lookalike&utm_term=_260320_claudecode"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-09-28T03:49:17.782447",
+      "page_name": "콜로소 - Coloso",
+      "ad_text": "저는 한 줄도 써본 적이 없는데요..”",
+      "image_urls": [
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/648830383_1636075697407113_1052169367728840596_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xsz23GufdLoQ7kNvwGAQ3T8&_nc_oc=AdrD7gurT34iDCyyTHoMeQg-_ODApuagyl6TvbHVQlj44UeRZutuTRlh4GZbEKROfn8&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=OrehrJ_iWOf0voxfNlw30Q&_nc_ss=79289&oh=00_AQNOeUCKduTfZPaNkMTqB035WPLBMBjDyICgZzSGFPpvrw&oe=6ABFCF18"
+      ],
+      "landing_url": "https://coloso.co.kr/products/ai-kimacoding",
+      "permanent_image_url": "https://i.ibb.co/gbYkbt1j/Coloso-b4fabdfa.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-09-28T03:49:17.819722",
+      "page_name": "길벗 IT전문서",
+      "ad_text": [
+        ": 바이브 코딩부터 숏폼 자동화, AI 비서, SDD, 하네스 엔지니어링까지",
+        ": 순한맛 바이브 코딩으로 시작해 매운맛 하네스 엔지니어링으로 완성한다!",
+        "----------------------"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/780840938_1042295545348832_4434673361267499478_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wEjAddSbUbAQ7kNvwFVSwPI&_nc_oc=AdpOArQGaVBvOE_aLXaaqHASdT4y_l27rmymIkn8m2YG_RNhxqWoZy2ELd9YyjmOu0M&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=OrehrJ_iWOf0voxfNlw30Q&_nc_ss=79289&oh=00_AQOSpqC73ke3NdgF33zfIZ72hMrb6GGilb9HBGwFWo1Tpw&oe=6ABFBB49"
+      ],
+      "landing_url": "https://gilbut.co/c/26079883ss",
+      "permanent_image_url": "https://i.ibb.co/XfZzK7qf/IT-c472de49.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-09-28T03:49:17.862750",
+      "page_name": "Remaincareer",
+      "ad_text": [
+        "UXUI 취업, 이제 디자인만으론 안 됩니다, AI를 더해야 뽑혀요",
+        "비전공이어도 4개월이면 취업에 필요한 포트폴리오를 직접 만듭니다.",
+        "부담은 나눠서 시작하고, 상담에서 결정하면 수강료 10% 할인"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/737412697_953570207724956_8600329508315680878_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1lm4CpJqmggQ7kNvwHAmmI-&_nc_oc=AdpiyPZipxf9oM8U8GYEHWPo46_LUao_s-hYM2NX9UdcHuHSjNHrtSRdy5Buwh4MVOo&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=OrehrJ_iWOf0voxfNlw30Q&_nc_ss=79289&oh=00_AQMYp3RuY0KYV_lgp52IuRY6SPwSPHOMn76Lz4_-lXT2GQ&oe=6ABF9C9E",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/732985141_1923052155033824_1228835988068059512_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Y2XiB84Sv8EQ7kNvwHOCTX6&_nc_oc=AdpKV505CPCTOBgezPkvMZ9N8jjLhppnQbkR68KraeVselk6amXHABj3eJZ5aXZQeSk&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=OrehrJ_iWOf0voxfNlw30Q&_nc_ss=79289&oh=00_AQOZR9nCmBKWadGz5fUH6YSkJb7PUPREoaIxpVgTiX6KMQ&oe=6ABFB9C4",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/738142980_2469260813593493_968367724382844589_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=O76NsgQcJboQ7kNvwGl7qAx&_nc_oc=Adoq8iqEG3lcQXOyTW_XV4b08V1ji60lfV0QbcEtQFXPXo5ZuHrKpZ7bZxMPb11c8jI&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=OrehrJ_iWOf0voxfNlw30Q&_nc_ss=79289&oh=00_AQOjHCFKJjrDQTel8SgMRN1r9MpQvF1U4RCRMmdIzSDHFA&oe=6ABFA5C0",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/739101073_27368051486208383_83627636304102230_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=f4pxz665z6cQ7kNvwEYY6RG&_nc_oc=Adrv7mVnBR8RCEJYk_cx1NVIAhqIdeWB1FnnRUPiJIgDAa6ymODN3tCrz_j7fCCtwr8&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=OrehrJ_iWOf0voxfNlw30Q&_nc_ss=79289&oh=00_AQOxSp0sbae9YtQYx5OCfUusqjpufX8oZaJCRjuEHxKlPA&oe=6ABFB61E",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/738853994_998236439627287_8669437452183322458_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UiEjwJQw6R4Q7kNvwFIvJLg&_nc_oc=AdrgNBg8sixNr1rQmVZlwtVyZ_vlLCbM7Qf66YSpTZhbrvsEzvV5SLPLfYut2xSki8s&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=OrehrJ_iWOf0voxfNlw30Q&_nc_ss=79289&oh=00_AQMEoTqhCkSpg6KlyAaqgogKilq5wYlDfuIgeMNzpTrhyg&oe=6ABFB586",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/739553155_1544751550513824_6808968559280240920_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dQhEXMK2AH0Q7kNvwFJrsQP&_nc_oc=AdrK70TYEDo8IWFWQvYkl9EUdAx6Uz9aoNBXoxLA8Z_tMvPdwjC-BbmLC_uKJO88J98&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=OrehrJ_iWOf0voxfNlw30Q&_nc_ss=79289&oh=00_AQOQGJuvzHdQJ3x3U35U3FxkqFxLh1npmyqZMmByo1mUTw&oe=6ABF9E42"
+      ],
+      "landing_url": "https://www.remain.co.kr/shop/item_class.php?it_id=1618558964",
+      "permanent_image_url": "https://i.ibb.co/Ld34yWST/Remaincareer-f2f2ecef.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-09-28T03:49:17.955633",
+      "page_name": "Remaincareer",
+      "ad_text": [
+        "후기 백 개보다, 합격한 포트폴리오를 직접 보는 게 확실해요.",
+        "전공이 전혀 달랐던 사람들이 AI로 만든 진짜 결과물을 방문상담에서 직접 보여드릴게요.",
+        "후기 백 개보다, 합격한 포트폴리오를 직접 보는 게 확실해요"
+      ],
+      "image_urls": [
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/739107059_1537811741330064_3381024037866206359_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lYTEaGfbnp8Q7kNvwHY0a5r&_nc_oc=Adrv3RpU2hdMgZLwD3UUn6n6oJPKpuwENNYgdgdEXqFoPYVNwotYZEPb-UQC--tYz3s&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=OrehrJ_iWOf0voxfNlw30Q&_nc_ss=79289&oh=00_AQO78J2LCVDJtsTPsOhpThvUA8iK0TlZzzEQoRzS9Pu68A&oe=6ABFCD9F",
+        "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.35426-6/739762775_1727017465313899_3638391920195504712_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WOkEfKss28EQ7kNvwE5dQtp&_nc_oc=AdpQv_uAvUDPo5s85NKlpdV4TAfroUQhMmUOfgstR7IQ3-TSpYAxwTxzSb7C-FrF9ys&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=OrehrJ_iWOf0voxfNlw30Q&_nc_ss=79289&oh=00_AQNlegm6jz34jxtwK1wHCu3ObYnhpKUBxgllKze6a1i-Fg&oe=6ABFCEBD",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/738188542_1427719482446206_4967113792221093801_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hYrTfBTD3qsQ7kNvwE8R9Fk&_nc_oc=Ados5X7I_5vxJKf37N0iGFXmjY536MbXABPl_D80EqaVRC6yzUcbGpPFyOWjMWR6EXI&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=OrehrJ_iWOf0voxfNlw30Q&_nc_ss=79289&oh=00_AQPsmuhtzYDtmaRytyJpJKebwFUDpSCdVH20_AiZ6oCUwQ&oe=6ABFB59F",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/738691656_1315508317458484_8838142774227587268_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jPk7noVQCHIQ7kNvwEuRRs8&_nc_oc=AdqR0mfMQg2U_KbUDFTlI4zTaM_LuSGYtTzEdp5MKNqkuTsYCGeaJfcsErVFsyfKLjs&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=OrehrJ_iWOf0voxfNlw30Q&_nc_ss=79289&oh=00_AQOj2nKb9yY2kFjpcAuoi52jnF4WSvVF88Zm0G5SO5EWag&oe=6ABF9C43",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/738271030_2573455359773142_4526913533104798775_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6FYEyf_PxfQQ7kNvwHfOs-M&_nc_oc=Adq9iw1X-JbnxxloD_5IhqGlr65rw7UI-w-JKB7oTJdKI9HmoVYYbi4yUH4pkks_cbI&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=OrehrJ_iWOf0voxfNlw30Q&_nc_ss=79289&oh=00_AQMzZiqmI6vXJT51kp1WJOoStp80Pj2g3SKs07vh5arBZQ&oe=6ABFBE59",
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/737774139_4353096791674079_673401759263386146_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4o9rOHxJSpEQ7kNvwGwMLit&_nc_oc=AdrhCGEnYDnamA4inkLt3h-KrI942PYn9NfiSbB4h0RdgUCKbdyW94rDr3ynR7Eh9HE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=OrehrJ_iWOf0voxfNlw30Q&_nc_ss=79289&oh=00_AQNSRzpBopPKwLAcMTaUxFPEdusz2SS1ttLWtwvfZjS5XA&oe=6ABFAA60"
+      ],
+      "landing_url": "https://www.remain.co.kr/page/consult/consult.php",
+      "permanent_image_url": "https://i.ibb.co/LD9ZrwWs/Remaincareer-0e8810fb.jpg"
+    }
+  ]
+}
