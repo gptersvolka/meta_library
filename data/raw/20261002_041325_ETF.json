@@ -1,0 +1,238 @@
+{
+  "collected_at": "2026-10-02T04:13:25.986632",
+  "query": "ETF",
+  "count": 15,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-10-02T04:13:25.534632",
+      "page_name": "Firstrade",
+      "ad_text": [
+        "광고 • Paid for by Firstrade Securities Inc.",
+        "轉移部分或全部資產到Firstrade皆可享有最高$250轉戶補貼！美股交易無手續費、無期權合約費。立即加入Firstrade，將美股投資產品一網打盡。",
+        "限時優惠：轉戶到Firstrade，最高可獲得$250美金補貼！"
+      ],
+      "video_urls": [
+        "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOkfwNm1I59of9afXpPLaQdLXbQjPIebADwE7-1vz02bOagYP7O6LJzMt6zRnAHawKx3LgRF-GHYBgYzOEIVOo.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=lUVWMOu5zAoQ7kNvwEQVUO_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTIyMzEyNTQ1MTY1OTU2OSwiYXNzZXRfYWdlX2RheXMiOjEyODQsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&_nc_zt=28&oh=00_AQOHzYeHk4SSKKTV9ywDM0tOQYoPyw8E9yKArvi5OA0klg&oe=6AC518E9"
+      ],
+      "landing_url": "https://promo.firstrade.com/zh-tw/intl/xfer250?utm_source=paidsocialch&utm_medium=facebook&utm_campaign={{campaign.name}}&utm_content=xfer250tw"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-10-02T04:13:25.557012",
+      "page_name": "직장인의 모든것",
+      "ad_text": [
+        "회사 다녀도 내가 가난했던 그 이유...",
+        "챌린지 1기 등록하고 월급쟁이 부자되자!",
+        "20대 20억 자산가 🐰래빗해빛 튜터🍀와"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/600922857_2096156927793411_1969847858612294871_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L9U-MUq4qL0Q7kNvwH3oysZ&_nc_oc=AdpmVN1U1b_fwEhFlw3OriIgQfgFiSXSfVgjvJFJqHbgNXlfdEAZsZAMSgDzuON60IY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQMzLZKwADa1tXnShXwiXxq_xCpUsXXEMBScVxSx04cw-Q&oe=6AC51989"
+      ],
+      "landing_url": "https://taling.me/mkt/rabbit_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=rabbit_purchase&utm_content=재밌게1억&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/wN370ctS/8e6126ca.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-10-02T04:13:25.579798",
+      "page_name": "퇴근할래",
+      "ad_text": [
+        "오직 월급만으로 20대에 20억 만든 래빗해빛과",
+        "‘60일 월급테크 챌린지’ 함께해요! 🐰 💪",
+        "매일 딱 한 번, 재테크 미션을 수행하면"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/599004321_3075030999351058_6284044378428700054_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=grXg-3e74-MQ7kNvwE0DWQR&_nc_oc=AdqqZk4_qsM7n496vC8TIVTyYZpvK0WVOH9DtQLF7FLBHVl0mA_CsZ4s8djh-rbMTSI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQOK9HUhlRR_paFHI6oc5Ep_Mb9TRys2EzJionotX_77CQ&oe=6AC4F031"
+      ],
+      "landing_url": "https://taling.me/mkt/rabbit_1?utm_source=igfb_asc&utm_medium=gt&utm_campaign=rabbit_purchase&utm_content=래빗해빛루틴&utm_term={query}",
+      "permanent_image_url": "https://i.ibb.co/Kp7pj1fF/cd32a494.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-10-02T04:13:25.601182",
+      "page_name": "TIME 액티브 ETF",
+      "ad_text": [
+        "지수 대비 초과 수익을 기대해볼 수 있는",
+        "TIME미국나스닥100액티브 ETF는 어떠세요?",
+        "미국나스닥100지수(KRW) 3년 수익률 97%"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/799767744_2595725970875845_8496063024209888631_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZGhVelKbNoEQ7kNvwGH-voU&_nc_oc=AdrpAD2F_jGeifMVxCDeU_-TK-1kPuTGdXTqezgZqKebqGt5_J5AtPEOMxhy1jVBO4A&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQNuAmqmrtGcokIUKj_SdO3HB0Mf2w1_nX_rSKcqGAdt9g&oe=6AC50160"
+      ],
+      "landing_url": "https://timeetf.co.kr/board/board.php?bbsid=report&idx=46&utm_source=META&utm_medium=DA&utm_device=ALL&utm_campaign=NA_MT_TRAFFIC&utm_content=INTEREST&utm_term=img_3_260915",
+      "permanent_image_url": "https://i.ibb.co/RTM5mKBm/TIME-ETF-c8f1fbd7.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-10-02T04:13:25.624746",
+      "page_name": "우리투자증권",
+      "ad_text": [
+        "LALIGA와 직접 만든 구매 불가 경험으로 초대합니다!",
+        "신규 개설시 3만원 상당 ETF 혜택까지!",
+        "제26-04287호 (2026-09-03 ~ 2027-09-02)"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/801504013_994862593618601_6286369582060743000_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L3rlmztKS4gQ7kNvwEORSnN&_nc_oc=AdpXqbQOySjU1yeSGkMiy6dz3sbbCcnxH8nu7tOAbBncDCuHqYqnzPn7HPBQcEt4oVk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQMg7bYSvbYdK63xKi7gh2a7U2LBDbmtOBDScTRi46qr7w&oe=6AC5116E"
+      ],
+      "landing_url": "https://ROxUtWNYT0eTZ5uRm2ysLQ.adtouch.adbrix.io/api/v1/click/HWo6GSr9YUWsfL8ml6Vxig?utm_source=meta&utm_medium=cpm&utm_campaign=da_laliga_A_traffic&utm_term=1844mf_interest_2609_laliga&utm_content=laliga_A",
+      "permanent_image_url": "https://i.ibb.co/N2RTX3sD/c861846d.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-10-02T04:13:25.646352",
+      "page_name": "삼성증권",
+      "ad_text": [
+        "*가입전 설명 청취 및 상품설명서·약관 필독",
+        "원금손실(0~100%) 발생가능 및 투자자 귀속",
+        "*이 금융투자상품은 예금자보호법에 따라 보호되지"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786346520_1034663949335457_8532085332967270469_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HeDVmDNJxEEQ7kNvwHoj_VU&_nc_oc=AdqxPB6yPKefcPf7Itx462fF4dhh3Fy3-s7wQvcxjxArFzN7yMZ6BBqG3mBSx8zs9Io&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQNlY7oHzUXNIvnF9eIGjVE9X9SMZQPmOcNHFSKG6dBU7A&oe=6AC50CEA"
+      ],
+      "landing_url": "http://play.google.com/store/apps/details?id=com.samsungpop.android.mpop",
+      "permanent_image_url": "https://i.ibb.co/rgRxcwn/73834f4d.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-10-02T04:13:25.667910",
+      "page_name": "State Street Investment Management US",
+      "ad_text": [
+        "State Street Investment Management US",
+        "Financials drive everyday digital transactions, banking, insurance and more. Access the sector with XLF.",
+        "Capture Financials with XLF"
+      ],
+      "video_urls": [
+        "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQM5Y9PlLhKeAlIDjJHeMnMewwLU83unFdHBj3atS54A8DW9JHTL0BNbToK9wD4367BYiET9PMNqF9c318hj4AL-g5gdrMjgWz0G_t25UA.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=zrh-qrxszNIQ7kNvwED7IN3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzU1ODY1NTUzNzYzNzAxMywiYXNzZXRfYWdlX2RheXMiOjExNCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&_nc_zt=28&oh=00_AQNWKhA3-KbY2eMFbT_W4h2r3062dG5Hp6VWWdzraM8LGw&oe=6AC5042C"
+      ],
+      "landing_url": "https://www.ssga.com/us/en/individual/etfs/state-street-financial-select-sector-spdr-etf-xlf?WT.mc_id=social_rtl-sec_sectors-funds_us_ig_vdw_n_mf1_n_jun26&spi=6a23cca506545f06492e83bb"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-10-02T04:13:25.686306",
+      "page_name": "미래에셋자산운용",
+      "ad_text": [
+        "공장도, 생활공간도 AI가 움직이는 시대🤖",
+        "현대차와 LG전자부터 핵심 밸류체인까지 한 번에!",
+        "TIGER 현대차LG전자고정피지컬AI밸류체인 ETF로"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/818335229_1467440765197199_101657944310925649_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dkfVALDaSK8Q7kNvwHmAGWp&_nc_oc=AdoPKevP6nBec_UmHawgoHNLQuITVl57Wio3-1m4kJ_yt4QI5sqtY2U37wNSG7-xnHY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQNuTvjoPQRwkPSDlKHBmbC7Qr9Ry-KGO-qBNmTT5ea8JQ&oe=6AC4E7D5"
+      ],
+      "landing_url": "https://investments.miraeasset.com/tigeretf/ko/insight/hot-etf/view.do?listCnt=8&pageIndex=1&detailsKey=745&q=",
+      "permanent_image_url": "https://i.ibb.co/V0V5sLk2/1426e830.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-10-02T04:13:25.706368",
+      "page_name": "FxPro Invest",
+      "ad_text": "FxPro와 함께 세계에서 가장 인기 있는 ETF를 이용하세요. 장벽도, 복잡한 절차도 없습니다.",
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/796691329_890846773960067_2214764552085908793_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=B3b1fxcCJ14Q7kNvwEz-i1s&_nc_oc=AdoZCqyZN-a_3in0Rmqt1hPnHXvcJa5sCCMMqMp-9T-Kyvlms69UX8kVumMA_RFn0Xs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQPcCdBwnyQbR1LymaW1b8jJWLfQ4u99QP_Bx-BgV61xow&oe=6AC4EFA3"
+      ],
+      "landing_url": "http://itunes.apple.com/app/id1388838533",
+      "permanent_image_url": "https://i.ibb.co/mrxygDm3/Fx-Pro-Invest-393f3f79.jpg"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-10-02T04:13:25.726827",
+      "page_name": "Financial Guideline",
+      "ad_text": [
+        "\"잠을 자는 동안에도 돈이 일하게 하는 방법을 찾지 못한다면 당신은 평생 죽을 때까지 일해야 할 것이다.\"",
+        "📌멘토와 함께 금융을 배우고 싶은 모든 분들",
+        "📌미뤄왔던 돈공부, 이제는 시작 할 때 입니다."
+      ],
+      "image_urls": [
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/705394914_1316072494066055_240292150814251701_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Eg-kvZfPWCwQ7kNvwGPgQ5e&_nc_oc=AdoLkAWlxPeEsZCwNldxFrXKTYnbFlmYunGynPNz8c17j41CbLD2rNhm-icwIbFr-k4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQMG9NFnft3_VGo4z9av50vQULQBow6P6E77utO3rvLn2w&oe=6AC4FF06"
+      ],
+      "landing_url": "http://fb.me/",
+      "permanent_image_url": "https://i.ibb.co/WvTvJzcX/Financial-Guideline-a071708f.jpg"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-10-02T04:13:25.746356",
+      "page_name": "키움투자자산운용",
+      "ad_text": [
+        "메타AI 에이전트 뮤즈의 등장, CPU에 주목!",
+        "메타AI 에이전트 뮤즈의 등장, CPU에 주목!",
+        "메타AI 에이전트 뮤즈의 등장, CPU에 주목!"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/825281875_1000018843112323_2559160180992988942_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=M-jFgtk8Eq8Q7kNvwHCaZhl&_nc_oc=AdqxjPVVQG9YC7_ZxiDOSDdPpVDNrOH8pv3l6UxMbP8RYze3QLRxTUcjP5vuZltbQd0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQMgKKnJZNlGs15JtkZfI5q06zcgy1x3MRS0NecIBctNnw&oe=6AC4F140"
+      ],
+      "landing_url": "https://www.kiwoometf.com/service/invest/KO04020102T?kijaGubun=10&kijaNo=684&schGubun2=0&schGubun4=1&schContent=&utm_source=META&utm_medium=DA&utm_campaign=META_DA_CPUTOP4_REACH_260929",
+      "permanent_image_url": "https://i.ibb.co/V0C8hTHq/0524a08f.jpg"
+    },
+    {
+      "index": 11,
+      "collected_at": "2026-10-02T04:13:25.767423",
+      "page_name": "Hanaro etf",
+      "ad_text": [
+        "스스로 판단하고 실행하는 에이전틱AI의 시대!",
+        "AI의 두뇌와 몸체, 그리고 실행환경까지",
+        "에이전틱 AI 밸류체인의 핵심 기업에 투자합니다."
+      ],
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813977651_2617335015391759_6752044229824182021_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LjXiwh4dcN4Q7kNvwFNiG8a&_nc_oc=AdqDk1fZNINrZoXvGC2z5XA346Uj1-WzY1JoTnDLVaTlD6aDGZMrt5WLEUMutMW-Ko0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQMDwSPvKg5qw2GPPzqRr4HDjlvlR0CEeeTM8TQ19K_5cw&oe=6AC51C16"
+      ],
+      "landing_url": "https://www.hanaroetf.com/investment/insight/HEovst6lRsdoZvHT?utm_source=meta&utm_medium=instagram&utm_campaign=agenticai&utm_content=image002",
+      "permanent_image_url": "https://i.ibb.co/W4jDVxMy/Hanaro-etf-05feb82d.jpg"
+    },
+    {
+      "index": 12,
+      "collected_at": "2026-10-02T04:13:25.789434",
+      "page_name": "Hanaro etf",
+      "ad_text": [
+        "스스로 판단하고 실행하는 에이전틱AI의 시대!",
+        "AI의 두뇌와 몸체, 그리고 실행환경까지",
+        "에이전틱 AI 밸류체인의 핵심 기업에 투자합니다."
+      ],
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/815019207_1693305938441737_2435050831005844114_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=l9b9NMKQYIAQ7kNvwGefrQN&_nc_oc=AdrNZIg0inMmbVe3nQqCxfC3j3AITmzZUhblKCfwoZEXMSWedmKqO6QEX0uBnb7hkbc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQNzjm4phVdF9AWwr6cFqW9FfOcPcnz_jvdLvsTscmhVvg&oe=6AC4F74E"
+      ],
+      "landing_url": "https://www.hanaroetf.com/investment/insight/HEovst6lRsdoZvHT?utm_source=meta&utm_medium=instagram&utm_campaign=agenticai&utm_content=image001",
+      "permanent_image_url": "https://i.ibb.co/Zzfk1Pgf/Hanaro-etf-f326dad7.jpg"
+    },
+    {
+      "index": 13,
+      "collected_at": "2026-10-02T04:13:25.810996",
+      "page_name": "키움투자자산운용",
+      "ad_text": [
+        "AI 시대, 왜 한국·대만·일본 반도체 시장이 주목받을까요?",
+        "반도체 밸류체인 전반의 역할도 중요해지고 있습니다.",
+        "아시아 반도체 ‘골든 트라이앵글’을 한 번에 담는 방법."
+      ],
+      "image_urls": [
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813698663_38444238131887393_2012340576776373036_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RJT4ogGCoaoQ7kNvwFV2EGQ&_nc_oc=AdqrrM-w3yYqX7mm7eiBnX97PPatUCKMRiMBpnBFqHSDnqsLrrtEb0K43-nBqY3gBtI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQNuQ6sn4_uBK-h3YkTzxG7Hak6kjeiH7uCYp5T0pE1GMQ&oe=6AC514BC",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814323377_2176959786592328_9151889626224015170_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R4_PZbEikO0Q7kNvwHcELoS&_nc_oc=Adrv794OSLsAsaindrW3EElc0VvfGZZslb-sp2IuJHyh_7c_AS0K0rSMr8_7ly6AueA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQMgnw3bnf_S0qsmK4x2228Rq8YE9k9n-1OVeF6US5MbKA&oe=6AC4E7B7",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/812374821_2028770097830642_6554595344181365254_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=klCQpJhYGWkQ7kNvwF9GTVW&_nc_oc=AdoFu5V-ERpu008HLsNvor6XP6Jh2XyuaCx-3aTC_MUxqZgYAAS2WJZllJDsK5FAxM4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQM9jStceKt9XAsurRXYOFRNbDtQBnJwX7zJQv0Gv14Q3Q&oe=6AC4FC76",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/814535795_4695190367428024_8679831345509595767_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ITagozPxTKoQ7kNvwEXuKmY&_nc_oc=AdqE0IVabperapG9MvaITTJ0Llc1ovLlkCfI7S6T6DSffl6drVFnNKUWut57W2iI3lI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQNOJ-Zg1dvopaYPvfhKj7vKaSQ0rdxZq0VsrUdS4kFLyw&oe=6AC4F763",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813421150_1599150178286575_5777319359040615304_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yg-AkeXDVqsQ7kNvwFVr46W&_nc_oc=Ado1VLeMkiZcrKPZXrNO8zt15qpxbPhncUfJa6jTiA0fhxu4ISZ1_k4QhKjUhoD5u8I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQMp0HWcWGMhD6jSusDsF8kIGVAIId1n9hVit6VUq8qdVA&oe=6AC4EA58",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/811830912_1069336715982693_6725405220319948221_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-NyOGN1g2yYQ7kNvwEfwjIL&_nc_oc=Ado40a53W34rJhd_wvWNG15oRGcnabbN5EMtWItzvWUpacOmcbtnZs5YKhJ-W5981GI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQNrSaPENGHp1llpgpzqhyw_PkD6hNx4qCuVRoq0hAKHeQ&oe=6AC519A0",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813699485_1623179692689986_3928805700438423357_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OgfvH-1vtdwQ7kNvwF82Kc2&_nc_oc=AdrcK_kc5xGE_AFDZJY4l8gD1B4YPInS08kE8kNr_DiEfm_aQcCzN-k4AVqcZsd5BuY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQPBm5NctF9EMxTkdth8FTo8ytnjmImqCIPn2GXWXIudDg&oe=6AC50DA4"
+      ],
+      "landing_url": "https://blog.naver.com/kiwoomammkt/224413666698?utm_source=META&utm_medium=DA&utm_campaign=KIWOOMETF_NA_MT&utm_content=Keyword&utm_term=1_260917",
+      "permanent_image_url": "https://i.ibb.co/YBrgcCmv/c032e810.jpg"
+    },
+    {
+      "index": 14,
+      "collected_at": "2026-10-02T04:13:25.871820",
+      "page_name": "필름",
+      "ad_text": [
+        "월급날 단 5분으로 ETF 월배당 500만 원 만들기",
+        "PRODUCT.KYOBOBOOK.CO.KR",
+        "PRODUCT.KYOBOBOOK.CO.KR"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786070177_1952896408616090_3699425497873385719_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Kr_4KXBwIl0Q7kNvwGjReyJ&_nc_oc=Adq9gElWrOgKsHybKHkpnqsYWcgTFxHKOHd1NfdYGufIx9JM7_mFXfNhsN6LaRgzdeQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQOEnlyqkgfvplzq2PX0UXSqpeCRoBH6D9EHsiBzhRsLcw&oe=6AC4E7EB",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786070187_1405727208081001_2263452909132179223_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q0a6FOhhWJoQ7kNvwH2OBf6&_nc_oc=Adr06rzNO7axp679g2A1CdwzjU6j3r5zBzXLh6A76wN73-nx0OXEzgxdSaEg6ZviC8I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQMAVKTpQxYSTiPIHsp7_zntigWQdkKHnSDgE1o07oi8Dw&oe=6AC509F7",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785060480_1619259833319182_734314418052335707_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hmt8kiA4LF4Q7kNvwF4563j&_nc_oc=AdrNHymPyns4mKYnjNp2oPqUFt1oymDqCHCtT-YcNsfzcLJOyfk11BGqwsqrKgzhdSw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQP8waOVaRF89351jetXzwLaL4eyD8PI6dHCrWB2C1oZQQ&oe=6AC4F760",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784619406_1093064050073142_4450402790166847098_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S78lNTZQWE8Q7kNvwFxdONF&_nc_oc=AdoVp-aTOXMwYn5af9t8zpThONGjZV_K593IJXLMLHUPV3yBVzYwrF9HIyAZjuonypI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQMFsjsnQPO5a90I-PzZ7apc8CtQo6ueMXSA7Mt8o4jgbQ&oe=6AC51CB4",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785287190_1724485375514037_2894462368665293544_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vgSEXp1uumwQ7kNvwHz0NP9&_nc_oc=AdqfVU4fBSPM7SD_iQ1ukB8-WghsLYX_ODYjby5jjHsmjCQPqJ4R0lOf8NOy-g8aRYg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQMQy9WsbMhMJZLETaQEwQa2Mr4Q00qhIZVZY7x4_mxKrw&oe=6AC4F6B0",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786298325_1602126271545963_4956964718990075866_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IuBx1oOpKX0Q7kNvwGJ7k1O&_nc_oc=Adrx6L99cGRaJ4ah-oZeSj8D9nj9sNaEmaYdu5D6BeIEkbllGRJ5P6i91kXDq2AVLcE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6qwRNjxHKSqRZOiZOgG1Pg&_nc_ss=79289&oh=00_AQMFJS5qzlkVtc-XOJm9zUalElI7Zd7NLcI_RnUEXqrg6A&oe=6AC51830"
+      ],
+      "landing_url": "https://product.kyobobook.co.kr/detail/S000220995538",
+      "permanent_image_url": "https://i.ibb.co/L39SmdJ/8dd63cf2.jpg"
+    }
+  ]
+}
