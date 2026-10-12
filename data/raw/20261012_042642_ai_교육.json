@@ -1,0 +1,204 @@
+{
+  "collected_at": "2026-10-12T04:26:42.878921",
+  "query": "ai 교육",
+  "count": 12,
+  "source": "playwright_scraping",
+  "ads": [
+    {
+      "index": 0,
+      "collected_at": "2026-10-12T04:26:42.123082",
+      "page_name": "원티드 wanted",
+      "ad_text": "이력서, 채용 공고, 연봉 정보는 물론 프리랜서 프로젝트까지! 신입 취업 및 경력직 이직, 커리어 성장에 필요한 모든 것을 만나보세요.",
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/653709603_5254414134783861_8902007928374123503_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HkUcB6-s5G0Q7kNvwEutNfY&_nc_oc=Ado2y9bcUDPRh9AtTyjvnrJf41rnimhwweKawPeCR0OpGrt3ZDyDFmTH_80sL7eRcXg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQP4_WovUxi97U88zGvEvmHiIM0CXFRB6b1Sx_633FoW0Q&oe=6AD22F56"
+      ],
+      "landing_url": "https://www.wanted.co.kr/wd/102690",
+      "permanent_image_url": "https://i.ibb.co/v6f3txgD/wanted-f7d2f4cb.jpg"
+    },
+    {
+      "index": 1,
+      "collected_at": "2026-10-12T04:26:42.161082",
+      "page_name": "크라우드웍스 Academy",
+      "ad_text": [
+        "2026 하반기 우리 회사 직원 AI 교육 계획, 아직 고민 중이신가요? 성공 기업들의 도입 사례와 정부지원금 정보가 담긴 트렌드 리포트를 지금 무료로 다운로드하세요!",
+        "2026 하반기 AI 기업교육 트렌드 (무료)",
+        "🎁 2026 하반기, 직원 AI 교육 계획 세우셨나요? (무료) AI 실무 적용으로 성과를 내고 싶지만, 예산 검토부터 과정 선택까지 막막하셨다면 이 리포트 하나로 끝내세요! 💡 [2026 AI 기업교육 트렌드 리포트] 핵심 요약 1️⃣ AI 교육 트렌드 분석: 최신 인사이트 제공 2️⃣ 업종별 성공 기업 사례: 다양한 기업의 도입 결과 3️⃣ 교육비·정부지원 정보: 지원 제도 및 활용 방법 정리 하반기 교육 계획 수립을 위한 필수 지침서, 지금 바로 확인해보세요. 👇 아래 [더 알아보기]를 눌러 무료로 다운로드 받기!"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/759094161_2240603123397312_6736475147403033188_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=M8aY9FcE8ZYQ7kNvwHVpUGx&_nc_oc=Adp56DVnnNnBjj549vxxmo3s75lgBvbVytTr5U8zCXCkX-00b0vWpnXoT0oMfs1NVjA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQOmhcXxMOeeB-ME8f0lfpuIO3PpnCOMpgEqAhO7gjKgrg&oe=6AD247C8"
+      ],
+      "landing_url": "https://aiedu.crowdworks.ai/121?utm_source=meta&utm_medium=da_fb/is&utm_campaign=aieduaidedu_only_landing_2028_1",
+      "permanent_image_url": "https://i.ibb.co/bMLT4x3b/Academy-023b227f.jpg"
+    },
+    {
+      "index": 2,
+      "collected_at": "2026-10-12T04:26:42.198055",
+      "page_name": "링글 1:1 화상영어",
+      "ad_text": [
+        "직원의 90%는 왜 아직도 엑셀만 쓸까요?\"",
+        "AI 보급률 100% 시대, 진짜 필요한 건",
+        "'데이터로 증명하는 AX HRD 전략'입니다."
+      ],
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/763177235_2477691339302981_8281501126007334912_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FTIbGVhXCrUQ7kNvwGtSNj8&_nc_oc=Adqn79A02jHNCBAznjm1pLQ2ysRXlBqh3eBXKZDsHC06-7ntOzdb8kIbmSYp2R8veDg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQNKFqED-teevxfoCFqf6pVqT5tlhK9u6utQGiwWDol72w&oe=6AD22EE1"
+      ],
+      "landing_url": "https://www.ringleplus.com/ko/student/landing/event/detail/b2b-webinar-replay-bbg?utm_source=fbinsta&utm_medium=paid-social&utm_campaign=b2b-gen-ringle_webinar_replay-bbg&utm_content=b2b-jun-webinar-img-profile-copy09-11-0625-event_page",
+      "permanent_image_url": "https://i.ibb.co/TMyGptS5/1-1-2a63628b.jpg"
+    },
+    {
+      "index": 3,
+      "collected_at": "2026-10-12T04:26:42.235604",
+      "page_name": "교육 페이지는 한국디지털컨버전스협회과(와) 함께합니다",
+      "ad_text": [
+        "교육 페이지는 한국디지털컨버전스협회과(와) 함께합니다",
+        "HTTPS://FORMS.GLE/FG3K8PFMB4PD9HZ78",
+        "수강생 AI 영상 포폴 IIBI 방송정보국제교육원에서 시작하자 💻온라인 신청💻 https://forms.gle/Fg3k8PFMB4PD9hz78 🏡공식 홈페이지🏡 https://www.iibi.or.kr 방송정보국제교육원 02-2658-1131 #콘텐츠마케터 #AI마케팅 #디지털마케팅 #마케팅교육 #방송정보국제교육원"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/839796418_1772700340626611_551804501808908822_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lii-yqJWCgUQ7kNvwEzH4YR&_nc_oc=Adqq19aIsfI2yWmGxg9XsZBv7KoM7qL2LGv5k1B-N2DZPcjogSPTtetjWejJmg_uQiU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQP70twaFH52DEd5OLe15frPqE76XKh0VTOLT6LY6zjELA&oe=6AD23DAF"
+      ],
+      "landing_url": "https://forms.gle/Fg3k8PFMB4PD9hz78",
+      "permanent_image_url": "https://i.ibb.co/rGfMyfYy/800c94ae.jpg"
+    },
+    {
+      "index": 4,
+      "collected_at": "2026-10-12T04:26:42.275076",
+      "page_name": "한국에너지공과대학교",
+      "ad_text": [
+        "KENTECH 대학원 2027학년도 봄학기 2차 신입생 대모집!",
+        "한국에너지공과대학교 대학원에서 2027학년도 봄학기 2차 신입생을 모집합니다.",
+        "‣ 원서접수: 2026. 10. 2.(금) 10:00 ~ 15.(목) 18:00"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/808930089_1071850965488667_1686334248904260493_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3omD2_SIF9AQ7kNvwGxkJ5S&_nc_oc=AdpCXU5C7cGhC5UjTWn7K29BJ41_zrhF5fROz6yNAWTHsJXWXJDlLhE1vrhuHCQimjc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQOOxtZjaKJbrZKk3rhLHggzsP2M8oXtkqE3Ztw9sC_l0w&oe=6AD21BE7",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/808858920_1071622332314757_6964542633355315055_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G-49eO6gw3MQ7kNvwGGvwEg&_nc_oc=AdqJG5vwMWAHGlVcHC7xWwfsVpSensHXZDPsi2z8zRmWhEqg_eiH2_6xNIVQTMN7968&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQP3xDMz5K0B37_c2dxHO4DC0UeRJbMbAlshZr4Asf0n8g&oe=6AD23E57"
+      ],
+      "landing_url": "http://admission.kentech.ac.kr/",
+      "permanent_image_url": "https://i.ibb.co/21r28bVJ/38f36de6.jpg"
+    },
+    {
+      "index": 5,
+      "collected_at": "2026-10-12T04:26:42.330329",
+      "page_name": "Sbs아카데미aix학원",
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/747923984_1514083093792009_1742006419394025910_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=feUxh90vDqEQ7kNvwEi-ces&_nc_oc=AdoB8wKiWiUhtAzdsHFexXHxobY-311A0t4iQNGDCQt9pOEBOUTbRrMfiqoWSyQ-Tts&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQNJGGcMHvLpJUMyg4Zbq3Rz8PmbV0cmTDFMmdfgTDuPng&oe=6AD244E5",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/747236003_27884649411222067_8468028502651146808_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_L-hL3l7BqsQ7kNvwEghTjS&_nc_oc=Adp-YMFd77L5TKg-jTJCLAI7T0MJMsrQgwigInJ3VKngEiJTuuLyJBYPSfU54HMgGlY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQNGbCMf3nesU-Prewz3YprMvcQ1fmIG5UQ1IkyvGS2cSw&oe=6AD24160",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/748678275_1415395667094009_5678533853442165822_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Asj4C1kSMY8Q7kNvwEUtkas&_nc_oc=AdrkYezgUvMKdPJWT1LKmFjqCd5_R0f6ZH67tbQZg7Rqe6EqcL-UNTsaWyFj6LxlqEw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQM93Ob-reULNpOkRl66kluMUz5R-L8zLvvLAUXH6qM-dg&oe=6AD22A40",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/750033966_1075795775138251_8108460792647136107_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SiH5lVLHBOwQ7kNvwEoAvDs&_nc_oc=Adoib0b0D27ZwqRI2KmO_ecyKHl1VVfIXsfYeuXFnl-GdGOuLd162SdYUC_4IFUF5UA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQMwvJ-GkZxS4WY9ot1zFFJyV7fwgvXprS9or0czOlsueA&oe=6AD23EED"
+      ],
+      "landing_url": "https://fb.sbsart.com/class/motion/motion3d/ai-creator.asp?utm_source=meta&utm_medium=da_cpa&utm_campaign=aix_main&utm_content=aivideo2605_1",
+      "permanent_image_url": "https://i.ibb.co/q3DscDZz/Sbs-aix-7fed5bb8.jpg"
+    },
+    {
+      "index": 6,
+      "collected_at": "2026-10-12T04:26:42.397159",
+      "page_name": "한국IT 아카데미 구로",
+      "ad_text": [
+        "AI를 자유롭게 활용하는 영상콘텐츠 제작자가 되기 위한 정규코스",
+        "국내 최고의 AI 독립 프로덕션 블랭크코퍼레이션, 레드브릭스, 스튜디오에임이",
+        "참여하는 교육과정으로 실무 노하우를 빠르게 학습할 수 있습니다."
+      ],
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/638101329_1236815488554363_2017693143644298768_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CpXF_K5e4rgQ7kNvwE3HIFP&_nc_oc=Adou29uU_1TwgAZk_MMcvmMl9niiZge8j12LD17wPpQM4hvQdSaMd89ekT72IxfdTzs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQOHVzD-b_oKsP9aUIgOu6tmNjOYd3Km3YUiDLdccOqKKQ&oe=6AD23F10"
+      ],
+      "video_urls": [
+        "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNLTqYIq-sce59t9mG2aqqOgHUNOSXpOYd8DaNmIAm3JSvS_1_0FN5IbVbi8ite12sjMGw6h2KCJiFocwvCWLusAJ-bNNkQ-A7WHTxLLQ.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=zZrSiTNuMYwQ7kNvwE9SoD_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTYzOTQwMzIxNzA1ODgyMSwiYXNzZXRfYWdlX2RheXMiOjI2NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&_nc_zt=28&oh=00_AQO89ITkIa0pdFaPoMdWQ7AIXyzNV_v8SwmOzcCfkw7sEg&oe=6AD24591"
+      ],
+      "landing_url": "http://www.job.ac.kr/",
+      "permanent_image_url": "https://i.ibb.co/LDkGwTT2/IT-9bc00e9f.jpg"
+    },
+    {
+      "index": 7,
+      "collected_at": "2026-10-12T04:26:42.447238",
+      "page_name": "한국IT 아카데미 구로",
+      "ad_text": [
+        "AI를 자유롭게 활용하는 영상콘텐츠 제작자가 되기 위한 정규코스",
+        "국내 최고의 AI 독립 프로덕션 블랭크코퍼레이션, 레드브릭스, 스튜디오에임이",
+        "참여하는 교육과정으로 실무 노하우를 빠르게 학습할 수 있습니다."
+      ],
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/819587990_1590106009275336_1672987289752224464_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=64z_3b4awVMQ7kNvwGxw9xc&_nc_oc=Adq4H5nmad6nl83vLBFTicyGT9guLA98BYn_75iwVwAFwOpsr-0YmwHBk-D7_mlrnvk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQNn8hTTMnrn4Mx7OEgiDjzwyv7Il0eTPkBZvT3znugaaQ&oe=6AD24A81"
+      ],
+      "video_urls": [
+        "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNqj4AmsmLm8yiN1LaxpqyATczvKQoOTW9QletTPUK7mciM3z9jRKy-pLttbVEnA2vHlzDzY8wT-vW8SGmBYTz4tyPLhOEgcaB05Y0wqw.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=hmZh7SW310wQ7kNvwGO4w8H&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTg3NjYwMDU1OTYzMTUyMiwiYXNzZXRfYWdlX2RheXMiOjI2OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjExLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&_nc_zt=28&oh=00_AQMpchUTVWF8pJoEJewRlJky_JqNotIZ1lNF-3Bfj09djQ&oe=6AD22500"
+      ],
+      "landing_url": "http://www.job.ac.kr/",
+      "permanent_image_url": "https://i.ibb.co/nMX7yp9H/IT-2a802eb5.jpg"
+    },
+    {
+      "index": 8,
+      "collected_at": "2026-10-12T04:26:42.505299",
+      "page_name": "한경에듀",
+      "ad_text": [
+        "AI 시대, 비전공자도 실무형 AI 서비스 기획자로! 💻",
+        "AI Agent·업무자동화까지 모두 배우고",
+        "CJ 현업 AX 프로젝트까지 직접 경험해 보세요!"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/829508305_922180754015704_5829815520917781768_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UO-qTpJMTUUQ7kNvwFtYLmI&_nc_oc=AdrbsjL1K8h1_Y6LGUSfEbgWAvCClUpUxYoftn6GIxH3LcWoI2eg_OyblBq1-yuK9-g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQN25Q1ito_-zJ_USqMIZY6qMmGjCV_nRugbqOzOReE2mw&oe=6AD22250",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/829171185_3366732520175820_6267848387115228163_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=20dP45q0W2oQ7kNvwFiw7Sh&_nc_oc=AdrFc7nXwSP-sLS0pcvvimfadyEZWkKzqDrYLvqLDTvwGR3wzE-4WMglJUnzbJU4mJo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQMq4NEyCiWWS6K0YvdywASMO-J1rJsuWsMEYnSXTexPcg&oe=6AD23839",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/829603821_1361960039090544_5865853900173671871_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GwBWFT78LJMQ7kNvwGNsF48&_nc_oc=AdrryNw2qnsIWBm8XqI6hZr96T-Vrn8nLlhwr2r48-R325b50XNnp3T8LZmSopsLx54&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQMADlTDP-AYzffFktgpOBkSJSuONARhavRbtFSBIiCCKQ&oe=6AD24FA9",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/830179078_1554648956412171_3790275043386575470_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N8Zc_XwfT_AQ7kNvwENywBX&_nc_oc=AdpX67-f9iA0QsIL6f13TlH7dL4CYD81ev6Dagp_CSvej1r6Eb7oqmT4DsCE2UVqwK4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQPAtRJT7-zFd_V2MK6ClxYa_Gml8xEckWHHHA-mr-hfvg&oe=6AD21974",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/831699454_1630927475275627_4432971750122336299_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fydTrtdoZzAQ7kNvwFR2U_n&_nc_oc=AdpMit2nY3gfrmr-C1jdJSsyfjBBmgkeVSINg6ezOhUxdoh6KZNe03cHqoljdC8Rn8Q&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQNjfGbvt6kkLfLLqreHahM7LMehvK6lVw1lTzGYM0Acuw&oe=6AD222A9",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/828859840_1341445851269777_2093444136442591705_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3UdsVExWynMQ7kNvwF9GcPC&_nc_oc=AdrYNZJKEdMCX2snb_YBLBw3oji9F7_jb31ic7mjQ4cJREVJv8_NksgMvyt2wLJywcs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQP5UgJo3oijrTN2x453KfW4scrrrOtGsdDgEycsIeKdyw&oe=6AD23E0C"
+      ],
+      "landing_url": "https://docs.google.com/forms/d/e/1FAIpQLSfxWXD-KFknDGY7wOA496D3CMc7KJEGdIXdrxk1Q2sMf2182Q/viewform",
+      "permanent_image_url": "https://i.ibb.co/tP1HYSNj/5d2ef769.jpg"
+    },
+    {
+      "index": 9,
+      "collected_at": "2026-10-12T04:26:42.599910",
+      "page_name": "Mbc아카데미컴퓨터교육센터",
+      "ad_text": [
+        "대한민국 대표 게임제작자 양성의 산실,",
+        "MBC아카데미컴퓨터교육센터 수원캠퍼스입니다:)",
+        "\"상상 속의 게임, 이제 직접 만드세요! 기획부터 3D 캐릭터/배경 모델링, C# 코딩, 유니티&언리얼 엔진까지 - 게임 개발의 모든 과정을 마스터할 수 있습니다.\""
+      ],
+      "image_urls": [
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/655506101_1617375189537518_1991192641418862218_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EkIpKej6bxcQ7kNvwH69GrD&_nc_oc=Adoou1BTnAC9GGJCrABUwdcDX52lndt45ylq5RIgQvSKn5kaJmN-3twdYEC4KE5PdQc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQOinIvL-DVTMIFUSSVxZyyTFp3pvJBq-KmJRsGTUoGq_g&oe=6AD220E5",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/653706961_1484285620018188_6332784432432105811_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kuX8FcC6gpsQ7kNvwFy6Ujv&_nc_oc=AdoTXxNFRKzaIB7KlQej6zAbJRFdAxN5Fg4MLGi5xeouJJlrDU_Mp-20sapRSoh7q48&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQNHSZ08CKZ1I1EIytNcIuJ9I8mq57eMrNK8d2HR4Lzylw&oe=6AD23036",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/654434135_930886399491745_7783529847844766043_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cQliCdOk5p0Q7kNvwE7ak7Y&_nc_oc=AdrqsrWzDGHJWEhne8c_hWp4HnuvMc9_7qkBiShOeNmeGy87g0vGdaNf2da_hcOhJTU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQPVTjDQYVwrcmzWdcpFt4oG2XTXwxunt0pXF71EcI8RTg&oe=6AD24EFA"
+      ],
+      "landing_url": "http://fb.me/",
+      "permanent_image_url": "https://i.ibb.co/6VY012b/Mbc-bd4bba3d.jpg"
+    },
+    {
+      "index": 10,
+      "collected_at": "2026-10-12T04:26:42.658921",
+      "page_name": "LG 디스커버리랩",
+      "ad_text": [
+        "아이디어를 직접 발전시키고 AI로 구현하며",
+        "LG AI 청소년 캠프 4기를 모집합니다📢",
+        "서울대 교수진·멘토와 함께하는 AI 팀 프로젝트부터"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/807386801_1707751033631419_7284701245187067905_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sswBPsG8HroQ7kNvwGaZnUb&_nc_oc=Adr3FgzapYpnTnJMIl3iV4ABmUaT5wTgVKPVwq0ykU3Dh7PhjGBST-mREjsOyzeEkT0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQPq4-C-Cob6xGSlk_J_o9lWAmqE8N6aGrhRbcCUFgkgqA&oe=6AD24F16",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/805813323_39699314009667604_976663808723121800_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WRIZDNv3X14Q7kNvwF96JWR&_nc_oc=Ado2XR5qP9vG6tDGCen_55bH34uA1UPldpSLEf6q6aN9MOWZuWhXDXoWhLus3r6Z45M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQP2DZ0KPJQJM9U3GtnP5Ogde5Qh7FCUgKC41lyDZAFikg&oe=6AD21B3F",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/808729950_1414059664196538_4680114733849974382_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tco7vikSKiUQ7kNvwEA0aI5&_nc_oc=AdoGVnBP7ldwMSG84E3gBBiX4fWft9HsNLydJ_1ylzvdg4exb9Dx0K8tNXip_XplvZ4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQOWXAFGY51Z-lgLmNneBYtUeCF0NZT3nJah08m71oPXJg&oe=6AD234FE",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/808803452_1748318506405004_3179333281909572199_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cI2KRGbU8r4Q7kNvwG8yYds&_nc_oc=AdqTEE_a-pFtgCmL3vQGyb2Ok8rJ4CYUWwvlmusQW0kGpfwouIr5pfK9QZUZCh03ot0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQNIaPiqz9ermZggx5v7n4Dws1PwwlasJNmT2Kmo_djLFQ&oe=6AD2262B",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/808299794_28967635149488930_2288009272805996067_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YMfOXRaA19oQ7kNvwHllJWw&_nc_oc=AdqnoutvEjwN6OBlKCWe9-teGAzw2VQf7TUZ8rErarAXcAxLOvs0dDmucWg68oL-nko&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQPHJwSxaP0A4sHvKVz9nUVPScIRzX6NGDEMJq1wWoG0-w&oe=6AD21E99"
+      ],
+      "landing_url": "http://www.lgaiyouthcamp.or.kr/",
+      "permanent_image_url": "https://i.ibb.co/tPJMg7cB/LG-6eb4ee87.jpg"
+    },
+    {
+      "index": 11,
+      "collected_at": "2026-10-12T04:26:42.737499",
+      "page_name": "유아부터 시작하는 코딩",
+      "ad_text": [
+        "별도 교육 / 수행과제 / 1대1 과외",
+        "📍 서울 강남구 논현로164길 11, 3층 코딩펀 코딩학원",
+        "#압구정코딩학원 #어린이코딩 #스크래치 #로봇코딩 #STEM교육 #AI교육 #원데이클래스 #MBLOCK #리틀비츠 #유아코딩 #초등코딩 #코딩교육 #코딩펀 #강남코딩학원 #코딩학원"
+      ],
+      "image_urls": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/585341416_721857893692436_7184966504458199726_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uOKskbOiMQYQ7kNvwHgPniu&_nc_oc=AdqrEGx-DWL7-0cPoz3mcG3U_L-DYRV5Kf7le-OraLftbNG0m8bBnHkfDB-y3MUaJrQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQOweHj3bLOqV5ZAMDxkrl9d0eahNp-GCVyGcQ2yHlthfQ&oe=6AD21A6A",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/585353657_2156403691835749_6605342832907024603_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H2jyPvCMcKAQ7kNvwFpq8Xp&_nc_oc=AdptKcQ5AYI0g22QZa5ymbrRjBr22TmNf8enob6Y9jMeOBa7ETW6y1AgganBfwF9d4I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQPajuBVOQzYHx4WWVD184NBHTnr-QaFzj0WgnGLinf4NQ&oe=6AD248FE",
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/585397039_25847166521552046_290322745428779980_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wVfCHRJuvfsQ7kNvwHUmYjo&_nc_oc=AdpJdUXF2Ix_nTfPGDoRMyI91YLYb92h1qjrB9cjhPeV1f6mBgitDImQ6Kc-WRW76go&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQPvcUwvx1_np_7J5mTYli-5MnJ1IgDI-1eB5KvedlLETw&oe=6AD23EDD",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/585330130_25204296125871534_3686964178714767651_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5xuHG1jc4z4Q7kNvwFypVXw&_nc_oc=Adq7tSZDBRRnAkd4mkYcQBBS8eiIyfYWwOmoQ481zIvlo-9Thx7LO_BFtKqPEOJ_AGU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQMmSIw13jTkWtuidrpV0bgZiTGIKGIC2cvyViyxkLFL9g&oe=6AD22654",
+        "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/585337873_1388262406257994_255240238588848930_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Z6TLpVzkCEEQ7kNvwEulBZ1&_nc_oc=Adp_GcOixiQB0BcHdPCCMAYahWDESjjZo_S_mGrc1NGK5taUwa0f-qJykFanxS98ZUs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SYThBF4AIaEmvSVD0gB2pw&_nc_ss=79289&oh=00_AQMPAOOq9qhJHJ1SeI9pUq0eWbpWwp2oP2qU1JTQF-MJsw&oe=6AD22BF2"
+      ],
+      "landing_url": "http://instagram.com/codingfun__",
+      "permanent_image_url": "https://i.ibb.co/gFRW3BrV/f9dec768.jpg"
+    }
+  ]
+}
